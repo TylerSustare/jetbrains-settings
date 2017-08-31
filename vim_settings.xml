@@ -90,13 +90,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1504192723264">
-        <mark key="'" line="60" column="53" />
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="32" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="46" column="32" />
-      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1504194114960" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1504121224947">
         <mark key="[" line="29" column="99" />
         <mark key="]" line="29" column="99" />
@@ -127,13 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="14" filename="$USER_HOME$/src/services/service-app-gateway/node/test/compatibility_test.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/compatibility_test.js" />
-      <jump line="36" column="15" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="4" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
       <jump line="5" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
       <jump line="6" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
       <jump line="7" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
@@ -227,16 +214,23 @@
       <jump line="266" column="9" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
       <jump line="267" column="9" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
       <jump line="270" column="12" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
+      <jump line="26" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="122" column="42" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="259" column="42" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="316" column="42" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="74" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="125" column="49" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="262" column="49" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>-404</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>-404</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>-40</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZxc0VuZHBvaW50ID0gYCR7dnFzRW5kcG9pbnR9YXJjaGl2ZSx0b3RhbF9zZWNvbmRzLHZlbmRvcnMsdmVuZG9yRXhwZXJ0aXNlcyxwYXRocyxwYXRoRXhwZXJ0aXNlcyxjb3Vyc2VfaW1hZ2UsY291cnNlX3BuZyxgOwo=</text>
@@ -273,17 +267,14 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search>-40</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>-40</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
-        <entry>s\ %</entry>
-        <entry>s '</entry>
         <entry>util</entry>
         <entry>util\.format</entry>
         <entry>util\.</entry>
@@ -301,6 +292,9 @@
         <entry>access_token</entry>
         <entry>mobile=true</entry>
         <entry>tag</entry>
+        <entry>-500</entry>
+        <entry>1001</entry>
+        <entry>-40</entry>
       </history-search>
       <history-cmd>
         <entry>149</entry>
