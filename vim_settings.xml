@@ -53,8 +53,12 @@
         <mark key="^" line="19" column="44" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" timestamp="1504195149290">
-        <mark key="^" line="208" column="14" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" timestamp="1504199260788">
+        <mark key="'" line="37" column="16" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="29" column="48" />
+        <mark key="." line="31" column="29" />
       </file>
       <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/routes/admin.js" timestamp="1503847222900">
         <mark key="'" line="17" column="0" />
@@ -85,13 +89,19 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" timestamp="1504194858947" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" timestamp="1504196337486" />
       <file name="$USER_HOME$/src/workers/worker-www-group-membership-router/node/config/router/development.js" timestamp="1503599767517">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1504194114960" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1504199215072">
+        <mark key="'" line="376" column="17" />
+        <mark key="[" line="255" column="12" />
+        <mark key="]" line="255" column="32" />
+        <mark key="^" line="255" column="32" />
+        <mark key="." line="255" column="32" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1504121224947">
         <mark key="[" line="29" column="99" />
         <mark key="]" line="29" column="99" />
@@ -122,12 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="6" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="7" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="9" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
-      <jump line="11" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
       <jump line="10" column="16" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
       <jump line="12" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
       <jump line="14" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/app.js" />
@@ -169,7 +173,6 @@
       <jump line="161" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="166" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="201" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="118" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="385" column="5" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="391" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="386" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
@@ -185,7 +188,6 @@
       <jump line="248" column="56" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="305" column="56" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="362" column="56" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
-      <jump line="312" column="39" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="266" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="302" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="306" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
@@ -193,7 +195,6 @@
       <jump line="314" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="323" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="359" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
-      <jump line="255" column="13" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="50" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="129" column="53" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="135" column="51" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
@@ -222,67 +223,69 @@
       <jump line="74" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="125" column="49" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="262" column="49" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="375" column="17" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="258" column="12" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="312" column="18" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="255" column="22" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="374" column="27" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="118" column="12" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="366" column="10" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="376" column="17" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="37" column="16" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-404</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>-404</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>-40</text>
+        <text>testServers\.playlist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZxc0VuZHBvaW50ID0gYCR7dnFzRW5kcG9pbnR9YXJjaGl2ZSx0b3RhbF9zZWNvbmRzLHZlbmRvcnMsdmVuZG9yRXhwZXJ0aXNlcyxwYXRocyxwYXRoRXhwZXJ0aXNlcyxjb3Vyc2VfaW1hZ2UsY291cnNlX3BuZyxgOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNyZWF0ZVZxc1RhZ3NTZXJ2aWNl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3RTZXJ2ZXJzLnBsYXlsaXN0ID0gcGxheWxpc3RTZXJ2ZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRWcXNWaWRlb3NTZXJ2aWNlLAogICAgICAgIGdldFZxc0RpZmZpY3VsdHlUYWdzCiAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vyc2VfcG5nLGNvdXJzZV9zdmcsZGlmZmljdWx0eSZmaWx0ZXJzPXVwZGF0ZWRfYXQ6Z3RlOiR7dXBkYXRlZH0mYWNjZXNzX3Rva2VuPSR7YWNjZXNzVG9rZW59Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLWxpbmUgY29uY2F0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb3Vyc2VfcG5nLGNvdXJzZV9zdmcsZGlmZmljdWx0eSZmaWx0ZXJzPXVwZGF0ZWRfYXQ6Z3RlOiR7dXBkYXRlZH0mYWNjZXNzX3Rva2VuPSR7YWNjZXNzVG9rZW59Owo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLWxpbmUgY29uY2F0Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
-      <last-search>-40</last-search>
+      <last-search>testServers\.playlist</last-search>
       <last-offset />
-      <last-pattern>-40</last-pattern>
+      <last-pattern>testServers\.playlist</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>util</entry>
-        <entry>util\.format</entry>
-        <entry>util\.</entry>
-        <entry>Mongo</entry>
-        <entry>logger\.</entry>
-        <entry>var</entry>
-        <entry>302</entry>
         <entry>332</entry>
         <entry>filters=</entry>
         <entry>200</entry>
@@ -296,6 +299,13 @@
         <entry>-500</entry>
         <entry>1001</entry>
         <entry>-40</entry>
+        <entry>Colle</entry>
+        <entry>get</entry>
+        <entry>getV</entry>
+        <entry>getD</entry>
+        <entry>CollectionS</entry>
+        <entry>Tag</entry>
+        <entry>testServers\.playlist</entry>
       </history-search>
       <history-cmd>
         <entry>149</entry>
@@ -304,12 +314,13 @@
         <entry>W</entry>
         <entry>Wa</entry>
         <entry>wa</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
         <entry>q!</entry>
         <entry>wl:w</entry>
         <entry>q</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
