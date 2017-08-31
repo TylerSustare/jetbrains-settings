@@ -54,12 +54,12 @@
         <mark key="^" line="19" column="44" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" timestamp="1504202960107">
-        <mark key="'" line="47" column="6" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" timestamp="1504208128253">
+        <mark key="'" line="134" column="11" />
+        <mark key="[" line="134" column="10" />
+        <mark key="]" line="134" column="10" />
         <mark key="^" line="36" column="30" />
-        <mark key="." line="37" column="0" />
+        <mark key="." line="134" column="10" />
       </file>
       <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/routes/admin.js" timestamp="1503847222900">
         <mark key="'" line="17" column="0" />
@@ -147,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="359" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="50" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="129" column="53" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
@@ -247,13 +246,14 @@
       <jump line="298" column="30" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="47" column="6" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="243" column="52" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="134" column="11" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      <register name="&quot;" type="4">
+        <text>.only</text>
       </register>
       <register name="-" type="4">
-        <text>playlist</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
         <text>only</text>
