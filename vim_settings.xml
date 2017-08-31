@@ -9,7 +9,6 @@
         <mark key="." line="44" column="101" />
         <mark key="^" line="44" column="101" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" timestamp="1504204898841" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1504203039582">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -87,8 +86,7 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/compatibility.js" timestamp="1504203051507" />
-      <file name="/Dummy.txt" timestamp="1504204390072">
+      <file name="/Dummy.txt" timestamp="1504209685266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/bin/www" timestamp="1503844785426">
@@ -97,18 +95,17 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" timestamp="1504196337486" />
       <file name="$USER_HOME$/src/workers/worker-www-group-membership-router/node/config/router/development.js" timestamp="1503599767517">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1504205102315">
-        <mark key="'" line="243" column="52" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="246" column="31" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1504209796584">
+        <mark key="'" line="1468" column="0" />
+        <mark key="[" line="1356" column="28" />
+        <mark key="]" line="1356" column="31" />
+        <mark key="^" line="1356" column="31" />
+        <mark key="." line="1356" column="31" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/config/qa.js" timestamp="1504202457378">
         <mark key="[" line="13" column="66" />
@@ -141,23 +138,11 @@
         <mark key="^" line="33" column="44" />
         <mark key="." line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/default.js" timestamp="1504204727559" />
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-logger-nodejs/lib/node_logger.js" timestamp="1503509578451">
         <mark key="'" line="30" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="129" column="53" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="135" column="51" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="210" column="31" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
-      <jump line="60" column="53" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="131" column="12" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="134" column="24" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
-      <jump line="225" column="41" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
       <jump line="288" column="41" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
       <jump line="386" column="36" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
       <jump line="379" column="0" filename="$USER_HOME$/src/services/service-app-gateway/README.md" />
@@ -173,7 +158,6 @@
       <jump line="259" column="42" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="316" column="42" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="74" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
-      <jump line="125" column="49" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="262" column="49" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="375" column="17" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="258" column="12" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
@@ -247,13 +231,25 @@
       <jump line="47" column="6" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="243" column="52" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
       <jump line="134" column="11" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
+      <jump line="125" column="53" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1355" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1358" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1367" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1403" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1414" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1450" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1453" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1455" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1460" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
+      <jump line="1468" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.only</text>
+        <text>send</text>
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>send</text>
       </register>
       <register name="/" type="4">
         <text>only</text>
