@@ -9,11 +9,20 @@
         <mark key="." line="44" column="101" />
         <mark key="^" line="44" column="101" />
       </file>
+      <file name="/Dummy.txt" timestamp="1504110674795">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/bin/www" timestamp="1503844785426">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="5" />
+        <mark key="." line="35" column="5" />
+        <mark key="^" line="36" column="3" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1504115172990">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="38" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1503507945226">
         <mark key="[" line="0" column="0" />
@@ -53,11 +62,13 @@
         <mark key="^" line="19" column="44" />
         <mark key="." line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/src/workers/worker-www-group-membership-router/node/config/router/development.js" timestamp="1503599767517">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" timestamp="1504155060275">
-        <mark key="[" line="48" column="10" />
-        <mark key="]" line="48" column="10" />
-        <mark key="." line="48" column="10" />
-        <mark key="^" line="129" column="14" />
+        <mark key="^" line="208" column="14" />
       </file>
       <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/routes/admin.js" timestamp="1503847222900">
         <mark key="'" line="17" column="0" />
@@ -66,39 +77,17 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1503494480878">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1504129790205">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/app.js" timestamp="1503943061104">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504110674795">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/bin/www" timestamp="1503844785426">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="5" />
-        <mark key="." line="35" column="5" />
-        <mark key="^" line="36" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/workers/worker-www-group-membership-router/node/config/router/development.js" timestamp="1503599767517">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1504050901129">
         <mark key="'" line="60" column="53" />
         <mark key="[" line="46" column="32" />
         <mark key="]" line="46" column="32" />
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1503494480878">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1504121224947">
         <mark key="[" line="29" column="99" />
@@ -116,6 +105,9 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1504158072065">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-logger-nodejs/lib/transports/logstash.js" timestamp="1503520377779">
         <mark key="'" line="78" column="0" />
       </file>
@@ -124,6 +116,11 @@
         <mark key="]" line="33" column="44" />
         <mark key="^" line="33" column="44" />
         <mark key="." line="33" column="44" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/app.js" timestamp="1504158066190">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-logger-nodejs/lib/node_logger.js" timestamp="1503509578451">
         <mark key="'" line="30" column="12" />
