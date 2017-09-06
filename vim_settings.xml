@@ -75,11 +75,11 @@
       <file name="/JavaScript Console" timestamp="1504158177951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/app.js" timestamp="1504716499907">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/app.js" timestamp="1504716935489">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="14" column="35" />
         <mark key="^" line="14" column="35" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1504712552925">
         <mark key="'" line="17" column="4" />
@@ -250,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8udGhlbigoYXBwKSA9PiBhcHAuc3RhcnRTZXJ2ZXIoKSkK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>require('./lib/validat')</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>construct</text>
@@ -262,33 +262,33 @@
         <text encoding="base64">CmNvbmZpZy5wbGF5bGlzdCA9IHsKICAgIGFwaTogJ2h0dHA6Ly8xLnBsYXlsaXN0LnNlcnZpY2UucWEudXMtZWFzdC0xLm51Z2dldHMubG9jYWwvcGxheWxpc3QvdjEnCn07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8udGhlbigoYXBwKSA9PiBhcHAuc3RhcnRTZXJ2ZXIoKSkK</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByZVJvdXRlU2V0dXBIb29rOiByZXF1aXJlKCcuL2xpYi92YWxpZGF0JykK</text>
+        <text encoding="base64">Ly8udGhlbigoYXBwKSA9PiBhcHAuc3RhcnRTZXJ2ZXIoKSkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByZVJvdXRlU2V0dXBIb29rOiByZXF1aXJlKCcuL2xpYi92YWxpZGF0JykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Y29uc3QgUmVxdWVzdEVycm9yID0gcmVxdXJlKCcuL2xpYicpCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>testServers
 testServers
 testServers</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCcpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVWcXNDb2xsZWN0aW9uc1NlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJzAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
