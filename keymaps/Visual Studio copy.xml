@@ -21,6 +21,9 @@
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="meta a" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />

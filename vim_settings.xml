@@ -10,11 +10,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/test.json" timestamp="1504828194164">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="65" />
-        <mark key="." line="8" column="25" />
-      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/test.json" timestamp="1504828278781" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/package.json" timestamp="1504827904634" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/config/test.js" timestamp="1504828192388">
         <mark key="[" line="10" column="19" />
@@ -126,13 +122,13 @@
 }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>abcde12345abcde12345abcde12345abcde12345</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>abcde12345abcde12345abcde12345abcde12345</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
@@ -155,6 +151,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
