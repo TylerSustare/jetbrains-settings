@@ -10,125 +10,74 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/test.json" timestamp="1504828278781" />
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/package.json" timestamp="1504827904634" />
+      <file name="/JavaScript Console" timestamp="1504994571390">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/config/test.js" timestamp="1504828192388">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="19" />
         <mark key="^" line="9" column="14" />
       </file>
+      <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/app.js" timestamp="1504993846153">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/routes/bill-of-sale.js" timestamp="1504994242229">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/config/test.json" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/.projects/api-pureowned-express/node/app.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/.projects/api-pureowned-express/node/routes/bill-of-sale.js" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>{
-    &quot;aws&quot;: {
-        &quot;access_key_id&quot;: &quot;$keys.AWS.qa.AccessKeyId&quot;,
-        &quot;secret_access_key&quot;: &quot;$keys.AWS.qa.SecretAccessKey&quot;
-    },
-	&quot;cbtnAuth&quot;: {
-		&quot;host&quot;: &quot;https://qa-accounts.cbtnuggets.com&quot;,
-		&quot;clientId&quot;: &quot;$keys.service.qa.client_id&quot;,
-		&quot;clientSecret&quot;: &quot;$keys.service.qa.client_secret&quot;
-	},
-	&quot;mongodb&quot;: {
-		&quot;host&quot;: &quot;mongo.database.qa.us-east-1.nuggets.local&quot;,
-		&quot;replicaSet&quot;: &quot;qa-mongocluster1&quot;
-	},
-    &quot;pps&quot;: {
-        &quot;api&quot;: &quot;http://1.payment-provider.service.qa.us-east-1.nuggets.local&quot;
-    },
-    &quot;playlist&quot;: {
-        &quot;api&quot;: &quot;http://1.playlist.service.qa.us-east-1.nuggets.local/playlist/v1&quot;
-    },
-    &quot;vqs&quot;: {
-        &quot;api&quot;: &quot;http: //1.video-query.service.qa.us-east-1.nuggets.local/video-query/v1&quot;
-    },
-    &quot;rateLimiter&quot;: {
-        &quot;redis&quot;: {
-            &quot;host&quot;: &quot;auth-qa.z10tjz.0001.use1.cache.amazonaws.com&quot;,
-            &quot;port&quot;: 6379,
-            &quot;connectTimeout&quot;: 1000,
-            &quot;connectMaxAttempts&quot;: 3,
-            &quot;db&quot;: 2
-        }
-    }
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-    &quot;aws&quot;: {
-        &quot;region&quot;: &quot;us-east-1&quot;
-    },
-    &quot;statsd&quot;: {
-        &quot;port&quot;: 8125,
-        &quot;host&quot;: &quot;localhost&quot;
-    },
-    &quot;logging&quot;: {
-        &quot;logstash&quot;: {
-            &quot;host&quot;: &quot;logger.aws.cbtnuggets.com&quot;,
-            &quot;port&quot;: 12201
-        }
-    },
-    &quot;api&quot;: {
-        &quot;http&quot;: {
-            &quot;host&quot;: &quot;localhost&quot;,
-            &quot;port&quot;: 3000
-        },
-        &quot;version&quot;: &quot;v1&quot;,
-        &quot;prefix&quot;: &quot;app-gateway&quot;
-    },
-    &quot;pps&quot;: {
-        &quot;api&quot;: &quot;1.payment-provider.service.qa.us-east-1.nuggets.local&quot;
-    },
-    &quot;vqs&quot;: {
-        &quot;api&quot;: &quot;http: //1.video-query.service.qa.us-east-1.nuggets.local/video-query/v1&quot;
-    },
-    &quot;playlist&quot;: {
-        &quot;api&quot;: &quot;http: //1.playlist.service.qa.us-east-1.nuggets.local/playlist/v1&quot;
-    },
-    &quot;cbtnAuth&quot;: {
-        &quot;host&quot;: &quot;https://qa-accounts.cbtnuggets.com&quot;,
-        &quot;clientId&quot;: &quot;$keys.service.qa.client_id&quot;,
-        &quot;clientSecret&quot;: &quot;$keys.service.qa.client_secret&quot;
-    },
-    &quot;cbtn_oauth&quot;: {
-        &quot;host&quot;: &quot;https://qa-accounts.cbtnuggets.com&quot;,
-        &quot;tokenStore&quot;: {
-            &quot;port&quot;: 6379,
-            &quot;host&quot;: &quot;auth-qa.z10tjz.0001.use1.cache.amazonaws.com&quot;
-        }
-    },
-    &quot;rateLimiter&quot;: {
-        &quot;namespace&quot;: &quot;app-gateway&quot;,
-        &quot;interval&quot;: 1000,
-        &quot;maxInInterval&quot;: 2,
-        &quot;redis&quot;: {
-            &quot;host&quot;: &quot;localhost&quot;,
-            &quot;port&quot;: 6379,
-            &quot;connectTimeout&quot;: 1000,
-            &quot;connectMaxAttempts&quot;: 3
-        }
-    },
-    &quot;mongodb&quot;: {
-        &quot;connectionType&quot;: &quot;dnsResolve&quot;,
-        &quot;dbname&quot;: &quot;member&quot;,
-        &quot;port&quot;: 27017,
-        &quot;replicaSet&quot;: &quot;&quot;
-    }
-}</text>
+      <register name="-" type="4">
+        <text>GET bill-of-sale</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gVE9ETzogdW5jb21tZW50IGFmdGVyIHBsYWNpbmcgeW91ciBmYXZpY29uIGluIC9wdWJsaWMK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJvdXRlci5wb3N0KCcvJywgKHJlcSwgcmVzKSA9PiB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJvdXRlci5wb3N0KCcvJywgKHJlcSwgcmVzKSA9PiB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogb2xkCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bG9nZ2VyLmxvZyhlbnYpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>&quot;</text>
       </register>
     </registers>
     <search>
@@ -140,6 +89,7 @@
       <history-cmd>
         <entry>vsp</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
