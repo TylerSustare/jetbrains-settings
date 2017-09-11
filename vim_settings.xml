@@ -10,9 +10,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/bin/www" timestamp="1505109972040" />
       <file name="/JavaScript Console" timestamp="1504994571390">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" timestamp="1505148475838">
+        <mark key="[" line="80" column="115" />
+        <mark key="]" line="80" column="123" />
+        <mark key="^" line="80" column="123" />
+        <mark key="." line="80" column="123" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/config/test.js" timestamp="1504828192388">
         <mark key="[" line="10" column="19" />
@@ -41,11 +46,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/src/.projects/api-pureowned-express/node/routes/bill-of-sale.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cisco</text>
       </register>
       <register name="-" type="4">
-        <text>GET bill-of-sale</text>
+        <text>cisco</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gVE9ETzogdW5jb21tZW50IGFmdGVyIHBsYWNpbmcgeW91ciBmYXZpY29uIGluIC9wdWJsaWMK</text>
@@ -78,7 +83,7 @@
         <text encoding="base64">bG9nZ2VyLmxvZyhlbnYpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -88,10 +93,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>vsp</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
