@@ -3,35 +3,116 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1504827890681">
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/kinesis_error.js" timestamp="1505254702976">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/qa.json" timestamp="1504828010263">
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" timestamp="1505254741048">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1505254729762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/validators.js" timestamp="1505254689943">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/compatibility_test.js" timestamp="1505254769915">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/utils/currentState.js" timestamp="1505254782541">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/auth.js" timestamp="1505254676012">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_trainer.js" timestamp="1505254751345">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/index.js" timestamp="1505254662249">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" timestamp="1505254925848">
+        <mark key="'" line="2" column="39" />
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/response.js" timestamp="1505254685428">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1504994571390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/test.js" timestamp="1504828192388">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="9" column="14" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/compatibility.js" timestamp="1505255067009">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="78" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/app.js" timestamp="1504993846153">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="16" />
+      <file name="/Dummy.txt" timestamp="1505254797196">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/.projects/api-pureowned-express/node/routes/bill-of-sale.js" timestamp="1504994242229">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-        <mark key="^" line="3" column="37" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1505254735743">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" timestamp="1505254667075">
+        <mark key="'" line="34" column="40" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/request_error.js" timestamp="1505254707992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/schema.json" timestamp="1505254560162">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/index.js" timestamp="1505254697663">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/middleware.js" timestamp="1505254680610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1505254745392">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api.js" timestamp="1505254726238">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -72,55 +153,63 @@
       <jump line="221" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="233" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="275" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
+      <jump line="13" column="5" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
+      <jump line="6" column="47" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
+      <jump line="7" column="38" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/config/schema.json" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/config/index.js" />
+      <jump line="36" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" />
+      <jump line="3" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
+      <jump line="2" column="39" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsK</text>
+        <text encoding="base64">Y29uc3QgRXhwcmVzc0FwcENvcmUgPSByZXF1aXJlKCdsaWItZXhwcmVzcy1hcHAtY29yZS1ub2RlanMnKTsKY29uc3QgeyBhcHAsIGxvZ2dlciwgcm91dGVzLCByYXRlTGltaXRlciB9ID0gRXhwcmVzc0FwcENvcmUuZ2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>cisco</text>
+        <text>qa</text>
       </register>
       <register name="/" type="4">
-        <text>routes</text>
+        <text>compa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdChhcHApCg==</text>
+        <text encoding="base64">Y29uc3QgRXhwcmVzc0FwcENvcmUgPSByZXF1aXJlKCdsaWItZXhwcmVzcy1hcHAtY29yZS1ub2RlanMnKTsKY29uc3QgeyBhcHAsIGxvZ2dlciwgcm91dGVzLCByYXRlTGltaXRlciB9ID0gRXhwcmVzc0FwcENvcmUuZ2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgRXhwcmVzc0FwcENvcmUgPSByZXF1aXJlKCdsaWItZXhwcmVzcy1hcHAtY29yZS1ub2RlanMnKTsKY29uc3QgeyBhcHAsIGxvZ2dlciwgcm91dGVzLCByYXRlTGltaXRlciB9ID0gRXhwcmVzc0FwcENvcmUuZ2V0SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgcmF0ZUxpbWl0ZXIgPSByZXF1aXJlKCdsaWItcmF0ZS1saW1pdGVyLW5vZGVqcycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5wb3N0KCcvJywgKHJlcSwgcmVzKSA9PiB7Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvdXRlci5wb3N0KCcvJywgKHJlcSwgcmVzKSA9PiB7Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>routes</last-search>
+      <last-search>compa</last-search>
       <last-offset />
-      <last-pattern>routes</last-pattern>
+      <last-pattern>compa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -131,6 +220,11 @@
         <entry>app</entry>
         <entry>(app</entry>
         <entry>routes</entry>
+        <entry>image</entry>
+        <entry>mong</entry>
+        <entry>mongo</entry>
+        <entry>qa</entry>
+        <entry>compa</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
