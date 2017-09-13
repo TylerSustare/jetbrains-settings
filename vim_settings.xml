@@ -66,6 +66,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/test/api/api_test.js" timestamp="1505342074699" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/middleware.js" timestamp="1505254680610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -106,7 +107,7 @@
         <mark key="." line="4" column="70" />
         <mark key="^" line="4" column="70" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz-report/node/package.json" timestamp="1505340291226">
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/package.json" timestamp="1505342522907">
         <mark key="'" line="41" column="33" />
         <mark key="[" line="60" column="16" />
         <mark key="]" line="60" column="25" />
@@ -255,6 +256,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
