@@ -8,12 +8,30 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/compatibility.js" timestamp="1505255067009">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="78" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" timestamp="1505254741048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1505254797196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1505254735743">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1505254729762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/request_error.js" timestamp="1505254707992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -43,8 +61,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/index.js" timestamp="1505254662249">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/index.js" timestamp="1505254697663">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/middleware.js" timestamp="1505254680610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1505254745392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -63,51 +90,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1504994571390">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/compatibility.js" timestamp="1505255067009">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="78" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505254797196">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1505254735743">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" timestamp="1505254667075">
-        <mark key="'" line="34" column="40" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/request_error.js" timestamp="1505254707992">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/schema.json" timestamp="1505254560162">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/index.js" timestamp="1505254697663">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/middleware.js" timestamp="1505254680610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1505254745392">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api.js" timestamp="1505254726238">
         <mark key="[" line="0" column="0" />
