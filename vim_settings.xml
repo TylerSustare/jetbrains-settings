@@ -8,30 +8,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/compatibility.js" timestamp="1505255067009">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="78" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" timestamp="1505254741048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505254797196">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1505254735743">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1505254729762">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/request_error.js" timestamp="1505254707992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -61,20 +43,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/index.js" timestamp="1505254697663">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/middleware.js" timestamp="1505254680610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1505254745392">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1505328378293">
+        <mark key="'" line="1141" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" timestamp="1505254925848">
         <mark key="'" line="2" column="39" />
@@ -90,6 +60,39 @@
       </file>
       <file name="/JavaScript Console" timestamp="1504994571390">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/compatibility.js" timestamp="1505255067009">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="78" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505254797196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1505254735743">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/request_error.js" timestamp="1505254707992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/index.js" timestamp="1505254697663">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/middleware.js" timestamp="1505254680610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1505254745392">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api.js" timestamp="1505254726238">
         <mark key="[" line="0" column="0" />
@@ -143,6 +146,8 @@
       <jump line="36" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" />
       <jump line="3" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
       <jump line="2" column="39" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
+      <jump line="1087" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="1141" column="14" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -152,7 +157,7 @@
         <text>qa</text>
       </register>
       <register name="/" type="4">
-        <text>compa</text>
+        <text>logAuthRequestToFirehose</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsK</text>
@@ -185,13 +190,13 @@
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1259</text>
       </register>
     </registers>
     <search>
-      <last-search>compa</last-search>
+      <last-search>logAuthRequestToFirehose</last-search>
       <last-offset />
-      <last-pattern>compa</last-pattern>
+      <last-pattern>logAuthRequestToFirehose</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -207,12 +212,15 @@
         <entry>mongo</entry>
         <entry>qa</entry>
         <entry>compa</entry>
+        <entry>logAuthRequestToFirehost</entry>
+        <entry>logAuthRequestToFirehose</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>1259</entry>
       </history-cmd>
       <history-expr />
       <history-input />
