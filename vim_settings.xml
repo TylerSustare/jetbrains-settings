@@ -3,57 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/kinesis_error.js" timestamp="1505254702976">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" timestamp="1505254741048">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1505254729762">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/validators.js" timestamp="1505254689943">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/compatibility_test.js" timestamp="1505254769915">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/utils/currentState.js" timestamp="1505254782541">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/auth.js" timestamp="1505254676012">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_trainer.js" timestamp="1505254751345">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification/node/routes/api.js" timestamp="1505407115615" />
-      <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412621137" />
-      <file name="$USER_HOME$/src/services/service-quiz-report/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1505410613567" />
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1505328378293">
-        <mark key="'" line="1141" column="14" />
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412911956">
+        <mark key="[" line="48" column="47" />
+        <mark key="]" line="48" column="47" />
+        <mark key="^" line="48" column="47" />
+        <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/schema.json" timestamp="1505373696141">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1505410613567" />
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/schema.json" timestamp="1505415650600">
+        <mark key="'" line="242" column="25" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -69,11 +32,6 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/response.js" timestamp="1505254685428">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1505407880503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,21 +41,21 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" timestamp="1505412434902">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="4" />
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" timestamp="1505415643545">
+        <mark key="'" line="47" column="21" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/qa.js" timestamp="1505412557028">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/qa.js" timestamp="1505415200437">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/compatibility.js" timestamp="1505255067009">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="78" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/default.js" timestamp="1505415451626">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="33" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/app.js" timestamp="1505411576428">
         <mark key="'" line="199" column="0" />
@@ -106,18 +64,8 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505412596327">
+      <file name="/Dummy.txt" timestamp="1505415030041">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1505254735743">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/request_error.js" timestamp="1505254707992">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" timestamp="1505409886954">
         <mark key="'" line="5" column="0" />
@@ -126,21 +74,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="o" line="0" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/errors/index.js" timestamp="1505254697663">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/lib/middleware.js" timestamp="1505254680610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1505254745392">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/node_modules/lib-express-app-core-nodejs/lib/core.js" timestamp="1505410597953" />
       <file name="$USER_HOME$/src/services/service-quiz-report/node/routes/api.js" timestamp="1505406933870" />
@@ -152,16 +85,13 @@
         <mark key="^" line="62" column="25" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/node_modules/lib-app-core-nodejs/lib/core.js" timestamp="1505410101809" />
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api.js" timestamp="1505254726238">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/qa.json" timestamp="1505415636000">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/qa.json" timestamp="1505412235050">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
+      <file name="$USER_HOME$/src/services/service-quiz-report/node/config/keys.json" timestamp="1505415238778" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/config/test.json" />
@@ -222,59 +152,58 @@
       <jump line="199" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
       <jump line="4" column="24" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" />
       <jump line="5" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" />
+      <jump line="43" column="45" filename="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" />
+      <jump line="44" column="21" filename="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" />
+      <jump line="241" column="25" filename="$USER_HOME$/src/services/service-quiz-report/node/config/schema.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQHRvZG8gCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>notification</text>
-      </register>
-      <register name="/" type="4">
-        <text>mongoose</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gQHRvZG8gCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">QHRvZG8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAic2VydmljZS12aWRlby1oaXN0b3JpY2FsIjogIjU2ZGQwNWFlZjJkMTY4MjI3ZWJjZTkxYWI2MTZkNWMxNmEzMjk1YzIiLAogICAgICAgICJzZXJ2aWNlLXN5bmMiOiAiMjRmNmQxNDhlODU0ZTllMjc4ZjNjODQwNDdjNmViODQ2ZjY3ZTc1NSIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAic2VydmljZS1zdHVkaW8iOiAiZWJhZmM4ZTg3OTE2MzhlYTU3MDBmYjljMzdmMWU1NDM1MTM3YjQ1OSIsCiAgICAgICAgInNlcnZpY2UtcXVpei1yZXBvcnQiOiAiNmJiZDgwZDgzNGNkMDBjMTZhZDc1MjJmNGQzMDFlNjlhZmQzMWJkMCIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="-" type="4">
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>'use strict';
-
-var Q = require('q');
-var redis = require('redis');
-var m</text>
+      <register name="/" type="4">
+        <text>'</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICJtb25nb2RiIjogewogICAgICAgICJob3N0IjogIjEucXVpei1yZXBvcnQubW9uZ28ucWEudXMtZWFzdC0xLm51Z2dldHMubG9jYWwiLAogICAgICAgICJyZXBsaWNhU2V0IjogInFhLXF1aXotcmVwb3J0IiwKICAgICAgICAidGltZW91dEluTVMiOiAzMDAwMCwKICAgICAgICAicG9ydCI6IDI3MDE3LAogICAgICAgICJkYm5hbWUiOiJxdWl6LXJlcG9ydCIsCiAgICAgICAgInVzZXJuYW1lIjogIiRrZXlzLm1vbmdvLnFhLnVzZXJuYW1lIiwKICAgICAgICAicGFzc3dvcmQiOiAiJGtleXMubW9uZ28ucWEudXNlcm5hbWUiCiAgICB9LA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAicmVwbGljYVNldCI6ICJxYS1xdWl6LXJlcG9ydCIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAicG9ydCI6IDI3MDE3LAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiZGJuYW1lIjogInF1aXotcmVwb3J0IiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiY29ubmVjdGlvblR5cGUiOiAiZG5zUmVzb2x2ZSIsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJtb25nb2RiIjogewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAiY2xpZW50SWQiOiAiJGtleXMuc2VydmljZS5xYS5jbGllbnRfaWQiLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXBsaWNhU2V0OiAnJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICAicmVwbGljYVNldCI6ICJxYS1tb25nb2NsdXN0ZXIxIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mongoose</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>mongoose</last-pattern>
+      <last-pattern>'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -294,6 +223,7 @@ var m</text>
         <entry>logAuthRequestToFirehose</entry>
         <entry>eslint</entry>
         <entry>mongoose</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
