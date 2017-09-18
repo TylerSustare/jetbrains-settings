@@ -17,6 +17,9 @@
   </action>
   <action id="AddToFavoritesPopup" />
   <action id="CloseActiveTab" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="meta w" />
