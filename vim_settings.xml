@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1505768526222">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" timestamp="1506378380049">
+        <mark key="[" line="825" column="34" />
+        <mark key="]" line="825" column="34" />
+        <mark key="^" line="825" column="34" />
+        <mark key="." line="825" column="34" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" timestamp="1505409886954">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -14,6 +20,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="o" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/validators.js" timestamp="1506377721226" />
       <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412911956">
         <mark key="[" line="48" column="47" />
         <mark key="]" line="48" column="47" />
@@ -192,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>ideo</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ideo</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -266,8 +273,8 @@
         <entry>1259</entry>
         <entry>wq</entry>
         <entry>s</entry>
-        <entry>vsp</entry>
         <entry>q</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
