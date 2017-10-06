@@ -6,7 +6,12 @@
       <file name="/Dummy.txt" timestamp="1505768526222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507315641339" />
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="50" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" timestamp="1505409886954">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -41,6 +46,7 @@
         <mark key="^" line="116" column="3" />
         <mark key="." line="116" column="3" />
       </file>
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/routes/leaderboard.js" timestamp="1507320144277" />
       <file name="$USER_HOME$/src/services/service-quiz/node/config/default.json" timestamp="1505426928873">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="39" />
@@ -59,7 +65,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="22" column="78" />
       </file>
-      <file name="/JavaScript Console" timestamp="1505768972100">
+      <file name="/JavaScript Console" timestamp="1507320560854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
@@ -80,6 +86,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320548610">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
@@ -190,55 +202,58 @@
       <jump line="98" column="16" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
       <jump line="97" column="20" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
       <jump line="116" column="3" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
+      <jump line="62" column="20" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="66" column="16" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="61" column="44" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ideo</text>
+        <text>scoreRecords</text>
       </register>
       <register name="-" type="4">
-        <text>ideo</text>
+        <text>scoreRecords</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>filter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEV4cHJlc3NBcHBDb3JlID0gcmVxdWlyZSgnbGliLWV4cHJlc3MtYXBwLWNvcmUtbm9kZWpzJyk7CiAgICBjb25zdCB7IGNvbmZpZyB9ID0gRXhwcmVzc0FwcENvcmUuZ2V0SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHNjb3JlUmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsKdmFyIFEgPSByZXF1aXJlKCdxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coUS5uaW52b2tlKHRoaXMsICdmaW5kJywgZmlsdGVyKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGxvZ2dlciA9IHJlcXVpcmUoJ2xpYi1sb2dnZXItbm9kZWpzJyk7CnZhciBtZW1iZXJDbGllbnRMaWIgPSByZXF1aXJlKCdsaWItbWVtYmVyLXNlcnZpY2UtY2xpZW50LW5vZGVqcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFEubmludm9rZSh0aGlzLCAnZmluZCcsIGZpbHRlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29uZmlndXJlIFNlcnZpY2UgQ2xpZW50Cg==</text>
+        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsKdmFyIFEgPSByZXF1aXJlKCdxJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuQVBJOwo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuZG9uZSgpCg==</text>
+        <text encoding="base64">dmFyIGxvZ2dlciA9IHJlcXVpcmUoJ2xpYi1sb2dnZXItbm9kZWpzJyk7CnZhciBtZW1iZXJDbGllbnRMaWIgPSByZXF1aXJlKCdsaWItbWVtYmVyLXNlcnZpY2UtY2xpZW50LW5vZGVqcycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0UmVxdWVzdFRpbWVvdXQoY29uZmlnLmludGVybmFsU2VydmljZVJlcXVlc3RUaW1lb3V0KQo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0QXV0aENyZWRlbnRpYWxzKGNvbmZpZy5jYnRuQXV0aC5jbGllbnRJZCwgY29uZmlnLmNidG5BdXRoLmNsaWVudFNlY3JldCkKICAgICAgICAuc2V0SG9zdChjb25maWcuZW52aXJvbm1lbnQgPT09ICd0ZXN0JyA/IGNvbmZpZy5zZXJ2aWNlcy5tZW1iZXJTZXJ2aWNlLmhvc3QgOiBudWxsKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ29uZmlndXJlIFNlcnZpY2UgQ2xpZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -262,6 +277,7 @@
         <entry>config</entry>
         <entry>memberC</entry>
         <entry>var</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
