@@ -46,7 +46,7 @@
         <mark key="^" line="116" column="3" />
         <mark key="." line="116" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-leaderboard/node/routes/leaderboard.js" timestamp="1507320144277" />
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/routes/leaderboard.js" timestamp="1507320594883" />
       <file name="$USER_HOME$/src/services/service-quiz/node/config/default.json" timestamp="1505426928873">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="39" />
@@ -87,11 +87,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320548610">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
@@ -208,16 +208,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scoreRecords</text>
+        <text>memberId</text>
       </register>
       <register name="-" type="4">
-        <text>scoreRecords</text>
+        <text>memberId</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHNjb3JlUmVjb3Jkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZW1iZXJJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coUS5uaW52b2tlKHRoaXMsICdmaW5kJywgZmlsdGVyKSk7Cg==</text>
