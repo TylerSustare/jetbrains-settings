@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1505768526222">
+      <file name="/Dummy.txt" timestamp="1507849606539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
@@ -11,6 +11,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="50" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" timestamp="1507849755357">
+        <mark key="[" line="896" column="38" />
+        <mark key="]" line="896" column="48" />
+        <mark key="^" line="896" column="48" />
+        <mark key="." line="896" column="48" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" timestamp="1505409886954">
         <mark key="'" line="5" column="0" />
@@ -103,11 +109,11 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507848236611">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="1" />
-        <mark key="." line="36" column="1" />
-        <mark key="^" line="36" column="1" />
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507849810322">
+        <mark key="[" line="28" column="91" />
+        <mark key="]" line="28" column="91" />
+        <mark key="." line="28" column="91" />
+        <mark key="^" line="28" column="91" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" timestamp="1505419444628">
         <mark key="'" line="48" column="21" />
@@ -218,43 +224,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtZW1iZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5jcmVhdGVWYWxpZFRva2VuV2l0aEF1dGhSb2xlKGFjY2Vzc1Rva2VuLCB7IHVzZXJfaWQ6IHVzZXJJZCB9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coUS5uaW52b2tlKHRoaXMsICdmaW5kJywgZmlsdGVyKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coUS5uaW52b2tlKHRoaXMsICdmaW5kJywgZmlsdGVyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFEubmludm9rZSh0aGlzLCAnZmluZCcsIGZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsKdmFyIFEgPSByZXF1aXJlKCdxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFEubmludm9rZSh0aGlzLCAnZmluZCcsIGZpbHRlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGxvZ2dlciA9IHJlcXVpcmUoJ2xpYi1sb2dnZXItbm9kZWpzJyk7CnZhciBtZW1iZXJDbGllbnRMaWIgPSByZXF1aXJlKCdsaWItbWVtYmVyLXNlcnZpY2UtY2xpZW50LW5vZGVqcycpOwo=</text>
+        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsKdmFyIFEgPSByZXF1aXJlKCdxJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
