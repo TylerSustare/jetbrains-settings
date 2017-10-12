@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507849606539">
+      <file name="/Dummy.txt" timestamp="1507851641962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
@@ -12,11 +12,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="50" />
       </file>
-      <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" timestamp="1507849755357">
-        <mark key="[" line="896" column="38" />
-        <mark key="]" line="896" column="48" />
-        <mark key="^" line="896" column="48" />
-        <mark key="." line="896" column="48" />
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" timestamp="1507851890542">
+        <mark key="'" line="841" column="32" />
+        <mark key="[" line="859" column="32" />
+        <mark key="]" line="859" column="32" />
+        <mark key="." line="859" column="47" />
+        <mark key="^" line="891" column="32" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" timestamp="1505409886954">
         <mark key="'" line="5" column="0" />
@@ -57,9 +58,16 @@
         <mark key="^" line="116" column="3" />
         <mark key="." line="116" column="3" />
       </file>
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/routes/leaderboard.js" timestamp="1507851172329" />
       <file name="$USER_HOME$/src/services/service-quiz/node/config/default.json" timestamp="1505426928873">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/base.js" timestamp="1507852283295">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" timestamp="1505254925848">
         <mark key="'" line="2" column="39" />
@@ -109,11 +117,11 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507849810322">
-        <mark key="[" line="28" column="91" />
-        <mark key="]" line="28" column="91" />
-        <mark key="." line="28" column="91" />
-        <mark key="^" line="28" column="91" />
+      <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="26" column="59" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" timestamp="1505419444628">
         <mark key="'" line="48" column="21" />
@@ -221,64 +229,71 @@
       <jump line="62" column="20" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
       <jump line="66" column="16" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
       <jump line="61" column="44" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="621" column="42" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="859" column="42" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="895" column="34" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="889" column="11" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="874" column="87" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="891" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="908" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="952" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="823" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
+      <jump line="841" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>createv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5jcmVhdGVWYWxpZFRva2VuV2l0aEF1dGhSb2xlKGFjY2Vzc1Rva2VuLCB7IHVzZXJfaWQ6IHVzZXJJZCB9KTsK</text>
+      <register name="0" type="4">
+        <text>createValidTokenNoAuthRole</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coUS5uaW52b2tlKHRoaXMsICdmaW5kJywgZmlsdGVyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVWYWxpZFRva2VuTm9BdXRoUm9sZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBRLm5pbnZva2UodGhpcywgJ2ZpbmQnLCBmaWx0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlblN0b3JlW3Rva2VuSWRdID0gZGV0YWlsczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFEubmludm9rZSh0aGlzLCAnZmluZCcsIGZpbHRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsKdmFyIFEgPSByZXF1aXJlKCdxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9sZXM6IFsnbm90X2FkbWluJ10KICAgICAgICB9LCBkZXRhaWxzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNzdWVkX2F0OiBwYXJzZUludChuZXcgRGF0ZSgpLmdldFRpbWUoKSAvIDEwMDAsIDEwKSwKICAgICAgICAgICAgZmFjdG9yczogJ2VtYWlsJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>createv</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>createv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getTestCon</entry>
-        <entry>base</entry>
-        <entry>app</entry>
-        <entry>(app</entry>
         <entry>routes</entry>
         <entry>image</entry>
         <entry>mong</entry>
@@ -294,6 +309,11 @@
         <entry>memberC</entry>
         <entry>var</entry>
         <entry>filter</entry>
+        <entry>accessToken</entry>
+        <entry>With</entry>
+        <entry>AuthRole</entry>
+        <entry>only</entry>
+        <entry>createv</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
