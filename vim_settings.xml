@@ -26,6 +26,11 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
+      <file name="$USER_HOME$/src/workers/worker-www-invoice-change-router/node/package.json" timestamp="1507849112323">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/schema.json" timestamp="1505419484277">
         <mark key="'" line="242" column="25" />
         <mark key="[" line="195" column="17" />
@@ -213,10 +218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
