@@ -15,6 +15,15 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="t" />
+  </action>
   <action id="AddToFavoritesPopup" />
   <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
@@ -34,9 +43,15 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl colon" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta u" />
   </action>
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="e" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
