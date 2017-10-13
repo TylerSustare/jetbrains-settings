@@ -57,12 +57,12 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" timestamp="1507929691043">
-        <mark key="'" line="36" column="10" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="60" column="4" />
+      <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" timestamp="1507930783721">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="60" column="6" />
         <mark key="^" line="17" column="10" />
-        <mark key="." line="60" column="10" />
+        <mark key="." line="60" column="6" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" timestamp="1507929517889">
         <mark key="'" line="46" column="36" />
@@ -95,7 +95,7 @@
         <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507929707918">
+      <file name="/Dummy.txt" timestamp="1507930747920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
@@ -142,11 +142,11 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-feature-flag/node/test/common.js" timestamp="1507928807811">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="107" column="11" />
+      <file name="$USER_HOME$/src/services/service-feature-flag/node/test/common.js" timestamp="1507930879970">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="108" column="4" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/package.json" timestamp="1505342522907">
         <mark key="'" line="43" column="33" />
@@ -173,16 +173,13 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/middleware.js" timestamp="1507929213996">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="42" />
-        <mark key="^" line="17" column="42" />
+      <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/middleware.js" timestamp="1507930362410">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="22" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="135" column="25" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="137" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="148" column="25" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
       <jump line="150" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
@@ -279,63 +276,64 @@
       <jump line="37" column="45" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
       <jump line="45" column="59" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
       <jump line="71" column="20" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="17" column="10" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="36" column="10" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
+      <jump line="28" column="19" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
+      <jump line="36" column="6" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>it</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGF1dGhIZWFkZXIgPSBfLmdldChyZXEsICdoZWFkZXJzLmF1dGhvcml6YXRpb24nLCBudWxsKTsKICAgICAgICAgICAgYXV0aEhlYWRlciA9IF8udGFpbChfLnNwbGl0KGF1dGhIZWFkZXIsICcgJykpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>it(</text>
+        <text>\.only</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgdXJsID0gXy5yZXBsYWNlKHJvdXRlcy5BUElfVVBEQVRFX0ZFQVRVUkVfRkxBRywgJzpuYW1lJywgJ2J1cnJpdG8tZmxhZycpOwoKICAgICAgICBjb25zdCBwYXJhbXMgPSB7CiAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnQW4gdXBkYXRlZCBmbGFnIGZvciBidXJyaXRvcycsCiAgICAgICAgICAgIHN0YXRlOiAwLAogICAgICAgICAgICB1cGRhdGVkX2J5OiAnMjI0MzM5NCcKICAgICAgICB9Owo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXV0aEhlYWRlciA9IF8udGFpbChfLnNwbGl0KF8uZ2V0KHJlcSwgJ2hlYWRlcnMuYXV0aG9yaXphdGlvbicsIFsnJ10pLCAnICcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGF1dGhIZWFkZXIgPSBfLmdldChyZXEsICdoZWFkZXJzLmF1dGhvcml6YXRpb24nLCBudWxsKTsKICAgICAgICAgICAgYXV0aEhlYWRlciA9IF8udGFpbChfLnNwbGl0KGF1dGhIZWFkZXIsICcgJykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGF1dGhIZWFkZXIgPSBfLmdldChyZXEsICdoZWFkZXJzLmF1dGhvcml6YXRpb24nLCBudWxsKTsKICAgICAgICAgICAgYXV0aEhlYWRlciA9IF8udGFpbChfLnNwbGl0KGF1dGhIZWFkZXIsICcgJykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlZF9ieTogJzIyNDMzOTQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGF1dGhIZWFkZXIgPTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzY3JpcHRpb246ICdBIGZsYWcgZm9yIGJ1cnJpdG9zJywKICAgICAgICAgICAgc3RhdGU6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXJhbXMgPSB7CiAgICAgICAgICAgIG5hbWU6ICdub3QtYWRtaW4tYnVycml0by1mbGFnJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXV0aEhlYWRlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmwgPSBfLnJlcGxhY2Uocm91dGVzLkFQSV9VUERBVEVfRkVBVFVSRV9GTEFHLCAnOm5hbWUnLCAnYnVycml0b0AnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmwgPSBfLnJlcGxhY2Uocm91dGVzLkFQSV9VUERBVEVfRkVBVFVSRV9GTEFHLCAnOm5hbWUnLCAnYnVycml0by1mbGFnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxLmhlYWRlcnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uLmRlbGV0ZUZlYXR1cmVGbGFncywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtaWRkbGV3YXJlLnBhcnNlTWVtYmVySWRGcm9tVG9rZW4sCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQsICc8LS0tLS0tIHJlc3VsdCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>it(</last-search>
+      <last-search>\.only</last-search>
       <last-offset />
-      <last-pattern>it(</last-pattern>
+      <last-pattern>\.only</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qa</entry>
         <entry>compa</entry>
         <entry>logAuthRequestToFirehost</entry>
         <entry>logAuthRequestToFirehose</entry>
@@ -352,9 +350,10 @@
         <entry>const</entry>
         <entry>accessToken</entry>
         <entry>it</entry>
-        <entry>only</entry>
         <entry>accessTo</entry>
         <entry>it(</entry>
+        <entry>only</entry>
+        <entry>\.only</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
