@@ -64,12 +64,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="60" column="6" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" timestamp="1508172493488">
-        <mark key="'" line="36" column="54" />
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="45" column="63" />
-        <mark key="." line="45" column="63" />
-        <mark key="^" line="45" column="63" />
+      <file name="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" timestamp="1508178146945">
+        <mark key="'" line="35" column="54" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" timestamp="1507929517889">
         <mark key="'" line="46" column="36" />
@@ -288,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>creat</text>
+        <text>N/A</text>
       </register>
       <register name="-" type="4">
-        <text>creat</text>
+        <text>N/A</text>
       </register>
       <register name="/" type="4">
         <text>feature_fl</text>
