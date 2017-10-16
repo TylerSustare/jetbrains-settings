@@ -64,12 +64,11 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="60" column="6" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" timestamp="1508184578084">
-        <mark key="'" line="35" column="54" />
-        <mark key="[" line="34" column="74" />
-        <mark key="]" line="34" column="75" />
-        <mark key="." line="34" column="75" />
-        <mark key="^" line="34" column="75" />
+      <file name="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" timestamp="1508186747629">
+        <mark key="'" line="13" column="44" />
+        <mark key="[" line="75" column="79" />
+        <mark key="]" line="75" column="79" />
+        <mark key="." line="75" column="79" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" timestamp="1507929517889">
         <mark key="'" line="46" column="36" />
@@ -185,24 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="10" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="205" column="25" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="207" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="219" column="25" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="221" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="233" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="275" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
-      <jump line="13" column="5" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
-      <jump line="6" column="47" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
-      <jump line="7" column="38" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/config/schema.json" />
-      <jump line="27" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/config/index.js" />
-      <jump line="36" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/config/routes.js" />
-      <jump line="3" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
-      <jump line="2" column="39" filename="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" />
-      <jump line="1087" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="1141" column="14" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="41" column="33" filename="$USER_HOME$/src/services/service-quiz-report/node/package.json" />
       <jump line="22" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
       <jump line="196" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
       <jump line="21" column="63" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
@@ -282,69 +263,81 @@
       <jump line="45" column="47" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
       <jump line="2" column="6" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
       <jump line="9" column="35" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
-      <jump line="18" column="63" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
       <jump line="27" column="35" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
-      <jump line="36" column="54" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="31" column="19" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="30" column="27" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="34" column="80" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="36" column="23" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="40" column="28" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="66" column="10" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="69" column="96" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="16" column="75" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="18" column="31" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="67" column="66" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="23" column="33" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="68" column="64" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="17" column="58" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="20" column="48" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="0" column="25" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="8" column="33" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="59" column="13" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="64" column="19" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="13" column="44" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_by</text>
+        <text>, featureFlagNames</text>
       </register>
       <register name="-" type="4">
-        <text>_by</text>
+        <text>, featureFlagNames</text>
       </register>
       <register name="/" type="4">
-        <text>feature_fl</text>
+        <text>Array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge3N0cmluZ30gZmVhdHVyZUZsYWdOYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSBmZWF0dXJlRmxhZ05hbWVzLiBBcnJheSBvZiBTdHJpbmdzIHJlcHJlc2VudGluZyBmZWF0dXJlIGZsYWcgbmFtZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5oZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSBmZWF0dXJlRmxhZ05hbWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGVuZHBvaW50UGF0aCA9IGAvZmVhdHVyZV9mbGFncy9ieS9uYW1lcy8ke2ZlYXR1cmVGbGFnTmFtZX1gOwogICAgICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2VSZXF1ZXN0LmNvbnN0cnVjdChtZXRob2RzLk1FVEhPRF9HRVQsIGVuZHBvaW50UGF0aCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBTZXJ2aWNlQVBJRXJyb3IoU2VydmljZUFQSUVycm9yLmNvZGVzLklOVkFMSURfUEFSQU0sIHsKICAgICAgICAgICAgICAgIHBhcmFtZXRlcjogJ2ZlYXR1cmVGbGFnTmFtZScKICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGF1dGhIZWFkZXIgPSBfLmdldChyZXEsICdoZWFkZXJzLmF1dGhvcml6YXRpb24nLCBudWxsKTsKICAgICAgICAgICAgYXV0aEhlYWRlciA9IF8udGFpbChfLnNwbGl0KGF1dGhIZWFkZXIsICcgJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGF1dGhIZWFkZXIgPSBfLmdldChyZXEsICdoZWFkZXJzLmF1dGhvcml6YXRpb24nLCBudWxsKTsKICAgICAgICAgICAgYXV0aEhlYWRlciA9IF8udGFpbChfLnNwbGl0KGF1dGhIZWFkZXIsICcgJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGF1dGhIZWFkZXIgPTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXV0aEhlYWRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZmVhdHVyZUZsYWdOYW1lLikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>feature_fl</last-search>
+      <last-search>Array</last-search>
       <last-offset />
-      <last-pattern>feature_fl</last-pattern>
+      <last-pattern>Array</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logAuthRequestToFirehost</entry>
-        <entry>logAuthRequestToFirehose</entry>
-        <entry>eslint</entry>
-        <entry>mongoose</entry>
-        <entry>'</entry>
-        <entry>config</entry>
         <entry>memberC</entry>
         <entry>var</entry>
         <entry>filter</entry>
@@ -359,6 +352,12 @@
         <entry>only</entry>
         <entry>\.only</entry>
         <entry>feature_fl</entry>
+        <entry>string</entry>
+        <entry>update</entry>
+        <entry>featureFlagName</entry>
+        <entry>`</entry>
+        <entry>'</entry>
+        <entry>Array</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
