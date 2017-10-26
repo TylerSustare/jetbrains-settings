@@ -43,6 +43,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta 0" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -78,6 +84,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl add" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />

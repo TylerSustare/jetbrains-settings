@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions.js" timestamp="1509041614258">
+        <mark key="[" line="417" column="40" />
+        <mark key="]" line="481" column="4" />
+        <mark key="^" line="481" column="4" />
+        <mark key="." line="481" column="4" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412911956">
         <mark key="[" line="48" column="47" />
         <mark key="]" line="48" column="47" />
@@ -41,6 +53,12 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="3" column="43" />
       </file>
+      <file name="$USER_HOME$/src/services/service-quiz/node/routes/api.js" timestamp="1509041314117">
+        <mark key="[" line="685" column="38" />
+        <mark key="]" line="688" column="48" />
+        <mark key="." line="688" column="48" />
+        <mark key="^" line="688" column="48" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/app.js" timestamp="1509032203227">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="52" />
@@ -53,7 +71,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="22" column="78" />
       </file>
-      <file name="/JavaScript Console" timestamp="1507922929481">
+      <file name="/JavaScript Console" timestamp="1509038123342">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
@@ -77,6 +95,13 @@
         <mark key="[" line="75" column="79" />
         <mark key="]" line="75" column="79" />
         <mark key="." line="75" column="79" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" timestamp="1509041588600">
+        <mark key="'" line="150" column="9" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="148" column="4" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" timestamp="1507929517889">
         <mark key="'" line="46" column="36" />
@@ -109,7 +134,7 @@
         <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509037365152">
+      <file name="/Dummy.txt" timestamp="1509040098525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
@@ -148,6 +173,7 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/src/services/service-quiz/node/config/routes.js" timestamp="1509040958761" />
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="38" />
@@ -190,84 +216,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" timestamp="1509041645680">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="196" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="21" column="63" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="197" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="199" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/app.js" />
-      <jump line="4" column="24" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/connections.js" />
-      <jump line="43" column="45" filename="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" />
-      <jump line="44" column="21" filename="$USER_HOME$/src/services/service-quiz-report/node/config/default.json" />
-      <jump line="241" column="25" filename="$USER_HOME$/src/services/service-quiz-report/node/config/schema.json" />
-      <jump line="7" column="30" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth.js" />
-      <jump line="22" column="16" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth.js" />
-      <jump line="11" column="6" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="48" column="12" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="49" column="12" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="63" column="23" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="96" column="8" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="0" column="24" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="1" column="4" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="9" column="8" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="10" column="8" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="37" column="12" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="38" column="12" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="50" column="20" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="51" column="20" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="65" column="20" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="66" column="20" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="91" column="12" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="92" column="12" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="98" column="16" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="97" column="20" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="116" column="3" filename="$USER_HOME$/src/services/service-quiz-report/node/lib/auth_middleware.js" />
-      <jump line="62" column="20" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
-      <jump line="66" column="16" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
-      <jump line="61" column="44" filename="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="621" column="42" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="859" column="42" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="895" column="34" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="889" column="11" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="874" column="87" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="891" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="908" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="952" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="823" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="841" column="32" filename="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" />
-      <jump line="24" column="1" filename="$USER_HOME$/src/services/service-feature-flag/node/config/keys.json" />
-      <jump line="104" column="30" filename="$USER_HOME$/src/services/service-feature-flag/node/test/common.js" />
-      <jump line="106" column="20" filename="$USER_HOME$/src/services/service-feature-flag/node/test/common.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="28" column="59" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="35" column="45" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="41" column="59" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="7" column="4" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="17" column="10" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="20" column="23" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="34" column="10" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="43" column="23" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="61" column="6" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="46" column="36" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/create_flags.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="18" column="45" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="30" column="59" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="37" column="45" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="45" column="59" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="71" column="20" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="28" column="19" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="17" column="6" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
-      <jump line="36" column="6" filename="$USER_HOME$/src/services/service-feature-flag/node/test/api/update_flags.js" />
       <jump line="45" column="47" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
       <jump line="2" column="6" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
       <jump line="9" column="35" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
@@ -292,62 +247,136 @@
       <jump line="59" column="13" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
       <jump line="64" column="19" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
       <jump line="13" column="44" filename="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" />
+      <jump line="170" column="5" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="96" column="8" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="328" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="353" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="11" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="47" column="12" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="50" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="151" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="153" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="160" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="164" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="168" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="172" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="191" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="196" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="201" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="208" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="215" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="216" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="218" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="224" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="228" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="232" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="236" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="255" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="261" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="267" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="268" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="270" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="291" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="297" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="303" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="304" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="306" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="312" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="316" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="320" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="339" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="345" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="351" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="352" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="354" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="360" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="364" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="368" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="374" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="378" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="382" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="405" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="411" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="424" column="36" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="9" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="10" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="12" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="30" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="35" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="41" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="46" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="48" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="49" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="51" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="69" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="74" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="80" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="86" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="87" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="89" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="95" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="99" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="103" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="107" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="126" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="131" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="136" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="143" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
+      <jump line="150" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, featureFlagNames</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXN0aW9uV2l0aE5vbkFzY2lpRml4dHVyZXMgPSByZXF1aXJlKCcuLi9maXh0dXJlcy9xdWVzdGlvbnNfd2l0aF9ub25fYXNjaWknKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>, featureFlagNames</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>Array</text>
+        <text>id</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSBmZWF0dXJlRmxhZ05hbWVzLiBBcnJheSBvZiBTdHJpbmdzIHJlcHJlc2VudGluZyBmZWF0dXJlIGZsYWcgbmFtZXMK</text>
+      <register name="0" type="4">
+        <text>d740ffdc-f8e4-4515-8658-5dd5555d25cc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSBmZWF0dXJlRmxhZ05hbWVzCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXN0aW9uV2l0aE5vbkFzY2lpRml4dHVyZXMgPSByZXF1aXJlKCcuLi9maXh0dXJlcy9xdWVzdGlvbnNfd2l0aF9ub25fYXNjaWknKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGVuZHBvaW50UGF0aCA9IGAvZmVhdHVyZV9mbGFncy9ieS9uYW1lcy8ke2ZlYXR1cmVGbGFnTmFtZX1gOwogICAgICAgICAgICAgICAgcmV0dXJuIFNlcnZpY2VSZXF1ZXN0LmNvbnN0cnVjdChtZXRob2RzLk1FVEhPRF9HRVQsIGVuZHBvaW50UGF0aCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAicXVlc3Rpb25faWQiOiAiYzc0MGRmY2ItZDhkNC00NTE1LTg2NTgtNWNjNTU1NWMyNTdhIiwKICAgICAgICAidmVyc2lvbiI6ICIzLjIiLAogICAgICAgICJxdWl6X2lkIjogIjM4MGU1YWFkLWVkNTktNGQ5ZS04OWQ1LTY3NWU2MjRhNzY1NSIsCiAgICAgICAgInF1aXpfdiI6ICIxLjIiLAogICAgICAgICJlbnRpdHkiOiB7CiAgICAgICAgICAgICJ0eXBlIjogImJvb2wiLAogICAgICAgICAgICAiY29ycmVjdCI6IHRydWUKICAgICAgICB9LAogICAgICAgICJjcmVhdGVkX2J5IjogIjIwMzk5MzUiLAogICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTYtMDYtMThUMTg6MTU6MTYuMDAwWiIsCiAgICAgICAgImVkaXRlZF9ieSI6ICIxMTExIiwKICAgICAgICAiZWRpdGVkX2F0IjogIjIwMTYtMDYtMTlUMTg6MTU6MTYuMDAwWiIsCiAgICAgICAgInRleHQiOiAiSXMgYSBidXJyaXRvIGRlbGljaW91cz8iLAogICAgICAgICJleHBsYW5hdGlvbiI6ICJGdWxseSBmdW5jdGlvbmFsIHRhc3RlIGJ1ZHMgYWdyZWUiLAogICAgICAgICJwcmVzZW50X3BvcyI6IDEwLAogICAgICAgICJjb250ZW50X3BvcyI6IDksCiAgICAgICAgImFwcHJvdmVkX2F0IjogIjIwMTYtMDYtMTlUMTg6MTU6MTYuMDAwWiIsCiAgICAgICAgImFwcHJvdmVkX2J5IjogIjIyMjIiLAogICAgICAgICJyZXZpZXdfaGlzdG9yeSI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIm1lbWJlcl9pZCI6ICIyMjIyIiwKICAgICAgICAgICAgICAgICJhY3Rpb24iOiAiYXNzaWduZWQiLAogICAgICAgICAgICAgICAgImVudHJ5X2F0IjogIjIwMTYtMDYtMThUMTg6MTU6MTYuMDAwWiIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgIm1lbWJlcl9pZCI6ICIyMjIyIiwKICAgICAgICAgICAgICAgICJhY3Rpb24iOiAiYXBwcm92ZWQiLAogICAgICAgICAgICAgICAgImVudHJ5X2F0IjogIjIwMTYtMDYtMTlUMTg6MTU6MTYuMDAwWiIKICAgICAgICAgICAgfQogICAgICAgIF0sCiAgICAgICAgInJldmlldyI6IHsKICAgICAgICAgICAgIm1lbWJlcl9pZCI6ICIyMjIyIiwKICAgICAgICAgICAgImFjdGlvbiI6ICJhcHByb3ZlZCIsCiAgICAgICAgICAgICJlbnRyeV9hdCI6ICIyMDE2LTA2LTE5VDE4OjE1OjE2LjAwMFoiCiAgICAgICAgfQogICAgfSwKICAgIC8vIHNhbWUgcXVlc3Rpb25faWQgZGlmZmVyZW50IHZlcnNpb24gKGhpZ2hlcikKICAgIHsKICAgICAgICAiaWQiOiAiNTMwN2EzZTMxOTk5ZGIzMWUzNzIyNTY5IiwKICAgICAgICAicXVlc3Rpb25faWQiOiAiYzc0MGRmY2ItZDhkNC00NTE1LTg2NTgtNWNjNTU1NWMyNTdhIiwKICAgICAgICAidmVyc2lvbiI6ICIzLjEwIiwKICAgICAgICAicXVpel9pZCI6ICIzODBlNWFhZC1lZDU5LTRkOWUtODlkNS02NzVlNjI0YTc2NTUiLAogICAgICAgICJxdWl6X3YiOiAiMS4yIiwKICAgICAgICAiZW50aXR5IjogewogICAgICAgICAgICAidHlwZSI6ICJib29sIiwKICAgICAgICAgICAgImNvcnJlY3QiOiB0cnVlCiAgICAgICAgfSwKICAgICAgICAiY3JlYXRlZF9ieSI6ICIyMDM5OTM1IiwKICAgICAgICAiY3JlYXRlZF9hdCI6ICIyMDE2LTA2LTE4VDE4OjE1OjE2LjAwMFoiLAogICAgICAgICJlZGl0ZWRfYnkiOiAiMTExMSIsCiAgICAgICAgImVkaXRlZF9hdCI6ICIyMDE2LTA2LTE5VDE4OjE1OjE2LjAwMFoiLAogICAgICAgICJ0ZXh0IjogIklzIGEgYnVycml0byBkZWxpY2lvdXM/IiwKICAgICAgICAiZXhwbGFuYXRpb24iOiAiRnVsbHkgZnVuY3Rpb25hbCB0YXN0ZSBidWRzIGFncmVlIiwKICAgICAgICAicHJlc2VudF9wb3MiOiAxMCwKICAgICAgICAiY29udGVudF9wb3MiOiA5LAogICAgICAgICJhcHByb3ZlZF9hdCI6ICIyMDE2LTA2LTE5VDE4OjE1OjE2LjAwMFoiLAogICAgICAgICJhcHByb3ZlZF9ieSI6ICIyMjIyIiwKICAgICAgICAicmV2aWV3X2hpc3RvcnkiOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJtZW1iZXJfaWQiOiAiMjIyMiIsCiAgICAgICAgICAgICAgICAiYWN0aW9uIjogImFzc2lnbmVkIiwKICAgICAgICAgICAgICAgICJlbnRyeV9hdCI6ICIyMDE2LTA2LTE4VDE4OjE1OjE2LjAwMFoiCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJtZW1iZXJfaWQiOiAiMjIyMiIsCiAgICAgICAgICAgICAgICAiYWN0aW9uIjogImFwcHJvdmVkIiwKICAgICAgICAgICAgICAgICJlbnRyeV9hdCI6ICIyMDE2LTA2LTE5VDE4OjE1OjE2LjAwMFoiCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgICJyZXZpZXciOiB7CiAgICAgICAgICAgICJtZW1iZXJfaWQiOiAiMjIyMiIsCiAgICAgICAgICAgICJhY3Rpb24iOiAiYXBwcm92ZWQiLAogICAgICAgICAgICAiZW50cnlfYXQiOiAiMjAxNi0wNi0xOVQxODoxNToxNi4wMDBaIgogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBTZXJ2aWNlQVBJRXJyb3IoU2VydmljZUFQSUVycm9yLmNvZGVzLklOVkFMSURfUEFSQU0sIHsKICAgICAgICAgICAgICAgIHBhcmFtZXRlcjogJ2ZlYXR1cmVGbGFnTmFtZScKICAgICAgICAgICAgfSk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAiaWQiOiAiNTMwN2EzZTMxOTk5ZGIzMWUzNzIyNTUwIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRmlyc3QgUXVpeiBGaXh0dXJlCiAgICAgKi8KICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiY3JlYXRlZF9hdCI6ICIyMDE2LTA2LTE4VDE4OjE1OjE2LjAwMFoiLAogICAgICAgICJlZGl0ZWRfYnkiOiBudWxsLAogICAgICAgICJlZGl0ZWRfYXQiOiBudWxsLAogICAgICAgICJ0ZXh0IjogIk1hdGNoIHRoZSB0ZXJtIHRvIHRoZSBkZWZpbml0aW9uLiIsCiAgICAgICAgImV4cGxhbmF0aW9uIjogIkl0J3MgYSBtYXRjaCBtYWRlIGluIGhlYXZlbi4iLAogICAgICAgICJwcmVzZW50X3BvcyI6IDcwLAogICAgICAgICJjb250ZW50X3BvcyI6IDY5LAogICAgICAgICJhcHByb3ZlZF9hdCI6ICcyMDE2LTA2LTE5VDE4OjE1OjE2LjAwMFonLAogICAgICAgICJhcHByb3ZlZF9ieSI6IG51bGwsCiAgICAgICAgInJldmlld19oaXN0b3J5IjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibWVtYmVyX2lkIjogIjIyMjIiLAogICAgICAgICAgICAgICAgImFjdGlvbiI6ICJhc3NpZ25lZCIsCiAgICAgICAgICAgICAgICAiZW50cnlfYXQiOiAiMjAxNi0wNi0xOFQxODoxNToxNi4wMDBaIgogICAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAicmV2aWV3IjogewogICAgICAgICAgICAibWVtYmVyX2lkIjogIjIyMjIiLAogICAgICAgICAgICAiYWN0aW9uIjogImFzc2lnbmVkIiwKICAgICAgICAgICAgImVudHJ5X2F0IjogIjIwMTYtMDYtMThUMTg6MTU6MTYuMDAwWiIKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZmVhdHVyZUZsYWdOYW1lLikK</text>
+        <text encoding="base64">ICAgICAgICAiY3JlYXRlZF9hdCI6ICIyMDE2LTA2LTE4VDE4OjE1OjE2LjAwMFoiLAogICAgICAgICJlZGl0ZWRfYnkiOiBudWxsLAogICAgICAgICJlZGl0ZWRfYXQiOiBudWxsLAogICAgICAgICJ0ZXh0IjogIk1hdGNoIHRoZSB0ZXJtIHRvIHRoZSBkZWZpbml0aW9uLiIsCiAgICAgICAgImV4cGxhbmF0aW9uIjogIkl0J3MgYSBtYXRjaCBtYWRlIGluIGhlYXZlbi4iLAogICAgICAgICJwcmVzZW50X3BvcyI6IDcwLAogICAgICAgICJjb250ZW50X3BvcyI6IDY5LAogICAgICAgICJhcHByb3ZlZF9hdCI6ICcyMDE2LTA2LTE5VDE4OjE1OjE2LjAwMFonLAogICAgICAgICJhcHByb3ZlZF9ieSI6IG51bGwsCiAgICAgICAgInJldmlld19oaXN0b3J5IjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAibWVtYmVyX2lkIjogIjIyMjIiLAogICAgICAgICAgICAgICAgImFjdGlvbiI6ICJhc3NpZ25lZCIsCiAgICAgICAgICAgICAgICAiZW50cnlfYXQiOiAiMjAxNi0wNi0xOFQxODoxNToxNi4wMDBaIgogICAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICAicmV2aWV3IjogewogICAgICAgICAgICAibWVtYmVyX2lkIjogIjIyMjIiLAogICAgICAgICAgICAiYWN0aW9uIjogImFzc2lnbmVkIiwKICAgICAgICAgICAgImVudHJ5X2F0IjogIjIwMTYtMDYtMThUMTg6MTU6MTYuMDAwWiIKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Array</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>Array</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>memberC</entry>
-        <entry>var</entry>
         <entry>filter</entry>
         <entry>With</entry>
         <entry>AuthRole</entry>
@@ -366,13 +395,16 @@
         <entry>`</entry>
         <entry>'</entry>
         <entry>Array</entry>
+        <entry>question</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
-        <entry>s</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
+        <entry>s</entry>
+        <entry>/id</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -393,6 +425,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
