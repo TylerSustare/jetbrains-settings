@@ -133,11 +133,17 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="meta 9" />
   </action>
 </keymap>
