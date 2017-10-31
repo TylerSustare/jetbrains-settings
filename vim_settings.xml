@@ -215,10 +215,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" timestamp="1509041645680">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" timestamp="1509468236667">
+        <mark key="[" line="2560" column="14" />
+        <mark key="]" line="2560" column="14" />
+        <mark key="." line="2560" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -324,11 +324,11 @@
       <jump line="40" column="10" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNyZWF0ZUluZGV4TWFwID0gcmVxdWlyZSgnLi4vdXRpbC9jcmVhdGVJbmRleE1hcCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
