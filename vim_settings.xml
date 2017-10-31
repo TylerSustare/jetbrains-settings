@@ -53,7 +53,7 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz/node/routes/api.js" timestamp="1509472101764">
+      <file name="$USER_HOME$/src/services/service-quiz/node/routes/api.js" timestamp="1509473553880">
         <mark key="'" line="1153" column="75" />
         <mark key="[" line="1541" column="21" />
         <mark key="]" line="1541" column="20" />
@@ -135,7 +135,7 @@
         <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509139667087">
+      <file name="/Dummy.txt" timestamp="1509473570918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
@@ -428,6 +428,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
