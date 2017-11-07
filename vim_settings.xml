@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1510091485917">
-        <mark key="'" line="130" column="20" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1510091540752">
+        <mark key="'" line="151" column="52" />
         <mark key="[" line="35" column="5" />
         <mark key="]" line="35" column="4" />
         <mark key="^" line="35" column="4" />
@@ -249,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="201" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="208" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="215" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="216" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
@@ -340,15 +338,17 @@
       <jump line="10" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_tests.js" />
       <jump line="84" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_tests.js" />
       <jump line="62" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="38" column="58" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="158" column="47" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="160" column="30" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="180" column="27" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="202" column="24" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="207" column="24" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="211" column="24" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="151" column="52" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="160" column="30" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="38" column="58" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="39" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="130" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="151" column="52" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
