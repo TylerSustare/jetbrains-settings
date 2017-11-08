@@ -225,7 +225,7 @@
         <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510176046065">
+      <file name="/Dummy.txt" timestamp="1510177330059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" timestamp="1507851890542">
@@ -280,6 +280,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/compatibility_test.js" timestamp="1510177356840" />
     </filemarks>
     <jumps>
       <jump line="339" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
