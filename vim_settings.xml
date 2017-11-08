@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1510102418968">
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1510166870375">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="187" column="89" />
-        <mark key="]" line="187" column="89" />
-        <mark key="^" line="187" column="89" />
-        <mark key="." line="187" column="89" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="187" column="93" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1510098026515">
         <mark key="[" line="0" column="0" />
@@ -31,6 +31,9 @@
         <mark key="]" line="481" column="4" />
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" timestamp="1510167579839">
+        <mark key="'" line="28" column="10" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412911956">
         <mark key="[" line="48" column="47" />
@@ -76,12 +79,12 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" timestamp="1510102050356">
-        <mark key="'" line="11" column="7" />
-        <mark key="[" line="107" column="50" />
-        <mark key="]" line="108" column="33" />
-        <mark key="." line="108" column="33" />
-        <mark key="^" line="108" column="33" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" timestamp="1510167704070">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="95" column="12" />
+        <mark key="]" line="95" column="16" />
+        <mark key="." line="95" column="16" />
+        <mark key="^" line="95" column="16" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/app.js" timestamp="1509032203227">
         <mark key="[" line="7" column="51" />
@@ -114,7 +117,6 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="60" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/app.js" timestamp="1510100972829" />
       <file name="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/api.js" timestamp="1508186747629">
         <mark key="'" line="13" column="44" />
         <mark key="[" line="75" column="79" />
@@ -159,7 +161,7 @@
         <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510097553190">
+      <file name="/Dummy.txt" timestamp="1510166142741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
@@ -261,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="224" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="228" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="232" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="236" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="255" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="261" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
@@ -361,61 +359,64 @@
       <jump line="76" column="6" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
       <jump line="14" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="11" column="7" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
+      <jump line="110" column="27" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
+      <jump line="8" column="23" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
+      <jump line="28" column="10" filename="$USER_HOME$/src/services/service-app-gateway/node/test/general_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>query</text>
+        <text>'hjg23434534h5gj3h4';</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>'hjg23434534h5gj3h4';</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>getAcce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFEZXRhaWxzID0gKHJlcS5xdWVyeS5maWx0ZXJzLm1hdGNoKC81NTAwNjQzNWY1MTVlNjBmM2QwMDAyZWY5OTkvZykpID8gZml4dHVyZXMucGxheWxpc3RGb3JVc2VyLmNvbGxlY3Rpb25zIDogZml4dHVyZXMuY29sZWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY2FjaGVLZXkgPSBgJHtyZXEucGF0aH18JHtyZXEudG9rZW4udXNlcl9pZH18JHtyZXEucXVlcnkubW9iaWxlfXwke3JlcS5xdWVyeS51cGRhdGVkfWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IEFXUyA9IGNvbmZpZy5nZXRDcmVkZW50aWFsZWRBd3NTZGsoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0dXBTMyhBV1MsIGNvbmZpZy5nZXRQcm9wZXJ0eSgnY2FjaGUuYXdzQnVja2V0JyksIGNvbmZpZy5nZXRQcm9wZXJ0eSgnY2FjaGUuYXdzUHJlZml4JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0dXBTMyhBV1MsIGNvbmZpZy5nZXRQcm9wZXJ0eSgnY2FjaGUuYXdzQnVja2V0JyksIGNvbmZpZy5nZXRQcm9wZXJ0eSgnY2FjaGUuYXdzUHJlZml4JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWRkIGFjY2VzcyBjb250cm9sIHRvIGNhY2hlIHJlc3BvbnNlCiAgICAgICAgICAgIHJldHVybiByZXEudG9rZW4udXNlcl9pZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoJ3JlZGlzJykudG8uaGF2ZS50aGUudmFsdWUuYXQudGhlLmtleTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cnFyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkc2YK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgID0gcmVxdWlyZSgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjaGVjayByZWRpcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBjYWNoZUtleSA9IGAke3JlcS5wYXRofXwke3JlcS50b2tlbi51c2VyX2lkfXwke3JlcS5xdWVyeS5tb2JpbGV9fCR7cmVxLnF1ZXJ5LnVwZGF0ZWR9YDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZXJyb3JSZXNwb25zZSA9IHJlcXVpcmUoJy4uL2xpYi9yZXNwb25zZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcmVxdWVzdCA9IHJlcXVpcmUoJ3N1cGVyYWdlbnQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IEFXUyA9IGNvbmZpZy5nZXRDcmVkZW50aWFsZWRBd3NTZGsoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>getAcce</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>getAcce</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AuthRole</entry>
         <entry>createv</entry>
         <entry>const</entry>
         <entry>accessToken</entry>
@@ -435,6 +436,7 @@
         <entry>id</entry>
         <entry>post</entry>
         <entry>status</entry>
+        <entry>getAcce</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
