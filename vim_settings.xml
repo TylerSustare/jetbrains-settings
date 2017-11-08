@@ -165,11 +165,11 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" timestamp="1510171494242">
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" timestamp="1510173847748">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="97" column="40" />
-        <mark key="]" line="98" column="20" />
-        <mark key="." line="98" column="20" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
         <mark key="^" line="98" column="20" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/app.js" timestamp="1509032203227">
@@ -373,11 +373,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>|true</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PjM=</text>
@@ -386,31 +386,31 @@
         <text encoding="base64">Y29uc3QgQ2FjaGluZ01pZGRsZXdhcmUgPSByZXF1aXJlKCdsaWItY2FjaGluZy1taWRkbGV3YXJlLW5vZGVqcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhY2hlS2V5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3MnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhY2hlS2V5Owo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcS50b2tlbi51c2VyX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNhY2hlS2V5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9LCBmdW5jdGlvbiAocmVxKSB7CiAgICAgICAgICAgIC8vIGFkZCBhY2Nlc3MgY29udHJvbCB0byBjYWNoZSByZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcS50b2tlbi51c2VyX2lkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LCBmdW5jdGlvbiAocmVxKSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9LCBmdW5jdGlvbiAocmVxKSB7CiAgICAgICAgICAgIC8vIGFkZCBhY2Nlc3MgY29udHJvbCB0byBjYWNoZSByZXNwb25zZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9LCBmdW5jdGlvbiAocmVxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LCBmdW5jdGlvbiAocmVxKSB7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LCBmdW5jdGlvbiAocmVxKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
