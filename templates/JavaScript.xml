@@ -5,7 +5,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="reqr" value="const $name$ = require('$package$');" description="require" toReformat="false" toShortenFQNames="true">
+  <template name="rqr" value="const $name$ = require('$package$');" description="const &lt;&gt; = require('&lt;&gt;');" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="package" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
