@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1510248238145">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="215" column="38" />
-        <mark key="]" line="215" column="66" />
-        <mark key="." line="215" column="66" />
-        <mark key="^" line="215" column="66" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1510249830643">
+        <mark key="'" line="210" column="31" />
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="/fragment.js" timestamp="1510176373309">
         <mark key="[" line="0" column="0" />
@@ -153,12 +153,12 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" timestamp="1510177263538">
-        <mark key="'" line="122" column="34" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="123" column="56" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" timestamp="1510249862737">
+        <mark key="'" line="108" column="79" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="108" column="79" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/app.js" timestamp="1509032203227">
         <mark key="[" line="7" column="51" />
@@ -263,11 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="351" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="352" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="354" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="360" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="364" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="368" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="374" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
@@ -363,13 +358,18 @@
       <jump line="44" column="23" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
       <jump line="122" column="34" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
       <jump line="27" column="0" filename="$USER_HOME$/src/projects/tic-tac-toe/src/index.js" />
+      <jump line="186" column="57" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="120" column="79" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
+      <jump line="210" column="31" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>remove</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>this.state</text>
@@ -378,31 +378,31 @@
         <text encoding="base64">Y29uc3QgREVGQVVMVF9SRURJU19UVEwgPSA1ICogMjQgKiA2MCAqIDYwOyAvLyA1IGRheXMgaW4gc2Vjb25kcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4gSU4gUkVTVUxUIFxuXG5cbicpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xnCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5oZXJlCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IGdldEFjY2Vzc1Rva2VuID0gKGFjY2Vzc1Rva2VuKSA9PiB7CiAgICAgICAgY29uc3QgdmFsaWRBY2Nlc3NUb2tlbiA9ICdhYmNkZTEyMzQ1JzsKCiAgICAgICAgaWYgKF8uaXNVbmRlZmluZWQoYWNjZXNzVG9rZW4pKSB7CiAgICAgICAgICAgIHJldHVybiB2YWxpZEFjY2Vzc1Rva2VuOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGFjY2Vzc1Rva2VuOwogICAgfTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGdldEFjY2Vzc1Rva2VuID0gKGFjY2Vzc1Rva2VuKSA9PiB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IEhFQURFUl9BUFBMSUNBVElPTl9KU09OID0gJ2FwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgnOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuc3RhdHVzKDIwMCkuanNvbihwYXlsb2FkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbWQ1ID0gcmVxdWlyZSgnbWQ1Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJtZDUiOiAiXjIuMi4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGVuKCgpID0+IHt9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbWQ1ID0gcmVxdWlyZSgnbWQ1Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
