@@ -163,6 +163,7 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510263072620" />
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -292,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="49" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="51" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="69" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
@@ -392,6 +392,7 @@
       <jump line="61" column="17" filename="$USER_HOME$/src/services/service-app-gateway/node/test/response_test.js" />
       <jump line="69" column="17" filename="$USER_HOME$/src/services/service-app-gateway/node/test/response_test.js" />
       <jump line="77" column="17" filename="$USER_HOME$/src/services/service-app-gateway/node/test/response_test.js" />
+      <jump line="38" column="8" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
