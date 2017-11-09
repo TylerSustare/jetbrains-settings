@@ -279,6 +279,13 @@
         <mark key="^" line="116" column="3" />
         <mark key="." line="116" column="3" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1510271007472">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="104" column="11" />
+        <mark key="]" line="104" column="10" />
+        <mark key="." line="104" column="10" />
+        <mark key="^" line="104" column="10" />
+      </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="38" />
@@ -304,8 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="86" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="87" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="89" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="95" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
@@ -404,13 +409,15 @@
       <jump line="10" column="34" filename="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/api.js" />
       <jump line="13" column="16" filename="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/api.js" />
       <jump line="5" column="27" filename="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/api.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
+      <jump line="202" column="0" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>recipientId</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>recipientId</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>recip</text>
