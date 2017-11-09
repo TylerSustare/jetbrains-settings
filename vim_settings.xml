@@ -195,7 +195,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="22" column="78" />
       </file>
-      <file name="/JavaScript Console" timestamp="1509038123342">
+      <file name="/JavaScript Console" timestamp="1510187938252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -227,6 +227,13 @@
       </file>
       <file name="/Dummy.txt" timestamp="1510177330059">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/tic-tac-toe/src/index.js" timestamp="1510188151124">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/leaderboard_test.js" timestamp="1507851890542">
         <mark key="'" line="841" column="32" />
@@ -280,10 +287,8 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/compatibility_test.js" timestamp="1510177356840" />
     </filemarks>
     <jumps>
-      <jump line="339" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="345" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="351" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
       <jump line="352" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
@@ -383,6 +388,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
       <jump line="44" column="23" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
       <jump line="122" column="34" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/src/projects/tic-tac-toe/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -392,7 +398,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PjM=</text>
+        <text>this.state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgREVGQVVMVF9SRURJU19UVEwgPSA1ICogMjQgKiA2MCAqIDYwOyAvLyA1IGRheXMgaW4gc2Vjb25kcwo=</text>
@@ -429,15 +435,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PjM=</last-search>
+      <last-search>this.state</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PjM=</last-pattern>
+      <last-pattern>this.state</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>accessToken</entry>
         <entry>it</entry>
         <entry>accessTo</entry>
         <entry>it(</entry>
@@ -457,6 +462,7 @@
         <entry>only</entry>
         <entry>req.param(</entry>
         <entry encoding="base64">PjM=</entry>
+        <entry>this.state</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
