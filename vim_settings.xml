@@ -115,6 +115,13 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" timestamp="1510271360065">
+        <mark key="'" line="165" column="14" />
+        <mark key="[" line="167" column="14" />
+        <mark key="]" line="167" column="14" />
+        <mark key="." line="167" column="16" />
+        <mark key="^" line="28" column="10" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/package.json" timestamp="1505342522907">
         <mark key="'" line="43" column="33" />
         <mark key="[" line="62" column="16" />
@@ -136,6 +143,12 @@
         <mark key="]" line="49" column="58" />
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/util/connections.js" timestamp="1510271247826">
+        <mark key="[" line="64" column="28" />
+        <mark key="]" line="64" column="27" />
+        <mark key="^" line="64" column="27" />
+        <mark key="." line="64" column="27" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/middleware.js" timestamp="1507930362410">
         <mark key="[" line="17" column="0" />
@@ -279,7 +292,7 @@
         <mark key="^" line="116" column="3" />
         <mark key="." line="116" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1510271007472">
+      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1510271157276">
         <mark key="'" line="202" column="0" />
         <mark key="[" line="104" column="11" />
         <mark key="]" line="104" column="10" />
@@ -311,30 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="18" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="89" column="14" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="95" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="99" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="103" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="107" column="21" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="126" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="131" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="136" column="24" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="143" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="150" column="9" filename="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions_with_non_ascii.js" />
-      <jump line="40" column="10" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="154" column="4" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="370" column="4" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="581" column="53" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="387" column="6" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="1431" column="8" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="1433" column="33" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="1728" column="99" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="1759" column="8" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="1761" column="33" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="1898" column="93" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="81" column="8" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
       <jump line="83" column="33" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
       <jump line="373" column="8" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
       <jump line="376" column="33" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
@@ -411,16 +400,40 @@
       <jump line="5" column="27" filename="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/api.js" />
       <jump line="12" column="8" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
       <jump line="202" column="0" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
+      <jump line="51" column="24" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="6" column="4" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="12" column="12" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="16" column="12" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="17" column="12" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="31" column="20" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="28" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="23" column="22" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="46" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="53" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="59" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="66" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="74" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="94" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="95" column="10" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="116" column="18" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="117" column="18" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="127" column="18" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="132" column="18" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="165" column="14" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>t connectionStrings</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>t connectionStrings</text>
       </register>
       <register name="/" type="4">
-        <text>recip</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgREVGQVVMVF9SRURJU19UVEwgPSA1ICogMjQgKiA2MCAqIDYwOyAvLyA1IGRheXMgaW4gc2Vjb25kcwo=</text>
@@ -457,15 +470,14 @@
       </register>
     </registers>
     <search>
-      <last-search>recip</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>recip</last-pattern>
+      <last-pattern>var</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feature_fl</entry>
         <entry>string</entry>
         <entry>update</entry>
         <entry>featureFlagName</entry>
@@ -485,6 +497,7 @@
         <entry>ert</entry>
         <entry>Sould</entry>
         <entry>recip</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
