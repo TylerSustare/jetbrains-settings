@@ -42,6 +42,12 @@
         <mark key="^" line="195" column="24" />
         <mark key="." line="195" column="24" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/woodhouse/client_test.js" timestamp="1510336086553">
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="76" column="12" />
+        <mark key="." line="76" column="12" />
+        <mark key="^" line="76" column="15" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/config/prod.json" timestamp="1505254925848">
         <mark key="'" line="2" column="39" />
         <mark key="[" line="3" column="40" />
@@ -143,12 +149,6 @@
         <mark key="]" line="49" column="58" />
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/util/connections.js" timestamp="1510271247826">
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="64" column="27" />
-        <mark key="^" line="64" column="27" />
-        <mark key="." line="64" column="27" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/middleware.js" timestamp="1507930362410">
         <mark key="[" line="17" column="0" />
@@ -278,6 +278,12 @@
         <mark key="." line="187" column="141" />
         <mark key="^" line="187" column="141" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/client_test.js" timestamp="1510335595253">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/test/response_test.js" timestamp="1510250410314">
         <mark key="'" line="77" column="17" />
         <mark key="[" line="85" column="17" />
@@ -324,8 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="33" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
-      <jump line="373" column="8" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
       <jump line="376" column="33" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
       <jump line="547" column="71" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
       <jump line="841" column="8" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
@@ -424,16 +428,18 @@
       <jump line="127" column="18" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
       <jump line="132" column="18" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
       <jump line="165" column="14" filename="$USER_HOME$/src/services/service-auth/node/util/dbconnector.js" />
+      <jump line="24" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/client_test.js" />
+      <jump line="65" column="12" filename="$USER_HOME$/src/services/service-auth/node/test/api/client_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t connectionStrings</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>t connectionStrings</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>testUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgREVGQVVMVF9SRURJU19UVEwgPSA1ICogMjQgKiA2MCAqIDYwOyAvLyA1IGRheXMgaW4gc2Vjb25kcwo=</text>
@@ -442,43 +448,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEhFQURFUl9BUFBMSUNBVElPTl9KU09OID0gJ2FwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEhFQURFUl9BUFBMSUNBVElPTl9KU09OID0gJ2FwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgnOwoK</text>
+        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gY2hhaS5hc3NlcnQ7CmNvbnN0IF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWNjZXNzVG9rZW47Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IEhFQURFUl9BUFBMSUNBVElPTl9KU09OID0gJ2FwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgnOwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>testUser</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>testUser</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>string</entry>
         <entry>update</entry>
         <entry>featureFlagName</entry>
         <entry>`</entry>
@@ -498,6 +503,7 @@
         <entry>Sould</entry>
         <entry>recip</entry>
         <entry>var</entry>
+        <entry>testUser</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
