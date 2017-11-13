@@ -133,15 +133,21 @@
         <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/publish_email.js" timestamp="1510352930273">
-        <mark key="[" line="207" column="12" />
-        <mark key="]" line="207" column="16" />
-        <mark key="^" line="207" column="16" />
-        <mark key="." line="207" column="16" />
+        <mark key="[" line="194" column="12" />
+        <mark key="]" line="194" column="16" />
+        <mark key="^" line="194" column="16" />
+        <mark key="." line="194" column="16" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-feature-flag-service-client-nodejs/package.json" timestamp="1507869994622">
         <mark key="[" line="25" column="18" />
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510596791546">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
         <mark key="[" line="7" column="21" />
@@ -437,11 +443,11 @@
       <jump line="21" column="13" filename="$USER_HOME$/src/services/service-auth/node/lib/migration.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+      <register name="&quot;" type="4">
+        <text>files,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>files,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGNoYW5nZVw+</text>
@@ -449,11 +455,11 @@
       <register name="0" type="4">
         <text encoding="base64">YWNjZXNzaWJsZSA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29uc3QgZ2V0Um91dGVzID0gZnVuY3Rpb24gKHBhdGgpIHsKICAgIGNvbnN0IHJvdXRlcyA9IFtdOwogICAgY29uc3QgdHJhdmVyc2VGaWxlU3lzdGVtID0gZnVuY3Rpb24gKGN1cnJlbnRQYXRoKSB7CiAgICAgICAgY29uc3QgZmlsZXMgPSBmcy5yZWFkZGlyU3luYyhjdXJyZW50UGF0aCk7CiAgICAgICAgLy8gZm9yIChjb25zdCBpIGluIGZpbGVzKSB7CiAgICAgICAgXy5mb0FJaChmaWxlcywpCiAgICAgICAgICAgIGlmIChmaWxlcy5oYXNPd25Qcm9wZXJ0eShpKSkgewogICAgICAgICAgICAgICAgY29uc3QgY3VycmVudEZpbGUgPSBgJHtjdXJyZW50UGF0aH0vJHtmaWxlc1tpXX1gOwogICAgICAgICAgICAgICAgY29uc3Qgc3RhdHMgPSBmcy5zdGF0U3luYyhjdXJyZW50RmlsZSk7CiAgICAgICAgICAgICAgICBpZiAoc3RhdHMuaXNGaWxlKCkgJiYgKC9cLihqcykkL2kpLnRlc3QoY3VycmVudEZpbGUpICYmIGN1cnJlbnRGaWxlICE9PSBfX2ZpbGVuYW1lKSB7CiAgICAgICAgICAgICAgICAgICAgcm91dGVzLnB1c2goY3VycmVudEZpbGUpOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmIChzdGF0cy5pc0RpcmVjdG9yeSgpICYmIGZpbGVzW2ldICE9PSAndXRpbHMnKSB7CiAgICAgICAgICAgICAgICAgICAgdHJhdmVyc2VGaWxlU3lzdGVtKGN1cnJlbnRGaWxlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH07CiAgICB0cmF2ZXJzZUZpbGVTeXN0ZW0ocGF0aCk7CiAgICByZXR1cm4gcm91dGVzOwp9Ow==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
@@ -462,16 +468,16 @@
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
