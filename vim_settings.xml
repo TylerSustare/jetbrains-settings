@@ -107,12 +107,12 @@
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510639921525">
-        <mark key="'" line="122" column="11" />
-        <mark key="[" line="133" column="16" />
-        <mark key="]" line="133" column="37" />
-        <mark key="." line="133" column="16" />
-        <mark key="^" line="133" column="34" />
+      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
+        <mark key="'" line="58" column="13" />
+        <mark key="[" line="136" column="14" />
+        <mark key="]" line="136" column="14" />
+        <mark key="." line="136" column="14" />
+        <mark key="^" line="136" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -140,12 +140,12 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1510640957334">
+      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1510696782905">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="369" column="33" />
-        <mark key="]" line="369" column="33" />
-        <mark key="^" line="363" column="29" />
-        <mark key="." line="369" column="33" />
+        <mark key="[" line="363" column="19" />
+        <mark key="]" line="363" column="23" />
+        <mark key="^" line="363" column="23" />
+        <mark key="." line="363" column="23" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-www-invoice-change-router/node/package.json" timestamp="1507849112323">
         <mark key="[" line="2" column="19" />
@@ -379,14 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="35" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="597" column="47" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="458" column="37" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="459" column="35" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="608" column="84" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="6" column="21" filename="$USER_HOME$/src/services/service-auth/node/lib/token.js" />
-      <jump line="9" column="20" filename="$USER_HOME$/src/services/service-auth/node/lib/token.js" />
-      <jump line="10" column="24" filename="$USER_HOME$/src/services/service-auth/node/lib/token.js" />
       <jump line="11" column="22" filename="$USER_HOME$/src/services/service-auth/node/lib/token.js" />
       <jump line="12" column="22" filename="$USER_HOME$/src/services/service-auth/node/lib/token.js" />
       <jump line="14" column="5" filename="$USER_HOME$/src/services/service-auth/node/lib/token.js" />
@@ -442,21 +434,18 @@
       <jump line="32" column="25" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="13" column="14" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="109" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
-      <jump line="124" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="11" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="25" column="4" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="39" column="4" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="40" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="42" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="43" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
-      <jump line="58" column="47" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="59" column="39" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="73" column="23" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="125" column="14" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="144" column="82" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="133" column="11" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="138" column="26" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="7" column="9" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="122" column="11" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="220" column="32" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
@@ -479,16 +468,27 @@
       <jump line="602" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="1440" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
+      <jump line="143" column="16" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="145" column="82" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="72" column="23" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="124" column="14" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="147" column="48" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="148" column="74" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="150" column="70" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="38" column="59" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="58" column="13" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.body.url</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.body.url</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>\.get</text>
+        <text>memberId</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICBhZ2VudAogICAgICAgICAgICAuZ2V0KGRvd25sb2FkVVJMUmVxdWVzdFBhdGgpCiAgICAgICAgICAgIC5xdWVyeSh7IGFjY2Vzc190b2tlbjogYWNjZXNzVG9rZW4sIGxpY2Vuc2VfaWQ6IGxpY2Vuc2VJZCwgcXVhbGl0eUxldmVsOiBxdWFsaXR5TGV2ZWwgfSkKICAgICAgICAgICAgLmVuZChmdW5jdGlvbiAoZXJyLCByZXMpIHsKICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5zdGFjayk7CiAgICAgICAgICAgICAgICAgICAgZGVmZXIucmVqZWN0KGVycik7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgZGVmZXIucmVzb2x2ZShyZXMuYm9keS51cmwpOwogICAgICAgICAgICB9KTsK</text>
@@ -525,16 +525,14 @@
       </register>
     </registers>
     <search>
-      <last-search>\.get</last-search>
+      <last-search>memberId</last-search>
       <last-offset />
-      <last-pattern>\.get</last-pattern>
+      <last-pattern>memberId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\,</entry>
-        <entry>tokenId</entry>
         <entry>err</entry>
         <entry encoding="base64">XDxleGNoYW5nZVw+</entry>
         <entry>;</entry>
@@ -553,6 +551,8 @@
         <entry>member</entry>
         <entry>get</entry>
         <entry>\.get</entry>
+        <entry>getTokenForUser</entry>
+        <entry>memberId</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
