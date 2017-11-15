@@ -306,9 +306,9 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/default.js" timestamp="1510766806835">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="98" column="4" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/default.js" timestamp="1510771713434">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="114" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1510097216111">
         <mark key="[" line="187" column="141" />
@@ -321,12 +321,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1510767344223">
-        <mark key="'" line="68" column="20" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="1" />
-        <mark key="^" line="62" column="5" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1510771735930">
+        <mark key="'" line="88" column="20" />
+        <mark key="[" line="88" column="89" />
+        <mark key="]" line="88" column="90" />
+        <mark key="." line="88" column="90" />
+        <mark key="^" line="90" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/sqs.js" timestamp="1510352120417">
         <mark key="[" line="3" column="0" />
@@ -379,12 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="58" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="5" column="22" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="12" column="16" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="16" column="43" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="18" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="23" column="26" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="25" column="23" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="26" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="27" column="4" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
@@ -451,7 +445,6 @@
       <jump line="45" column="21" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="46" column="45" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="47" column="22" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="1" column="13" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="64" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="59" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="55" column="14" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
@@ -479,10 +472,17 @@
       <jump line="66" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="65" column="26" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="70" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
+      <jump line="91" column="4" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
+      <jump line="1" column="13" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
+      <jump line="92" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
+      <jump line="90" column="26" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
+      <jump line="89" column="24" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
+      <jump line="87" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
+      <jump line="88" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -491,34 +491,34 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJlZ2lvbjogJ3VzLWVhc3QtMScsCiAgICBxdWV1ZVVybDogJ2h0dHBzOi8vc3FzLnVzLWVhc3QtMS5hbWF6b25hd3MuY29tLzgwMDgzMDYzMzU4MS9xYS1hdXRoLXVzZXJFeHBvcnRzJywKICAgIHdhaXRUaW1lU2Vjb25kczogMTAsCiAgICB2aXNpYmlsaXR5VGltZW91dDogMTIwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGFwcHNDbGllbnRJZHNGb3JBY2NvdW50Q3JlYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9ydDogMzAwMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gMSBociBpbiBtcwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIGFwcHNDbGllbnRJZHNGb3JBY2NvdW50Q3JlYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTAwMCwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBtcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNjAKICAgICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gMSBociBpbiBtcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgNjAKICAgICAgICAgICAgKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAwMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMQogICAgICAgICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgNjAKICAgICAgICAgICAgKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpcmVob3NlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgNjAKICAgICAgICAgICAgKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMQogICAgICAgICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
