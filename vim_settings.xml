@@ -321,12 +321,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1510621325814">
+      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1510766129376">
         <mark key="'" line="32" column="25" />
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="21" />
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/sqs.js" timestamp="1510352120417">
         <mark key="[" line="3" column="0" />
@@ -481,8 +481,8 @@
       <jump line="58" column="13" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -494,31 +494,31 @@
         <text encoding="base64">ICAgICAgICBhZ2VudAogICAgICAgICAgICAuZ2V0KGRvd25sb2FkVVJMUmVxdWVzdFBhdGgpCiAgICAgICAgICAgIC5xdWVyeSh7IGFjY2Vzc190b2tlbjogYWNjZXNzVG9rZW4sIGxpY2Vuc2VfaWQ6IGxpY2Vuc2VJZCwgcXVhbGl0eUxldmVsOiBxdWFsaXR5TGV2ZWwgfSkKICAgICAgICAgICAgLmVuZChmdW5jdGlvbiAoZXJyLCByZXMpIHsKICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVyci5zdGFjayk7CiAgICAgICAgICAgICAgICAgICAgZGVmZXIucmVqZWN0KGVycik7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgZGVmZXIucmVzb2x2ZShyZXMuYm9keS51cmwpOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIuc3RhY2spOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VudAogICAgICAgICAgICAuZ2V0KCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIuc3RhY2spOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhZ2VudAogICAgICAgICAgICAuZ2V0KCkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpc0xlZ2FjeSAhPT0gbnVsbCAmJiB0eXBlb2YoaXNMZWdhY3kpID09PSAiYm9vbGVhbiIpewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpc0xlZ2FjeSl7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihpc0xlZ2FjeSAhPT0gbnVsbCAmJiB0eXBlb2YoaXNMZWdhY3kpID09PSAiYm9vbGVhbiIpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihpc0xlZ2FjeSl7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVnYWN5OiBpc0xlZ2FjeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ2V0TWVtYmVyQnlFbWFpbFBhdGggPSBjb25maWcubWVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGVnYWN5OiBpc0xlZ2FjeQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
