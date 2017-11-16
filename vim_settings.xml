@@ -29,7 +29,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1510868400120" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/package.json" timestamp="1510176031695">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -213,8 +212,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510868427899">
-        <mark key="'" line="49" column="35" />
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510875130646">
+        <mark key="'" line="178" column="24" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="26" column="7" />
+        <mark key="." line="26" column="7" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -234,7 +237,6 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/views/index.html" timestamp="1510868607815" />
       <file name="$USER_HOME$/src/services/service-quiz/node/app.js" timestamp="1509032203227">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="52" />
@@ -330,7 +332,6 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1510868538429" />
       <file name="$USER_HOME$/src/services/service-auth/node/lib/sqs.js" timestamp="1510352120417">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -382,9 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="44" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="54" column="38" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="56" column="32" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="57" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="58" column="33" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="60" column="40" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
@@ -482,13 +480,16 @@
       <jump line="71" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="49" column="35" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
       <jump line="38" column="5" filename="$USER_HOME$/src/services/service-auth/node/routes/index.js" />
+      <jump line="19" column="24" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
+      <jump line="155" column="24" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prefix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaCggZSA9PiB7fSkK</text>
       </register>
       <register name="-" type="4">
-        <text>prefix</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>web.admin</text>
@@ -497,31 +498,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2ZXJzaW9uIiwK</text>
+        <text encoding="base64">ICAgIC5jYXRjaCggZSA9PiB7fSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2ZXJzaW9uIiwKICAgICAgICAgICAgICAgICJwcmVmaXgiCg==</text>
+        <text encoding="base64">ICAgICAgICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAicHJlZml4Ijogewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2ZXJzaW9uIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
+        <text encoding="base64">ICAgICAgICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2ZXJzaW9uIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAicHJlZml4Ijogewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAidmVyc2lvbiI6ICJ2MSIsCiAgICAgICAgInByZWZpeCI6ICJhdXRoIgo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAidmVyc2lvbiI6ICJ2MSIsCiAgICAgICAgInByZWZpeCI6ICJhdXRoIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2ZXJzaW9uIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
