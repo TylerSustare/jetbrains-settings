@@ -62,12 +62,12 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1510852266777">
-        <mark key="'" line="116" column="34" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="116" column="34" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1510853592891">
+        <mark key="'" line="105" column="8" />
+        <mark key="[" line="72" column="35" />
+        <mark key="]" line="72" column="35" />
+        <mark key="." line="72" column="35" />
+        <mark key="^" line="72" column="35" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
@@ -357,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="48" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="148" column="74" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="150" column="70" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="38" column="59" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
@@ -417,10 +416,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="74" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="107" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="109" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="115" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="117" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="119" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="121" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="123" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="125" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
@@ -437,14 +434,10 @@
       <jump line="151" column="8" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="137" column="35" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="139" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="103" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="104" column="44" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="106" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="79" column="5" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="105" column="46" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="108" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="111" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="113" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="110" column="40" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="112" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
@@ -457,16 +450,23 @@
       <jump line="126" column="61" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="127" column="58" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="128" column="66" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
+      <jump line="119" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
+      <jump line="104" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
+      <jump line="111" column="12" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
+      <jump line="124" column="21" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
+      <jump line="109" column="12" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
+      <jump line="105" column="8" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBRdWl6IE1hbmFnZW1lbnQK</text>
+      <register name="&quot;" type="4">
+        <text>TodoService</text>
       </register>
       <register name="-" type="4">
         <text>TodoService</text>
       </register>
       <register name="/" type="4">
-        <text>eport</text>
+        <text>Todo</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICdjNTY5OWVlMzg1NjhjMjAyNDc0MTliZjBhMWFmZTk4YTRmYjRlYThiJywgLy8gTm90aWZpY2F0aW9uIFNlcnZpY2UKICAgICdkNGRiY2U2NzlkNmU4MDZhYWRlZWRlZTdjNWU0MjM1MWQ2YzBhMjg3JywgLy8gUmVwb3J0IFNlcnZpY2UKICAgICc1NmRkMDVhZWYyZDE2ODIyN2ViY2U5MWFiNjE2ZDVjMTZhMzI5NWMyJywgLy8gVmlkZW8gSGlzdG9yaWNhbCBTZXJ2aWNlCiAgICAnNGY1YjlhZTNlZjMzMDZhYjg5OWUwNmIyYmMwMzUyNzJmYTQxOWI5NicsIC8vIEV4YW0gU2VydmljZQogICAgJ2ViYWZjOGU4NzkxNjM4ZWE1NzAwZmI5YzM3ZjFlNTQzNTEzN2I0NTknLCAvLyBTdHVkaW8gRnJvbnRlbmQgU2VydmljZQogICAgJ2M0MzgwNjMyNTkwN2QzMzlmZDRjYTBmYjJkNzE4Yjc0MjE5ZDk5NzAnLCAgLy8gUmVwb3J0IERhdGEgUHJvY2Vzc29yIExhbWJkYSAodG9kbzogcmVtb3ZlKSkKICAgICc3MzVkYWJjODUwZTZmZTVkZDA3YzQyMzAyZmFkZWE4OGM0ZWQ4NWE1JywgIC8vIE5MUyBQYWNrYWdlciBTZXJ2aWNlCiAgICAnOWNjZDU5ZDdhMTYzNGJmOTdhMTE3ODlmMDVlMDdkNGI2ZTUxN2I5OScsICAvLyBWaWRlbyBFbmNvZGVyIFNlcnZpY2UKICAgICc1YTcxNDJlMTQyZjI3ZWIwZWU5YjYzOGYwYzdjZDQyZDBlOTBmNzdlJywgIC8vIENlcnRpZmljYXRpb24gUHJvdmlkZXIgU2VydmljZQogICAgJ2ZjMzI2MGZiZjhhNTAzZmY4MjU2NGQ5NTQzZDVkM2E4YWQyODlmMzYnLCAgLy8gQ2VydGlmaWNhdGUgU2VydmljZQogICAgJzYwMWZmODlkNjhlZTdmODk3M2E4MmIwMDZmMjk5ZTAxZWI3MWNkZjQnLCAgLy8gUXVpeiBNYW5hZ2VtZW50CiAgICAnNGY1YjlhZTNlZjMzMDZhYjg5OWUwNmIyYmMwMzUyNzJmYTQxOWI5NicsICAvLyBFeGFtIFByb3ZpZGVyIFNlcnZpY2UKICAgICdlNGM3NDkzNDNlYjA1MWI0ZTcyYzEyYzVkZTIzM2Y2NThjMWU5YmYwJywgIC8vIFVwZGF0ZWQgRXhhbSBQcm92aWRlciBTZXJ2aWNlCiAgICAnYjhmZDRkMzgyZmZlYmUyNWZkOWUyOTAwOWE5MjdiZjIyNWQwNThhYicsICAvLyBNZW1iZXIgU2VydmljZQogICAgJzRmNzQ2ZmRhZjZiNjYwZGU2YzcwZWQ1Y2IwNGIzN2NiZDg4MTRkYzAnLCAgLy8gU2NoZWR1bGUgUmVwb3J0IFNlcnZpY2UgKHRvZG86IHJlbW92ZSkKICAgICc1MDA0MTJiOWY1M2U1M2FkYmYwOTcxODQ2NTU3NTBiNmNlYmY1OGFjJywgIC8vIFNpdGUtZ2F0ZXdheSBTZXJ2aWNlCiAgICAnM2FmY2Q4M2ViNDBhZmEzYzg5MjIwYmMxNDcyYzkyYzFhZjBkZGU1YycsICAvLyBsYW1iZGEtcmVwb3J0LXByb3ZpZGVyLCByZXBvcnREYXRhUHJvY2Vzc29yCiAgICAnODYzMjE1ZGY4MDBjMmRmZjE5YzEwY2FiMTE1MDQ5OTJiZjU1YzJkYScsICAvLyBzZXJ2aWNlLXJlcG9ydAogICAgJ2YzODU2Y2U1YzgyZTEyOTdiZjkyZjg0NzdlODhhMDdhNGU0NmFhNzgnLCAgLy8gdGFzay1yZXBvcnQtcHJvY2Vzc29yCiAgICAnNmJiZDgwZDgzNGNkMDBjMTZhZDc1MjJmNGQzMDFlNjlhZmQzMWJkMCcsICAvLyBzZXJ2aWNlLXF1aXotcmVwb3J0CiAgICAnNzdhNTBlZTEyNWQ0ZTg0ZTc0ZDdjNTVjMjhlNWVhNGYxODE1MTM0NycsICAvLyB3b3JrZXItYXV0aC1wYXltZW50cwogICAgJ2Q5MjQ4ZWZlOTlhNGJkNDkzOWM1NGI2NmUyMTNjOTBkNjQ0NzUzOGInLCAgLy8gd29ya2VyLWF1dGgtcGF5bWVudHMtbGVnYWN5CiAgICAnZWVlZTQ4MWVmYjg5ZmFjYmZlYWU2ZDE3N2Q0MmM1YzQxZGYxZDdhYicsICAvLyB3b3JrZXItcGF5bWVudC1wcm92aWRlci1yZWN1cnJpbmctcGF5bWVudC1hdWRpdG9yCiAgICAnZmI0MTM2ZjU0Y2JhNWUyYTM1NGQxMDVlNTU3ZGE2M2U3YTQ4Mzg3OScsICAvLyBNZWRpYSBTZXJ2aWNlCiAgICAnMmFiZmQyNDc0Y2U1MmY1YjViYjdmNmZiNGEyNGEzZDgzM2I5NjQ2MScgIC8vIHNlcnZpY2UtYXV0aC1nYXRld2F5</text>
@@ -503,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eport</last-search>
+      <last-search>Todo</last-search>
       <last-offset />
-      <last-pattern>eport</last-pattern>
+      <last-pattern>Todo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -529,8 +529,8 @@
         <entry>ratelimite</entry>
         <entry>rate</entry>
         <entry>'</entry>
-        <entry>Todo</entry>
         <entry>eport</entry>
+        <entry>Todo</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
