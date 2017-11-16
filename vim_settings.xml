@@ -29,6 +29,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1510868400120" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/package.json" timestamp="1510176031695">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -158,11 +159,12 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510603004477">
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
+        <mark key="'" line="46" column="5" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
         <mark key="[" line="7" column="21" />
@@ -211,7 +213,7 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510860301910">
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510868427899">
         <mark key="'" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
@@ -232,6 +234,7 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/views/index.html" timestamp="1510868607815" />
       <file name="$USER_HOME$/src/services/service-quiz/node/app.js" timestamp="1509032203227">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="52" />
@@ -327,6 +330,7 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1510868538429" />
       <file name="$USER_HOME$/src/services/service-auth/node/lib/sqs.js" timestamp="1510352120417">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -378,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="33" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="53" column="44" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="54" column="38" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
       <jump line="56" column="32" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
@@ -478,6 +481,7 @@
       <jump line="23" column="27" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="71" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="49" column="35" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
+      <jump line="38" column="5" filename="$USER_HOME$/src/services/service-auth/node/routes/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
