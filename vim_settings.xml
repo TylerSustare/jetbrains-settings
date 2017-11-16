@@ -131,10 +131,10 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/index.js" timestamp="1510773517070">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/index.js" timestamp="1510863052603">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1510696782905">
         <mark key="'" line="0" column="0" />
@@ -481,7 +481,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ3ZWIiOiB7CiAgICB9LAo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -493,31 +493,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ3ZWIiOiB7CiAgICB9LAo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiYWRtaW4iOiB7CiAgICAgICAgICAgICJwb3J0IjogMzAwMQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICJ3ZWIiOiB7CiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cCI6IHsK</text>
+        <text encoding="base64">ICAgICAgICAiYWRtaW4iOiB7CiAgICAgICAgICAgICJwb3J0IjogMzAwMQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhvc3QiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cCI6IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImhvc3QiOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ3ZWIiOiB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
