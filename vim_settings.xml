@@ -81,18 +81,19 @@
         <mark key="^" line="41" column="56" />
         <mark key="." line="40" column="60" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1510940578291">
-        <mark key="'" line="334" column="28" />
-        <mark key="[" line="342" column="25" />
-        <mark key="]" line="344" column="41" />
-        <mark key="." line="344" column="41" />
-        <mark key="^" line="344" column="41" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1510945226642">
+        <mark key="'" line="331" column="28" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="341" column="41" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/index.css" timestamp="1510375915056">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/jsonschema/lib/validator.js" timestamp="1510945033041" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
         <mark key="'" line="58" column="13" />
         <mark key="[" line="136" column="14" />
@@ -249,7 +250,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1510940883894">
+      <file name="/JavaScript Console" timestamp="1510945565702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -278,7 +279,7 @@
         <mark key="." line="36" column="5" />
         <mark key="^" line="36" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510860360709">
+      <file name="/Dummy.txt" timestamp="1510945045009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
@@ -487,7 +488,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="-" type="4">
         <text>string</text>
@@ -499,10 +500,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidHlwZSI6InN0cmluZyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInJlcXVpcmVkIjogWwogICAgICAgICAgICAgICAgImh0dHAiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -517,13 +518,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFeHByZXNzQXBwQ29yZS5nZXRJbnN0YW5jZSgpLmxvZ2dlci5lcnJvcihlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBFeHByZXNzQXBwQ29yZS5nZXRJbnN0YW5jZSgpLmxvZ2dlci5lcnJvcihlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -566,6 +567,7 @@
         <entry>/id</entry>
         <entry>wq</entry>
         <entry>vsp</entry>
+        <entry>272</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
