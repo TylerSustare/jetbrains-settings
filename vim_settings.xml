@@ -81,19 +81,16 @@
         <mark key="^" line="41" column="56" />
         <mark key="." line="40" column="60" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1510951712825">
-        <mark key="'" line="327" column="66" />
-        <mark key="[" line="336" column="0" />
-        <mark key="]" line="336" column="0" />
-        <mark key="^" line="279" column="36" />
-        <mark key="." line="336" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1510953326947">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/index.css" timestamp="1510375915056">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/jsonschema/lib/validator.js" timestamp="1510952427273" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
         <mark key="'" line="58" column="13" />
         <mark key="[" line="136" column="14" />
@@ -253,7 +250,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1510951939103">
+      <file name="/JavaScript Console" timestamp="1510952742261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -391,30 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="88" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/default.json" />
-      <jump line="113" column="62" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="51" column="5" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="54" column="35" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="55" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="49" column="27" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="97" column="8" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="96" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="19" column="24" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="100" column="5" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="96" column="4" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="74" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="107" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="121" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="125" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="127" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="129" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="133" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="135" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="141" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="143" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="145" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="147" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="149" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
@@ -491,63 +464,604 @@
       <jump line="318" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="324" column="44" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="327" column="66" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="376" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="427" column="46" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="251" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="50" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="27" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="97" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="115" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="143" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="206" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="229" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="259" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="263" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="423" column="12" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="435" column="46" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="26" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="95" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="112" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="139" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="201" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="223" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="252" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="255" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="415" column="12" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL2F1dGhDbGllbnRJZCIKICAgICAgICAgICAgICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+    &quot;$schema&quot;: &quot;http://json-schema.org/draft-04/schema#&quot;,
+    &quot;title&quot;: &quot;Auth Service Configuration&quot;,
+    &quot;version&quot;: &quot;1.0&quot;,
+    &quot;validation&quot;: &quot;https://www.npmjs.com/package/json-schema&quot;,
+    &quot;type&quot;: &quot;object&quot;,
+    &quot;properties&quot;: {
+        &quot;required&quot;: [
+            &quot;api&quot;,
+            &quot;statsd&quot;,
+            &quot;logging&quot;,
+            &quot;redis&quot;,
+            &quot;mongodb&quot;,
+            &quot;cache&quot;,
+            &quot;rateLimiter&quot;,
+            &quot;cookie&quot;,
+            &quot;session&quot;,
+            &quot;rabbit&quot;
+        ],
+        &quot;api&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;http&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;host&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;port&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    },
+                    &quot;required&quot;: [
+                        &quot;host&quot;,
+                        &quot;port&quot;
+                    ]
+                }
+            },
+            &quot;oneOf&quot;: [
+                {
+                    &quot;required&quot;: [
+                        &quot;http&quot;
+                    ]
+                }
+            ]
+        },
+        &quot;aws&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;region&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;sqs&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;region&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;queueUrl&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;waitTime&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;waitTimeSeconds&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;visibilityTimeout&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    }
+                },
+                &quot;mailer&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;key&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;secret&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        }
+                    }
+                }
+            },
+            &quot;required&quot;: [
+                &quot;region&quot;
+            ]
+        },
+        &quot;logging&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;logstash&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;host&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;port&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    },
+                    &quot;required&quot;: [
+                        &quot;host&quot;,
+                        &quot;port&quot;
+                    ]
+                }
+            }
+        },
+        &quot;statsd&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;host&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;port&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;host&quot;,
+                &quot;port&quot;
+            ]
+        },
+        &quot;rateLimiter&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;namespace&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;interval&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;maxInInterval&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;redis&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;host&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;port&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;connectionTimeout&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;connectMaxAttempts&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;db&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    },
+                    &quot;required&quot;: [
+                        &quot;host&quot;,
+                        &quot;port&quot;
+                    ]
+                }
+            },
+            &quot;required&quot;: [
+                &quot;namespace&quot;,
+                &quot;interval&quot;,
+                &quot;maxInInterval&quot;,
+                &quot;redis&quot;
+            ]
+        },
+        &quot;cbtnAuth&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;clientId&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;clientSecret&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;clientId&quot;,
+                &quot;clientSecret&quot;
+            ]
+        },
+        &quot;mongodb&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;timeoutInMS&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;dbname&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;username&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;password&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;port&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;replicaSet&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;host&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;hosts&quot;: {
+                    &quot;type&quot;: &quot;list&quot;
+                },
+                &quot;connectionType&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;dbname&quot;,
+                &quot;port&quot;,
+                &quot;replicaSet&quot;
+            ]
+        },
+        &quot;redis&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;host&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;port&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;db&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;host&quot;,
+                &quot;port&quot;
+            ]
+        },
+        &quot;cache&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;awsBucket&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;awsPrefix&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            }
+        },
+        &quot;kinesisStreams&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;loginAttempts&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;createAttempts&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            },
+            &quot;additionalProperties&quot;: false,
+            &quot;minProperties&quot;: 1
+        },</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>#/definitions/nonEmptyString</text>
       </register>
       <register name="/" type="4">
-        <text>Todo</text>
+        <text>EmptyString</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJUb2RvSW50ZXJuYWxTZXJ2aWNlIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvYXV0aENsaWVudElkIgogICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL2F1dGhDbGllbnRJZCIKICAgICAgICAgICAgICAgIH0sCg==</text>
+      <register name="1" type="4">
+        <text>{
+    &quot;$schema&quot;: &quot;http://json-schema.org/draft-04/schema#&quot;,
+    &quot;title&quot;: &quot;Auth Service Configuration&quot;,
+    &quot;version&quot;: &quot;1.0&quot;,
+    &quot;validation&quot;: &quot;https://www.npmjs.com/package/json-schema&quot;,
+    &quot;type&quot;: &quot;object&quot;,
+    &quot;properties&quot;: {
+        &quot;required&quot;: [
+            &quot;api&quot;,
+            &quot;statsd&quot;,
+            &quot;logging&quot;,
+            &quot;redis&quot;,
+            &quot;mongodb&quot;,
+            &quot;cache&quot;,
+            &quot;rateLimiter&quot;,
+            &quot;cookie&quot;,
+            &quot;session&quot;,
+            &quot;rabbit&quot;
+        ],
+        &quot;api&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;http&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;host&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;port&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    },
+                    &quot;required&quot;: [
+                        &quot;host&quot;,
+                        &quot;port&quot;
+                    ]
+                }
+            },
+            &quot;oneOf&quot;: [
+                {
+                    &quot;required&quot;: [
+                        &quot;http&quot;
+                    ]
+                }
+            ]
+        },
+        &quot;aws&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;region&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;sqs&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;region&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;queueUrl&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;waitTime&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;waitTimeSeconds&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;visibilityTimeout&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    }
+                },
+                &quot;mailer&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;key&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;secret&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        }
+                    }
+                }
+            },
+            &quot;required&quot;: [
+                &quot;region&quot;
+            ]
+        },
+        &quot;logging&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;logstash&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;host&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;port&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    },
+                    &quot;required&quot;: [
+                        &quot;host&quot;,
+                        &quot;port&quot;
+                    ]
+                }
+            }
+        },
+        &quot;statsd&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;host&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;port&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;host&quot;,
+                &quot;port&quot;
+            ]
+        },
+        &quot;rateLimiter&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;namespace&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;interval&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;maxInInterval&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;redis&quot;: {
+                    &quot;type&quot;: &quot;object&quot;,
+                    &quot;properties&quot;: {
+                        &quot;host&quot;: {
+                            &quot;type&quot;: &quot;string&quot;
+                        },
+                        &quot;port&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;connectionTimeout&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;connectMaxAttempts&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        },
+                        &quot;db&quot;: {
+                            &quot;type&quot;: &quot;number&quot;
+                        }
+                    },
+                    &quot;required&quot;: [
+                        &quot;host&quot;,
+                        &quot;port&quot;
+                    ]
+                }
+            },
+            &quot;required&quot;: [
+                &quot;namespace&quot;,
+                &quot;interval&quot;,
+                &quot;maxInInterval&quot;,
+                &quot;redis&quot;
+            ]
+        },
+        &quot;cbtnAuth&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;clientId&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;clientSecret&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;clientId&quot;,
+                &quot;clientSecret&quot;
+            ]
+        },
+        &quot;mongodb&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;timeoutInMS&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;dbname&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;username&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;password&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;port&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;replicaSet&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;host&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;hosts&quot;: {
+                    &quot;type&quot;: &quot;list&quot;
+                },
+                &quot;connectionType&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;dbname&quot;,
+                &quot;port&quot;,
+                &quot;replicaSet&quot;
+            ]
+        },
+        &quot;redis&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;host&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;port&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                },
+                &quot;db&quot;: {
+                    &quot;type&quot;: &quot;number&quot;
+                }
+            },
+            &quot;required&quot;: [
+                &quot;host&quot;,
+                &quot;port&quot;
+            ]
+        },
+        &quot;cache&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;awsBucket&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;awsPrefix&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            }
+        },
+        &quot;kinesisStreams&quot;: {
+            &quot;type&quot;: &quot;object&quot;,
+            &quot;properties&quot;: {
+                &quot;loginAttempts&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                },
+                &quot;createAttempts&quot;: {
+                    &quot;type&quot;: &quot;string&quot;
+                }
+            },
+            &quot;additionalProperties&quot;: false,
+            &quot;minProperties&quot;: 1
+        },</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJUb2RvSW50ZXJuYWxTZXJ2aWNlIjogewo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIH0sCiAgICAgICAgInRlc3RTZXJ2ZXJzIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAiYWRkaXRpb25hbFByb3BlcnRpZXMiOiB7CiAgICAgICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAgICAgIiRyZWYiOiAiIy9kZWZpbml0aW9ucy9ob3N0V2l0aFBvcnQiCiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJzZXJ2aWNlSG9zdCI6IHsKICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgIH0sCiAgICAgICAgImNvb2tpZSI6IHsKICAgICAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAgICAgICAiYWRtaW5OYW1lIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAibG9naW5OYW1lIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAic2VjdXJlIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAibWF4QWdlIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAidHRsIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0sCiAgICAgICAgInNlc3Npb24iOiB7CiAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICAgICAgICAgInNlY3JldCI6ICJzdHJpbmciCiAgICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgICJyYWJiaXQiOiB7CiAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICAgICAgICAgImxvZ2luIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAicGFzc3dvcmQiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJzc2wiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJob3N0IjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAicG9ydCI6IHsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJudW1iZXIiCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInJvdXRpbmdfa2V5IjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAiY29uc3VtZXJfdGFnIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAiZW1haWxfYW1xcCI6IHsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAgICAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICAgICAgICAgICAgICAgICAiZXhjaGFuZ2UiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICJyb3V0aW5nX2tleSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0sCiAgICAiZGVmaW5pdGlvbnMiOiB7CiAgICAgICAgIm5vbkVtcHR5U3RyaW5nIjogewogICAgICAgICAgICAidHlwZSI6ICJzdHJpbmciLAogICAgICAgICAgICAibWluTGVuZ3RoIjogMQogICAgICAgIH0sCiAgICAgICAgImF1dGhDbGllbnRJZCI6IHsKICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIiwKICAgICAgICAgICAgInBhdHRlcm4iOiAiXlthLWYwLTldezQwLH0kIgogICAgICAgIH0sCiAgICAgICAgImhvc3RXaXRoUG9ydCI6IHsKICAgICAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAgICAgInByb3BlcnRpZXMiOiB7CiAgICAgICAgICAgICAgICAiaG9zdCI6IHsKICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJwb3J0IjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIm51bWJlciIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInJlcXVpcmVkIjogWwogICAgICAgICAgICAgICAgImhvc3QiLAogICAgICAgICAgICAgICAgInBvcnQiCiAgICAgICAgICAgIF0KICAgICAgICB9CiAgICB9LAogICAgImFkZGl0aW9uYWxQcm9wZXJ0aWVzIjogZmFsc2UKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJtb2RlbHMiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlcXVpcmVkIjogWwogICAgICAgICAgICAgICAgImh0dHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Todo</last-search>
+      <last-search>EmptyString</last-search>
       <last-offset />
-      <last-pattern>Todo</last-pattern>
+      <last-pattern>EmptyString</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getTokenForUser</entry>
-        <entry>memberId</entry>
-        <entry>keys</entry>
         <entry>stats</entry>
         <entry>dev</entry>
         <entry>:</entry>
@@ -565,6 +1079,9 @@
         <entry>login</entry>
         <entry>SchemaCon</entry>
         <entry>Todo</entry>
+        <entry>strnig</entry>
+        <entry>string</entry>
+        <entry>EmptyString</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
