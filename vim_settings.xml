@@ -62,12 +62,12 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1510954367801">
+      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1510956284824">
         <mark key="'" line="53" column="5" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="104" column="9" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
@@ -81,18 +81,19 @@
         <mark key="^" line="41" column="56" />
         <mark key="." line="40" column="60" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1510954261392">
-        <mark key="'" line="416" column="25" />
-        <mark key="[" line="426" column="29" />
-        <mark key="]" line="426" column="29" />
-        <mark key="." line="426" column="34" />
-        <mark key="^" line="423" column="34" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1510956359225">
+        <mark key="'" line="405" column="33" />
+        <mark key="[" line="212" column="17" />
+        <mark key="]" line="214" column="33" />
+        <mark key="." line="214" column="33" />
+        <mark key="^" line="214" column="33" />
       </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/index.css" timestamp="1510375915056">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1510956172525" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
         <mark key="'" line="58" column="13" />
         <mark key="[" line="136" column="14" />
@@ -216,7 +217,7 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510875499218">
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510955817506">
         <mark key="'" line="179" column="24" />
         <mark key="[" line="27" column="22" />
         <mark key="]" line="27" column="22" />
@@ -281,7 +282,7 @@
         <mark key="." line="36" column="5" />
         <mark key="^" line="36" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510953711348">
+      <file name="/Dummy.txt" timestamp="1510955939981">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
@@ -326,7 +327,7 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1510953741660">
+      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1510955620619">
         <mark key="'" line="83" column="20" />
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="20" />
@@ -390,18 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="49" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="151" column="8" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="137" column="35" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="139" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="106" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="110" column="40" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="110" column="52" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="114" column="53" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="123" column="62" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="125" column="77" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="126" column="61" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="127" column="58" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="128" column="66" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="104" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
@@ -490,63 +479,72 @@
       <jump line="415" column="12" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="413" column="25" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="416" column="25" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="447" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="450" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="453" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="456" column="27" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="462" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="461" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="458" column="16" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="460" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="463" column="34" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="466" column="34" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="469" column="34" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="495" column="33" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiYWNjZXNzS2V5SWQiOiAiJGtleXMuUUFfQVdTQWNjZXNzS2V5SWQiLAogICAgICAgICJzZWNyZXRBY2Nlc3NLZXkiOiAiJGtleXMuUUFfQVdTU2VjcmV0QWNjZXNzS2V5IiwK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>sec</text>
+        <text>num</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJzZWNyZXQiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJrZXkiOnsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6InN0cmluZyIKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiYWNjZXNzS2V5SWQiOiAiJGtleXMuUUFfQVdTQWNjZXNzS2V5SWQiLAogICAgICAgICJzZWNyZXRBY2Nlc3NLZXkiOiAiJGtleXMuUUFfQVdTU2VjcmV0QWNjZXNzS2V5IiwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInR5Igo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0eXBlIjogInN0cmluZyIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInR5cGUiOiAic3RyaW5nIgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">e30K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlcXVpcmVkIjogWwoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAic2VydmljZUlkVG9OYW1lIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiCiAgICAgICAgfSw=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAibGljZW5zZURhdGEiOiB7CiAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICAgICAgICAgInN0cmVhbXMiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAgICAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInZpZXdzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiRyZWYiOiAiIy9kZWZpbml0aW9ucy9ub25FbXB0eVN0cmluZyIKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgImhlYXJ0YmVhdHMiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAicmVxdWlyZWQiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICJ2aWV3cyIsCiAgICAgICAgICAgICAgICAgICAgICAgICJoZWFydGJlYXRzIgogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInJlcXVpcmVkIjogWwogICAgICAgICAgICAgICAgInN0cmVhbXMiCiAgICAgICAgICAgIF0KICAgICAgICB9LA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICJwb3N0Z3Jlc3FsIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgICAgICJob3N0IjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInBvcnQiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAibnVtYmVyIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJ1c2VyIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInBhc3N3b3JkIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgImRhdGFiYXNlIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgImRhdGFiYXNlIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJyZXF1aXJlZCI6IFsKICAgICAgICAgICAgICAgICJob3N0IiwKICAgICAgICAgICAgICAgICJwb3J0IiwKICAgICAgICAgICAgICAgICJ1c2VyIiwKICAgICAgICAgICAgICAgICJwYXNzd29yZCIsCiAgICAgICAgICAgICAgICAiZGF0YWJhc2UiLAogICAgICAgICAgICAgICAgImNoYXJzZXQiCiAgICAgICAgICAgIF0KICAgICAgICB9LA==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICJjbGVhbnVwIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgICAgICJ2aWV3U3RhbGVJblNlY29uZHMiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAibnVtYmVyIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJ2aWV3ZWRTZWN0aW9uRW5kVGhyZXNob2xkIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIm51bWJlciIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInJlcXVpcmVkIjogWwogICAgICAgICAgICAgICAgInZpZXdTdGFsZUluU2Vjb25kcyIsCiAgICAgICAgICAgICAgICAidmlld2VkU2VjdGlvbkVuZFRocmVzaG9sZCIKICAgICAgICAgICAgXQogICAgICAgIH0s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sec</last-search>
+      <last-search>num</last-search>
       <last-offset />
-      <last-pattern>sec</last-pattern>
+      <last-pattern>num</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
-        <entry>:</entry>
-        <entry>localhost</entry>
         <entry>http</entry>
         <entry>session</entry>
         <entry>ratelimite</entry>
@@ -564,6 +562,9 @@
         <entry>string</entry>
         <entry>EmptyString</entry>
         <entry>sec</entry>
+        <entry>pas</entry>
+        <entry>q</entry>
+        <entry>num</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
