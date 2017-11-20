@@ -21,7 +21,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1510176373309">
+      <file name="/fragment.js" timestamp="1511198323749">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/custom_sanitizers.js" timestamp="1510353893510">
@@ -93,7 +93,6 @@
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1510956172525" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
         <mark key="'" line="58" column="13" />
         <mark key="[" line="136" column="14" />
@@ -217,12 +216,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1510955817506">
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511198283514">
         <mark key="'" line="179" column="24" />
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="51" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -253,7 +252,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1510952742261">
+      <file name="/JavaScript Console" timestamp="1511198289815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -494,43 +493,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">U1RBUlRFRCA=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">U1RBUlRFRCA=</text>
       </register>
       <register name="/" type="4">
         <text>num</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJrZXkiOnsKICAgICAgICAgICAgICAgICAgICAidHlwZSI6InN0cmluZyIKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuIEFQUCBTVEFSVEVEIFxuXG5cbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e30K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAic2VydmljZUlkVG9OYW1lIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiCiAgICAgICAgfSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGNvbmZpZywgfSA9IEV4cHJlc3NBcHBDb3JlLmdldEluc3RhbmNlKCk7CiAgICAgICAgY29uc3QgQVdTID0gY29uZmlnLmdldENyZWRlbnRpYWxlZEF3c1NkaygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBBV1MgPSBjb25maWcuZ2V0Q3JlZGVudGlhbGVkQXdzU2RrKCk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAibGljZW5zZURhdGEiOiB7CiAgICAgICAgICAgICJ0eXBlIjogIm9iamVjdCIsCiAgICAgICAgICAgICJwcm9wZXJ0aWVzIjogewogICAgICAgICAgICAgICAgInN0cmVhbXMiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAib2JqZWN0IiwKICAgICAgICAgICAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInZpZXdzIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiRyZWYiOiAiIy9kZWZpbml0aW9ucy9ub25FbXB0eVN0cmluZyIKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgImhlYXJ0YmVhdHMiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiJHJlZiI6ICIjL2RlZmluaXRpb25zL25vbkVtcHR5U3RyaW5nIgogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAicmVxdWlyZWQiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICJ2aWV3cyIsCiAgICAgICAgICAgICAgICAgICAgICAgICJoZWFydGJlYXRzIgogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInJlcXVpcmVkIjogWwogICAgICAgICAgICAgICAgInN0cmVhbXMiCiAgICAgICAgICAgIF0KICAgICAgICB9LA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlubmVySGVpZ2h0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">e30K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICJwb3N0Z3Jlc3FsIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgICAgICJob3N0IjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInBvcnQiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAibnVtYmVyIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJ1c2VyIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgInBhc3N3b3JkIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgImRhdGFiYXNlIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgImRhdGFiYXNlIjogewogICAgICAgICAgICAgICAgICAgICIkcmVmIjogIiMvZGVmaW5pdGlvbnMvbm9uRW1wdHlTdHJpbmciCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJyZXF1aXJlZCI6IFsKICAgICAgICAgICAgICAgICJob3N0IiwKICAgICAgICAgICAgICAgICJwb3J0IiwKICAgICAgICAgICAgICAgICJ1c2VyIiwKICAgICAgICAgICAgICAgICJwYXNzd29yZCIsCiAgICAgICAgICAgICAgICAiZGF0YWJhc2UiLAogICAgICAgICAgICAgICAgImNoYXJzZXQiCiAgICAgICAgICAgIF0KICAgICAgICB9LA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICJjbGVhbnVwIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiLAogICAgICAgICAgICAicHJvcGVydGllcyI6IHsKICAgICAgICAgICAgICAgICJ2aWV3U3RhbGVJblNlY29uZHMiOiB7CiAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAibnVtYmVyIgogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICJ2aWV3ZWRTZWN0aW9uRW5kVGhyZXNob2xkIjogewogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogIm51bWJlciIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgInJlcXVpcmVkIjogWwogICAgICAgICAgICAgICAgInZpZXdTdGFsZUluU2Vjb25kcyIsCiAgICAgICAgICAgICAgICAidmlld2VkU2VjdGlvbkVuZFRocmVzaG9sZCIKICAgICAgICAgICAgXQogICAgICAgIH0s</text>
+        <text encoding="base64">ICAgICAgICAic2VydmljZUlkVG9OYW1lIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiCiAgICAgICAgfSw=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
