@@ -29,6 +29,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="internal/process/next_tick.js" timestamp="1511198769720">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/package.json" timestamp="1510176031695">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -92,6 +95,11 @@
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="16" />
         <mark key="." line="48" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1511198906279">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
         <mark key="'" line="58" column="13" />
@@ -252,7 +260,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1511198289815">
+      <file name="/JavaScript Console" timestamp="1511198914494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -339,6 +347,7 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/core.js" timestamp="1511198830889" />
       <file name="$USER_HOME$/src/services/service-auth/node/lib/sqs.js" timestamp="1510352120417">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -493,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">U1RBUlRFRCA=</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U1RBUlRFRCA=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>num</text>
