@@ -108,7 +108,6 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-express-app-core-nodejs/lib/core.js" timestamp="1511223849866" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
         <mark key="'" line="58" column="13" />
         <mark key="[" line="136" column="14" />
@@ -193,6 +192,9 @@
         <mark key="]" line="49" column="58" />
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/util.js" timestamp="1511284399263">
+        <mark key="'" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/middleware.js" timestamp="1507930362410">
         <mark key="[" line="17" column="0" />
@@ -418,7 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="22" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="112" column="41" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="120" column="41" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="119" column="44" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
@@ -518,6 +519,7 @@
       <jump line="57" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
       <jump line="58" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
       <jump line="5" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/util.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
