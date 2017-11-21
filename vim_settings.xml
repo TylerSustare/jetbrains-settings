@@ -29,6 +29,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/eslint-config-cbtnuggets/rules/node-es6.js" timestamp="1511286290213">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="39" column="32" />
+      </file>
       <file name="internal/process/next_tick.js" timestamp="1511198769720">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,6 +278,12 @@
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/eslint-config-cbtnuggets/rules/node-strict.js" timestamp="1511286059466">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="37" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
@@ -522,8 +534,8 @@
       <jump line="94" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/util.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnYXJyb3ctcGFyZW5zJzpbJ2Vycm9yJzogJ2FzLW5lZWRlZCddCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
@@ -532,7 +544,7 @@
         <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYXBwLCByb3V0ZXMsIGNvbmZpZywgbG9nZ2VyLCBkYXRhYmFzZUNvbm5lY3Rpb25zOiBjb25uZWN0aW9ucyB9ID0gRXhwcmVzc0FwcENvcmUuZ2V0SW5zdGFuY2UoKTsKICAgIGNvbnN0IG9hdXRoMiA9IHJlcXVpcmUoJy4uL2xpYi9vYXV0aDInKShjb25uZWN0aW9ucywgbG9nZ2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAnYXJyb3ctcGFyZW5zJzpbJ2Vycm9yJzogJ2FzLW5lZWRlZCddCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG9hdXRoMiA9IHJlcXVpcmUoJy4uL2xpYi9vYXV0aDInKShjb25uZWN0aW9ucywgbG9nZ2VyKTsK</text>
