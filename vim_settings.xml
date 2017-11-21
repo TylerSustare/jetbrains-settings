@@ -59,6 +59,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/response_test.js" timestamp="1511303198905">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412911956">
         <mark key="[" line="48" column="47" />
         <mark key="]" line="48" column="47" />
@@ -327,6 +332,11 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="37" column="21" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/app_test.js" timestamp="1511304026606">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -339,10 +349,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" timestamp="1511299661766">
+      <file name="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" timestamp="1511302203963">
         <mark key="'" line="34" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="69" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="73" column="0" />
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
@@ -351,12 +361,14 @@
         <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1511299810752">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1511302883446">
+        <mark key="'" line="25" column="33" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="23" column="43" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511299063696">
+      <file name="/Dummy.txt" timestamp="1511303683818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
@@ -491,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="316" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="331" column="27" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="334" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
@@ -591,46 +602,47 @@
       <jump line="56" column="23" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
       <jump line="4" column="8" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
       <jump line="34" column="4" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="25" column="33" filename="$USER_HOME$/src/services/service-auth/node/config/test.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ0FQSSBEb3dubG9hZCcsICcuL2FwaS9kb3dubG9hZCcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>266a6edd551ca604cb3cf7a411111111</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsaWVudF9pZDogJzI2NmE2ZWRkNTUxY2E2MDRjYjNjZjdhNDExMTExMTExJyAvLyByYW5kb20gdGVzdCBoYXNoCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHJlZ2lvbjogJ3VzLXRlc3QtMScsCiAgICBxdWV1ZVVybDogJ2h0dHBzOi8vc3FzLnVzLXRlc3QtMS5hbWF6b25hd3MuY29tLzc3NTEwMTExNjk2Ny9kZXYtYXV0aC11c2VyTWlncmF0aW9uJywKICAgIHdhaXRUaW1lU2Vjb25kczogMjAsCiAgICB2aXNpYmlsaXR5VGltZW91dDogMzYwMDAgLy8gMTAgaG91cnMKfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ0FQSSBEb3dubG9hZCcsICcuL2FwaS9kb3dubG9hZCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJsb2dnaW5nIjogewoK</text>
+        <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ0FQSSBSZWxlYXNlJywgJy4vYXBpL3JlbGVhc2UnKTsKICAgIGltcG9ydFRlc3QoJ0FQSSBUYWtlb3ZlcicsICcuL2FwaS90YWtlb3ZlcicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAibG9nc3Rhc2giOiB7CiAgICAgICAgICAgICJob3N0IjogImxvZ2dlci5hd3MuY2J0bnVnZ2V0cy5jb20iLAogICAgICAgICAgICAicG9ydCI6IDEyMjAxCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ0FQSSBIZWFydGJlYXQnLCAnLi9hcGkvaGVhcnRiZWF0Jyk7CiAgICBpbXBvcnRUZXN0KCdBUEkgRGV0YWlscycsICcuL2FwaS9kZXRhaWxzJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAibWF4QWdlIjogMzAwMDAwLAogICAgICAgICJ0dGwiOiAxNTU1MjAwMDAwMAo=</text>
+        <text encoding="base64">ICAgICJyYXRlTGltaXRlciI6IHsKICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAibG9naW5OYW1lIjogIl9jYnRuYWNjb3VudCIsCiAgICAgICAgInNlY3VyZSI6IGZhbHNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjb29raWUiOiB7CiAgICAgICAgImFkbWluTmFtZSI6ICJfY2J0bmF1dGhhZG1pbiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAibmFtZXNwYWNlIjogImF1dGgiLAogICAgICAgICJpbnRlcnZhbCI6IDEwMDAsCiAgICAgICAgIm1heEluSW50ZXJ2YWwiOiAyLAogICAgICAgICJyZWRpcyI6IHsKICAgICAgICAgICAgImhvc3QiOiAiYXV0aC1xYS56MTB0anouMDAwMS51c2UxLmNhY2hlLmFtYXpvbmF3cy5jb20iLAogICAgICAgICAgICAicG9ydCI6IDYzNzksCiAgICAgICAgICAgICJjb25uZWN0VGltZW91dCI6IDEwMDAsCiAgICAgICAgICAgICJjb25uZWN0TWF4QXR0ZW1wdHMiOiAzLAogICAgICAgICAgICAiZGIiOiAyCiAgICAgICAgfSwKICAgICAgICAidXNlckNyZWF0ZUFwcHMiOiB7CiAgICAgICAgICAgICJpbnRlcnZhbCI6IDYwMDAwLAogICAgICAgICAgICAibWF4SW5JbnRlcnZhbCI6IDIKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzZXNzaW9uIjogewogICAgfSwK</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAic2VjcmV0IjogImU1MzIyMjEzMmU5NWU3YzY1OTJjM2U3Y2ExYzQ2NWY1ZDBmOTMyMjUiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -668,7 +680,6 @@
       </history-search>
       <history-cmd>
         <entry>1259</entry>
-        <entry>q</entry>
         <entry>s</entry>
         <entry>/id</entry>
         <entry>wq</entry>
@@ -677,6 +688,7 @@
         <entry>21</entry>
         <entry>15</entry>
         <entry>vsp</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
