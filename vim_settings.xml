@@ -8,11 +8,11 @@
         <mark key="]" line="454" column="0" />
         <mark key="." line="454" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" timestamp="1510353328595">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="6" column="12" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" timestamp="1511224504109">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/qa.js" timestamp="1510855399938">
         <mark key="'" line="120" column="41" />
@@ -31,6 +31,13 @@
       </file>
       <file name="internal/process/next_tick.js" timestamp="1511198769720">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1511223108066">
+        <mark key="'" line="68" column="47" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/package.json" timestamp="1510176031695">
         <mark key="[" line="46" column="0" />
@@ -101,6 +108,7 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-express-app-core-nodejs/lib/core.js" timestamp="1511223849866" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1510697129275">
         <mark key="'" line="58" column="13" />
         <mark key="[" line="136" column="14" />
@@ -196,9 +204,6 @@
         <mark key="]" line="2560" column="14" />
         <mark key="." line="2560" column="14" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/jsonschema/lib/helpers.js" timestamp="1510946344523">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -224,12 +229,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511198283514">
-        <mark key="'" line="179" column="24" />
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="52" />
-        <mark key="^" line="26" column="51" />
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511224453655">
+        <mark key="'" line="182" column="24" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="36" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -260,7 +265,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1511200478063">
+      <file name="/JavaScript Console" timestamp="1511224669145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -304,10 +309,12 @@
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1510348512609">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/.eslintrc" timestamp="1510269022888">
         <mark key="[" line="8" column="26" />
@@ -347,11 +354,22 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/core.js" timestamp="1511198830889" />
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/core.js" timestamp="1511222563612">
+        <mark key="'" line="152" column="66" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/sqs.js" timestamp="1510352120417">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/auth.js" timestamp="1511224662779">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
@@ -365,9 +383,10 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="108" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/internal.js" timestamp="1510349942476">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/internal.js" timestamp="1511224573090">
+        <mark key="'" line="328" column="28" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="65" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/production.js" timestamp="1510353680264">
@@ -391,7 +410,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/node_modules/q/q.js" timestamp="1511200471636" />
       <file name="$USER_HOME$/src/services/service-auth/node/lib/mailer.js" timestamp="1510353243500">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="11" column="13" />
@@ -400,18 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="66" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="104" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="111" column="12" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="124" column="21" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="105" column="8" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="109" column="25" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="113" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="79" column="5" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="103" column="24" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="108" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="131" column="8" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
       <jump line="97" column="22" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="112" column="41" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
       <jump line="120" column="41" filename="$USER_HOME$/src/services/service-auth/node/config/qa.js" />
@@ -500,66 +506,72 @@
       <jump line="466" column="34" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="469" column="34" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="495" column="33" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="154" column="66" filename="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/core.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/src/services/service-auth/node/routes/view.js" />
+      <jump line="328" column="28" filename="$USER_HOME$/src/services/service-auth/node/routes/internal.js" />
+      <jump line="70" column="47" filename="$USER_HOME$/src/services/service-auth/node/routes/view.js" />
+      <jump line="13" column="31" filename="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" />
+      <jump line="64" column="19" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
+      <jump line="65" column="21" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
+      <jump line="57" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
+      <jump line="58" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
+      <jump line="5" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>num</text>
+        <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuIEFQUCBTVEFSVEVEIFxuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYXBwLCByb3V0ZXMsIGNvbmZpZywgbG9nZ2VyLCBkYXRhYmFzZUNvbm5lY3Rpb25zOiBjb25uZWN0aW9ucyB9ID0gRXhwcmVzc0FwcENvcmUuZ2V0SW5zdGFuY2UoKTsKICAgIGNvbnN0IG9hdXRoMiA9IHJlcXVpcmUoJy4uL2xpYi9vYXV0aDInKShjb25uZWN0aW9ucywgbG9nZ2VyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9hdXRoMiA9IHJlcXVpcmUoJy4uL2xpYi9vYXV0aDInKShjb25uZWN0aW9ucywgbG9nZ2VyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGNvbmZpZywgfSA9IEV4cHJlc3NBcHBDb3JlLmdldEluc3RhbmNlKCk7CiAgICAgICAgY29uc3QgQVdTID0gY29uZmlnLmdldENyZWRlbnRpYWxlZEF3c1NkaygpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBBV1MgPSBjb25maWcuZ2V0Q3JlZGVudGlhbGVkQXdzU2RrKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlubmVySGVpZ2h0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">e30K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAic2VydmljZUlkVG9OYW1lIjogewogICAgICAgICAgICAidHlwZSI6ICJvYmplY3QiCiAgICAgICAgfSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkZWZhdWx0IHRvIGFuIGludGVybmFsIHNlcnZlciBlcnJvcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgbG9nZ2VyIH0gPSBFeHByZXNzQXBwQ29yZS5nZXRJbnN0YW5jZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGEgPSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKCcuL2xpYi9hdXRoJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVycm9ySGFuZGxlcjogcmVxdWlyZSgnLi9saWIvZXJyb3JzJykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgYXV0aExpYiA9IHJlcXVpcmUoJy4vbGliL2F1dGgnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>num</last-search>
+      <last-search>15</last-search>
       <last-offset />
-      <last-pattern>num</last-pattern>
+      <last-pattern>15</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>http</entry>
-        <entry>session</entry>
-        <entry>ratelimite</entry>
-        <entry>rate</entry>
-        <entry>'</entry>
-        <entry>eport</entry>
         <entry>9b96</entry>
         <entry>ervice</entry>
         <entry>fire</entry>
@@ -574,6 +586,12 @@
         <entry>pas</entry>
         <entry>q</entry>
         <entry>num</entry>
+        <entry>mongo</entry>
+        <entry>_logger</entry>
+        <entry>logger</entry>
+        <entry>this</entry>
+        <entry>q5</entry>
+        <entry>15</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -583,6 +601,9 @@
         <entry>wq</entry>
         <entry>272</entry>
         <entry>vsp</entry>
+        <entry>96</entry>
+        <entry>21</entry>
+        <entry>15</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
