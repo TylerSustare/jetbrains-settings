@@ -42,9 +42,6 @@
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" timestamp="1511295052562">
         <mark key="'" line="3" column="4" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="4" />
         <mark key="^" line="3" column="4" />
       </file>
       <file name="internal/process/next_tick.js" timestamp="1511198769720">
@@ -313,7 +310,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1511224669145">
+      <file name="/JavaScript Console" timestamp="1511296692714">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -449,6 +446,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="65" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1511296712320">
+        <mark key="[" line="118" column="36" />
+        <mark key="]" line="119" column="11" />
+        <mark key="^" line="119" column="11" />
+        <mark key="." line="119" column="11" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/production.js" timestamp="1510353680264">
         <mark key="[" line="0" column="0" />
@@ -587,10 +590,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
