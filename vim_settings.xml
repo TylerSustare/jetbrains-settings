@@ -269,12 +269,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511224453655">
+      <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511298932825">
         <mark key="'" line="182" column="24" />
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="27" column="5" />
+        <mark key="." line="27" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/rabbitmq.js" timestamp="1511291196802">
         <mark key="[" line="0" column="0" />
@@ -310,7 +310,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1511296692714">
+      <file name="/JavaScript Console" timestamp="1511298815923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
@@ -339,18 +339,24 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="59" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" timestamp="1511299661766">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="69" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/qa.js" timestamp="1505415200437">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="54" column="108" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1510773790237">
-        <mark key="[" line="25" column="54" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="5" />
-        <mark key="^" line="36" column="5" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1511299810752">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511291145687">
+      <file name="/Dummy.txt" timestamp="1511299063696">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
@@ -392,12 +398,12 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1510955620619">
+      <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1511299470477">
         <mark key="'" line="83" column="20" />
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+        <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
@@ -405,12 +411,11 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1511294750812">
+      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1511299029781">
         <mark key="'" line="132" column="27" />
-        <mark key="[" line="122" column="26" />
-        <mark key="]" line="122" column="26" />
-        <mark key="." line="122" column="26" />
-        <mark key="^" line="122" column="36" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/core.js" timestamp="1511222563612">
         <mark key="'" line="152" column="66" />
@@ -486,25 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="2" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="274" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="72" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/default.js" />
-      <jump line="291" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="23" column="27" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="71" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/qa.json" />
-      <jump line="49" column="35" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
-      <jump line="38" column="5" filename="$USER_HOME$/src/services/service-auth/node/routes/index.js" />
-      <jump line="19" column="24" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
-      <jump line="155" column="24" filename="$USER_HOME$/src/services/service-auth/node/app.js" />
-      <jump line="319" column="24" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="322" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="325" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="170" column="20" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="256" column="26" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="257" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="293" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="307" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="316" column="17" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="331" column="27" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
@@ -586,68 +572,79 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" />
       <jump line="2" column="5" filename="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" />
       <jump line="3" column="4" filename="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" />
+      <jump line="11" column="13" filename="$USER_HOME$/src/services/service-auth/node/config/test.json" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="6" column="1" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="10" column="18" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="16" column="27" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="8" column="13" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="37" column="18" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="39" column="22" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="41" column="23" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="53" column="11" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="54" column="11" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="70" column="68" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="9" column="11" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="36" column="25" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="23" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/test.json" />
+      <jump line="56" column="23" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>266a6edd551ca604cb3cf7a411111111</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnYXJyb3ctcGFyZW5zJzpbJ2Vycm9yJzogJ2FzLW5lZWRlZCddCg==</text>
+        <text encoding="base64">ICAgIGNsaWVudF9pZDogJzI2NmE2ZWRkNTUxY2E2MDRjYjNjZjdhNDExMTExMTExJyAvLyByYW5kb20gdGVzdCBoYXNoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJsb2dnaW5nIjogewoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAibG9nc3Rhc2giOiB7CiAgICAgICAgICAgICJob3N0IjogImxvZ2dlci5hd3MuY2J0bnVnZ2V0cy5jb20iLAogICAgICAgICAgICAicG9ydCI6IDEyMjAxCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAibWF4QWdlIjogMzAwMDAwLAogICAgICAgICJ0dGwiOiAxNTU1MjAwMDAwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+        <text encoding="base64">ICAgICAgICAibG9naW5OYW1lIjogIl9jYnRuYWNjb3VudCIsCiAgICAgICAgInNlY3VyZSI6IGZhbHNlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICJjb29raWUiOiB7CiAgICAgICAgImFkbWluTmFtZSI6ICJfY2J0bmF1dGhhZG1pbiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICJzZXNzaW9uIjogewogICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">ICAgICAgICAic2VjcmV0IjogImU1MzIyMjEzMmU5NWU3YzY1OTJjM2U3Y2ExYzQ2NWY1ZDBmOTMyMjUiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fire</entry>
-        <entry>web.admin</entry>
-        <entry>login</entry>
-        <entry>SchemaCon</entry>
-        <entry>Todo</entry>
-        <entry>strnig</entry>
-        <entry>string</entry>
-        <entry>EmptyString</entry>
         <entry>sec</entry>
         <entry>pas</entry>
         <entry>q</entry>
@@ -660,6 +657,14 @@
         <entry>15</entry>
         <entry>env</entry>
         <entry>var</entry>
+        <entry>run</entry>
+        <entry>sta</entry>
+        <entry>es</entry>
+        <entry>stat</entry>
+        <entry>auth</entry>
+        <entry>cbt</entry>
+        <entry>video</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
