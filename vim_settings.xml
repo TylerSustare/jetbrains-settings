@@ -447,11 +447,10 @@
         <mark key="]" line="10" column="65" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1511296712320">
-        <mark key="[" line="118" column="36" />
-        <mark key="]" line="119" column="11" />
-        <mark key="^" line="119" column="11" />
-        <mark key="." line="119" column="11" />
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1511296719015">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/production.js" timestamp="1510353680264">
         <mark key="[" line="0" column="0" />
@@ -589,8 +588,8 @@
       <jump line="3" column="4" filename="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -602,7 +601,7 @@
         <text encoding="base64">ICAgICAgICAnYXJyb3ctcGFyZW5zJzpbJ2Vycm9yJzogJ2FzLW5lZWRlZCddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -611,13 +610,13 @@
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
