@@ -55,11 +55,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512500718222">
-        <mark key="[" line="547" column="52" />
-        <mark key="]" line="547" column="54" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512503006717">
+        <mark key="[" line="532" column="16" />
+        <mark key="]" line="532" column="16" />
         <mark key="^" line="547" column="54" />
-        <mark key="." line="547" column="54" />
+        <mark key="." line="532" column="16" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1511198906279">
         <mark key="[" line="2" column="17" />
@@ -644,11 +644,11 @@
       <jump line="102" column="52" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
