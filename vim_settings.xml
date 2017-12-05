@@ -55,11 +55,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512504274640">
-        <mark key="[" line="552" column="41" />
-        <mark key="]" line="552" column="41" />
-        <mark key="^" line="552" column="61" />
-        <mark key="." line="552" column="41" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512504336276">
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="557" column="52" />
+        <mark key="]" line="557" column="67" />
+        <mark key="^" line="557" column="67" />
+        <mark key="." line="557" column="67" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1511198906279">
         <mark key="[" line="2" column="17" />
@@ -543,7 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="66" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="376" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="427" column="46" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="251" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
@@ -643,16 +643,17 @@
       <jump line="112" column="12" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="102" column="52" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="249" column="36" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="28" column="24" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>accessToken</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>accessToken</text>
       </register>
       <register name="/" type="4">
-        <text>marketing</text>
+        <text>adminTok</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgaXQoJ1Nob3VsZCByZXR1cm4gNDAzIGZvcmJpZGRlbicsIGRvbmUgPT4gewogICAgICAgICAgICAgICAgdGVzdC5jcmVhdGVQcml2YXRlVG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogdXNlcklkIH0pOwogICAgICAgICAgICAgICAgdGVzdC5zZXJ2ZXJzLmF1dGguc2V0KCdtYXJrZXRpbmcnLCB0cnVlKTsKCiAgICAgICAgICAgICAgICByZXF1ZXN0KGFwcCkKICAgICAgICAgICAgICAgICAgICAuZGVsZXRlKHJvdXRlcy5BUElfVVBEQVRFX1BST01PVElPTi5yZXBsYWNlKCc6aWQnLCAnNDMwNzk4NTIxOTk5ZGIzMWUzNzhjZDA4JykpCiAgICAgICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgICAgIC5zZW5kKHsKICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICdEZWxldGluZycKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBkb25lKGVycik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5zdGF0dXMpLnRvLmVxdWFsKDQwMyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7CiA=</text>
@@ -689,15 +690,14 @@
       </register>
     </registers>
     <search>
-      <last-search>marketing</last-search>
+      <last-search>adminTok</last-search>
       <last-offset />
-      <last-pattern>marketing</last-pattern>
+      <last-pattern>adminTok</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mongo</entry>
         <entry>_logger</entry>
         <entry>logger</entry>
         <entry>this</entry>
@@ -717,6 +717,7 @@
         <entry>cick</entry>
         <entry>lick</entry>
         <entry>marketing</entry>
+        <entry>adminTok</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
