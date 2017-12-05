@@ -55,11 +55,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512498774811">
-        <mark key="[" line="534" column="67" />
-        <mark key="]" line="534" column="67" />
-        <mark key="^" line="534" column="67" />
-        <mark key="." line="534" column="67" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512499706374">
+        <mark key="[" line="532" column="16" />
+        <mark key="]" line="532" column="20" />
+        <mark key="^" line="532" column="20" />
+        <mark key="." line="532" column="20" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1511198906279">
         <mark key="[" line="2" column="17" />
@@ -369,11 +369,11 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512498030210">
-        <mark key="[" line="244" column="31" />
-        <mark key="]" line="245" column="3" />
-        <mark key="^" line="245" column="3" />
-        <mark key="." line="245" column="3" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512500257722">
+        <mark key="[" line="243" column="43" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="244" column="7" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -386,8 +386,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/common.js" timestamp="1512499367713">
-        <mark key="'" line="112" column="12" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/common.js" timestamp="1512499411638">
+        <mark key="'" line="102" column="52" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
@@ -542,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="324" column="44" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="327" column="66" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="376" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
@@ -642,46 +641,47 @@
       <jump line="37" column="1" filename="$USER_HOME$/src/projects/tic-tac-toe/src/BoardComponent.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="112" column="12" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
+      <jump line="102" column="52" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQodXNlckRldGFpbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>delete a promotion with correct promo_id</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CmNsYXNzIEJvYXJkIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICByZW5kZXJTcXVhcmUoaSkgewogICAgcmV0dXJuICgKICAgICAgLy8gc3F1YXJlIHdpdGggdHdvIHByb3BzCiAgICAgIDxTcXVhcmUKICAgICAgICB2YWx1ZT17dGhpcy5wcm9wcy5zcXVhcmVzW2ldfQogICAgICAgIG9uQ2xpY2s9eygpID0+IHRoaXMucHJvcHMub25DbGljayhpKX0KICAgICAgLz4KICAgICk7CiAgfQoKICByZW5kZXIoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib2FyZC1yb3ciPgogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDApfQogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDEpfQogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDIpfQogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib2FyZC1yb3ciPgogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDMpfQogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDQpfQogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDUpfQogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib2FyZC1yb3ciPgogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDYpfQogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDcpfQogICAgICAgICAge3RoaXMucmVuZGVyU3F1YXJlKDgpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmRlc2NyaXB0aW9uKS50by5lcXVhbCgnVXBkYXRpbmcgZGVzY3JpcHRpb24gZm9yIG1hcmNoIG1hZG5lc3MnKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5zdGF0dXMpLnRvLmVxdWFsKDIwMCk7CiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQodXNlckRldGFpbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lOiAndGVzdEBjYnRudWdzLmNvbScsCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlckRldGFpbHMgPSB7CiAgICAgICAgICAgICAgICBpZDogJzEwMDAnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ldCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGVzOiBbJ2FkbWluJ10K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGVzOiBbJ3VzZXInXQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQodXNlckRldGFpbHMpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lOiAndGVzdEBjYnRudWdzLmNvbScsCiAgICAgICAgICAgIH07Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlTWVtYmVySWRGcm9tVG9rZW4sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlckRldGFpbHMgPSB7CiAgICAgICAgICAgICAgICBpZDogJzEwMDAnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGVzOiBbJ2FkbWluJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBuZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGVzOiBbJ3VzZXInXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
