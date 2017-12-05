@@ -55,12 +55,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512504336276">
-        <mark key="'" line="28" column="24" />
-        <mark key="[" line="557" column="52" />
-        <mark key="]" line="557" column="67" />
-        <mark key="^" line="557" column="67" />
-        <mark key="." line="557" column="67" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512510186203">
+        <mark key="'" line="546" column="24" />
+        <mark key="[" line="562" column="0" />
+        <mark key="]" line="562" column="0" />
+        <mark key="^" line="562" column="23" />
+        <mark key="." line="562" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1511198906279">
         <mark key="[" line="2" column="17" />
@@ -138,10 +138,11 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/membership.js" timestamp="1512498249300">
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/membership.js" timestamp="1512509541617">
         <mark key="[" line="67" column="10" />
         <mark key="]" line="67" column="10" />
         <mark key="." line="67" column="10" />
+        <mark key="^" line="67" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -370,12 +371,12 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512506316841">
-        <mark key="'" line="195" column="29" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="243" column="49" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512509991390">
+        <mark key="'" line="259" column="42" />
+        <mark key="[" line="255" column="32" />
+        <mark key="]" line="255" column="39" />
+        <mark key="^" line="255" column="39" />
+        <mark key="." line="255" column="39" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -470,7 +471,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512498239721">
+      <file name="/Dummy.txt" timestamp="1512509069469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
@@ -544,8 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="46" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="251" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="50" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="27" column="28" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
@@ -644,61 +643,62 @@
       <jump line="249" column="36" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
       <jump line="28" column="24" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="195" column="29" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="259" column="42" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="546" column="24" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWxldGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>accessToken</text>
+        <text>second</text>
       </register>
       <register name="/" type="4">
-        <text>adminTok</text>
+        <text>response</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcHJvbW9JZCA9IHJlcS5wYXJhbXMuaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnZG9uZSB3aXRoIHNlY29uZCByZXF1ZXN0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWxldGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3Quc2VydmVycy5hdXRoLnNldCgnbWFya2V0aW5nJywgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmRlc2NyaXB0aW9uKS50by5lcXVhbCgnVXBkYXRpbmcgZGVzY3JpcHRpb24gZm9yIG1hcmNoIG1hZG5lc3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ldCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>adminTok</last-search>
+      <last-search>response</last-search>
       <last-offset />
-      <last-pattern>adminTok</last-pattern>
+      <last-pattern>response</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_logger</entry>
         <entry>logger</entry>
         <entry>this</entry>
         <entry>q5</entry>
@@ -718,6 +718,7 @@
         <entry>lick</entry>
         <entry>marketing</entry>
         <entry>adminTok</entry>
+        <entry>response</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
