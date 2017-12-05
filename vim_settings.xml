@@ -372,12 +372,12 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512515827790">
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512515913110">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="258" column="5" />
-        <mark key="." line="255" column="0" />
+        <mark key="[" line="260" column="53" />
+        <mark key="]" line="261" column="57" />
+        <mark key="^" line="261" column="57" />
+        <mark key="." line="261" column="57" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -649,7 +649,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb21vSWQgPSAnNDMwNzk4NTIxOTk5ZGIzMWUzNzhjZDkyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="-" type="4">
         <text>unable to remove promotion</text>
@@ -661,31 +661,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnN0IHByb21vSWQgPSAnNDMwNzk4NTIxOTk5ZGIzMWUzNzhjZDA4JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb21vSWQgPSAnNDMwNzk4NTIxOTk5ZGIzMWUzNzhjZDkyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGVsZXRlZFByb21vdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb21vSWQgPSAnNDMwNzk4NTIxOTk5ZGIzMWUzNzhjZDkyJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGVsZXRlZFByb21vdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb21vSWQgPSAnbmFhYWFhaGhodHQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb21vSWQgPSAnbmFhYWFhaGhodHQnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGEgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG5zaG91bGQgZmFpbCBhZnRlciB0aGlzXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGEgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcmVzcG9uc2UgPSByZXF1aXJlKCcuLi9saWIvcmVzcG9uc2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG5zaG91bGQgZmFpbCBhZnRlciB0aGlzXG5cblxuJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
