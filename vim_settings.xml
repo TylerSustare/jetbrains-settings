@@ -370,12 +370,12 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512503872123">
-        <mark key="'" line="249" column="36" />
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512506030818">
+        <mark key="'" line="195" column="29" />
+        <mark key="[" line="251" column="26" />
+        <mark key="]" line="251" column="26" />
+        <mark key="^" line="251" column="26" />
+        <mark key="." line="251" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -544,7 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="427" column="46" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="251" column="30" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="50" column="29" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
@@ -644,6 +643,7 @@
       <jump line="102" column="52" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="249" column="36" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
       <jump line="28" column="24" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
+      <jump line="195" column="29" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
