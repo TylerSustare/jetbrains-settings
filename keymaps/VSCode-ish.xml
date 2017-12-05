@@ -70,6 +70,7 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
