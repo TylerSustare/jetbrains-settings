@@ -55,11 +55,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512503006717">
-        <mark key="[" line="532" column="16" />
-        <mark key="]" line="532" column="16" />
-        <mark key="^" line="547" column="54" />
-        <mark key="." line="532" column="16" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512504274640">
+        <mark key="[" line="552" column="41" />
+        <mark key="]" line="552" column="41" />
+        <mark key="^" line="552" column="61" />
+        <mark key="." line="552" column="41" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1511198906279">
         <mark key="[" line="2" column="17" />
@@ -369,11 +369,12 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512500749706">
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="^" line="245" column="7" />
-        <mark key="." line="249" column="0" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512503872123">
+        <mark key="'" line="249" column="36" />
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -542,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="44" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="327" column="66" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="376" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
       <jump line="427" column="46" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
@@ -642,46 +642,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="112" column="12" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="102" column="52" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
+      <jump line="249" column="36" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>only</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>marketing</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuY29sbGVjdCgnZW5kcG9pbnQucG9zdC5wcm9kdWN0JywgewogICAgICAgICAgICBzdGF0dXM6IHRydWUsCiAgICAgICAgICAgIHRpbWluZzogdHJ1ZQogICAgICAgIH0pLAog</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQoJ1Nob3VsZCByZXR1cm4gNDAzIGZvcmJpZGRlbicsIGRvbmUgPT4gewogICAgICAgICAgICAgICAgdGVzdC5jcmVhdGVQcml2YXRlVG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogdXNlcklkIH0pOwogICAgICAgICAgICAgICAgdGVzdC5zZXJ2ZXJzLmF1dGguc2V0KCdtYXJrZXRpbmcnLCB0cnVlKTsKCiAgICAgICAgICAgICAgICByZXF1ZXN0KGFwcCkKICAgICAgICAgICAgICAgICAgICAuZGVsZXRlKHJvdXRlcy5BUElfVVBEQVRFX1BST01PVElPTi5yZXBsYWNlKCc6aWQnLCAnNDMwNzk4NTIxOTk5ZGIzMWUzNzhjZDA4JykpCiAgICAgICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgICAgIC5zZW5kKHsKICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICdEZWxldGluZycKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBkb25lKGVycik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5zdGF0dXMpLnRvLmVxdWFsKDQwMyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7CiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3Quc2VydmVycy5hdXRoLnNldCgnbWFya2V0aW5nJywgdHJ1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmRlc2NyaXB0aW9uKS50by5lcXVhbCgnVXBkYXRpbmcgZGVzY3JpcHRpb24gZm9yIG1hcmNoIG1hZG5lc3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmRlc2NyaXB0aW9uKS50by5lcXVhbCgnVXBkYXRpbmcgZGVzY3JpcHRpb24gZm9yIG1hcmNoIG1hZG5lc3MnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ldCAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQodXNlckRldGFpbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5ldCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lOiAndGVzdEBjYnRudWdzLmNvbScsCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXNlckRldGFpbHMgPSB7CiAgICAgICAgICAgICAgICBpZDogJzEwMDAnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQodXNlckRldGFpbHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
