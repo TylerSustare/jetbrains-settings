@@ -234,7 +234,6 @@
       <file name="internal/module.js" timestamp="1510949073100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/fixtures/membership.js" timestamp="1512515543318" />
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
         <mark key="]" line="19" column="33" />
@@ -688,7 +687,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG5zaG91bGQgZmFpbCBhZnRlciB0aGlzXG5cblxuJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -731,9 +730,9 @@
         <entry>21</entry>
         <entry>15</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>260</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
