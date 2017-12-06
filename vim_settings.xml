@@ -55,12 +55,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512515850505">
+      <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512583597317">
         <mark key="'" line="297" column="29" />
-        <mark key="[" line="599" column="0" />
-        <mark key="]" line="599" column="0" />
+        <mark key="[" line="593" column="14" />
+        <mark key="]" line="593" column="14" />
         <mark key="^" line="600" column="0" />
-        <mark key="." line="599" column="0" />
+        <mark key="." line="593" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1511198906279">
         <mark key="[" line="2" column="17" />
@@ -372,12 +372,12 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512515913110">
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512583816921">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="260" column="53" />
-        <mark key="]" line="261" column="57" />
+        <mark key="[" line="259" column="53" />
+        <mark key="]" line="259" column="53" />
         <mark key="^" line="261" column="57" />
-        <mark key="." line="261" column="57" />
+        <mark key="." line="259" column="53" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -472,7 +472,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512513443100">
+      <file name="/Dummy.txt" timestamp="1512583591871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
@@ -648,11 +648,11 @@
       <jump line="297" column="29" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>unable to remove promotion</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>only</text>
@@ -732,6 +732,7 @@
         <entry>15</entry>
         <entry>q</entry>
         <entry>vsp</entry>
+        <entry>260</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
