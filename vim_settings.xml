@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1512603971714">
+        <mark key="'" line="176" column="8" />
+        <mark key="[" line="176" column="24" />
+        <mark key="]" line="176" column="24" />
+        <mark key="^" line="176" column="33" />
+        <mark key="." line="176" column="24" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/validators.js" timestamp="1511291406534">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -88,12 +95,6 @@
         <mark key="." line="5" column="1" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/index.js" timestamp="1510863052603">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-auth/scripts/baseThreaded.js" timestamp="1511291707293">
-        <mark key="'" line="11" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -240,11 +241,10 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/core.js" timestamp="1511222563612">
-        <mark key="'" line="152" column="66" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" timestamp="1512603694305">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/auth.js" timestamp="1511224662779">
         <mark key="[" line="15" column="39" />
@@ -291,10 +291,8 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" timestamp="1510260177284">
-        <mark key="[" line="454" column="0" />
-        <mark key="]" line="454" column="0" />
-        <mark key="." line="454" column="0" />
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" timestamp="1512603638170">
+        <mark key="'" line="536" column="8" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" timestamp="1511291773443">
         <mark key="[" line="5" column="0" />
@@ -323,6 +321,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="16" column="40" />
         <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_trainer.js" timestamp="1512604022662">
+        <mark key="[" line="72" column="33" />
+        <mark key="]" line="72" column="43" />
+        <mark key="." line="72" column="43" />
+        <mark key="^" line="72" column="43" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412911956">
         <mark key="[" line="48" column="47" />
@@ -384,6 +388,13 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="50" />
       </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1512603999211">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/test/playlist_pagination_test.js" timestamp="1510250440249">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -395,6 +406,12 @@
         <mark key="]" line="110" column="26" />
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
+        <mark key="[" line="76" column="33" />
+        <mark key="]" line="76" column="39" />
+        <mark key="^" line="76" column="39" />
+        <mark key="." line="76" column="39" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
         <mark key="[" line="7" column="21" />
@@ -506,12 +523,6 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" timestamp="1511299029781">
-        <mark key="'" line="132" column="27" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/sqs.js" timestamp="1511291397178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -522,12 +533,6 @@
         <mark key="]" line="69" column="38" />
         <mark key="^" line="68" column="36" />
         <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/internal.js" timestamp="1511224573090">
-        <mark key="'" line="328" column="28" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="65" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1511296719015">
         <mark key="[" line="120" column="0" />
@@ -546,39 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="33" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
-      <jump line="154" column="66" filename="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/core.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/src/services/service-auth/node/routes/view.js" />
-      <jump line="328" column="28" filename="$USER_HOME$/src/services/service-auth/node/routes/internal.js" />
-      <jump line="70" column="47" filename="$USER_HOME$/src/services/service-auth/node/routes/view.js" />
-      <jump line="13" column="31" filename="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" />
-      <jump line="64" column="19" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
-      <jump line="65" column="21" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
-      <jump line="62" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
-      <jump line="57" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
-      <jump line="58" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
-      <jump line="5" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/util.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/src/services/service-auth/scripts/baseThreaded.js" />
-      <jump line="194" column="16" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
-      <jump line="122" column="30" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
-      <jump line="174" column="16" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
-      <jump line="3" column="62" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
-      <jump line="120" column="16" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
-      <jump line="132" column="27" filename="$USER_HOME$/src/services/service-auth/node/Gruntfile.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" />
-      <jump line="2" column="5" filename="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/src/services/service-auth/node/config/tsustare's-Computer.js" />
-      <jump line="11" column="13" filename="$USER_HOME$/src/services/service-auth/node/config/test.json" />
-      <jump line="17" column="0" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
-      <jump line="6" column="1" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
-      <jump line="10" column="18" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
-      <jump line="16" column="27" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
-      <jump line="8" column="13" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
-      <jump line="37" column="18" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
-      <jump line="39" column="22" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
       <jump line="41" column="23" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
       <jump line="53" column="11" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
       <jump line="54" column="11" filename="$USER_HOME$/src/services/service-auth/node/lost_but_not_forgotten/test.js" />
@@ -646,61 +618,93 @@
       <jump line="599" column="56" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="298" column="30" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="666" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
+      <jump line="181" column="12" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="222" column="28" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="13" column="25" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="176" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
+      <jump line="30" column="12" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" />
+      <jump line="29" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" />
+      <jump line="56" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" />
+      <jump line="60" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" />
+      <jump line="61" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="71" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="202" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="276" column="16" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="310" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="400" column="24" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="454" column="20" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="571" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="606" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="28" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="89" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="215" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="363" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="468" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="501" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="536" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
+      <jump line="429" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
+      <jump line="75" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
+      <jump line="193" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
+      <jump line="329" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
+      <jump line="28" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>only</text>
+        <text>trainer</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>trainer</text>
       </register>
       <register name="/" type="4">
-        <text>only</text>
+        <text>logger.collect</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lbWJlcnNoaXBNb2RlbC5maW5kKHsgcHJvbW9faWQ6IHByb21vSWQgfSkKICAgICAgICAgICAgICAgICAgICAudGhlbigobWVtYmVyc2hpcCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QobWVtYmVyaGlwKS50by5ub3QuYmUuZW1wdHkKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1lbWJlcnNoaXBbMF0ucHJvbW9faWQudG9zdHJpbmcoKSkudG8uZXF1YWwocHJvbW9JZCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBRKCk7CiAgICAgICAgICAgICAgICAgICAgfSkKIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuY29sbGVjdCgnZW5kcG9pbnQudGFnX2dldF90YWdzX2J5X3R5cGUnLCB7CiAgICAgICAgICAgIHN0YXR1czogdHJ1ZSwKICAgICAgICAgICAgdGltaW5nOiB0cnVlCiAgICAgICAgfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZS5vbmx5KCdEZWxldGUgUHJvbW90aW9uJywgKCkgPT4gewo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtZW1iZXJzaGlwWzBdLnByb21vX2lkLnRvc3RyaW5nKCkpLnRvLmVxdWFsKHByb21vSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmliZS5vbmx5KCdEZWxldGUgUHJvbW90aW9uJywgKCkgPT4gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtZW1iZXJzaGlwWzBdLnByb21vX2lkLnRvc3RyaW5nKCkpLnRvLmVxdWFsKHByb21vSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBRKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkb25lKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cobWVtYmVyc2hpcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBRKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cobWVtYmVyc2hpcCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBkZWxldGUgcHJvbW90aW9uIGFuZCBhc3NvY2lhdGVkIG1lbWJlcnMKICAgICAgICAgICAgICAgIHJlcXVlc3QoYXBwKQogICAgICAgICAgICAgICAgICAgIC5kZWxldGUocm91dGVzLkFQSV9VUERBVEVfUFJPTU9USU9OLnJlcGxhY2UoJzppZCcsIHByb21vSWQpKQogICAgICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWRtaW5BY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgICAgIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBkb25lKGVycik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5zdGF0dXMpLnRvLmVxdWFsKDIwMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgICAgICB9KTs=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBkZWxldGUgcHJvbW90aW9uIGFuZCBhc3NvY2lhdGVkIG1lbWJlcnMKICAgICAgICAgICAgICAgIHJlcXVlc3QoYXBwKQogICAgICAgICAgICAgICAgICAgIC5kZWxldGUocm91dGVzLkFQSV9VUERBVEVfUFJPTU9USU9OLnJlcGxhY2UoJzppZCcsIHByb21vSWQpKQogICAgICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWRtaW5BY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgICAgIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBkb25lKGVycik7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5zdGF0dXMpLnRvLmVxdWFsKDIwMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>only</last-search>
+      <last-search>logger.collect</last-search>
       <last-offset />
-      <last-pattern>only</last-pattern>
+      <last-pattern>logger.collect</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>run</entry>
         <entry>sta</entry>
         <entry>es</entry>
         <entry>stat</entry>
@@ -715,11 +719,12 @@
         <entry>adminTok</entry>
         <entry>response</entry>
         <entry>console</entry>
-        <entry>logger</entry>
         <entry>43</entry>
         <entry>memberhip</entry>
         <entry>string</entry>
         <entry>only</entry>
+        <entry>logger</entry>
+        <entry>logger.collect</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
