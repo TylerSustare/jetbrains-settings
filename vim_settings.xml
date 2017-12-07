@@ -167,12 +167,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512687285498">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="75" column="3" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512690789890">
+        <mark key="'" line="142" column="75" />
+        <mark key="[" line="107" column="16" />
+        <mark key="]" line="107" column="16" />
+        <mark key="." line="107" column="16" />
+        <mark key="^" line="146" column="43" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -535,10 +535,10 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" timestamp="1512686566034">
+      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" timestamp="1512690514894">
         <mark key="'" line="51" column="18" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="116" column="36" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="51" column="22" />
       </file>
@@ -570,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="1" filename="$USER_HOME$/src/projects/tic-tac-toe/src/BoardComponent.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="112" column="12" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
       <jump line="102" column="52" filename="$USER_HOME$/src/services/service-promotion/node/test/common.js" />
@@ -670,46 +669,47 @@
       <jump line="72" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="92" column="16" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="134" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="142" column="75" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Generate an access token for the current CBT user profile for the provided client</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Generate an access token for the current CBT user profile for the provided client</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZWZlci5wcm9taXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdNZW1iZXIgTmFtZTogJyArIGNvbG9ycy5jeWFuKGAke21lbWJlci5uYW1lLmZpcnN0fSAke21lbWJlci5uYW1lLmxhc3R9YCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG1lbWJlcik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGFjY2Vzc1Rva2VuKTsK</text>
+        <text encoding="base64">ICAgIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0dWZmLmJvZHkubWVtYmVyKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGFjY2Vzc1Rva2VuKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKGFjY2Vzc1Rva2VuKSA9PiB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXMuYm9keSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGFjY2Vzc1Rva2VuKTsKICAgICAgICAgICAgICAgIC8vIHJldHVybiBjYnRVdGlsLmdldE1lbWJlckJ5RW1haWwoY29uZmlnLCBhY2Nlc3NUb2tlbiwgZW1haWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKGFjY2Vzc1Rva2VuKSA9PiB7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
