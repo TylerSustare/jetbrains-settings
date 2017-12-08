@@ -89,7 +89,6 @@
         <mark key="]" line="38" column="73" />
         <mark key="." line="38" column="73" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_user.js" timestamp="1512692273298" />
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/test/app_test.js" timestamp="1510338028138">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="7" />
@@ -384,11 +383,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1511842519179">
-        <mark key="[" line="40" column="72" />
-        <mark key="]" line="40" column="72" />
-        <mark key="." line="40" column="72" />
-        <mark key="^" line="21" column="36" />
+      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1512759351235">
+        <mark key="'" line="214" column="8" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="58" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="216" column="35" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1512594764858">
         <mark key="'" line="246" column="8" />
@@ -573,10 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="600" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="602" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="649" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="553" column="14" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="559" column="33" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="562" column="49" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="566" column="71" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
@@ -673,61 +669,64 @@
       <jump line="177" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="213" column="13" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="797" column="58" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
+      <jump line="207" column="25" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="208" column="23" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="209" column="22" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="214" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbnRlcm5hbENsaWVudFNsdWcgPSBfLmdldChhcmd2LCAnaScsIG51bGwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>userEmail</text>
       </register>
       <register name="/" type="4">
-        <text>Q</text>
+        <text>c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZW5lcmF0ZUZvckNsaWVudChob3N0LCBzZXJ2aWNlUmVwb3J0Q2xpZW50LCB1c2VyQ3JlZGVudGlhbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjbGllbnRTbHVnID0gXy5nZXQoYXJndiwgJ2MnLCBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbnRlcm5hbENsaWVudFNsdWcgPSBfLmdldChhcmd2LCAnaScsIG51bGwpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBob3N0ID0gXy5nZXQoY29uZmlnLmF1dGhVUkxzLCBjb25maWcuY2J0RW52LCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlZmVyID0gUS5kZWZlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjbGllbnRTbHVnID0gXy5nZXQoYXJndiwgJ2MnLCBudWxsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFsaWFzKCdjJywgJ2NsaWVudFNsdWcnKQogICAgICAgICAgICAuZGVzY3JpYmUoJ2MnLCAnQ2xpZW50IFNsdWcnKQogICAgICAgICAgICAuZGVmYXVsdCgnYycsICd3ZWJzaXRlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZWZlci5wcm9taXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aGl0ZWxpc3RlZCBzZXJ2aWNlICdzZXJ2aWNlLXJlcG9ydCcgdXNlZCBmb3IgbWVtYmVyIHNlcnZpY2UgaW50ZXJuYWwgcm91dGUgaW4gZ2V0TWVtYmVyQnlFbWFpbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBvY25zdCAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXIucHJvbWlzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlZmVyID0gUS5kZWZlcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Q</last-search>
+      <last-search>c</last-search>
       <last-offset />
-      <last-pattern>Q</last-pattern>
+      <last-pattern>c</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>response</entry>
         <entry>43</entry>
         <entry>memberhip</entry>
         <entry>string</entry>
@@ -747,6 +746,7 @@
         <entry>defe</entry>
         <entry>defer</entry>
         <entry>Q</entry>
+        <entry>c</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
