@@ -100,10 +100,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512686431397">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
+        <mark key="'" line="791" column="58" />
+        <mark key="[" line="797" column="49" />
+        <mark key="]" line="797" column="49" />
+        <mark key="." line="797" column="49" />
+        <mark key="^" line="797" column="49" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-www-invoice-change-router/node/package.json" timestamp="1507849112323">
         <mark key="[" line="2" column="19" />
@@ -168,12 +170,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512693585513">
-        <mark key="'" line="62" column="24" />
-        <mark key="[" line="243" column="40" />
-        <mark key="]" line="243" column="45" />
-        <mark key="^" line="243" column="45" />
-        <mark key="." line="243" column="45" />
+      <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512755480837">
+        <mark key="'" line="213" column="13" />
+        <mark key="[" line="224" column="57" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="93" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -502,7 +504,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512583591871">
+      <file name="/Dummy.txt" timestamp="1512755817030">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
@@ -571,29 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="42" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="546" column="24" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="565" column="39" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="262" column="48" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="585" column="18" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="593" column="15" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="297" column="29" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
-      <jump line="272" column="36" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="285" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="312" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="341" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="10" column="17" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="12" column="71" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="71" column="16" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="96" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="127" column="20" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="136" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="170" column="20" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="179" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="212" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
-      <jump line="246" column="8" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
       <jump line="600" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="602" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="649" column="0" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
@@ -671,65 +650,83 @@
       <jump line="10" column="6" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="42" column="24" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="62" column="24" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="207" column="36" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="237" column="16" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="248" column="16" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="71" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="122" column="27" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="179" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="30" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="48" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="49" column="5" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="251" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="29" column="38" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="70" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="94" column="26" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="16" column="4" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="191" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="177" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="213" column="13" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
+      <jump line="797" column="58" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>serviceReportClient</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>serviceReportClient</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>onE</text>
+        <text>Q</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZW5lcmF0ZUZvckNsaWVudChob3N0LCBzZXJ2aWNlUmVwb3J0Q2xpZW50LCB1c2VyQ3JlZGVudGlhbHMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudEFjY2Vzc1Rva2VuID0gYWNjZXNzVG9rZW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oeWFyZ3NDbGllbnQgPT4gewogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHlhcmdzQ2xpZW50KTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4gSU4gYWZ0ZXIgXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRlZmVyID0gUS5kZWZlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZ2V0VGhpc0NsaWVudDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFRoaXNDbGllbnQgPSBjbGllbnRTbHVnOwogICAgICAgICAgICAgICAgcmV0dXJuIGNidFV0aWwuZG9Mb2dpbkFzeW5jKGNvbmZpZywgY2xpZW50U2x1ZywgdXNlckNyZWRlbnRpYWxzKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZWZlci5wcm9taXNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFRva2VuRm9yVXNlcihob3N0LCBnZXRUaGlzQ2xpZW50LCBhY2Nlc3NUb2tlbiwgbWVtYmVySWQpOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNsaWVudFNsdWcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXIucHJvbWlzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4gSU4gYWZ0ZXIgXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onE</last-search>
+      <last-search>Q</last-search>
       <last-offset />
-      <last-pattern>onE</last-pattern>
+      <last-pattern>Q</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reject</entry>
-        <entry>cick</entry>
-        <entry>lick</entry>
-        <entry>marketing</entry>
-        <entry>adminTok</entry>
         <entry>response</entry>
         <entry>43</entry>
         <entry>memberhip</entry>
@@ -740,11 +737,16 @@
         <entry>request</entry>
         <entry>onError</entry>
         <entry>err</entry>
-        <entry>def</entry>
         <entry>As</entry>
         <entry>console</entry>
         <entry>var</entry>
         <entry>onE</entry>
+        <entry>console.log</entry>
+        <entry>Member ID</entry>
+        <entry>def</entry>
+        <entry>defe</entry>
+        <entry>defer</entry>
+        <entry>Q</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
