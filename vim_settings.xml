@@ -152,10 +152,12 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="111" column="39" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1512608121933">
-        <mark key="[" line="454" column="0" />
-        <mark key="]" line="454" column="0" />
-        <mark key="." line="454" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1513015836070">
+        <mark key="'" line="454" column="19" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -573,7 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="559" column="33" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="562" column="49" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="566" column="71" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
       <jump line="572" column="85" filename="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" />
@@ -673,6 +674,7 @@
       <jump line="208" column="23" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="209" column="22" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
       <jump line="214" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
+      <jump line="454" column="19" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
