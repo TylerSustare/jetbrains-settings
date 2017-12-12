@@ -39,7 +39,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513110837722" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513117160084">
+        <mark key="[" line="377" column="32" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1513109019686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -724,7 +726,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicsIG5vUGFzc3dvcmRDcmVhdGVkVXNlciwgJ1xuXG4nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -768,8 +770,8 @@
         <entry>15</entry>
         <entry>260</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
