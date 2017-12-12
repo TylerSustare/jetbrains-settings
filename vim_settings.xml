@@ -723,7 +723,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -766,9 +766,9 @@
         <entry>21</entry>
         <entry>15</entry>
         <entry>260</entry>
-        <entry>vsp</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
