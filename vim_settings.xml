@@ -81,10 +81,10 @@
         <mark key="." line="534" column="16" />
         <mark key="^" line="613" column="59" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1513187130670">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1513205756804">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/common.js" timestamp="1510860358540">
         <mark key="[" line="0" column="0" />
@@ -743,7 +743,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFEubmZjYWxsKGF1dGguY2hlY2tSb2xlUmVxdWlyZWQsIHJlcS5jbGllbnQsIHJlcS51c2VyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -780,7 +780,6 @@
         <entry>1259</entry>
         <entry>s</entry>
         <entry>/id</entry>
-        <entry>wq</entry>
         <entry>272</entry>
         <entry>96</entry>
         <entry>21</entry>
@@ -789,6 +788,7 @@
         <entry>q</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
