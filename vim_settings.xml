@@ -39,11 +39,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513187687955">
-        <mark key="'" line="448" column="57" />
-        <mark key="[" line="521" column="0" />
-        <mark key="]" line="521" column="42" />
-        <mark key="." line="521" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513202817136">
+        <mark key="[" line="463" column="0" />
+        <mark key="]" line="463" column="49" />
+        <mark key="^" line="468" column="49" />
+        <mark key="." line="463" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1513109019686">
         <mark key="[" line="0" column="0" />
@@ -215,11 +215,10 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/test/user_test.js" timestamp="1513198785076">
-        <mark key="[" line="231" column="55" />
-        <mark key="]" line="231" column="55" />
-        <mark key="." line="231" column="55" />
-        <mark key="^" line="231" column="58" />
+      <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/test/user_test.js" timestamp="1513198995918">
+        <mark key="[" line="228" column="30" />
+        <mark key="]" line="228" column="30" />
+        <mark key="." line="228" column="30" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.js" timestamp="1510857105599">
         <mark key="[" line="23" column="0" />
@@ -325,6 +324,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/middleware/route_authentication.js" timestamp="1513202600123">
+        <mark key="'" line="262" column="4" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/mailer.js" timestamp="1510353243500">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="11" column="13" />
@@ -347,7 +349,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1511198323749">
+      <file name="/fragment.js" timestamp="1513202999716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/custom_sanitizers.js" timestamp="1510353893510">
@@ -530,7 +532,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513190324215">
+      <file name="/Dummy.txt" timestamp="1513202650166">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
@@ -599,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="18" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" />
       <jump line="22" column="9" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="33" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="55" column="32" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
@@ -699,61 +700,61 @@
       <jump line="448" column="57" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="30" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="233" column="20" filename="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/test/user_test.js" />
+      <jump line="262" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/middleware/route_authentication.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.to.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.to.</text>
+        <text>done</text>
       </register>
       <register name="/" type="4">
-        <text>update_</text>
+        <text>checkRoleR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoY3JlYXRlZFVzZXJPYmplY3QpLnRvLmhhdmUucHJvcGVydHkoJ2xhc3RfYXV0aCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGNyZWF0ZWRVc2VyT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5leHQoZXJyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoY3JlYXRlZFVzZXIudG8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZnVuY3Rpb24gKGVycikgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWRVc2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjcmVhdGVkVXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5leHQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjcmVhdGVkVXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbiAocmVzdWx0KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFEubmZjYWxsKGF1dGguY2hlY2tSb2xlUmVxdWlyZWQsIHJlcS5jbGllbnQsIHJlcS51c2VyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjcmVhdGVkVXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZlcmlmeSB0aGF0IHVzZXIgaGFzIGEgcm9sZSBmb3IgdGhpcyBjbGllbnQgaWYgaXQgaXMgcmVxdWlyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5lcXVhbC50cnVlOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update_</last-search>
+      <last-search>checkRoleR</last-search>
       <last-offset />
-      <last-pattern>update_</last-pattern>
+      <last-pattern>checkRoleR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onError</entry>
         <entry>err</entry>
         <entry>As</entry>
         <entry>console</entry>
@@ -773,6 +774,7 @@
         <entry>UserModel</entry>
         <entry>refresh</entry>
         <entry>update_</entry>
+        <entry>checkRoleR</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
