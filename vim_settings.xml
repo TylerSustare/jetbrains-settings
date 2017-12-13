@@ -68,6 +68,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/models/user.js" timestamp="1513196058812">
+        <mark key="[" line="496" column="14" />
+        <mark key="]" line="496" column="14" />
+        <mark key="^" line="496" column="14" />
+        <mark key="." line="496" column="14" />
+      </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512602235979">
         <mark key="'" line="666" column="0" />
         <mark key="[" line="534" column="16" />
@@ -436,7 +442,6 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/oauth2orize/lib/server.js" timestamp="1513187052660" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
         <mark key="]" line="76" column="39" />
@@ -691,7 +696,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -703,28 +708,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyLnRvT2JqZWN0KCkpOwogICAgICAgICAgICAgICAgICAgIGRlbGV0ZSBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIucGFzc3dvcmQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2cgaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBsb2cgaXQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5vUGFzc3dvcmRDcmVhdGVkVXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5vUGFzc3dvcmRDcmVhdGVkVXNlcik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
