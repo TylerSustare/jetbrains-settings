@@ -68,11 +68,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/models/user.js" timestamp="1513196058812">
-        <mark key="[" line="496" column="14" />
-        <mark key="]" line="496" column="14" />
-        <mark key="^" line="496" column="14" />
-        <mark key="." line="496" column="14" />
+      <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/models/user.js" timestamp="1513196668171">
+        <mark key="[" line="505" column="42" />
+        <mark key="]" line="506" column="15" />
+        <mark key="^" line="506" column="15" />
+        <mark key="." line="506" column="15" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512602235979">
         <mark key="'" line="666" column="0" />
@@ -214,6 +214,12 @@
         <mark key="]" line="6" column="51" />
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/test/user_test.js" timestamp="1513198785076">
+        <mark key="[" line="231" column="55" />
+        <mark key="]" line="231" column="55" />
+        <mark key="." line="231" column="55" />
+        <mark key="^" line="231" column="58" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.js" timestamp="1510857105599">
         <mark key="[" line="23" column="0" />
@@ -593,7 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="3" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="51" column="18" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" />
       <jump line="22" column="9" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="33" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
@@ -693,46 +698,47 @@
       <jump line="21" column="20" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="448" column="57" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="30" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
+      <jump line="233" column="20" filename="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/test/user_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.to.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.to.</text>
       </register>
       <register name="/" type="4">
         <text>update_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyLnRvT2JqZWN0KCkpOwogICAgICAgICAgICAgICAgICAgIGRlbGV0ZSBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIucGFzc3dvcmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoY3JlYXRlZFVzZXJPYmplY3QpLnRvLmhhdmUucHJvcGVydHkoJ2xhc3RfYXV0aCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGNyZWF0ZWRVc2VyT2JqZWN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoY3JlYXRlZFVzZXIudG8pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2cgaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWRVc2VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjcmVhdGVkVXNlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjcmVhdGVkVXNlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5vUGFzc3dvcmRDcmVhdGVkVXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjcmVhdGVkVXNlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5lcXVhbC50cnVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
