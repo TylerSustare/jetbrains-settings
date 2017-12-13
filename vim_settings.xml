@@ -39,11 +39,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513203213630">
-        <mark key="[" line="550" column="0" />
-        <mark key="]" line="550" column="0" />
-        <mark key="^" line="468" column="49" />
-        <mark key="." line="550" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513207396476">
+        <mark key="'" line="457" column="0" />
+        <mark key="[" line="528" column="39" />
+        <mark key="]" line="529" column="28" />
+        <mark key="." line="529" column="28" />
+        <mark key="^" line="529" column="28" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1513109019686">
         <mark key="[" line="0" column="0" />
@@ -146,6 +147,7 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/oauth2.js" timestamp="1513207018762" />
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/response.js" timestamp="1507927845047">
         <mark key="[" line="49" column="50" />
         <mark key="]" line="49" column="58" />
@@ -601,10 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="9" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="33" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="55" column="32" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="57" column="28" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="77" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="39" column="25" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="50" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
@@ -701,55 +699,59 @@
       <jump line="30" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="233" column="20" filename="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/test/user_test.js" />
       <jump line="262" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/middleware/route_authentication.js" />
+      <jump line="540" column="38" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="541" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="545" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="463" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>done</text>
       </register>
       <register name="/" type="4">
-        <text>checkRoleR</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsKICAgICAgICAgICAgICAgIHJlcS51c2VyLnVwZGF0ZVVzZXJMYXN0QXV0aChmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXh0KGVycik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwogICAgICAgICAgICAgICAgICAgIG5leHQoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9LAog</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5leHQoZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZnVuY3Rpb24gKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5leHQoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsKICAgICAgICAgICAgICAgIHJlcS51c2VyLnVwZGF0ZVVzZXJMYXN0QXV0aChmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXh0KGVycik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwogICAgICAgICAgICAgICAgICAgIG5leHQoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9LAog</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbiAocmVzdWx0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFEubmZjYWxsKGF1dGguY2hlY2tSb2xlUmVxdWlyZWQsIHJlcS5jbGllbnQsIHJlcS51c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5leHQoZXJyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkRoleR</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>checkRoleR</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -760,7 +762,6 @@
         <entry>console</entry>
         <entry>var</entry>
         <entry>onE</entry>
-        <entry>console.log</entry>
         <entry>Member ID</entry>
         <entry>def</entry>
         <entry>defe</entry>
@@ -775,6 +776,7 @@
         <entry>refresh</entry>
         <entry>update_</entry>
         <entry>checkRoleR</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -787,8 +789,8 @@
         <entry>260</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
