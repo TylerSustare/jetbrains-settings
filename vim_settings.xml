@@ -519,7 +519,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513109022274">
+      <file name="/Dummy.txt" timestamp="1513188712926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
@@ -697,7 +697,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>refresh</text>
+        <text>update_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyLnRvT2JqZWN0KCkpOwogICAgICAgICAgICAgICAgICAgIGRlbGV0ZSBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIucGFzc3dvcmQ7Cg==</text>
@@ -734,15 +734,14 @@
       </register>
     </registers>
     <search>
-      <last-search>refresh</last-search>
+      <last-search>update_</last-search>
       <last-offset />
-      <last-pattern>refresh</last-pattern>
+      <last-pattern>update_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
         <entry>onError</entry>
         <entry>err</entry>
         <entry>As</entry>
@@ -762,6 +761,7 @@
         <entry>User</entry>
         <entry>UserModel</entry>
         <entry>refresh</entry>
+        <entry>update_</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
