@@ -39,9 +39,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513183273244">
-        <mark key="'" line="21" column="20" />
-        <mark key="[" line="377" column="32" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513187687955">
+        <mark key="'" line="448" column="57" />
+        <mark key="[" line="521" column="0" />
+        <mark key="]" line="521" column="42" />
+        <mark key="." line="521" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1513109019686">
         <mark key="[" line="0" column="0" />
@@ -73,7 +75,7 @@
         <mark key="." line="534" column="16" />
         <mark key="^" line="613" column="59" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1512589015571">
+      <file name="$USER_HOME$/src/services/service-auth/node/package.json" timestamp="1513187130670">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
@@ -156,8 +158,8 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="111" column="39" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1513183258513">
-        <mark key="'" line="10" column="18" />
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1513187654074">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="26" column="20" />
@@ -434,6 +436,7 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/oauth2orize/lib/server.js" timestamp="1513187052660" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
         <mark key="]" line="76" column="39" />
@@ -585,8 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" />
       <jump line="102" column="3" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="51" column="18" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" />
       <jump line="22" column="9" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
@@ -685,61 +686,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="20" column="10" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="21" column="20" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="448" column="57" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2cgaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>userForMessage</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>UserModel</text>
+        <text>refresh</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyLnRvT2JqZWN0KCkpOwogICAgICAgICAgICAgICAgICAgIGRlbGV0ZSBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIucGFzc3dvcmQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsb2cgaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBsb2cgaXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5vUGFzc3dvcmRDcmVhdGVkVXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBub1Bhc3N3b3JkQ3JlYXRlZFVzZXIgPSBfLmNsb25lKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG5vUGFzc3dvcmRDcmVhdGVkVXNlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZWRVc2VyKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cbicsIG5vUGFzc3dvcmRDcmVhdGVkVXNlciwgJ1xuXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgbm9QYXNzd29yZENyZWF0ZWRVc2VyLnBhc3N3b3JkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UserModel</last-search>
+      <last-search>refresh</last-search>
       <last-offset />
-      <last-pattern>UserModel</last-pattern>
+      <last-pattern>refresh</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger.collect</entry>
         <entry>request</entry>
         <entry>onError</entry>
         <entry>err</entry>
@@ -759,6 +761,7 @@
         <entry encoding="base64">VXNlciBzdWNjZXNzZnVsbHkg</entry>
         <entry>User</entry>
         <entry>UserModel</entry>
+        <entry>refresh</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -771,8 +774,8 @@
         <entry>15</entry>
         <entry>260</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
