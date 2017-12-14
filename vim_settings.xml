@@ -39,12 +39,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513207396476">
-        <mark key="'" line="457" column="0" />
-        <mark key="[" line="528" column="39" />
-        <mark key="]" line="529" column="28" />
-        <mark key="." line="529" column="28" />
-        <mark key="^" line="529" column="28" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513295656732">
+        <mark key="[" line="997" column="36" />
+        <mark key="]" line="998" column="31" />
+        <mark key="." line="63" column="40" />
+        <mark key="^" line="998" column="31" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1513109019686">
         <mark key="[" line="0" column="0" />
@@ -147,7 +146,6 @@
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/oauth2.js" timestamp="1513207018762" />
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/response.js" timestamp="1507927845047">
         <mark key="[" line="49" column="50" />
         <mark key="]" line="49" column="58" />
@@ -205,6 +203,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" timestamp="1513295674909">
+        <mark key="'" line="198" column="8" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/base.js" timestamp="1507852283295">
         <mark key="[" line="40" column="24" />
         <mark key="]" line="40" column="29" />
@@ -227,6 +231,12 @@
         <mark key="]" line="24" column="61" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1513295586006">
+        <mark key="[" line="511" column="4" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
+        <mark key="^" line="66" column="46" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
         <mark key="[" line="0" column="0" />
@@ -275,11 +285,6 @@
         <mark key="]" line="19" column="33" />
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_playlist_v1.js" timestamp="1512603694305">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/users/user_migrations.js" timestamp="1513101676136">
         <mark key="[" line="87" column="6" />
@@ -351,7 +356,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1513203167119">
+      <file name="/fragment.js" timestamp="1513293882333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/custom_sanitizers.js" timestamp="1510353893510">
@@ -513,8 +518,8 @@
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/app_test.js" timestamp="1511304026606">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
@@ -534,7 +539,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513202650166">
+      <file name="/Dummy.txt" timestamp="1513295502645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
@@ -603,8 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="39" column="25" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="50" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="52" column="41" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
       <jump line="67" column="45" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
@@ -703,46 +706,66 @@
       <jump line="541" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="545" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="463" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="94" column="41" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
+      <jump line="199" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LnRvT2JqZWN0KCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>done</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRvbmUoIC4uLnJldHVybkl0ZW1zICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LnRvT2JqZWN0KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBkb25lKAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwo=</text>
+      <register name="4" type="4">
+        <text>null,
+                                        accessTokenDetails.id,
+                                        refreshTokenDetails.id,
+                                        {
+                                            expires_in: accessTokenDetails.expires_in,
+                                            user_id: accessTokenDetails.user_id
+                                        }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGlyZXNfaW46IGFjY2Vzc1Rva2VuRGV0YWlscy5leHBpcmVzX2luLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQ6IGFjY2Vzc1Rva2VuRGV0YWlscy51c2VyX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0sIHsgdmVyaWZpY2F0aW9uczogcmVzdWx0LnZlcmlmaWNhdGlvbnMgfSk7CiAgICAgICAgICAgICAgICB9LCB7IHZlcmlmaWNhdGlvbnM6IHJlc3VsdC52ZXJpZmljYXRpb25zIH0pOwogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICApKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogVXBkYXRlIHVzZXIgbGFzdF9hdXRoCg==</text>
+      <register name="6" type="4">
+        <text>null,
+                                            accessTokenDetails.id,
+                                            refreshTokenDetails.id,
+                                            {
+                                                expires_in: accessTokenDetails.expires_in,
+                                                user_id: accessTokenDetails.user_id
+                                            }</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gKHJlcSwgcmVzLCBuZXh0KSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEudXNlci50b09iamVjdCgpKTsKICAgICAgICAgICAgICAgIHJlcS51c2VyLnVwZGF0ZVVzZXJMYXN0QXV0aChmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuZXh0KGVycik7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcS51c2VyLnRvT2JqZWN0KCkpOwogICAgICAgICAgICAgICAgICAgIG5leHQoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9LAog</text>
+        <text>null,
+                                            accessTokenDetails.id,
+                                            refreshTokenDetails.id,
+                                            {
+                                                expires_in: accessTokenDetails.expires_in,
+                                                user_id: accessTokenDetails.user_id
+                                            }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5leHQoZXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -788,8 +811,8 @@
         <entry>15</entry>
         <entry>260</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
