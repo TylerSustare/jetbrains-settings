@@ -34,16 +34,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1511291402879">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513295656732">
-        <mark key="[" line="997" column="36" />
-        <mark key="]" line="998" column="31" />
-        <mark key="." line="63" column="40" />
-        <mark key="^" line="998" column="31" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1513360521879">
+        <mark key="'" line="635" column="28" />
+        <mark key="[" line="262" column="57" />
+        <mark key="]" line="262" column="61" />
+        <mark key="." line="262" column="61" />
+        <mark key="^" line="262" column="61" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1513109019686">
         <mark key="[" line="0" column="0" />
@@ -608,14 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="52" column="41" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="67" column="45" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="53" column="45" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="77" column="1" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="22" column="10" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="103" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="109" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="84" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="21" column="23" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
@@ -695,7 +689,6 @@
       <jump line="10" column="18" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="385" column="51" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="894" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="20" column="10" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="21" column="20" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="448" column="57" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
@@ -708,16 +701,25 @@
       <jump line="463" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="94" column="41" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="199" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
+      <jump line="253" column="53" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="733" column="24" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="800" column="24" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="17" column="30" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="248" column="36" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="262" column="44" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="571" column="28" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="635" column="28" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LnRvT2JqZWN0KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>25200</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>25200</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>logger\.error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRvbmUoIC4uLnJldHVybkl0ZW1zICk7Cg==</text>
@@ -772,15 +774,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>logger\.error</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>logger\.error</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>err</entry>
         <entry>As</entry>
         <entry>console</entry>
         <entry>var</entry>
@@ -800,6 +801,7 @@
         <entry>update_</entry>
         <entry>checkRoleR</entry>
         <entry>console.log</entry>
+        <entry>logger\.error</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
