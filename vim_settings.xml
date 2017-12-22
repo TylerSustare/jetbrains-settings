@@ -76,6 +76,7 @@
         <mark key="^" line="506" column="15" />
         <mark key="." line="506" column="15" />
       </file>
+      <file name="$USER_HOME$/src/services/service-quiz/node/lib/review.js" timestamp="1513966325808" />
       <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512602235979">
         <mark key="'" line="666" column="0" />
         <mark key="[" line="534" column="16" />
@@ -361,7 +362,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1513293882333">
+      <file name="/fragment.js" timestamp="1513965703081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/custom_sanitizers.js" timestamp="1510353893510">
@@ -388,7 +389,8 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz/node/routes/api.js" timestamp="1513964363341">
+      <file name="$USER_HOME$/src/services/service-quiz/node/routes/api.js" timestamp="1513966290977">
+        <mark key="'" line="1012" column="26" />
         <mark key="[" line="954" column="103" />
         <mark key="]" line="954" column="119" />
         <mark key="^" line="954" column="119" />
@@ -484,10 +486,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" timestamp="1513899468492">
-        <mark key="[" line="2560" column="14" />
-        <mark key="]" line="2560" column="14" />
-        <mark key="." line="2560" column="14" />
+      <file name="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" timestamp="1513966220993">
+        <mark key="'" line="1851" column="20" />
+        <mark key="[" line="1838" column="16" />
+        <mark key="]" line="1838" column="20" />
+        <mark key="." line="1838" column="20" />
+        <mark key="^" line="1838" column="20" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
@@ -513,7 +517,7 @@
         <mark key="]" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="/JavaScript Console" timestamp="1513964388156">
+      <file name="/JavaScript Console" timestamp="1513965226091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/errors/requesterror.js" timestamp="1511291555279">
@@ -544,7 +548,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513898845105">
+      <file name="/Dummy.txt" timestamp="1513966191995">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1511223249905">
@@ -613,8 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="21" column="23" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="46" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="138" column="16" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="72" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
@@ -713,16 +715,18 @@
       <jump line="571" column="28" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="635" column="28" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="92" column="17" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="1851" column="20" filename="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" />
+      <jump line="1012" column="26" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>25200</text>
+        <text>only</text>
       </register>
       <register name="-" type="4">
-        <text>25200</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>logger\.error</text>
+        <text>only</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRvbmUoIC4uLnJldHVybkl0ZW1zICk7Cg==</text>
@@ -777,15 +781,14 @@
       </register>
     </registers>
     <search>
-      <last-search>logger\.error</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern>logger\.error</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>As</entry>
         <entry>console</entry>
         <entry>var</entry>
         <entry>onE</entry>
@@ -805,6 +808,7 @@
         <entry>checkRoleR</entry>
         <entry>console.log</entry>
         <entry>logger\.error</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
