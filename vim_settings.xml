@@ -179,11 +179,11 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1514931365560">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="43" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1514933499425">
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -730,8 +730,8 @@
       <jump line="1012" column="26" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlZGlzID0gcmVxdWlyZSgncmVkaXMnKTsK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -743,21 +743,27 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRvbmUoIC4uLnJldHVybkl0ZW1zICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZGlzID0gcmVxdWlyZSgncmVkaXMnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Y29uc3QgcmVkaXMgPSByZXF1aXJlKCdyZWRpcycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LnRvT2JqZWN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0LnRvT2JqZWN0KCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBkb25lKAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>null,
                                         accessTokenDetails.id,
                                         refreshTokenDetails.id,
@@ -766,26 +772,8 @@
                                             user_id: accessTokenDetails.user_id
                                         }</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGlyZXNfaW46IGFjY2Vzc1Rva2VuRGV0YWlscy5leHBpcmVzX2luLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQ6IGFjY2Vzc1Rva2VuRGV0YWlscy51c2VyX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0sIHsgdmVyaWZpY2F0aW9uczogcmVzdWx0LnZlcmlmaWNhdGlvbnMgfSk7CiAgICAgICAgICAgICAgICB9LCB7IHZlcmlmaWNhdGlvbnM6IHJlc3VsdC52ZXJpZmljYXRpb25zIH0pOwogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICApKTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text>null,
-                                            accessTokenDetails.id,
-                                            refreshTokenDetails.id,
-                                            {
-                                                expires_in: accessTokenDetails.expires_in,
-                                                user_id: accessTokenDetails.user_id
-                                            }</text>
-      </register>
       <register name="9" type="4">
-        <text>null,
-                                            accessTokenDetails.id,
-                                            refreshTokenDetails.id,
-                                            {
-                                                expires_in: accessTokenDetails.expires_in,
-                                                user_id: accessTokenDetails.user_id
-                                            }</text>
+        <text encoding="base64">LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGlyZXNfaW46IGFjY2Vzc1Rva2VuRGV0YWlscy5leHBpcmVzX2luLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQ6IGFjY2Vzc1Rva2VuRGV0YWlscy51c2VyX2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0sIHsgdmVyaWZpY2F0aW9uczogcmVzdWx0LnZlcmlmaWNhdGlvbnMgfSk7CiAgICAgICAgICAgICAgICB9LCB7IHZlcmlmaWNhdGlvbnM6IHJlc3VsdC52ZXJpZmljYXRpb25zIH0pOwogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICApKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
