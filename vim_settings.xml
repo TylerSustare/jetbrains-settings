@@ -179,11 +179,10 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515012275968">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="36" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515017362083">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -730,8 +729,8 @@
       <jump line="1012" column="26" filename="$USER_HOME$/src/services/service-quiz/node/routes/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, null</text>
@@ -743,31 +742,31 @@
         <text encoding="base64">ICAgICAgICBjYWxsYmFjayhudWxsLCBgU3VjY2Vzc2Z1bGx5IHByb2Nlc3NlZCAke2V2ZW50LlJlY29yZHMubGVuZ3RofSByZWNvcmRzLmApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlc2xpbnRpZ25vcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBlc2xpbnRpZ25vcmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
