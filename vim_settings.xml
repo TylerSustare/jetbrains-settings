@@ -103,6 +103,13 @@
         <mark key="]" line="38" column="73" />
         <mark key="." line="38" column="73" />
       </file>
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" timestamp="1515091189948">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="18" />
+        <mark key="." line="57" column="18" />
+        <mark key="^" line="57" column="18" />
+      </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/test/app_test.js" timestamp="1510338028138">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="7" />
@@ -113,12 +120,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515089978558">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="32" column="7" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515092508228">
+        <mark key="'" line="46" column="18" />
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="6" />
+        <mark key="^" line="60" column="6" />
+        <mark key="." line="60" column="6" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -186,12 +193,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515089803088">
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515092665429">
         <mark key="'" line="21" column="9" />
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="53" column="37" />
-        <mark key="." line="53" column="37" />
-        <mark key="^" line="53" column="37" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="25" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -297,7 +304,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515020862655">
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515091794008">
         <mark key="'" line="54" column="2" />
         <mark key="[" line="54" column="2" />
         <mark key="]" line="54" column="2" />
@@ -659,11 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="48" column="20" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="49" column="5" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="251" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="29" column="38" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="70" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="78" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
@@ -759,46 +761,51 @@
       <jump line="35" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="34" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" />
+      <jump line="55" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" />
+      <jump line="81" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" />
+      <jump line="46" column="18" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>redisCl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgICAgICAgICBjb250ZXh0LmZhaWwoZXJyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuc2V0KCdzdHJpbmcga2V5JywgJ3N0cmluZyB2YWwnLCBmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgaWYgKGVycikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KG1lc3NhZ2UpLnRvLmVxdWFsKHN1Y2Nlc3NNZXNzYWdlKTsKICAgICAgICAgICAgZXhwZWN0KHMzTW9ja0RhdGFbQlVDS0VUX05BTUVdLnF1aXopLnRvLmhhdmUucHJvcGVydHkoJzQ1NicpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGVycjsK</text>
+        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGVycjsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2xpZW50ID0gcmVkaXMuY3JlYXRlQ2xpZW50KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSByZWRpcy5jcmVhdGVDbGllbnQocG9ydCwgaG9zdG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuZmFpbChlcnIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
