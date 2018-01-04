@@ -186,12 +186,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515023995738">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515026549843">
+        <mark key="'" line="21" column="9" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="2" />
+        <mark key="." line="56" column="2" />
+        <mark key="^" line="56" column="2" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -656,10 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="42" column="24" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="62" column="24" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="207" column="36" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="237" column="16" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="248" column="16" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
       <jump line="71" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
@@ -756,61 +752,64 @@
       <jump line="12" column="6" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="13" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="54" column="2" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" />
+      <jump line="33" column="6" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="15" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="16" column="13" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="17" column="9" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, &quot;string val&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;string val&quot;</text>
+        <text>, redis.print</text>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text>redisCl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZGlzQ2xpZW50LnNldCgic3RyaW5nIGtleSIsICJzdHJpbmcgdmFsIiwgcmVkaXMucHJpbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGVycjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IGVycjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlZGlzQ2xpZW50Lm9uKCdjb25uZWN0JywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSByZWRpcy5jcmVhdGVDbGllbnQocG9ydCwgaG9zdG5hbWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYW1iZGEuaGFuZGxlcihldmVudCwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQucXVpdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodHJ1ZSkudG8uZXF1YWwodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuaHNldChbJ2hhc2gga2V5JywgJ2hhc2h0ZXN0IDInLCAnc29tZSBvdGhlciB2YWx1ZSddLCByZWRpcy5wcmludCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcgICAgJyArIGkgKyAnOiAnICsgcmVwbHkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>const</last-search>
+      <last-search>redisCl</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
+      <last-pattern>redisCl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
         <entry>onE</entry>
         <entry>Member ID</entry>
         <entry>def</entry>
@@ -830,6 +829,7 @@
         <entry>logger\.error</entry>
         <entry>only</entry>
         <entry>const</entry>
+        <entry>redisCl</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
