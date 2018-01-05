@@ -71,12 +71,12 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515191187978">
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515192017767">
         <mark key="'" line="175" column="21" />
-        <mark key="[" line="162" column="6" />
-        <mark key="]" line="162" column="6" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
         <mark key="^" line="175" column="21" />
-        <mark key="." line="162" column="6" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -616,10 +616,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>only</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
