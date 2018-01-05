@@ -120,11 +120,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515094331398">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="6" />
-        <mark key="^" line="35" column="6" />
-        <mark key="." line="35" column="6" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515174989298">
+        <mark key="'" line="114" column="8" />
+        <mark key="[" line="120" column="19" />
+        <mark key="]" line="120" column="25" />
+        <mark key="." line="120" column="25" />
+        <mark key="^" line="120" column="25" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -192,11 +193,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515106365292">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515176961514">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="81" column="0" />
+        <mark key="^" line="81" column="39" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -302,13 +304,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515091794008">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="54" column="2" />
-        <mark key="]" line="54" column="2" />
-        <mark key="^" line="54" column="2" />
-        <mark key="." line="54" column="2" />
-      </file>
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515176080934" />
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="16" column="6" />
@@ -664,27 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="38" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="70" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="94" column="26" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="16" column="4" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="191" column="0" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="2" column="6" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="177" column="12" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="213" column="13" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" />
-      <jump line="797" column="58" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" />
-      <jump line="207" column="25" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
-      <jump line="208" column="23" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
-      <jump line="209" column="22" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
-      <jump line="214" column="8" filename="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" />
-      <jump line="454" column="19" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="161" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="166" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="231" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="165" column="20" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="230" column="26" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="167" column="28" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="233" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
@@ -743,8 +718,6 @@
       <jump line="51" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/dynamo-event.json" />
       <jump line="26" column="30" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/dynamo-event.json" />
       <jump line="48" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="0" column="2" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
-      <jump line="1" column="2" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="7" column="6" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="12" column="6" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="13" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
@@ -764,63 +737,83 @@
       <jump line="81" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" />
       <jump line="62" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" />
       <jump line="46" column="18" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="37" column="7" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="50" column="11" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="52" column="15" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="53" column="15" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="54" column="15" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="61" column="31" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="71" column="35" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="78" column="31" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="114" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="75" column="32" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="96" column="23" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="107" column="23" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="73" column="45" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="74" column="39" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="79" column="41" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="80" column="35" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="93" column="46" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="103" column="33" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="104" column="27" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="58" column="33" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudC5xdWl0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>throw new Error</text>
       </register>
       <register name="/" type="4">
-        <text>redisCl</text>
+        <text>quit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRva2VuSWQgPSBfLmdldChyZWNvcmQsICdkeW5hbW9kYi5LZXlzLnRva2VuSWQuUycsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudC5xdWl0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQuc3VjY2VlZCgndG9rZW4gcmVtb3ZlZCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgICAgICAgICBjb250ZXh0LmZhaWwoZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuc2V0KCdzdHJpbmcga2V5JywgJ3N0cmluZyB2YWwnLCBmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgaWYgKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC5mYWlsKGVycm9yLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudC5xdWl0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2xpZW50ID0gcmVkaXMuY3JlYXRlQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncXVpdHRpbmcgY2xpZW50LCBhZnRlciB0b2tlbiByZW1vdmVkJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxdWl0dGVyJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuZmFpbChlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxdWl0dGluZyBjbGllbnQsIGFmdGVyIENBVENIJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redisCl</last-search>
+      <last-search>quit</last-search>
       <last-offset />
-      <last-pattern>redisCl</last-pattern>
+      <last-pattern>quit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onE</entry>
-        <entry>Member ID</entry>
-        <entry>def</entry>
         <entry>defe</entry>
         <entry>defer</entry>
         <entry>Q</entry>
@@ -835,9 +828,12 @@
         <entry>checkRoleR</entry>
         <entry>console.log</entry>
         <entry>logger\.error</entry>
-        <entry>only</entry>
         <entry>const</entry>
         <entry>redisCl</entry>
+        <entry>console</entry>
+        <entry>only</entry>
+        <entry>qiut</entry>
+        <entry>quit</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -851,8 +847,8 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
