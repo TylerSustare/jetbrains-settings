@@ -193,11 +193,12 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515178595964">
-        <mark key="[" line="88" column="14" />
-        <mark key="]" line="85" column="45" />
-        <mark key="^" line="85" column="45" />
-        <mark key="." line="85" column="45" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515180177012">
+        <mark key="'" line="92" column="19" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="68" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="96" column="38" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -658,16 +659,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="223" column="13" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="168" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="235" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="163" column="65" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="236" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="169" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="237" column="56" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="238" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="164" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="170" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="36" column="46" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="129" column="25" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
@@ -758,55 +749,65 @@
       <jump line="70" column="23" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="74" column="27" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="68" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="154" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="89" column="11" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="90" column="11" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="98" column="28" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="87" column="18" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="91" column="19" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3NlcycsIHN1Y2Nlc3NmdWxseURlbGV0ZWRUb2tlbnMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>failedToDeleteTokens</text>
       </register>
       <register name="/" type="4">
-        <text>defer</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRva2VuSWQgPSBfLmdldChyZWNvcmQsICdkeW5hbW9kYi5LZXlzLnRva2VuSWQuUycsIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ZhaWx1cmVzJywgZmFpbGVkVG9EZWxldGVUb2tlbnMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3NlcycsIHN1Y2Nlc3NmdWxseURlbGV0ZWRUb2tlbnMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24gKHZhbHVlKSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zdWNjZXNzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHV0aWwuZm9ybWF0KCd0b2tlbjogIiVzIiBmb3VuZCcsIHRva2VuSWQpKTsKICAgICAgICAgICAgICAgIGlmICh2YWx1ZSA9PT0gbnVsbCkgewoKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiBRLm5pbnZva2UoY2xpZW50LCAnZGVsJywgdG9rZW5JZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGVmZXJyZWQucmVqZWN0Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGVmZXJyZWQgPSBRLmRlZmVyKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygndGhyb3dpbmcgZXJyb3InKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxvb3AgdGhyb3VnaCByZWplY3RlZC8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHEuYWxsU2V0dGxlZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJlYykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dmFyIGNsaWVudCA9IG51bGw7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>defer</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>defer</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -822,7 +823,6 @@
         <entry>refresh</entry>
         <entry>update_</entry>
         <entry>checkRoleR</entry>
-        <entry>console.log</entry>
         <entry>logger\.error</entry>
         <entry>const</entry>
         <entry>redisCl</entry>
@@ -832,6 +832,7 @@
         <entry>quit</entry>
         <entry>Q</entry>
         <entry>defer</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
