@@ -120,11 +120,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515094331398">
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="6" />
-        <mark key="^" line="35" column="6" />
-        <mark key="." line="35" column="6" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515171788760">
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="58" column="44" />
+        <mark key="^" line="58" column="44" />
+        <mark key="." line="58" column="44" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -192,11 +192,11 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515106365292">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515171916471">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -301,13 +301,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515091794008">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="54" column="2" />
-        <mark key="]" line="54" column="2" />
-        <mark key="^" line="54" column="2" />
-        <mark key="." line="54" column="2" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
         <mark key="[" line="16" column="6" />
@@ -767,10 +760,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">dmFyIGVudmlyb25tZW50cyA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>redisCl</text>
@@ -779,34 +772,34 @@
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbnZpcm9ubWVudHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgICAgICAgICBjb250ZXh0LmZhaWwoZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuc2V0KCdzdHJpbmcga2V5JywgJ3N0cmluZyB2YWwnLCBmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgaWYgKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgICAgICAgICBjb250ZXh0LmZhaWwoZXJyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuc2V0KCdzdHJpbmcga2V5JywgJ3N0cmluZyB2YWwnLCBmdW5jdGlvbiAoZXJyLCByZXN1bHQpIHsKICAgICAgICAgICAgaWYgKGVycikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2xpZW50ID0gcmVkaXMuY3JlYXRlQ2xpZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhciBjbGllbnQgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuZmFpbChlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2xpZW50ID0gcmVkaXMuY3JlYXRlQ2xpZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -851,8 +844,8 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
