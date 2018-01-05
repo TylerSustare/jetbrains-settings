@@ -193,12 +193,11 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515176961514">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="87" column="10" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="81" column="39" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515178595964">
+        <mark key="[" line="88" column="14" />
+        <mark key="]" line="85" column="45" />
+        <mark key="^" line="85" column="45" />
+        <mark key="." line="85" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -304,7 +303,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515176080934" />
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="16" column="6" />
@@ -660,10 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="28" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="233" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="229" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="153" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="223" column="13" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="168" column="51" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
@@ -752,7 +746,6 @@
       <jump line="96" column="23" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="107" column="23" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="73" column="45" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
-      <jump line="74" column="39" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="79" column="41" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="80" column="35" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="93" column="46" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
@@ -760,63 +753,66 @@
       <jump line="104" column="27" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="58" column="33" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="55" column="14" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="70" column="23" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="74" column="27" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
+      <jump line="68" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudC5xdWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>throw new Error</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>quit</text>
+        <text>defer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHRva2VuSWQgPSBfLmdldChyZWNvcmQsICdkeW5hbW9kYi5LZXlzLnRva2VuSWQuUycsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudC5xdWl0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQuc3VjY2VlZCgndG9rZW4gcmVtb3ZlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24gKHZhbHVlKSB7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHV0aWwuZm9ybWF0KCd0b2tlbjogIiVzIiBmb3VuZCcsIHRva2VuSWQpKTsKICAgICAgICAgICAgICAgIGlmICh2YWx1ZSA9PT0gbnVsbCkgewoKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiBRLm5pbnZva2UoY2xpZW50LCAnZGVsJywgdG9rZW5JZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC5mYWlsKGVycm9yLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGVmZXJyZWQucmVqZWN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNsaWVudC5xdWl0KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgZGVmZXJyZWQgPSBRLmRlZmVyKCk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygncXVpdHRpbmcgY2xpZW50LCBhZnRlciB0b2tlbiByZW1vdmVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygndGhyb3dpbmcgZXJyb3InKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxdWl0dGVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxdWl0dGluZyBjbGllbnQsIGFmdGVyIENBVENIJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>quit</last-search>
+      <last-search>defer</last-search>
       <last-offset />
-      <last-pattern>quit</last-pattern>
+      <last-pattern>defer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>defe</entry>
-        <entry>defer</entry>
-        <entry>Q</entry>
         <entry>c</entry>
         <entry>User successfully created</entry>
         <entry>userFor</entry>
@@ -834,6 +830,8 @@
         <entry>only</entry>
         <entry>qiut</entry>
         <entry>quit</entry>
+        <entry>Q</entry>
+        <entry>defer</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
