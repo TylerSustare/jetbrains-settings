@@ -189,6 +189,13 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumList.js" timestamp="1515197946109">
+        <mark key="'" line="32" column="58" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="23" />
+        <mark key="^" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/publish_email.js" timestamp="1510352930273">
         <mark key="[" line="194" column="12" />
         <mark key="]" line="194" column="16" />
@@ -213,6 +220,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/.nvmrc" timestamp="1515197118447">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/3lambda_test.js" timestamp="1515188959430">
         <mark key="[" line="9" column="26" />
@@ -434,6 +447,12 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/App.js" timestamp="1515198092938">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="9" column="69" />
+        <mark key="^" line="9" column="69" />
+        <mark key="." line="9" column="69" />
+      </file>
       <file name="internal/module.js" timestamp="1510949073100">
         <mark key="[" line="0" column="0" />
       </file>
@@ -505,12 +524,12 @@
       <file name="$USER_HOME$/src/services/service-auth/node/lib/middleware/route_authentication.js" timestamp="1513202600123">
         <mark key="'" line="262" column="4" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" timestamp="1515196084587">
-        <mark key="'" line="19" column="35" />
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="13" column="59" />
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" timestamp="1515198136267">
+        <mark key="'" line="56" column="5" />
+        <mark key="[" line="69" column="17" />
+        <mark key="]" line="69" column="18" />
+        <mark key="." line="69" column="18" />
+        <mark key="^" line="69" column="18" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/mailer.js" timestamp="1510353243500">
         <mark key="[" line="10" column="12" />
@@ -520,9 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
-      <jump line="16" column="13" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
-      <jump line="17" column="9" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="1087" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/node_modules/redis/index.js" />
       <jump line="29" column="9" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -620,46 +636,49 @@
       <jump line="1" column="20" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
       <jump line="18" column="29" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
       <jump line="19" column="35" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="46" column="22" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="39" column="5" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="32" column="58" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>50</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnN1Y2NlZWQgPSBmdW5jdGlvbiAobWVzc2FnZSkgewogICAgICAgICAgICBkb25lKG1lc3NhZ2UpOwogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQ2FyZFNlY3Rpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSBwcm9wczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q2FyZFNlY3Rpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSBwcm9wczsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHQ8L3RleHQ+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSBwcm9wczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSBwcm9wczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHQ8L3RleHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9UZXh0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjbGllbnQub24oJ2Nvbm5lY3QnLCBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgZG9uZShlcnIpOwogICAgICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
