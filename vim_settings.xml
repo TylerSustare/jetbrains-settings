@@ -187,11 +187,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515436947167">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515438688004">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="10" />
+        <mark key="." line="48" column="10" />
+        <mark key="^" line="48" column="10" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -293,7 +294,7 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515437057592">
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515438301485">
         <mark key="'" line="111" column="26" />
         <mark key="[" line="82" column="19" />
         <mark key="]" line="82" column="19" />
@@ -549,10 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="35" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
-      <jump line="93" column="46" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
-      <jump line="55" column="14" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="144" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="70" column="23" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="74" column="27" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
@@ -584,7 +581,6 @@
       <jump line="106" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="109" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="178" column="7" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="164" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="70" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="174" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="12" column="15" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -592,8 +588,6 @@
       <jump line="55" column="44" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="56" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="85" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="109" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="139" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="168" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="182" column="21" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="52" column="30" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
@@ -623,7 +617,6 @@
       <jump line="32" column="58" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumList.js" />
       <jump line="38" column="17" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
       <jump line="63" column="14" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="79" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="29" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="101" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="131" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -634,14 +627,12 @@
       <jump line="8" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="57" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="67" column="38" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="76" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="44" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="48" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="58" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="68" column="38" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="100" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="46" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="47" column="9" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="77" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="102" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="133" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -649,62 +640,70 @@
       <jump line="154" column="38" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="137" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="196" column="9" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="135" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="164" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redisClient</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>redisClient</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>context</text>
+        <text>var\ context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICByZWRpc0NsaWVudCA9IHJlZGlzLmNyZWF0ZUNsaWVudChwb3J0LCBob3N0KTsKICAgIHJlZGlzQ2xpZW50Lm9uKCdlcnJvcicsIGZ1bmN0aW9uIChjb25uZWN0aW9uRXJyb3IpIHsKICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGlvbiBlcnJvcicpOwogICAgICAgIHJlZGlzQ2xpZW50LnF1aXQoKTsKICAgICAgICBjb250ZXh0LmZhaWwoY29ubmVjdGlvbkVycm9yKTsKICAgIH0pOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBjb250ZXh0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBldmVudCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGltZW91dCgxMDAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>context</last-search>
+      <last-search>var\ context</last-search>
       <last-offset />
-      <last-pattern>context</last-pattern>
+      <last-pattern>var\ context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qiut</entry>
-        <entry>quit</entry>
         <entry>Q</entry>
         <entry>defer</entry>
         <entry>array</entry>
@@ -723,6 +722,8 @@
         <entry>event\ =</entry>
         <entry encoding="base64">dmFyXCBldmVudFwg</entry>
         <entry>context</entry>
+        <entry>10</entry>
+        <entry>var\ context</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
