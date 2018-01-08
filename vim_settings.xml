@@ -187,12 +187,11 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515433648245">
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515436947167">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="25" />
-        <mark key="^" line="47" column="24" />
-        <mark key="." line="163" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -294,12 +293,11 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515191171366">
-        <mark key="'" line="110" column="26" />
-        <mark key="[" line="115" column="12" />
-        <mark key="]" line="115" column="12" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="115" column="22" />
+      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" timestamp="1515437057592">
+        <mark key="'" line="111" column="26" />
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="82" column="19" />
+        <mark key="." line="82" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -653,11 +651,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>redisClient</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>redisClient</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
@@ -666,31 +664,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgY29udGV4dCA9IHt9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBjb250ZXh0ID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0ge307Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICByZWRpc0NsaWVudCA9IHJlZGlzLmNyZWF0ZUNsaWVudChwb3J0LCBob3N0KTsKICAgIHJlZGlzQ2xpZW50Lm9uKCdlcnJvcicsIGZ1bmN0aW9uIChjb25uZWN0aW9uRXJyb3IpIHsKICAgICAgICBjb25zb2xlLmxvZygnY29ubmVjdGlvbiBlcnJvcicpOwogICAgICAgIHJlZGlzQ2xpZW50LnF1aXQoKTsKICAgICAgICBjb250ZXh0LmZhaWwoY29ubmVjdGlvbkVycm9yKTsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBldmVudCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRpbWVvdXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGltZW91dCgxMDAwMCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjb250ZXh0ID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0ID0ge307Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q2FyZFNlY3Rpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudCA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgIHZhciBldmVudCA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHthbGJ1bX0gPSBwcm9wczsK</text>
+        <text encoding="base64">ICAgIHRoaXMudGltZW91dCgxMDAwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
