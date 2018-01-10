@@ -111,9 +111,9 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/Button.js" timestamp="1515448248045">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/Button.js" timestamp="1515562814059">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="28" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512602235979">
@@ -209,11 +209,10 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumList.js" timestamp="1515541985089">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="36" />
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumList.js" timestamp="1515565838323">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/publish_email.js" timestamp="1510352930273">
         <mark key="[" line="194" column="12" />
@@ -416,7 +415,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515448621848">
+      <file name="/Dummy.txt" timestamp="1515565840114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
@@ -457,11 +456,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/App.js" timestamp="1515198092938">
-        <mark key="[" line="8" column="52" />
-        <mark key="]" line="9" column="69" />
-        <mark key="^" line="9" column="69" />
-        <mark key="." line="9" column="69" />
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/App.js" timestamp="1515561170592">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
       </file>
       <file name="internal/module.js" timestamp="1510949073100">
         <mark key="[" line="0" column="0" />
@@ -534,18 +533,25 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" timestamp="1515567512525">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="59" column="89" />
+        <mark key="^" line="59" column="89" />
+        <mark key="." line="59" column="89" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/.eslintignore" timestamp="1505496493511">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" timestamp="1515538036411">
-        <mark key="'" line="28" column="7" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="33" column="109" />
-        <mark key="^" line="55" column="62" />
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" timestamp="1515566217775">
+        <mark key="'" line="72" column="22" />
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="64" column="19" />
+        <mark key="^" line="64" column="19" />
+        <mark key="." line="64" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/mailer.js" timestamp="1510353243500">
         <mark key="[" line="10" column="12" />
@@ -555,23 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="38" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="100" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="46" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="102" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="163" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="154" column="38" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="137" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="109" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="54" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="48" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="72" column="46" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="37" column="6" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="31" column="15" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="56" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="88" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="200" column="5" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="39" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
@@ -655,64 +644,77 @@
       <jump line="15" column="10" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
       <jump line="13" column="32" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
       <jump line="26" column="7" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="0" column="1" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="48" column="29" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="53" column="40" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="46" column="28" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="47" column="38" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="79" column="22" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="29" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="26" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="35" column="5" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="51" column="4" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>https://s3-us-west-2.amazonaws.com/sustare2017-animals/monkey2.mp3</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>https://s3-us-west-2.amazonaws.com/sustare2017-animals/monkey2.mp3</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>Bear</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBheGlvcy5nZXQoJ2h0dHA6Ly9zdXN0YXJlMjAxNy1hbmltYWxzLnMzLXdlYnNpdGUtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20nKQo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiVGlnZXIiLAogICAgICAgICJpbWFnZSI6ICJodHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL3N1c3RhcmUyMDE3LWFuaW1hbHMvdGlnZXJfMC5qcGciLAogICAgICAgICJzb3VuZCI6ICJYWCIKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04ucGFyc2UocmVzcG9uc2UuZGF0YSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBheGlvcy5nZXQoJ2h0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy92MS4yX2FuaW1hbHMuanNvbicpCg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiTGlvbiIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9saW9uXzAuanBnIiwKICAgICAgICAic291bmQiOiAiaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zdXN0YXJlMjAxNy1hbmltYWxzL2xpb25jdWIyLm1wMyIKICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzb3VuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aWR0aDogMzUwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBheGlvcy5nZXQoJ2h0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy92MS4xX2FuaW1hbHMuanNvbicpCg==</text>
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuL0J1dHRvbic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7LyogPEJ1dHRvbiBvblByZXNzPXt0aGlzLm9wZW5VUkwodXJsKX0+ICovfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBheGlvcy5nZXQoJ2h0dHBzOi8vcmFsbHljb2RpbmcuaGVyb2t1YXBwLmNvbS9hcGkvbXVzaWNfYWxidW1zJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7LyogPEJ1dHRvbiBvblByZXNzPXsoKSA9PiBMaW5raW5nLm9wZW5VUkwodXJsKX0+ICovfQo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiQmVhciIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9ncml6emx5X2JlYXJfMC5qcGciLAogICAgICAgICJzb3VuZCI6ICJYWCIKICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFeHBvLkF1ZGlvLlNvdW5kLmNyZWF0ZShzb3VyY2UsIHt9LCBudWxsLCB0cnVlKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAidGh1bWJuYWlsX2ltYWdlIjogImh0dHBzOi8vaS5pbWd1ci5jb20vSzNLSjN3NGguanBnIiwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBzb3VuZE9iamVjdC5wbGF5QXN5bmMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAidGh1bWJuYWlsX2ltYWdlIjogImh0dHBzOi8vaS5pbWd1ci5jb20vSzNLSjN3NGguanBnIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>Bear</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>Bear</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>event</entry>
-        <entry>event\ =</entry>
-        <entry encoding="base64">dmFyXCBldmVudFwg</entry>
-        <entry>context</entry>
         <entry>10</entry>
         <entry>var\ context</entry>
         <entry>it\.</entry>
@@ -729,6 +731,10 @@
         <entry>console.log</entry>
         <entry>lodash</entry>
         <entry>console</entry>
+        <entry>art</entry>
+        <entry>url</entry>
+        <entry>thumb</entry>
+        <entry>Bear</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -741,8 +747,8 @@
         <entry>260</entry>
         <entry>q</entry>
         <entry>sp</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
