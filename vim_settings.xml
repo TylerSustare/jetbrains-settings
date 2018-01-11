@@ -249,12 +249,11 @@
       <file name="internal/module.js" timestamp="1510949073100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" timestamp="1515697929264">
-        <mark key="'" line="59" column="12" />
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="28" />
-        <mark key="." line="51" column="28" />
-        <mark key="^" line="51" column="28" />
+      <file name="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" timestamp="1515698569524">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
@@ -519,7 +518,7 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515696438823">
+      <file name="/Dummy.txt" timestamp="1515698804012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/2lambda_test.js" timestamp="1515188953470">
@@ -585,10 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="83" column="8" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="138" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="171" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="204" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="78" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="103" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -685,61 +680,64 @@
       <jump line="4" column="5" filename="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" />
       <jump line="38" column="6" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
       <jump line="59" column="12" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
+      <jump line="19" column="6" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
+      <jump line="101" column="13" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
+      <jump line="14" column="13" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>setTimeStamps</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW1zID0gW107Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>setTimeStamps</text>
+        <text>Math.floor(Date.now() / 1000);</text>
       </register>
       <register name="/" type="4">
-        <text>Bear</text>
+        <text>items</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmFjdG9yczogJ3N0cmluZycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBhcmFtcy5JdGVtLmNyZWF0ZWRfYXQgPSBub3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLml0ZW1zID0gW107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgdGhpcy5pdGVtcyA9IFtdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBub3cgPSBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRoLmZsb29yKERhdGUubm93KCkgLyAxMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBub3cgPSBuZXcgRGF0ZSgpLnRvKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBhcmFtcy5JdGVtLnVwZGF0ZWRfYXQgPSBub3c7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnBhcmFtcy5JdGVtLmNyZWF0ZWRfYXQgPSBub3c7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBub3cgPSBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnLCAnc3RhdGUnLCAndXBkYXRlZF9ieScsICdkZXNjcmlwdGlvbicK</text>
+        <text encoding="base64">ICAgICAgICBNYXRoLmZsb29yKERhdGUubm93KCkgLyAxMDAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnLCAnc3RhdGUnLCAndXBkYXRlZF9ieScsICdkZXNjcmlwdGlvbicK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBub3cgPSBuZXcgRGF0ZSgpLnRvKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bear</last-search>
+      <last-search>items</last-search>
       <last-offset />
-      <last-pattern>Bear</last-pattern>
+      <last-pattern>items</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>10</entry>
         <entry>var\ context</entry>
         <entry>it\.</entry>
         <entry>timeout</entry>
@@ -759,6 +757,7 @@
         <entry>url</entry>
         <entry>thumb</entry>
         <entry>Bear</entry>
+        <entry>items</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
