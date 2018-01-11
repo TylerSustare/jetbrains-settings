@@ -551,12 +551,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" timestamp="1515643850381">
-        <mark key="'" line="77" column="22" />
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="41" />
-        <mark key="^" line="13" column="41" />
-        <mark key="." line="13" column="41" />
+      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" timestamp="1515646868918">
+        <mark key="'" line="86" column="22" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/mailer.js" timestamp="1510353243500">
         <mark key="[" line="10" column="12" />
@@ -668,11 +667,11 @@
       <jump line="55" column="5" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ear</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGFuaW1hbCkgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ear</text>
+        <text>super</text>
       </register>
       <register name="/" type="4">
         <text>Bear</text>
@@ -681,31 +680,31 @@
         <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiVGlnZXIiLAogICAgICAgICJpbWFnZSI6ICJodHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL3N1c3RhcmUyMDE3LWFuaW1hbHMvdGlnZXJfMC5qcGciLAogICAgICAgICJzb3VuZCI6ICJYWCIKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGFuaW1hbCkgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxdWlyZShgLi4vc291bmRzLyR7YW5pbWFsfS5tcDNgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRvciA9IG5ldyBGbGFnVmFsaWRhdG9yKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgRmxhZ1ZhbGlkYXRvciA9IHJlcXVpcmUoJy4uL3ZhbGlkYXRvcnMvZmxhZ192YWxpZGF0b3InKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRvciA9IG5ldyBGbGFnVmFsaWRhdG9yKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiTGlvbiIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9saW9uXzAuanBnIiwKICAgICAgICAic291bmQiOiAiaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zdXN0YXJlMjAxNy1hbmltYWxzL2xpb25jdWIyLm1wMyIKICAgIH0sCg==</text>
+        <text encoding="base64">Y29uc3QgRmxhZ1ZhbGlkYXRvciA9IHJlcXVpcmUoJy4uL3ZhbGlkYXRvcnMvZmxhZ192YWxpZGF0b3InKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aWR0aDogMzUwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuL0J1dHRvbic7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiTGlvbiIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9saW9uXzAuanBnIiwKICAgICAgICAic291bmQiOiAiaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zdXN0YXJlMjAxNy1hbmltYWxzL2xpb25jdWIyLm1wMyIKICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBheGlvcy5nZXQoJ2h0dHBzOi8vcmFsbHljb2RpbmcuaGVyb2t1YXBwLmNvbS9hcGkvbXVzaWNfYWxidW1zJykK</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aWR0aDogMzUwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
