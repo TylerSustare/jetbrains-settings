@@ -478,6 +478,9 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" timestamp="1515628728890">
+        <mark key="'" line="35" column="4" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
         <mark key="]" line="19" column="33" />
@@ -561,8 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="16" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="200" column="5" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="39" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="148" column="5" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="206" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -661,6 +662,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
       <jump line="35" column="5" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
       <jump line="51" column="4" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
+      <jump line="191" column="26" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
