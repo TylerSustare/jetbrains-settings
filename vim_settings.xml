@@ -300,6 +300,12 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="108" column="4" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1515712785844">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="65" column="62" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/GameComponent.js" timestamp="1512183582529">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="1" column="0" />
@@ -378,9 +384,9 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515709751344">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515711398335">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="58" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="24" column="29" />
       </file>
@@ -612,12 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="142" column="40" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="143" column="43" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="177" column="40" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="178" column="43" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="212" column="43" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="213" column="40" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="247" column="40" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="248" column="43" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -712,62 +712,66 @@
       <jump line="42" column="20" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
       <jump line="88" column="4" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
       <jump line="89" column="20" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
+      <jump line="17" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="10" column="11" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="22" column="34" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="23" column="23" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbi5jcmVhdGUgPSBzaW5vbi5zcHkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>lag</text>
+        <text>../mocks/dynamodb</text>
       </register>
       <register name="/" type="4">
-        <text>val</text>
+        <text>sinon</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IDI1MTM3OTEwMDg=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgVG9rZW5Nb2RlbCA9IHJlcXVpcmUoJy4uLy4uL21vZGVscy9keW5hbW9kYi90b2tlbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbi5jcmVhdGUgPSBzaW5vbi5zcHkoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaWJlLm9ubHkoJ1Rva2VuIFRlc3RzJywgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">Y29uc3QgY2hhaSA9IHJlcXVpcmUoJ2NoYWknKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR0bDogbnVsbAo=</text>
+        <text encoding="base64">Y29uc3QgVG9rZW5Nb2RlbCA9IHJlcXVpcmUoJy4uLy4uL21vZGVscy9keW5hbW9kYi90b2tlbicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y29uc3QgbW9ja3MgPSByZXF1aXJlKCcuLi9tb2Nrcy9keW5hbW9kYicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVzY3JpYmUgCg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlLm9ubHkoJ1Rva2VuIFRlc3RzJywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ3R0bCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR0bDogbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHRsOiBudWxsLAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsKICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>val</last-search>
+      <last-search>sinon</last-search>
       <last-offset />
-      <last-pattern>val</last-pattern>
+      <last-pattern>sinon</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>expect\(context\.</entry>
-        <entry>expect(context\.</entry>
         <entry>callCount</entry>
         <entry>console.log</entry>
         <entry>lodash</entry>
@@ -786,6 +790,8 @@
         <entry>flag</entry>
         <entry>lag</entry>
         <entry>val</entry>
+        <entry>Token</entry>
+        <entry>sinon</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -798,8 +804,8 @@
         <entry>260</entry>
         <entry>q</entry>
         <entry>sp</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
