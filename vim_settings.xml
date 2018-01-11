@@ -378,11 +378,11 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515708625328">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515709751344">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/test/api/index.js" timestamp="1510337970577">
         <mark key="[" line="40" column="60" />
@@ -546,7 +546,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515708895652">
+      <file name="/Dummy.txt" timestamp="1515709744398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/2lambda_test.js" timestamp="1515188953470">
@@ -714,8 +714,8 @@
       <jump line="89" column="20" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lag</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>lag</text>
@@ -727,34 +727,34 @@
         <text encoding="base64">IDI1MTM3OTEwMDg=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR0bDogbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGRlc2NyaWJlLm9ubHkoJ1Rva2VuIFRlc3RzJywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR0bDogbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVzY3JpYmUgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ3R0bCcpOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHRsOiBudWxsLAo=</text>
+        <text encoding="base64">ZGVzY3JpYmUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsKICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ3R0bCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsKICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHRsOiBudWxsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsKICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLkl0ZW0pLnRvLmhhdmUucHJvcGVydHkoJ2NsaWVudCcsICdjbGllbnQnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -799,8 +799,8 @@
         <entry>q</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
