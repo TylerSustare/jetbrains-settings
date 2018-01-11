@@ -478,8 +478,11 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" timestamp="1515628728890">
-        <mark key="'" line="35" column="4" />
+      <file name="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" timestamp="1515629433798">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
@@ -564,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/index.js" />
       <jump line="148" column="5" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="206" column="4" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="172" column="39" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -664,10 +666,11 @@
       <jump line="51" column="4" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
       <jump line="191" column="26" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
       <jump line="35" column="4" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://s3-us-west-2.amazonaws.com/sustare2017-animals/monkey2.mp3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>https://s3-us-west-2.amazonaws.com/sustare2017-animals/monkey2.mp3</text>
@@ -679,31 +682,31 @@
         <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiVGlnZXIiLAogICAgICAgICJpbWFnZSI6ICJodHRwczovL3MzLXVzLXdlc3QtMi5hbWF6b25hd3MuY29tL3N1c3RhcmUyMDE3LWFuaW1hbHMvdGlnZXJfMC5qcGciLAogICAgICAgICJzb3VuZCI6ICJYWCIKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiTGlvbiIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9saW9uXzAuanBnIiwKICAgICAgICAic291bmQiOiAiaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zdXN0YXJlMjAxNy1hbmltYWxzL2xpb25jdWIyLm1wMyIKICAgIH0sCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aWR0aDogMzUwLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuL0J1dHRvbic7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBheGlvcy5nZXQoJ2h0dHBzOi8vcmFsbHljb2RpbmcuaGVyb2t1YXBwLmNvbS9hcGkvbXVzaWNfYWxidW1zJykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiQmVhciIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9ncml6emx5X2JlYXJfMC5qcGciLAogICAgICAgICJzb3VuZCI6ICJYWCIKICAgIH0sCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRvciA9IG5ldyBGbGFnVmFsaWRhdG9yKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgRmxhZ1ZhbGlkYXRvciA9IHJlcXVpcmUoJy4uL3ZhbGlkYXRvcnMvZmxhZ192YWxpZGF0b3InKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmRhdGEpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiTGlvbiIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9saW9uXzAuanBnIiwKICAgICAgICAic291bmQiOiAiaHR0cHM6Ly9zMy11cy13ZXN0LTIuYW1hem9uYXdzLmNvbS9zdXN0YXJlMjAxNy1hbmltYWxzL2xpb25jdWIyLm1wMyIKICAgIH0sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB3aWR0aDogMzUwLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICcuL0J1dHRvbic7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAidGh1bWJuYWlsX2ltYWdlIjogImh0dHBzOi8vaS5pbWd1ci5jb20vSzNLSjN3NGguanBnIiwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBheGlvcy5nZXQoJ2h0dHBzOi8vcmFsbHljb2RpbmcuaGVyb2t1YXBwLmNvbS9hcGkvbXVzaWNfYWxidW1zJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAidGh1bWJuYWlsX2ltYWdlIjogImh0dHBzOi8vaS5pbWd1ci5jb20vSzNLSjN3NGguanBnIiwK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAidGl0bGUiOiAiQmVhciIsCiAgICAgICAgImltYWdlIjogImh0dHBzOi8vczMtdXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vc3VzdGFyZTIwMTctYW5pbWFscy9ncml6emx5X2JlYXJfMC5qcGciLAogICAgICAgICJzb3VuZCI6ICJYWCIKICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
