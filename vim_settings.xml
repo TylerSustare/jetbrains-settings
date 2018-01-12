@@ -299,11 +299,11 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="108" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1515786879418">
-        <mark key="[" line="34" column="6" />
-        <mark key="]" line="34" column="10" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1515790751788">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
         <mark key="^" line="34" column="10" />
-        <mark key="." line="34" column="10" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/GameComponent.js" timestamp="1512183582529">
         <mark key="[" line="3" column="7" />
@@ -719,8 +719,8 @@
       <jump line="21" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tokenDyamoModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KFRva2VuLmNyZWF0ZS5jYWxsQ291bnQpLnRvLmVxdWFsKDEpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>tokenDyamoModel</text>
@@ -732,28 +732,28 @@
         <text encoding="base64">Y29uc3QgVG9rZW5Nb2RlbCA9IHJlcXVpcmUoJy4uLy4uL21vZGVscy9keW5hbW9kYi90b2tlbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KFRva2VuLmNyZWF0ZS5jYWxsQ291bnQpLnRvLmVxdWFsKDEpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgVG9rZW4gPSBuZXcgVG9rZW5Nb2RlbCgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuLmNyZWF0ZShhY2Nlc3NUb2tlbkRldGFpbHMpCiAgICAgICAgICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgVG9rZW4gPSBuZXcgVG9rZW5Nb2RlbCgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuLmNyZWF0ZShhY2Nlc3NUb2tlbkRldGFpbHMpCiAgICAgICAgICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuLmNyZWF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuLmNyZWF0ZQo=</text>
