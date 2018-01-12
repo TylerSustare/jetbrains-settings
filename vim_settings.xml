@@ -154,6 +154,12 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/token_mock.js" timestamp="1515797045345">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="1" column="8" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/fixtures/questions.js" timestamp="1509041614258">
         <mark key="[" line="417" column="40" />
         <mark key="]" line="481" column="4" />
@@ -299,11 +305,12 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="108" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1515793343211">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="34" column="10" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1515797025363">
+        <mark key="'" line="7" column="34" />
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="61" />
       </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/GameComponent.js" timestamp="1512183582529">
         <mark key="[" line="3" column="7" />
@@ -617,8 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="40" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
-      <jump line="107" column="39" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="108" column="36" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="133" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="9" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -717,61 +722,62 @@
       <jump line="342" column="27" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="7" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="21" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="7" column="34" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KFRva2VuLmNyZWF0ZS5jYWxsQ291bnQpLnRvLmVxdWFsKDEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>tokenDyamoModel</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>sinon</text>
+        <text>mocks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgVG9rZW5Nb2RlbCA9IHJlcXVpcmUoJy4uLy4uL21vZGVscy9keW5hbW9kYi90b2tlbicpOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgbW9ja1Rva2VuID0gcmVxdWlyZSgnLi4vLi4vbW9ja3MvdG9rZW5fbW9jaycpKFRva2VuTW9kZWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KFRva2VuLmNyZWF0ZS5jYWxsQ291bnQpLnRvLmVxdWFsKDEpOwo=</text>
+        <text encoding="base64">ICAgIGZ1bmNpdG9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrVG9rZW4oVG9rZW5Nb2RlbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIG1vY2tDbGFzcyB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgVG9rZW4gPSBuZXcgVG9rZW5Nb2RlbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrVG9rZW4oVG9rZW5Nb2RlbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuLmNyZWF0ZShhY2Nlc3NUb2tlbkRldGFpbHMpCiAgICAgICAgICAgICAgICAgICAgLnRoZW4oZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">Y29uc3QgbW9ja1Rva2VuID0gcmVxdWlyZSgnLi4vLi4vbW9ja3MvdG9rZW5fbW9jaycpKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbiA9IG5ldyBUb2tlbk1vZGVsKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBtb2NrQ2xhc3M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRva2VuLmNyZWF0ZQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KFRva2VuLmNyZWF0ZS5jYWxsQ291bnQpLnRvLmVxdWFsKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sinon</last-search>
+      <last-search>mocks</last-search>
       <last-offset />
-      <last-pattern>sinon</last-pattern>
+      <last-pattern>mocks</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>callCount</entry>
         <entry>console.log</entry>
         <entry>lodash</entry>
         <entry>console</entry>
@@ -791,6 +797,7 @@
         <entry>val</entry>
         <entry>Token</entry>
         <entry>sinon</entry>
+        <entry>mocks</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
