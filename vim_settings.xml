@@ -83,12 +83,12 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1515705943507">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1515799267166">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515442222454">
         <mark key="'" line="59" column="40" />
@@ -305,12 +305,12 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="108" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1515797613848">
-        <mark key="'" line="7" column="34" />
-        <mark key="[" line="65" column="52" />
-        <mark key="]" line="65" column="53" />
-        <mark key="." line="65" column="53" />
-        <mark key="^" line="65" column="53" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1515799593221">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="77" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/GameComponent.js" timestamp="1512183582529">
         <mark key="[" line="3" column="7" />
@@ -390,7 +390,7 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515785468288">
+      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515798438893">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="58" />
         <mark key="." line="39" column="0" />
@@ -624,7 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="36" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="133" column="12" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="9" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
       <jump line="51" column="0" filename="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" />
@@ -724,46 +723,47 @@
       <jump line="21" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
       <jump line="21" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
       <jump line="7" column="34" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5ub3QuZXF1YWwoJ2NyZWF0ZWQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>mocks</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldENyZWF0ZVJlc3VsdCgpewogICAgICAgIHJldHVybiBjcmVhdGVSZXN1bHQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5ub3QuZXF1YWwoJ2NyZWF0ZWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUb2tlbiA9IG5ldyBtb2NrVG9rZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8ubm90LmVxdWFsKCdjcmVhdGVkJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbW9ja1Rva2VuID0gcmVxdWlyZSgnLi4vLi4vbW9ja3MvdG9rZW5fbW9jaycpOwo=</text>
+        <text encoding="base64">Y29uc3QgVG9rZW5Nb2RlbCA9IHJlcXVpcmUoJy4uLy4uLy4uL21vZGVscy9keW5hbW9kYi90b2tlbicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbW9ja1Rva2VuID0gcmVxdWlyZSgnLi4vLi4vbW9ja3MvdG9rZW5fbW9jaycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ2NyZWF0ZWQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUb2tlbi5jcmVhdGUgPSBzaW5vbi5zcHkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7IGdldENyZWF0ZVJlc3VsdCwgZ2V0RGVsZXRlUmVzdWx0IH07Cg==</text>
+        <text encoding="base64">ICAgIGxldCBUb2tlbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbW9ja1Rva2VuID0gcmVxdWlyZSgnLi4vLi4vbW9ja3MvdG9rZW5fbW9jaycpKFRva2VuTW9kZWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7IGdldENyZWF0ZVJlc3VsdCwgZ2V0RGVsZXRlUmVzdWx0IH07Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2lub24gPSByZXF1aXJlKCdzaW5vbicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVSZXN1bHQsCiAgICAgICAgZGVsZXRlUmVzdWx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
