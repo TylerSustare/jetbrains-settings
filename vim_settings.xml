@@ -64,11 +64,6 @@
         <mark key="^" line="506" column="15" />
         <mark key="." line="506" column="15" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/Button.js" timestamp="1515562814059">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1512602235979">
         <mark key="'" line="666" column="0" />
         <mark key="[" line="534" column="16" />
@@ -211,11 +206,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1515800076415">
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="32" column="10" />
-        <mark key="." line="32" column="10" />
-        <mark key="^" line="32" column="10" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1515804169299">
+        <mark key="'" line="76" column="66" />
+        <mark key="[" line="440" column="6" />
+        <mark key="]" line="440" column="6" />
+        <mark key="^" line="371" column="10" />
+        <mark key="." line="440" column="6" />
       </file>
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
         <mark key="[" line="0" column="0" />
@@ -246,8 +242,8 @@
         <mark key="^" line="139" column="40" />
         <mark key="." line="153" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" timestamp="1515802567911">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" timestamp="1515804778866">
+        <mark key="'" line="23" column="39" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="39" />
         <mark key="." line="24" column="0" />
@@ -267,8 +263,8 @@
       <file name="internal/module.js" timestamp="1510949073100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" timestamp="1515800333602">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" timestamp="1515804785178">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -388,11 +384,11 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515798438893">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="58" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="24" column="29" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/models/token.js" timestamp="1515804435920">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/test/api/index.js" timestamp="1510337970577">
         <mark key="[" line="40" column="60" />
@@ -459,11 +455,6 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumList.js" timestamp="1515565838323">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
         <mark key="]" line="76" column="39" />
@@ -495,11 +486,6 @@
         <mark key="." line="1838" column="20" />
         <mark key="^" line="1838" column="20" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/1lambda_test.js" timestamp="1515189135645">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -526,6 +512,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" timestamp="1515804863793">
+        <mark key="[" line="35" column="102" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="16" />
+        <mark key="^" line="36" column="16" />
       </file>
       <file name="/JavaScript Console" timestamp="1513968142593">
         <mark key="[" line="0" column="0" />
@@ -622,24 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="32" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
-      <jump line="26" column="7" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
-      <jump line="0" column="1" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="48" column="29" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
-      <jump line="53" column="40" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
-      <jump line="46" column="28" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
-      <jump line="47" column="38" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
-      <jump line="79" column="22" filename="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="22" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="29" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="14" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="20" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="21" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="26" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="9" column="0" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="35" column="5" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
       <jump line="51" column="4" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
       <jump line="191" column="26" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
       <jump line="35" column="4" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
@@ -722,63 +696,78 @@
       <jump line="193" column="102" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="196" column="109" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="205" column="82" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
+      <jump line="40" column="37" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="97" column="37" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="19" column="19" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="75" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="331" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="332" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="364" column="32" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="365" column="32" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="398" column="28" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="399" column="28" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="433" column="32" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="434" column="32" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="499" column="38" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="76" column="66" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="23" column="39" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB0aGlzLnNhbml0aXplKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBicmVha01lID0gYjsK</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>Token.create</text>
+        <text>\'created\'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oYHNlbmRpbmcgdG9rZW4gJHtKU09OLnN0cmluZ2lmeSh0b2tlbkR5bmFtb01vZGVsKX0gdG8gZHluYW1vZGJgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ2NyZWF0ZWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB0aGlzLnNhbml0aXplKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBicmVha01lID0gYjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMudHRsCg==</text>
+        <text encoding="base64">ICAgICAgICBicmVha01lID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMudHkK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB0aGlzLm1hcFZhbHVlcyhwYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbChudWxsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oYHNlbmRpbmcgdG9rZW4gJHt0b2tlbkR5bmFtb01vZGVsfSB0byBkeW5hbW9kYmApOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB0aGlzLnNhbml0aXplKHBhcmFtcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMudHRsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2cK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMudHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSB0aGlzLm1hcFZhbHVlcyhwYXJhbXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oYHNlbmRpbmcgdG9rZW4gJHt0b2tlbkR5bmFtb01vZGVsfSB0byBkeW5hbW9kYmApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Token.create</last-search>
+      <last-search>\'created\'</last-search>
       <last-offset />
-      <last-pattern>Token.create</last-pattern>
+      <last-pattern>\'created\'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>art</entry>
-        <entry>url</entry>
-        <entry>thumb</entry>
         <entry>Bear</entry>
         <entry>items</entry>
         <entry>AWS</entry>
@@ -786,7 +775,6 @@
         <entry>dynamod</entry>
         <entry>dynamo</entry>
         <entry>client</entry>
-        <entry>only</entry>
         <entry>flag</entry>
         <entry>lag</entry>
         <entry>val</entry>
@@ -796,6 +784,10 @@
         <entry>logger</entry>
         <entry>Token</entry>
         <entry>Token.create</entry>
+        <entry>only</entry>
+        <entry>mockD</entry>
+        <entry>done()</entry>
+        <entry>\'created\'</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
