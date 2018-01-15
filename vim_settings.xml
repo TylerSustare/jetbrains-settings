@@ -454,7 +454,7 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040624380">
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="7" />
@@ -720,10 +720,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>Xmx</text>
@@ -759,7 +759,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -803,9 +803,9 @@
         <entry>260</entry>
         <entry>q</entry>
         <entry>sp</entry>
-        <entry>wq</entry>
         <entry>vsp</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
