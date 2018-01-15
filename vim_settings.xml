@@ -205,7 +205,7 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1516037743498">
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1516040182985">
         <mark key="'" line="76" column="66" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="77" />
@@ -454,6 +454,13 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040624380">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
         <mark key="]" line="76" column="39" />
@@ -512,12 +519,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" timestamp="1516039204234">
-        <mark key="'" line="6" column="37" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
-        <mark key="^" line="101" column="15" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" timestamp="1516040675378">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="108" column="10" />
+        <mark key="]" line="108" column="14" />
+        <mark key="." line="108" column="14" />
+        <mark key="^" line="108" column="14" />
       </file>
       <file name="/JavaScript Console" timestamp="1513968142593">
         <mark key="[" line="0" column="0" />
@@ -608,47 +615,8 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/AlbumDetail.js" timestamp="1515646924612">
-        <mark key="'" line="86" column="22" />
-        <mark key="^" line="18" column="31" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="55" column="5" filename="$USER_HOME$/src/projects/react-native-music/data/v2_animals.json" />
-      <jump line="14" column="5" filename="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" />
-      <jump line="4" column="5" filename="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" />
-      <jump line="59" column="12" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="101" column="13" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="14" column="13" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="57" column="58" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="73" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="127" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="128" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="3" column="25" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="68" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/aws_mock.js" />
-      <jump line="84" column="1" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/aws_mock.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/aws_mock.js" />
-      <jump line="112" column="4" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/aws_mock.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/aws_mock.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/aws_mock.js" />
-      <jump line="30" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/aws_mock.js" />
-      <jump line="131" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" />
-      <jump line="56" column="17" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="4" column="36" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="6" column="27" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="19" column="27" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="64" column="20" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="95" column="6" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/models/token.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="138" column="14" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="33" column="55" filename="$USER_HOME$/src/services/service-auth/node/test/models/token.js" />
       <jump line="34" column="71" filename="$USER_HOME$/src/services/service-auth/node/test/models/token.js" />
       <jump line="35" column="68" filename="$USER_HOME$/src/services/service-auth/node/test/models/token.js" />
       <jump line="36" column="60" filename="$USER_HOME$/src/services/service-auth/node/test/models/token.js" />
@@ -713,62 +681,96 @@
       <jump line="40" column="0" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
       <jump line="71" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
       <jump line="31" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="6" column="37" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="128" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="95" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="159" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
+      <jump line="18" column="32" filename="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" />
+      <jump line="3" column="1" filename="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" />
+      <jump line="9" column="12" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>\'created\'</text>
+        <text>Xmx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vY2tEeW5hbW8uZ2V0Q3JlYXRlUmVzdWx0KCkpLnRvLmVxdWFsKCdjcmVhdGVkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwobnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vY2tEeW5hbW8uZ2V0Q3JlYXRlUmVzdWx0KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vY2tEeW5hbW8uZ2V0Q3JlYXRlUmVzdWx0KCkpLnRvLmVxdWFsKG51bGwpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZG9uZShudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmVycm9yKS50by5lcXVhbC4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha0hlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBicmVha01lID0gYjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha01lID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gVE9ETwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZG9uZShudWxsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\'created\'</last-search>
+      <last-search>Xmx</last-search>
       <last-offset />
-      <last-pattern>\'created\'</last-pattern>
+      <last-pattern>Xmx</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Bear</entry>
         <entry>items</entry>
         <entry>AWS</entry>
         <entry>aws</entry>
@@ -784,10 +786,11 @@
         <entry>logger</entry>
         <entry>Token</entry>
         <entry>Token.create</entry>
-        <entry>only</entry>
         <entry>mockD</entry>
         <entry>done()</entry>
         <entry>\'created\'</entry>
+        <entry>only</entry>
+        <entry>Xmx</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -825,6 +828,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
