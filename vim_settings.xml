@@ -205,10 +205,10 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1516042929325">
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1516043985535">
         <mark key="'" line="432" column="77" />
-        <mark key="[" line="526" column="70" />
-        <mark key="]" line="526" column="70" />
+        <mark key="[" line="432" column="0" />
+        <mark key="]" line="432" column="81" />
         <mark key="^" line="150" column="65" />
         <mark key="." line="526" column="73" />
       </file>
@@ -519,11 +519,11 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" timestamp="1516043218834">
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" timestamp="1516044046569">
         <mark key="'" line="73" column="63" />
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="25" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="16" />
       </file>
       <file name="/JavaScript Console" timestamp="1513968142593">
@@ -719,8 +719,8 @@
       <jump line="432" column="77" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -729,7 +729,7 @@
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ2NyZWF0ZWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
