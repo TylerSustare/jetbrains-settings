@@ -499,9 +499,9 @@
         <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1516747016636">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
@@ -811,6 +811,9 @@
         <entry>vsp</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>FZF -m</entry>
+        <entry>Rgrep</entry>
+        <entry>NERDTreeToggle</entry>
       </history-cmd>
       <history-expr />
       <history-input />
