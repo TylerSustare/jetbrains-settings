@@ -498,6 +498,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1516747016636">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
         <mark key="[" line="128" column="76" />
@@ -735,28 +740,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha0hlcmUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgbW9ja0R5bmFtbyA9IHJlcXVpcmUoJy4uLy4uL21vY2tzL2R5bmFtb2RiJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBicmVha0hlcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwobnVsbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgbW9ja0R5bmFtbyA9IHJlcXVpcmUoJy4uLy4uL21vY2tzL2R5bmFtb2RiJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
