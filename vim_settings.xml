@@ -26,6 +26,13 @@
       <file name="internal/process/next_tick.js" timestamp="1511198769720">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516915995297">
+        <mark key="'" line="58" column="1" />
+        <mark key="[" line="58" column="1" />
+        <mark key="]" line="58" column="1" />
+        <mark key="^" line="58" column="1" />
+        <mark key="." line="58" column="1" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="27" />
@@ -280,6 +287,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516916160048">
+        <mark key="[" line="64" column="79" />
+        <mark key="]" line="65" column="42" />
+        <mark key="." line="65" column="42" />
+        <mark key="^" line="65" column="42" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/users/user_migrations.js" timestamp="1513101676136">
         <mark key="[" line="87" column="6" />
         <mark key="]" line="87" column="10" />
@@ -531,7 +544,7 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="16" />
       </file>
-      <file name="/JavaScript Console" timestamp="1513968142593">
+      <file name="/JavaScript Console" timestamp="1516916090761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" timestamp="1515690437533">
@@ -622,8 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
-      <jump line="4" column="23" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
       <jump line="23" column="23" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
       <jump line="339" column="32" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="342" column="27" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
@@ -722,6 +733,8 @@
       <jump line="363" column="77" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="397" column="73" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="432" column="77" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" />
+      <jump line="58" column="1" filename="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -737,31 +750,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9sZXM6IG1lc3NhZ2VCb2R5LnJvbGVzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9sZXM6IG1lc3NhZ2VCb2R5LnJvbGVzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5Lgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVha0hlcmUK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
