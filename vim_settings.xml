@@ -420,10 +420,11 @@
         <mark key="^" line="41" column="56" />
         <mark key="." line="40" column="60" />
       </file>
-      <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/package.json" timestamp="1516926817116">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="50" />
-        <mark key="." line="17" column="50" />
+      <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/package.json" timestamp="1516989859414">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1515691159794">
         <mark key="'" line="417" column="33" />
@@ -758,7 +759,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>27017</text>
+        <text>4.4.11</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
@@ -794,7 +795,7 @@
         <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53ICFwYmNvcHk=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -845,8 +846,8 @@
         <entry>NERDTreeToggle</entry>
         <entry>v</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
