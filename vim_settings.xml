@@ -161,6 +161,13 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1517010857015">
+        <mark key="'" line="833" column="47" />
+        <mark key="[" line="562" column="54" />
+        <mark key="]" line="562" column="54" />
+        <mark key="^" line="562" column="54" />
+        <mark key="." line="562" column="54" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
@@ -653,22 +660,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="23" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
-      <jump line="339" column="32" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="342" column="27" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
-      <jump line="21" column="8" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
-      <jump line="7" column="34" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
-      <jump line="34" column="6" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" />
-      <jump line="107" column="19" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/models/dynamodb/token.js" />
-      <jump line="241" column="57" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="236" column="53" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="51" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="88" column="69" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="106" column="42" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="129" column="45" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="19" column="81" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
@@ -753,16 +744,32 @@
       <jump line="432" column="77" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" />
       <jump line="58" column="1" filename="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" />
+      <jump line="125" column="28" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="853" column="45" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="51" column="37" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="60" column="37" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="94" column="45" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="131" column="37" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="605" column="58" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="4" column="22" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="658" column="29" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="820" column="49" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="2" column="22" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="562" column="57" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="683" column="34" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="743" column="29" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="833" column="47" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ssullivan</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>util</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiU2VhbiBTdWxsaXZhbiIsCiAgICAgICJlbWFpbCI6ICJzc3VsbGl2YW5AY2J0bnVnZ2V0cy5jb20iLAogICAgICAic2xhY2siOiAic3N1bGxpdmFuIgogICAgfQo=</text>
@@ -799,16 +806,14 @@
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search>util</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern>util</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>aws</entry>
-        <entry>dynamod</entry>
         <entry>dynamo</entry>
         <entry>client</entry>
         <entry>flag</entry>
@@ -827,6 +832,8 @@
         <entry>only</entry>
         <entry>mock</entry>
         <entry>null</entry>
+        <entry>exec</entry>
+        <entry>util</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
