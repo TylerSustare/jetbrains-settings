@@ -536,11 +536,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517251130663">
+      <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517252550248">
         <mark key="'" line="48" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
@@ -777,31 +777,31 @@
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiU2VhbiBTdWxsaXZhbiIsCiAgICAgICJlbWFpbCI6ICJzc3VsbGl2YW5AY2J0bnVnZ2V0cy5jb20iLAogICAgICAic2xhY2siOiAic3N1bGxpdmFuIgogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBhID0gbG9nZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9sZXM6IG1lc3NhZ2VCb2R5LnJvbGVzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9sZXM6IG1lc3NhZ2VCb2R5LnJvbGVzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5Lgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
