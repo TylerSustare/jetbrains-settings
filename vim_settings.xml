@@ -536,10 +536,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1516755057604">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="33" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517251130663">
+        <mark key="'" line="48" column="19" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
@@ -569,7 +571,7 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="16" />
       </file>
-      <file name="/JavaScript Console" timestamp="1516920830076">
+      <file name="/JavaScript Console" timestamp="1517251137285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" timestamp="1515690437533">
@@ -598,7 +600,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516920446320">
+      <file name="/Dummy.txt" timestamp="1517251074735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/2lambda_test.js" timestamp="1515188953470">
@@ -660,11 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="42" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="129" column="45" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="19" column="81" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="125" column="110" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
-      <jump line="127" column="116" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="140" column="34" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="141" column="35" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
       <jump line="143" column="50" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
@@ -760,16 +757,21 @@
       <jump line="683" column="34" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
       <jump line="743" column="29" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
       <jump line="833" column="47" filename="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" />
+      <jump line="53" column="23" filename="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" />
+      <jump line="60" column="19" filename="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" />
+      <jump line="9" column="11" filename="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" />
+      <jump line="16" column="15" filename="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" />
+      <jump line="48" column="19" filename="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>stats</text>
       </register>
       <register name="/" type="4">
-        <text>util</text>
+        <text>stats</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiU2VhbiBTdWxsaXZhbiIsCiAgICAgICJlbWFpbCI6ICJzc3VsbGl2YW5AY2J0bnVnZ2V0cy5jb20iLAogICAgICAic2xhY2siOiAic3N1bGxpdmFuIgogICAgfQo=</text>
@@ -806,15 +808,14 @@
       </register>
     </registers>
     <search>
-      <last-search>util</last-search>
+      <last-search>stats</last-search>
       <last-offset />
-      <last-pattern>util</last-pattern>
+      <last-pattern>stats</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dynamo</entry>
         <entry>client</entry>
         <entry>flag</entry>
         <entry>lag</entry>
@@ -834,6 +835,7 @@
         <entry>null</entry>
         <entry>exec</entry>
         <entry>util</entry>
+        <entry>stats</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
