@@ -603,6 +603,12 @@
       <file name="/Dummy.txt" timestamp="1517251074735">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/2lambda_test.js" timestamp="1515188953470">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="27" />
@@ -653,6 +659,12 @@
         <mark key="]" line="69" column="38" />
         <mark key="^" line="68" column="36" />
         <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-promotion/node/config/prod.json" timestamp="1517266506222">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/data/v1_animals.json" timestamp="1515536691661">
         <mark key="[" line="39" column="0" />
@@ -768,40 +780,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stats</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>stats</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiU2VhbiBTdWxsaXZhbiIsCiAgICAgICJlbWFpbCI6ICJzc3VsbGl2YW5AY2J0bnVnZ2V0cy5jb20iLAogICAgICAic2xhY2siOiAic3N1bGxpdmFuIgogICAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICJsb2dnaW5nIjogewogICAgICAgICJsb2dzdGFzaCI6IHsKICAgICAgICAgICAgImhvc3QiOiAibG9nZ2VyLmF3cy5jYnRudWdnZXRzLmNvbSIsCiAgICAgICAgICAgICJwb3J0IjogMTIyMDEKICAgICAgICB9LAogICAgICAgICJ0cmFjaW5nIjogewogICAgICAgICAgICAiaG9zdCI6ICIxLm9wZW50cmFjaW5nLnV0aWxpdHkucWEudXMtZWFzdC0xLm51Z2dldHMubG9jYWwiLAogICAgICAgICAgICAicG9ydCI6IDY4MzIKICAgICAgICB9CiAgICB9LAog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBhID0gbG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBvcnQiOiAxMjIwMQogICAgICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAibG9nc3Rhc2giOiB7CiAgICAgICAgICAgICJob3N0IjogImxvZ2dlci5hd3MuY2J0bnVnZ2V0cy5jb20iLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm9sZXM6IG1lc3NhZ2VCb2R5LnJvbGVzLAo=</text>
+        <text encoding="base64">KyAgICAgICAgfQorICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">KyAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBhID0gbG9nZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5Lgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9sZXM6IG1lc3NhZ2VCb2R5LnJvbGVzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -812,7 +824,7 @@
       <last-offset />
       <last-pattern>stats</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
