@@ -593,11 +593,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/app_test.js" timestamp="1515697082209">
-        <mark key="[" line="38" column="47" />
-        <mark key="]" line="38" column="51" />
-        <mark key="." line="38" column="51" />
-        <mark key="^" line="38" column="51" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/app_test.js" timestamp="1517351920416">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
@@ -612,7 +612,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517251074735">
+      <file name="/Dummy.txt" timestamp="1517351885908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -792,7 +792,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2.1.4</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>stats</text>
