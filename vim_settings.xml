@@ -551,6 +551,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/src/services/service-promotion/node/config/qa.json" timestamp="1517514545822">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" timestamp="1516044046569">
         <mark key="'" line="73" column="63" />
         <mark key="[" line="36" column="12" />
@@ -767,7 +773,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>itonly</text>
+        <text>$keys.mongo.qa.password</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -811,7 +817,7 @@
       <last-offset />
       <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
