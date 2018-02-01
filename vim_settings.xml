@@ -337,12 +337,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/lib/middleware.js" timestamp="1517429275920">
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/lib/middleware.js" timestamp="1517505748953">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/mailer.js" timestamp="1510353243500">
         <mark key="[" line="10" column="12" />
@@ -442,12 +441,11 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="216" column="35" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1517429257137">
-        <mark key="'" line="52" column="18" />
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="92" column="18" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1517505777991">
+        <mark key="'" line="293" column="68" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -663,12 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="130" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="134" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="149" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="153" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
       <jump line="157" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
       <jump line="159" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
       <jump line="160" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
@@ -763,6 +755,12 @@
       <jump line="4" column="0" filename="$USER_HOME$/src/services/service-promotion/node/lib/middleware.js" />
       <jump line="55" column="18" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
       <jump line="43" column="13" filename="$USER_HOME$/src/services/service-promotion/node/lib/middleware.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="10" column="33" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="127" column="68" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="161" column="68" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="293" column="68" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
+      <jump line="20" column="10" filename="$USER_HOME$/src/services/service-promotion/node/lib/middleware.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -772,52 +770,51 @@
         <text>itonly</text>
       </register>
       <register name="/" type="4">
-        <text>authServ</text>
+        <text>config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGxvZ0NhdGVnb3J5ID0gJ1Byb21vdGlvbiBSb3V0ZXMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5zdGF0c2QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnLmdldFByb3BlcnR5KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYXV0aDogYXV0aFNlcnZpY2VDbGllbnQgfSA9IHNlcnZpY2VDbGllbnRzOwo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5nZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYXV0aDogYXV0aFNlcnZpY2VDbGllbnQgfSA9IHNlcnZpY2VDbGllbnRzOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAvKiBSZXR1cm5zIGF1dGggcm9sZXMgZm9yIGEgZ2l2ZW4gdXNlciBpZCAqLwogICAgZnVuY3Rpb24gZ2V0QWNjZXNzUm9sZXNGb3JVc2VyKGFjY2Vzc1Rva2VuKSB7CiAgICAgICAgY29uc3QgZGVmZXJyZWQgPSBRLmRlZmVyKCk7CgogICAgICAgIGF1dGhTZXJ2aWNlQ2xpZW50LkFQSS5nZXRVc2VyRnJvbUFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKQogICAgICAgICAgICAuZXhlYygpCiAgICAgICAgICAgIC50aGVuKGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICAgICAgICAgIGRlZmVycmVkLnJlc29sdmUocmVzdWx0LnJvbGVzKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGZ1bmN0aW9uIChlcnJvcikgewogICAgICAgICAgICAgICAgZGVmZXJyZWQucmVqZWN0KGVycm9yKTsKICAgICAgICAgICAgfSk7CgogICAgICAgIHJldHVybiBkZWZlcnJlZC5wcm9taXNlOwogICAgfQoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgbG9nQ2F0ZWdvcnkgPSAnUHJvbW90aW9uIFJvdXRlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>authServ</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>authServ</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sinon</entry>
         <entry>mocks</entry>
         <entry>mockDyn</entry>
         <entry>Token</entry>
@@ -837,6 +834,7 @@
         <entry>formatResp</entry>
         <entry>ensure</entry>
         <entry>authServ</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
