@@ -438,11 +438,12 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="216" column="35" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1517505777991">
-        <mark key="'" line="288" column="68" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1517602249953">
+        <mark key="'" line="295" column="68" />
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -773,7 +774,7 @@
         <text>$keys.mongo.qa.password</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>checkbody</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGxvZ0NhdGVnb3J5ID0gJ1Byb21vdGlvbiBSb3V0ZXMnOwo=</text>
@@ -810,15 +811,14 @@
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>checkbody</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>checkbody</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mocks</entry>
         <entry>mockDyn</entry>
         <entry>Token</entry>
         <entry>Token.create</entry>
@@ -838,6 +838,7 @@
         <entry>ensure</entry>
         <entry>authServ</entry>
         <entry>config</entry>
+        <entry>checkbody</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
@@ -854,10 +855,10 @@
         <entry>wq</entry>
         <entry>FZF -m</entry>
         <entry>Rgrep</entry>
-        <entry>NERDTreeToggle</entry>
         <entry>v</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
+        <entry>NERDTreeToggle</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
