@@ -438,12 +438,12 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="216" column="35" />
       </file>
-      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1517602249953">
-        <mark key="'" line="295" column="68" />
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="11" />
-        <mark key="^" line="41" column="11" />
+      <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1517604258702">
+        <mark key="'" line="296" column="68" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/node_modules/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1507320515006">
         <mark key="[" line="61" column="0" />
@@ -562,7 +562,7 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="16" />
       </file>
-      <file name="/JavaScript Console" timestamp="1517251137285">
+      <file name="/JavaScript Console" timestamp="1517604196393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" timestamp="1515690437533">
@@ -771,13 +771,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$keys.mongo.qa.password</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>checkbody</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvZ0NhdGVnb3J5ID0gJ1Byb21vdGlvbiBSb3V0ZXMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxLmNoZWNrQm9keSgnbmFtZScpLmlzUmVxdWlyZWQoKS53aXRoTWVzc2FnZSgnYWNjZXNzX3Rva2VuIGlzIHJlcXVpcmVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5zdGF0c2QuCg==</text>
