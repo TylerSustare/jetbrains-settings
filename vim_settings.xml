@@ -387,6 +387,9 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
+      <file name="$USER_HOME$/src/services/service-license/node/routes/api.js" timestamp="1518111955364">
+        <mark key="'" line="26" column="24" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/routes/api.js" timestamp="1513966290977">
         <mark key="'" line="1012" column="26" />
         <mark key="[" line="954" column="103" />
@@ -591,7 +594,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518108913469">
+      <file name="/Dummy.txt" timestamp="1518111561013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -665,10 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="159" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="160" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
-      <jump line="107" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
       <jump line="18" column="32" filename="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" />
       <jump line="3" column="1" filename="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" />
       <jump line="9" column="12" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_auth.js" />
@@ -765,6 +764,10 @@
       <jump line="161" column="68" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
       <jump line="293" column="68" filename="$USER_HOME$/src/services/service-promotion/node/routes/api.js" />
       <jump line="20" column="10" filename="$USER_HOME$/src/services/service-promotion/node/lib/middleware.js" />
+      <jump line="39" column="88" filename="$USER_HOME$/src/services/service-license/node/routes/api.js" />
+      <jump line="5" column="11" filename="$USER_HOME$/src/services/service-license/node/routes/api.js" />
+      <jump line="25" column="27" filename="$USER_HOME$/src/services/service-license/node/routes/api.js" />
+      <jump line="26" column="24" filename="$USER_HOME$/src/services/service-license/node/routes/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -774,7 +777,7 @@
         <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>checkbody</text>
+        <text>licenseFactory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVxLmNoZWNrQm9keSgnbmFtZScpLmlzUmVxdWlyZWQoKS53aXRoTWVzc2FnZSgnYWNjZXNzX3Rva2VuIGlzIHJlcXVpcmVkJyk7Cg==</text>
@@ -811,17 +814,14 @@
       </register>
     </registers>
     <search>
-      <last-search>checkbody</last-search>
+      <last-search>licenseFactory</last-search>
       <last-offset />
-      <last-pattern>checkbody</last-pattern>
+      <last-pattern>licenseFactory</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mockDyn</entry>
-        <entry>Token</entry>
-        <entry>Token.create</entry>
         <entry>mockD</entry>
         <entry>done()</entry>
         <entry>\'created\'</entry>
@@ -839,6 +839,9 @@
         <entry>authServ</entry>
         <entry>config</entry>
         <entry>checkbody</entry>
+        <entry>licenseLib</entry>
+        <entry>licenseFactoyr</entry>
+        <entry>licenseFactory</entry>
       </history-search>
       <history-cmd>
         <entry>1259</entry>
