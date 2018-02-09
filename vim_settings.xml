@@ -136,7 +136,6 @@
         <mark key="^" line="255" column="34" />
         <mark key="." line="255" column="34" />
       </file>
-      <file name="$USER_HOME$/src/services/service-license/node/node_modules/lib-license-common-nodejs/lib/license/in_flight.js" timestamp="1518112450186" />
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/response.js" timestamp="1507927845047">
         <mark key="[" line="49" column="50" />
         <mark key="]" line="49" column="58" />
@@ -595,7 +594,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518111561013">
+      <file name="/Dummy.txt" timestamp="1518213258688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -819,7 +818,7 @@
       <last-offset />
       <last-pattern>licenseFactory</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
