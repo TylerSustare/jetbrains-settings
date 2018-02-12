@@ -565,6 +565,11 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="16" />
       </file>
+      <file name="$USER_HOME$/src/workers/worker-license-cleanup/node/test/base.js" timestamp="1518468440767">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1517604196393">
         <mark key="[" line="0" column="0" />
       </file>
@@ -771,7 +776,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2NrRHluYW1vLmdldENyZWF0ZVJlc3VsdCgpKS50by5lcXVhbCgnTi9BJyk7Cg==</text>
+        <text encoding="base64">ICAgIG9uQXBwSW5pdGlhbGl6ZWQ6ICgpID0+IHJlcXVpcmUoJy4uL2xpYi9wcm9jZXNzJykoKS5jb25zdHJ1Y3QoKSwKICAgIG9uRXhlY3V0ZTogKCkgPT4gcmVxdWlyZSgnLi4vbGliL3Byb2Nlc3MnKSgpLmV4ZWN1dGUoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
@@ -783,28 +788,28 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVxLmNoZWNrQm9keSgnbmFtZScpLmlzUmVxdWlyZWQoKS53aXRoTWVzc2FnZSgnYWNjZXNzX3Rva2VuIGlzIHJlcXVpcmVkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5zdGF0c2QuCg==</text>
+        <text encoding="base64">ICAgIG9uQXBwSW5pdGlhbGl6ZWQ6ICgpID0+IHJlcXVpcmUoJy4uL2xpYi9wcm9jZXNzJykoKS5jb25zdHJ1Y3QoKSwKICAgIG9uRXhlY3V0ZTogKCkgPT4gcmVxdWlyZSgnLi4vbGliL3Byb2Nlc3MnKSgpLmV4ZWN1dGUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uZmlnLmdldFByb3BlcnR5KCkK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5zdGF0c2QuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5nZXQK</text>
+        <text encoding="base64">Y29uZmlnLmdldFByb3BlcnR5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZy5nZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYXV0aDogYXV0aFNlcnZpY2VDbGllbnQgfSA9IHNlcnZpY2VDbGllbnRzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYXV0aDogYXV0aFNlcnZpY2VDbGllbnQgfSA9IHNlcnZpY2VDbGllbnRzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -854,7 +859,6 @@
         <entry>260</entry>
         <entry>q</entry>
         <entry>sp</entry>
-        <entry>vsp</entry>
         <entry>wq</entry>
         <entry>FZF -m</entry>
         <entry>Rgrep</entry>
@@ -862,6 +866,7 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
         <entry>NERDTreeToggle</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
