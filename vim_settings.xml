@@ -117,7 +117,7 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1518469323568">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1518472258736">
         <mark key="[" line="46" column="71" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -298,6 +298,12 @@
         <mark key="]" line="20" column="26" />
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/app_test.js" timestamp="1518473030972">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516925340159">
         <mark key="[" line="64" column="79" />
@@ -485,7 +491,6 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518469299208" />
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
         <mark key="[" line="3" column="4" />
@@ -523,6 +528,12 @@
         <mark key="]" line="1838" column="20" />
         <mark key="." line="1838" column="20" />
         <mark key="^" line="1838" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/internal_process.js" timestamp="1518473224437">
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="45" />
+        <mark key="." line="29" column="45" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -571,10 +582,11 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/src/workers/worker-license-cleanup/node/test/base.js" timestamp="1518470007134">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/src/workers/worker-license-cleanup/node/test/base.js" timestamp="1518470917628">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="33" />
+        <mark key="^" line="20" column="33" />
       </file>
       <file name="/JavaScript Console" timestamp="1517604196393">
         <mark key="[" line="0" column="0" />
@@ -605,7 +617,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518213258688">
+      <file name="/Dummy.txt" timestamp="1518473452983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -781,44 +793,44 @@
       <jump line="26" column="24" filename="$USER_HOME$/src/services/service-license/node/routes/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>licenseFactory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxLmNoZWNrQm9keSgnbmFtZScpLmlzUmVxdWlyZWQoKS53aXRoTWVzc2FnZSgnYWNjZXNzX3Rva2VuIGlzIHJlcXVpcmVkJyk7Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ1NDSEVEVUxFX0RJU0FCTEUnLCAnLi9hcGkvc2NoZWR1bGVfZGlzYWJsZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9uQXBwSW5pdGlhbGl6ZWQ6ICgpID0+IHJlcXVpcmUoJy4uL2xpYi9wcm9jZXNzJykoKS5jb25zdHJ1Y3QoKSwKICAgIG9uRXhlY3V0ZTogKCkgPT4gcmVxdWlyZSgnLi4vbGliL3Byb2Nlc3MnKSgpLmV4ZWN1dGUoKQo=</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIGEgNDA0IHdoZW4gcHJvdmlkZWQgYSBzY2hlZHVsZSBpZCB0aGF0IGRvZXMgbm90IGV4aXN0JywgZnVuY3Rpb24gKGRvbmUpIHsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5zdGF0c2QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uZmlnLmdldFByb3BlcnR5KCkK</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIDQwMyB3aGVuIHByb3ZpZGVkIGEgc2NoZWR1bGUgbm90IGJlbG9uZ2luZyB0byB0aGUgbWVtYmVyJywgZnVuY3Rpb24gKGRvbmUpIHsKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIGEgNDAwIHdoZW4gcHJvdmlkZWQgYW4gaW52YWxpZCBzY2hlZHVsZSBpZCcsIGZ1bmN0aW9uIChkb25lKSB7CiAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYXV0aDogYXV0aFNlcnZpY2VDbGllbnQgfSA9IHNlcnZpY2VDbGllbnRzOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0LmNyZWF0ZVZhbGlkVG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogdXNlcklkIH0pOwogICAgICAgIHJlcXVlc3QoYXBwKQogICAgICAgICAgICAuZGVsZXRlKHJvdXRlcy5BUElfU0NIRURVTEUucmVwbGFjZSgnOnNjaGVkdWxlX2lkJywgZmFrZVNjaGVkdWxlSWQpKQogICAgICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgYEJlYXJlciAke2FjY2Vzc1Rva2VufWApCiAgICAgICAgICAgIC5leHBlY3QoNDA0KQogICAgICAgICAgICAuZW5kKGZ1bmN0aW9uIChlcnIsIHJlcykgewogICAgICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgICAgIGRvbmUoZXJyKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkuc3RhdHVzKS50by5lcXVhbCg0MDQpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5Lm1lc3NhZ2UpLnRvLmVxdWFsKCdOb3QgRm91bmQnKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5jb2RlKS50by5lcXVhbCgnRVJSX05PVF9GT1VORCcpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmVycm9yKS50by5lcXVhbCgnc2NoZWR1bGUgZG9lcyBub3QgZXhpc3QnKTsKCiAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZVJlY29yZCA9IF8uZmlyc3Qoc2NoZWR1bGVGaXh0dXJlcy5yZWNvcmRzKTsKCiAgICAgICAgdGVzdC5jcmVhdGVWYWxpZFRva2VuKGFjY2Vzc1Rva2VuLCB7IHVzZXJfaWQ6IHVzZXJJZCB9KTsKICAgICAgICByZXF1ZXN0KGFwcCkKICAgICAgICAgICAgLmRlbGV0ZShyb3V0ZXMuQVBJX1NDSEVEVUxFLnJlcGxhY2UoJzpzY2hlZHVsZV9pZCcsIHNjaGVkdWxlUmVjb3JkLl9pZCkpCiAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgLmV4cGVjdCg0MDMpCiAgICAgICAgICAgIC5lbmQoZnVuY3Rpb24gKGVyciwgcmVzKSB7CiAgICAgICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgZG9uZShlcnIpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5zdGF0dXMpLnRvLmVxdWFsKDQwMyk7CiAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkubWVzc2FnZSkudG8uZXF1YWwoJ0ZvcmJpZGRlbicpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmNvZGUpLnRvLmVxdWFsKCdFUlJfRk9SQklEREVOJyk7CiAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkuZXJyb3IpLnRvLmVxdWFsKCdjYW4gb25seSBkZWxldGUgeW91ciBvd24gc2NoZWR1bGUnKTsKCiAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
