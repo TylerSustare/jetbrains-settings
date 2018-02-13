@@ -414,7 +414,7 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedules.js" timestamp="1518479727257">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedules.js" timestamp="1518559751117">
         <mark key="'" line="214" column="16" />
         <mark key="[" line="214" column="15" />
         <mark key="]" line="214" column="15" />
@@ -520,12 +520,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518556908872">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518559718732">
         <mark key="'" line="222" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="127" />
-        <mark key="." line="223" column="82" />
-        <mark key="^" line="223" column="82" />
+        <mark key="[" line="291" column="44" />
+        <mark key="]" line="291" column="44" />
+        <mark key="." line="291" column="44" />
+        <mark key="^" line="291" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -579,12 +579,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518559189308">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="38" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="22" column="38" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518561477871">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="47" />
+        <mark key="^" line="39" column="47" />
+        <mark key="." line="39" column="47" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -858,11 +858,11 @@
       <jump line="222" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RQcm9jZXNzQXRNb21lbnQubWludXRlKHNjaGVkdWxlLnRpbWUubSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
