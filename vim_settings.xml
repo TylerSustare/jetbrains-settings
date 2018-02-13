@@ -117,12 +117,12 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1518477990772">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1518483922942">
         <mark key="'" line="34" column="18" />
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="48" />
-        <mark key="." line="34" column="48" />
-        <mark key="^" line="34" column="48" />
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="90" />
+        <mark key="." line="14" column="90" />
+        <mark key="^" line="14" column="90" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/publish_email.js" timestamp="1510352930273">
         <mark key="[" line="194" column="12" />
@@ -715,6 +715,11 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/package.json" timestamp="1518483754081">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" timestamp="1512690514894">
         <mark key="'" line="51" column="18" />
         <mark key="[" line="114" column="0" />
@@ -844,8 +849,8 @@
       <jump line="119" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJsaWItYXV0aC1zZXJ2aWNlLWNsaWVudC1ub2RlanMiOiAiXjMuMy4xIiwK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -857,31 +862,31 @@
         <text>generateProcessAtFromSchedule</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9jZXNzQXRNb21lbnQpOwo=</text>
+        <text encoding="base64">ICAgICJsaWItYXV0aC1zZXJ2aWNlLWNsaWVudC1ub2RlanMiOiAiXjMuMy4xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgICAgICAgICAgZG9uZShlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgICAgICAgICAgZG9uZShlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4ocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBuZXh0UHJvY2Vzc0F0ID0gdG9kb1Byb2Nlc3NMaWIuZ2VuZXJhdGVQcm9jZXNzQXRGcm9tU2NoZWR1bGUoY3JlYXRlZE9yVXBkYXRlZFNjaGVkdWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4ocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdG9kb0ZpeHR1cmVzID0gY29uc3QgID0gcmVxdWlyZSgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBuZXh0UHJvY2Vzc0F0ID0gdG9kb1Byb2Nlc3NMaWIuZ2VuZXJhdGVQcm9jZXNzQXRGcm9tU2NoZWR1bGUoY3JlYXRlZE9yVXBkYXRlZFNjaGVkdWxlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdG9kb0ZpeHR1cmVzID0gY29uc3QgID0gcmVxdWlyZSgnJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoeyBhcHAsIHJvdXRlcywgVG9kb01vZGVsLCBTY2hlZHVsZU1vZGVsLCBsb2FkRml4dHVyZXMgfSA9IHRlc3QuZ2V0Q29udGV4dCgpKTsKICAgICAgICBjb25zdCB0b2RvUHJvY2VzcyA9IHJlcXVpcmUoJy4uLy4uL2xpYi90b2RvUHJvY2VzcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
