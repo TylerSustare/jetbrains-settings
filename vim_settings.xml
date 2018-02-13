@@ -570,12 +570,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518481813485">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518481876141">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="27" column="52" />
-        <mark key="]" line="27" column="52" />
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="6" />
         <mark key="^" line="27" column="58" />
-        <mark key="." line="27" column="52" />
+        <mark key="." line="19" column="6" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -845,16 +845,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inute</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>inute</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>processAt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBuZXh0UHJvY2Vzc0F0ID0gdG9kb1Byb2Nlc3NMaWIuZ2VuZXJhdGVQcm9jZXNzQXRGcm9tU2NoZWR1bGUoY3JlYXRlZE9yVXBkYXRlZFNjaGVkdWxlKTsK</text>
+      <register name="0" type="4">
+        <text>generateProcessAtFromSchedule</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9jZXNzQXRNb21lbnQpOwo=</text>
