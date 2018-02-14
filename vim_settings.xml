@@ -363,6 +363,10 @@
       <file name="$USER_HOME$/src/services/service-promotion/node/lib/middleware.js" timestamp="1517505748953">
         <mark key="'" line="20" column="10" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/todos.js" timestamp="1518651920976">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="52" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/mailer.js" timestamp="1510353243500">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="11" column="13" />
@@ -516,10 +520,10 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518648234466">
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="299" column="0" />
-        <mark key="." line="299" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518650965426">
+        <mark key="[" line="252" column="74" />
+        <mark key="]" line="252" column="74" />
+        <mark key="." line="252" column="74" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -528,12 +532,12 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/schedule.js" timestamp="1518476282228">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/schedule.js" timestamp="1518648694301">
         <mark key="'" line="188" column="20" />
-        <mark key="[" line="231" column="8" />
-        <mark key="]" line="231" column="29" />
+        <mark key="[" line="100" column="31" />
+        <mark key="]" line="100" column="31" />
         <mark key="^" line="231" column="29" />
-        <mark key="." line="231" column="29" />
+        <mark key="." line="100" column="31" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
@@ -573,12 +577,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518648468274">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="38" column="41" />
-        <mark key="." line="38" column="41" />
-        <mark key="^" line="38" column="41" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518652156343">
+        <mark key="'" line="46" column="16" />
+        <mark key="[" line="50" column="46" />
+        <mark key="]" line="50" column="53" />
+        <mark key="." line="50" column="53" />
+        <mark key="^" line="50" column="53" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -665,11 +669,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1518567847991">
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="0" />
-        <mark key="^" line="271" column="42" />
-        <mark key="." line="246" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1518651644573">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="^" line="254" column="42" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1518549479771">
         <mark key="[" line="0" column="0" />
@@ -750,8 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="18" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_recurring.js" />
-      <jump line="185" column="57" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_recurring.js" />
       <jump line="295" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_recurring.js" />
       <jump line="382" column="57" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_recurring.js" />
       <jump line="56" column="57" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_recurring.js" />
@@ -850,61 +852,77 @@
       <jump line="182" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="183" column="118" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="222" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
+      <jump line="43" column="97" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="46" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>todoFixt</text>
+        <text>an</text>
       </register>
       <register name="-" type="4">
-        <text>todoFixt</text>
+        <text>an</text>
       </register>
       <register name="/" type="4">
-        <text>video</text>
+        <text>updat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHAudXNlKGJvZHlQYXJzZXIudXJsZW5jb2RlZCh7IGV4dGVuZGVkOiBmYWxzZSB9KSk7CiAgICAgICAgYXBwLnVzZShib2R5UGFyc2VyLmpzb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChzY2hlZHVsZXNCeUlkKS50by5iZS5hbignb2JqZWN0Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChzY2hlZHVsZXNCeUlkKS50by5iZS5hbignb2JqZWN0Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB9KTsKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRyYWluaW5nUmVtaW5kZXJUb2Rvcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB2aWRlb1F1ZXJ5U2VydmljZS5vbignbGlzdGVuaW5nJywgZnVuY3Rpb24gKCkgewogICAgLy8gICAgICAgICBkb25lKG51bGwsIHZpZGVvUXVlcnlTZXJ2aWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9jZXNzX2F0OiAnJywgCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBjb25zdCB2aWRlb1F1ZXJ5U2VydmljZSA9IGh0dHAuY3JlYXRlU2VydmVyKGFwcCkubGlzdGVuKGNvbmZpZy5nZXRQcm9wZXJ0eSgndGVzdFNlcnZlcnMuc2VydmljZS12aWRlby1xdWVyeS5wb3J0JykpOwogICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZF9hdDogJycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB9KTsKICAgIC8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBhcHAuZ2V0KCcvdmlkZW8tcXVlcnkvdjEvcm91dGUnLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIC8vICAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgICBhcHAudXNlKGJvZHlQYXJzZXIuanNvbigpKTsKICAgIC8vCg==</text>
+      <register name="8" type="4">
+        <text>// function createVideoQueryService(done) {
+    //     const app = express();
+    //
+    //     app.use(bodyParser.urlencoded({ extended: false }));
+    //     app.use(bodyParser.json());
+    //
+    //     app.get('/video-query/v1/route', function (req, res, next) {
+    //         res.status(200).send(result);
+    //     });
+    //
+    //     const videoQueryService = http.createServer(app).listen(config.getProperty('testServers.service-video-query.port'));
+    //
+    //     videoQueryService.on('listening', function () {
+    //         done(null, videoQueryService);
+    //     });
+    // }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCiAgICAvLyAgICAgYXBwLnVzZShib2R5UGFyc2VyLnVybGVuY29kZWQoeyBleHRlbmRlZDogZmFsc2UgfSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRyYWluaW5nUmVtaW5kZXJUb2Rvcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>video</last-search>
+      <last-search>updat</last-search>
       <last-offset />
-      <last-pattern>video</last-pattern>
+      <last-pattern>updat</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>training_reminder</entry>
         <entry>process</entry>
         <entry>process_</entry>
         <entry>processAt</entry>
@@ -924,6 +942,7 @@
         <entry>Client</entry>
         <entry>videoQueryServiceClient</entry>
         <entry>video</entry>
+        <entry>updat</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
