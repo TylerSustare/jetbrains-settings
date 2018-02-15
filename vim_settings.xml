@@ -533,11 +533,11 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518718298823">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518720018516">
         <mark key="'" line="175" column="23" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -682,11 +682,12 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1518718229814">
-        <mark key="'" line="183" column="35" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1518720008356">
+        <mark key="'" line="248" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="182" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1518549479771">
         <mark key="[" line="0" column="0" />
@@ -767,7 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/internal_process.js" />
       <jump line="45" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/internal_process.js" />
       <jump line="46" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/internal_process.js" />
       <jump line="47" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/internal_process.js" />
@@ -867,55 +867,56 @@
       <jump line="164" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="165" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="175" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
+      <jump line="250" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuJywgbGFzdENvbXBsZXRlZENvdXJzZUlkLCAnXG5cbicpOwo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>lastCompletedCourse</text>
-      </register>
-      <register name="/" type="4">
-        <text>videoQueryServiceClient</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChzY2hlZHVsZXNCeUlkWyc1OGQ0NGE5ZjQ1ZGQyMWU4YzBiOGFmZWUnXSkudG8uaGF2ZS5wcm9wZXJ0eSgndHlwZScpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuJywgbGFzdENvbXBsZXRlZENvdXJzZUlkLCAnXG5cbicpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuJywgbmV3ZXN0Q29sbGVjdGlvbiwgJ1xuXG4nKTsK</text>
       </register>
+      <register name="-" type="4">
+        <text>`</text>
+      </register>
+      <register name="/" type="4">
+        <text>console.log</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRLm5mY2FsbChjcmVhdGVOb3RpZmljYXRpb25TZXJ2aWNlKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuJywgbmV3ZXN0Q29sbGVjdGlvbiwgJ1xuXG4nKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBwcmVmaXhWZXJzaW9uID0gJy92aWRlby1xdWVyeS92MSc7Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RyZXR1cm5pbmcgdGhpcyBzdHVmZicsIGdldENvbGxlY3Rpb25SZWNlbnQucmVjb3Jkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbiBJTiBDT0xMRUNUSU9OUyBcblxuXG4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuJywgbGFzdENvbXBsZXRlZENvdXJzZSwgJ1xuXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZxcyB0ZXN0IHNlcnZlciBsaXN0ZW5pbmcnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGxhc3RDb21wbGV0ZWRDb3Vyc2UsICk7bmV3ZXN0UmVsZWFzZWRDb3Vyc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRLm5mY2FsbChjcmVhdGVOb3RpZmljYXRpb25TZXJ2aWNlKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYW51Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRLm5mY2FsbChjcmVhdGVOb3RpZmljYXRpb25TZXJ2aWNlKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbiBJTiBDT0xMRUNUSU9OIFJFQ0VOVCBcblxuXG4nKTsgICAgICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgYXBw</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmlkZW9RdWVyeVNlcnZpY2VDbGllbnQuQVBJLnZpZGVvY29sbGVjdGlvbnMuZ2V0KHsgZmlsdGVyczogbmV3bHlSZWxlYXNlZFF1ZXJ5IH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q29sbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuJywgbGFzdENvbXBsZXRlZENvdXJzZUlkLCAnXG5cbicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>videoQueryServiceClient</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>videoQueryServiceClient</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -935,12 +936,12 @@
         <entry>video</entry>
         <entry>updat</entry>
         <entry>getTrainingTodos</entry>
-        <entry>console.log</entry>
         <entry>console\.log</entry>
         <entry>console.</entry>
         <entry>console</entry>
         <entry>keyBy</entry>
         <entry>videoQueryServiceClient</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
