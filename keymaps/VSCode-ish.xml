@@ -164,6 +164,10 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="meta 5" />
