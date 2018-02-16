@@ -89,10 +89,12 @@
         <mark key="^" line="30" column="12" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" timestamp="1518736916011">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" timestamp="1518762315985">
+        <mark key="'" line="24" column="23" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="16" column="316" />
+        <mark key="." line="34" column="28" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" timestamp="1515091189948">
         <mark key="'" line="61" column="0" />
@@ -562,12 +564,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518761004974">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518761768621">
         <mark key="'" line="174" column="51" />
-        <mark key="[" line="182" column="78" />
-        <mark key="]" line="183" column="15" />
-        <mark key="^" line="183" column="15" />
-        <mark key="." line="183" column="15" />
+        <mark key="[" line="174" column="35" />
+        <mark key="]" line="174" column="35" />
+        <mark key="^" line="174" column="35" />
+        <mark key="." line="174" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -621,11 +623,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518759897982">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518762293805">
         <mark key="'" line="84" column="47" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+        <mark key="[" line="68" column="69" />
+        <mark key="]" line="68" column="94" />
+        <mark key="." line="68" column="69" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -802,9 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="245" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="295" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="7" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="271" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="277" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
@@ -902,16 +901,19 @@
       <jump line="160" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="169" column="32" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="174" column="51" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
+      <jump line="92" column="33" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
+      <jump line="24" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lastYearActivity</text>
+        <text>Cisco CCNP SWITCH 642-813</text>
       </register>
       <register name="-" type="4">
-        <text>lastYearActivity</text>
+        <text>Cisco CCNP SWITCH 642-813</text>
       </register>
       <register name="/" type="4">
-        <text>viewed</text>
+        <text>ame</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIF0K</text>
@@ -948,17 +950,14 @@
       </register>
     </registers>
     <search>
-      <last-search>viewed</last-search>
+      <last-search>ame</last-search>
       <last-offset />
-      <last-pattern>viewed</last-pattern>
+      <last-pattern>ame</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updat</entry>
-        <entry>getTrainingTodos</entry>
-        <entry>console\.log</entry>
         <entry>console.</entry>
         <entry>keyBy</entry>
         <entry>videoQueryServiceClient</entry>
@@ -976,6 +975,9 @@
         <entry>console</entry>
         <entry>conso</entry>
         <entry>viewed</entry>
+        <entry>title</entry>
+        <entry>name</entry>
+        <entry>ame</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
