@@ -124,7 +124,7 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1518713830637">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1518808431248">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="37" />
@@ -564,12 +564,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518763249892">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1518807720060">
         <mark key="'" line="161" column="0" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="^" line="172" column="35" />
-        <mark key="." line="171" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -623,12 +623,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518802773973">
-        <mark key="'" line="122" column="290" />
-        <mark key="[" line="128" column="7" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="102" column="61" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1518810173094">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="150" column="69" />
+        <mark key="]" line="150" column="95" />
+        <mark key="." line="150" column="95" />
+        <mark key="^" line="150" column="95" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -720,13 +720,13 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1518803028635">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="^" line="177" column="40" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1518808171736">
+        <mark key="[" line="169" column="13" />
+        <mark key="]" line="170" column="11" />
+        <mark key="^" line="170" column="11" />
+        <mark key="." line="170" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518737715135">
+      <file name="/Dummy.txt" timestamp="1518807209098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -805,25 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="35" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="132" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="135" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="139" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="164" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="165" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="175" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="250" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="57" column="1" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
-      <jump line="2" column="3" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
-      <jump line="34" column="1" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
-      <jump line="0" column="15" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/member_getCollectionRecent.js" />
-      <jump line="39" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_enable.js" />
-      <jump line="18" column="39" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_enable.js" />
-      <jump line="247" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="248" column="39" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="234" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="175" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="192" column="53" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="213" column="58" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="220" column="34" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
@@ -873,7 +854,6 @@
       <jump line="67" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="68" column="71" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="69" column="57" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="72" column="65" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="73" column="49" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="85" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="95" column="103" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -893,7 +873,6 @@
       <jump line="114" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
       <jump line="92" column="33" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
       <jump line="24" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" />
-      <jump line="70" column="84" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="71" column="850" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="184" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="172" column="19" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
@@ -905,62 +884,95 @@
       <jump line="110" column="63" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="96" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_enable.js" />
       <jump line="122" column="290" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="126" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="127" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="16" column="62" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="26" column="63" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="30" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="32" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="50" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="53" column="69" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="70" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="72" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="75" column="51" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="92" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="94" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="97" column="61" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="121" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="123" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="139" column="44" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="157" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="35" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>percent_complete</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>only</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQudHJhaW5lcl9maXJzdF9uYW1lKS50by5lcXVhbCgnSmVyZW15Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRyYWluaW5nUmVtaW5kZXJUb2Rvcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJldDsKICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IF9pZDogNThkNDRhOWY0NWRkMjFlOGMwYjhhZmVlLAogICAgICAgICAgICBoYXNoOiAnODUwNGRlYjg5ZjA1ZDVhMDc1ZTE2MmIyOGZjZGY0NzY5OWVmYmY3OCcsCiAgICAgICAgICAgIF9fdjogMCwKICAgICAgICAgICAgaW5hY3RpdmVfYXQ6IDIwMTItMDMtMjNUMDA6MDA6MDAuMDAwWiwKICAgICAgICAgICAgZGlzYWJsZWRfYXQ6IDIwMTYtMDMtMjNUMDA6MDA6MDAuMDAwWiwKICAgICAgICAgICAgdXBkYXRlZF9hdDogMjAxNy0wMy0yM1QwMDowMDowMC4wMDBaLAogICAgICAgICAgICBjcmVhdGVkX2F0OiAyMDE3LTAzLTIzVDAwOjAwOjAwLjAwMFosCiAgICAgICAgICAgIHRpbWU6IHsgbTogMTUsIGg6IDExIH0sCiAgICAgICAgZGF5czogW10sCiAgICAgICAgICAgIGZyZXF1ZW5jeTogJ29uY2UnLAogICAgICAgICAgICB0eXBlOiAnVFInLAogICAgICAgICAgICBtZW1iZXJfaWQ6ICcxMjInIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldFtjYWxsYmFjayh2YWx1ZSldID0gdmFsdWU7CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="3" type="4">
+        <text>{
+            _id: '58e2a97a11665c183615e937',
+            updated_at: '2017-04-03T19:58:50.707Z',
+            created_at: '2017-04-03T19:58:50.707Z',
+            process_at: '2017-04-01T19:58:50.704Z',
+            schedule_id: '58d44a9f45dd21e8c0b8afee',
+            __v: 0
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmV0ID0ge307CiAgICAgICAgICAgIF8uZm9yRWFjaChvYmosIGZ1bmN0aW9uICh2YWx1ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBfLmtleUJ5IGlzIG5vdCB3b3JraW5nIGZvciBjYWxsYmFjayBmdW5jdGlvbiBpbiB0aGlzIGxvYXNoIHZlcnNpb24KICAgICAgICBmdW5jdGlvbiBrZXlCeShvYmosIGNhbGxiYWNrKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHsKfQo=</text>
+      <register name="6" type="4">
+        <text>{
+                    memberType: &quot;learner&quot;,
+                    access: {
+                        offline: &quot;all&quot;,
+                        streaming: &quot;all&quot;,
+                        collections: []
+                    }
+                }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAiIjogMTAwLAogICAgICAgICAgICAgICAgLy8gICAgICJ2aWRlb19zZXF1ZW5jZV9udW1iZXIiOiAyNCwKICAgICAgICAgICAgICAgIC8vICAgICAiY291cnNlX3RpdGxlIjogIkNpc2NvIENDTlAgU1dJVENIIDY0Mi04MTMiLAogICAgICAgICAgICAgICAgLy8gICAgICJ2aWRlb190aXRsZSI6ICJDYW1wdXMgU2VjdXJpdHk6IFZBQ0xzIiwKICAgICAgICAgICAgICAgIC8vICAgICAiY291cnNlX2R1cmF0aW9uIjogNDA5NDAsCiAgICAgICAgICAgICAgICAvLyAgICAgInZpZGVvX2R1cmF0aW9uIjogODY4LAogICAgICAgICAgICAgICAgLy8gICAgICJ2aWRlb19kZXNjcmlwdGlvbiI6ICJJZiB0aGVyZSdzIG9uZSB0aGluZyBiZXR0ZXIgdGhhbiBhbmQgQUNMLCBpdCdzIGEgVkFDTCEgVGhhdCdzIGEgVkxBTi1iYXNlZCBBY2Nlc3MgQ29udHJvbCBMaXN0IChWQUNMKS4gSW4gdGhpcyBzaG9ydCBudWdnZXQsIEplcmVteSBkaXNjdXNzZXMgdGhlIHdoeSBhbmQgaG93IGJlaGluZCBpbXBsZW1lbnRpbmcgVkFDTHMgYXMgaGUgd2Fsa3MgdGhyb3VnaCBhIHNhbXBsZSBpbXBsZW1lbnRhdGlvbi4iLAogICAgICAgICAgICAgICAgLy8gICAgICJ0cmFpbmVyX2ZpcnN0X25hbWUiOiAiSmVyZW15IiwKICAgICAgICAgICAgICAgIC8vICAgICAiY291cnNlX3Nlb19zbHVnIjogImNpc2NvLWNjbnAtc3dpdGNoLTY0Mi04MTMiCiAgICAgICAgICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLmhhdmUucHJvcGVydHkoJ3NxdWlnZycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLmhhdmUucHJvcGVydHkoJ3NxdWlnZycpCiAgICAgICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5oYXZlLnByb3BlcnR5KCdzcXVpZ2cnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Todo</entry>
-        <entry>req</entry>
         <entry>cons</entry>
         <entry>&quot;</entry>
         <entry>:</entry>
@@ -979,6 +991,8 @@
         <entry>console</entry>
         <entry>squigg</entry>
         <entry>'</entry>
+        <entry>done</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
@@ -999,8 +1013,8 @@
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
