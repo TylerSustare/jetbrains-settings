@@ -158,7 +158,7 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1518713917207">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1519057142987">
         <mark key="'" line="270" column="0" />
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="0" />
@@ -677,6 +677,9 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="16" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule.js" timestamp="1519057006629">
+        <mark key="'" line="19" column="58" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/gulpfile.js" timestamp="1518724920639">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -806,10 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
-      <jump line="15" column="50" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
-      <jump line="16" column="354" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
-      <jump line="17" column="690" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
       <jump line="18" column="206" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
       <jump line="19" column="40" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
       <jump line="23" column="57" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" />
@@ -906,6 +905,10 @@
       <jump line="50" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="29" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="170" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
+      <jump line="15" column="21" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule.js" />
+      <jump line="35" column="30" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule.js" />
+      <jump line="47" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule.js" />
+      <jump line="19" column="58" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -915,7 +918,7 @@
         <text>Iid</text>
       </register>
       <register name="/" type="4">
-        <text>notify</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRyYWluaW5nUmVtaW5kZXJUb2Rvcyk7Cg==</text>
@@ -966,15 +969,14 @@
       </register>
     </registers>
     <search>
-      <last-search>notify</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>notify</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
         <entry>records</entry>
         <entry>console.log</entry>
         <entry>console.lgo</entry>
@@ -994,6 +996,7 @@
         <entry>clg</entry>
         <entry>console</entry>
         <entry>notify</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
