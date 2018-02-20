@@ -585,7 +585,7 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519158895853">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519159802284">
         <mark key="'" line="309" column="8" />
         <mark key="[" line="151" column="24" />
         <mark key="]" line="151" column="25" />
@@ -650,12 +650,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519159129851">
-        <mark key="'" line="77" column="64" />
-        <mark key="[" line="87" column="7" />
-        <mark key="]" line="72" column="47" />
-        <mark key="." line="72" column="47" />
-        <mark key="^" line="72" column="47" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519159860340">
+        <mark key="'" line="89" column="7" />
+        <mark key="[" line="134" column="59" />
+        <mark key="]" line="134" column="76" />
+        <mark key="." line="134" column="76" />
+        <mark key="^" line="134" column="76" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -837,11 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="260" column="128" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="261" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="270" column="42" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="215" column="83" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="338" column="70" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="185" column="65" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="238" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
@@ -875,7 +870,6 @@
       <jump line="109" column="59" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="110" column="63" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="96" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_enable.js" />
-      <jump line="122" column="290" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="126" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="127" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -937,55 +931,61 @@
       <jump line="75" column="305" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="76" column="64" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="77" column="64" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="99" column="40" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="129" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="131" column="19" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="134" column="60" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="122" column="66" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="89" column="7" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>reminder_generic</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>reminder_generic</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>only</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaWQ6ICc1MzA3YTNlMzE5OTlkYjMxZTM3OGU3OTcnLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNvbnN0IG5leHRDb3Vyc2UgPSB7CiAgICAgICAgICAgIF9pZDogJzUzMDdhM2UzMTk5OWRiMzFlMzc4ZTc5NycsCiAgICAgICAgICAgIGxhc3RfY29tcGxldGVkX2NvdXJzZV90aXRsZTogJ0Npc2NvIENDTlAgU1dJVENIIDY0Mi04MTMnLAogICAgICAgICAgICBsYXN0X2NvbXBsZXRlZF9jb3Vyc2VfdHJhaW5lcjogJ0plcmVteScsCiAgICAgICAgICAgIG5leHRfY291cnNlX3RpdGxlOiAnQ2lzY28gQ0NOUCBTV0lUQ0ggNjQyLTgxMycsCiAgICAgICAgICAgIG5leHRfY291cnNlX2Rlc2NyaXB0aW9uOiAnRW1wbG95ZXJzIGtub3cgdGhhdCBDQ05QLWNlcnRpZmllZCBqb2IgYXBwbGljYW50cyBoYXZlIGEgcmVhbC13b3JsZCBrbm93bGVkZ2Ugb2YgbmV0d29ya2luZy4mbmJzcDsgVGhleSBhbHNvIGtub3cgdGhhdCBDaXNjbyBhd2FyZHMgYmlnIGRpc2NvdW50cyB0byBjb21wYW5pZXMgdGhhdCBoaXJlIENpc2NvLWNlcnRpZmllZCBzdGFmZi4mbmJzcDs8YnI+PGJyPkFmdGVyIHdhdGNoaW5nIDxhIGhyZWY9IiBodHRwOi8vd3d3LmNidG51Z2dldHMuY29tL3RyYWluZXJiaW9zL2plcmVteS1jaW9hcmEiPkplcmVteSBDaW9hcmFcJ3M8L2E+IG5ldyBDQ05QIDY0Mi04MTMgU1dJVENIIHRyYWluaW5nLCB5b3VcJ2xsIGJlIGEgbWFzdGVyLWxldmVsIGNvbnN1bHRhbnQgb24gQ2lzY28gc3dpdGNoZWQgbmV0d29ya3MuIFlvdVwnbGwgYWxzbyBoYXZlIGJyaWdodGVyIGNhcmVlciBwcm9zcGVjdHMgYW5kIGJlIGFuIGltcG9ydGFudCBzdGVwIGNsb3NlciB0byBDQ05QIGNlcnRpZmljYXRpb24uPGJyPjxicj5KZXJlbXkgY292ZXJzIGV2ZXJ5dGhpbmcgeW91IGV2ZXIgd2FudGVkIHRvIGtub3cgYWJvdXQgc3dpdGNoaW5nIGluIHRoaXMgdXBkYXRlIHRvIGhpcyBleGlzdGluZyBCQ01TTiBjb3Vyc2UuJm5ic3A7IEluIG5vIHRpbWUsIHlvdVwnbGwgYmUgZGVzaWduaW5nIHlvdXIgbmV0d29yayBmb3IgbWF4aW11bSB1cHRpbWUgYW5kIHByZXBhcmluZyBpdCBmb3IgYWR2YW5jZWQgc2VydmljZXMgbGlrZSBXaUZpLCBWb0lQIGFuZCBWaWRlbyBvdmVyIElQLiZuYnNwIDxicj48YnI+SmVyZW15XCdzIHRyYWluaW5nIG1hcHMgdG8gQ2lzY28gQ0NOUCBjZXJ0aWZpY2F0aW9uIGV4YW0gNjQyLTgxMy4nLAogICAgICAgICAgICBuZXh0X2NvdXJzZV9kdXJhdGlvbjogNDA5NDAsCiAgICAgICAgICAgIG5leHRfY291cnNlX3Nlb19zbHVnOiAnY2lzY28tY2NucC1zd2l0Y2gtNjQyLTgxMycKICAgICAgICB9Ow==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLmJlLmFuKCdvYmplY3QnKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLm5vdC5iZS5lbXB0eTsK</text>
+        <text encoding="base64">ICAgICAgICB0b2RvUHJvY2Vzcy5zZW5kVHJhaW5pbmdSZW1pbmRlck5vdGlmaWNhdGlvbignMTAxJywge30sIHt9LCB7fSkKICAgICAgICAgICAgLnRoZW4ocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7CiAgICAgICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5kZWVwLmVxdWFsKAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVyX2lkOiAnMTAxJywKICAgICAgICAgICAgICAgICAgICAgICAgY2hhbm5lbHM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZW1haWw6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvcGljOiAnVHJhaW5pbmcgUmVtaW5kZXInLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGU6ICdyZW1pbmRlcl9nZW5lcmljJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6IHt9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2goZG9uZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLmJlLmFuKCdvYmplY3QnKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLm5vdC5iZS5lbXB0eTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaWQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQuY291cnNlX3Nlb19zbHVnKS50by5lcXVhbCgnY2lzY28tY2NucC1zd2l0Y2gtNjQyLTgxMycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaWQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQudHJhaW5lcl9maXJzdF9uYW1lKS50by5lcXVhbCgnSmVyZW15Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQuY291cnNlX3Nlb19zbHVnKS50by5lcXVhbCgnY2lzY28tY2NucC1zd2l0Y2gtNjQyLTgxMycpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQudmlkZW9fZGVzY3JpcHRpb24pLnRvLmhhdmUuc3RyaW5nKCdJZiB0aGVyZVwncyBvbmUgdGhpbmcgYmV0dGVyIHRoYW4gYW5kIEFDTCwgaXRcJ3MgYSBWQUNMIScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQudHJhaW5lcl9maXJzdF9uYW1lKS50by5lcXVhbCgnSmVyZW15Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQuY291cnNlX2R1cmF0aW9uKS50by5lcXVhbCg0MDk0MCk7CiAgICAgICAgICAgICAgICBleHBlY3QocmVzdWx0LnZpZGVvX2R1cmF0aW9uKS50by5lcXVhbCg4NjgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQudmlkZW9fZGVzY3JpcHRpb24pLnRvLmhhdmUuc3RyaW5nKCdJZiB0aGVyZVwncyBvbmUgdGhpbmcgYmV0dGVyIHRoYW4gYW5kIEFDTCwgaXRcJ3MgYSBWQUNMIScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQuY291cnNlX3RpdGxlKS50by5lcXVhbCgnQ2lzY28gQ0NOUCBTV0lUQ0ggNjQyLTgxMycpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlc3VsdC52aWRlb190aXRsZSkudG8uZXF1YWwoJ0NhbXB1cyBTZWN1cml0eTogVkFDTHMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQuY291cnNlX2R1cmF0aW9uKS50by5lcXVhbCg0MDk0MCk7CiAgICAgICAgICAgICAgICBleHBlY3QocmVzdWx0LnZpZGVvX2R1cmF0aW9uKS50by5lcXVhbCg4NjgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQucGVyY2VudF9jb21wbGV0ZSkudG8uZXF1YWwoMTAwKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQudmlkZW9fc2VxdWVuY2VfbnVtYmVyKS50by5lcXVhbCgyNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXN1bHQuY291cnNlX3RpdGxlKS50by5lcXVhbCgnQ2lzY28gQ0NOUCBTV0lUQ0ggNjQyLTgxMycpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlc3VsdC52aWRlb190aXRsZSkudG8uZXF1YWwoJ0NhbXB1cyBTZWN1cml0eTogVkFDTHMnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -998,7 +998,6 @@
         <entry encoding="base64">PA==</entry>
         <entry>squigg</entry>
         <entry>'</entry>
-        <entry>done</entry>
         <entry>clg</entry>
         <entry>console</entry>
         <entry>notify</entry>
@@ -1009,8 +1008,9 @@
         <entry>_.keys(last</entry>
         <entry>getCourseAnd</entry>
         <entry>getLastCourse</entry>
-        <entry>only</entry>
         <entry>:</entry>
+        <entry>done</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
