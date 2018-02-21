@@ -660,12 +660,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519231948331">
-        <mark key="'" line="182" column="15" />
-        <mark key="[" line="220" column="53" />
-        <mark key="]" line="220" column="53" />
-        <mark key="." line="220" column="53" />
-        <mark key="^" line="220" column="51" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519233063192">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="178" column="47" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -846,11 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="68" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="78" column="44" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="75" column="305" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="76" column="64" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="77" column="64" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="99" column="40" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="129" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="131" column="19" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -859,7 +853,6 @@
       <jump line="50" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="34" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="7" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="146" column="21" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="147" column="37" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="149" column="45" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="150" column="48" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -946,55 +939,61 @@
       <jump line="70" column="53" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="181" column="15" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="20" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedulesWithNotTR.js" />
+      <jump line="146" column="28" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="30" column="25" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get\ train</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh0cmFpbmluZ1JlbWluZGVyVG9kb3MpLnRvLmhhdmUubGVuZ3RoKDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IH0sCiAgICB7CiAgICAgICAgX192OiAwLAogICAgICAgIF9pZDogT2JqZWN0SWQoJzY5ZDQ0YTlmNDVkZDIxZThjMGI4YWVlMCcpLAogICAgICAgIGluYWN0aXZlX2F0OiBudWxsLAogICAgICAgIGRpc2FibGVkX2F0OiBudWxsLAogICAgICAgIGNyZWF0ZWRfYXQ6ICcyMDE3LTAzLTIzVDAwOjAwOjAwWicsCiAgICAgICAgdXBkYXRlZF9hdDogJzIwMTctMDMtMjRUMDA6MDA6MDBaJywKICAgICAgICB0aW1lOiB7CiAgICAgICAgICAgIG06IDAsCiAgICAgICAgICAgIGg6IDkKICAgICAgICB9LAogICAgICAgIGRheXM6IFtdLAogICAgICAgIGZyZXF1ZW5jeTogJ29uY2UnLAogICAgICAgIHR5cGU6ICdOT1RfVFInLAogICAgICAgIG1lbWJlcl9pZDogJzEzMSc=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0b2RvID0gdG9kbyB3aXRoIHNjaGVkdWxlIHR5cGUgbm90IFRSCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhayBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0b2RvID0gXy5oZWFkKHRvZG9GaXh0dXJlcy5yZWNvcmRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhwcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhleHBlY3RQcm9jZXNzQXRNb21lbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get\ train</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>get\ train</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1006,7 +1005,6 @@
         <entry>:</entry>
         <entry>onlyh</entry>
         <entry>'</entry>
-        <entry>console.log</entry>
         <entry>89</entry>
         <entry>&quot;</entry>
         <entry>checkTr</entry>
@@ -1020,6 +1018,7 @@
         <entry>weekly</entry>
         <entry>only</entry>
         <entry>get\ train</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
