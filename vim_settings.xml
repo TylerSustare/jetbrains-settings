@@ -661,12 +661,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519330031090">
-        <mark key="'" line="103" column="32" />
-        <mark key="[" line="112" column="6" />
-        <mark key="]" line="112" column="10" />
-        <mark key="^" line="112" column="10" />
-        <mark key="." line="112" column="10" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519334244493">
+        <mark key="'" line="104" column="43" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -846,10 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="47" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="152" column="47" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="153" column="59" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="154" column="61" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="155" column="56" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="156" column="60" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="157" column="62" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -893,7 +889,6 @@
       <jump line="122" column="37" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="130" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="189" column="3" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="37" column="1" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="185" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="90" column="77" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="178" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -946,70 +941,65 @@
       <jump line="109" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="98" column="47" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="102" column="32" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="104" column="43" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>proce</text>
+        <text>dayOfW</text>
       </register>
-      <register name="0" type="4">
-        <text>const dayOfWeekMapping = {
-    su: 0,
-    m: 1,
-    t: 2,
-    w: 3,
-    th: 4,
-    f: 5,
-    sa: 6
-};</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmNsb2NrLnJlc3RvcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50RGF5ID0gZXhwZWN0UHJvY2Vzc0F0TW9tZW50LmRheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmNsb2NrLnJlc3RvcmUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV4dERheSA9IGRheXMuZmluZCgoZGF5KSA9PiBkYXlPZldlZWtNYXBwaW5nW2RheV0gPiBjdXJyZW50RGF5KTsKICAgICAgICAgICAgZXhwZWN0UHJvY2Vzc0F0TW9tZW50LmRheShuZXh0RGF5KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBjbG9jayA9IHRoaXMuY2xvY2sgPSBzaW5vbi51c2VGYWtlVGltZXJzKCk7IC8vIHVuaXggZXBvY2ggd2FzIGEgV2VkbmVzZGF5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF5T2ZXZWVrTWFwcGluZ1tfLmxhc3QoZGF5cyldID4gY3VycmVudERheSkgewogICAgICAgICAgICAvLyB0aGlzIHdlZWsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcyB3ZWVrCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBiID0gbW9tZW50KCk7CiAgICAgICAgY29uc29sZS5sb2coYik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF5T2ZXZWVrTWFwcGluZ1tfLmxhc3QoZGF5cyldID4gY3VycmVudERheSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhID0gbW9tZW50KCk7CiAgICAgICAgY29uc29sZS5sb2coYSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhID0gbW9tZW50KCk7CiAgICAgICAgY29uc29sZS5sb2coYSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0UHJvY2Vzc0F0TW9tZW50LmRheShuZXh0RGF5ICsgNyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhID0gbW9tZW50KCk7CiAgICAgICAgY29uc29sZS5sb2coYSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>proce</last-search>
+      <last-search>dayOfW</last-search>
       <last-offset />
-      <last-pattern>proce</last-pattern>
+      <last-pattern>dayOfW</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>:</entry>
-        <entry>onlyh</entry>
         <entry>'</entry>
         <entry>89</entry>
         <entry>&quot;</entry>
@@ -1028,6 +1018,8 @@
         <entry>only</entry>
         <entry>expectPr</entry>
         <entry>proce</entry>
+        <entry>dayOfThe</entry>
+        <entry>dayOfW</entry>
       </history-search>
       <history-cmd>
         <entry>21</entry>
