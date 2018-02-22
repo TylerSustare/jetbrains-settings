@@ -661,12 +661,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519329107555">
-        <mark key="'" line="104" column="32" />
-        <mark key="[" line="99" column="31" />
-        <mark key="]" line="99" column="31" />
-        <mark key="." line="99" column="31" />
-        <mark key="^" line="99" column="31" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519330031090">
+        <mark key="'" line="103" column="32" />
+        <mark key="[" line="112" column="6" />
+        <mark key="]" line="112" column="10" />
+        <mark key="^" line="112" column="10" />
+        <mark key="." line="112" column="10" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -948,11 +948,11 @@
       <jump line="102" column="32" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlzID0gc2NoZWR1bGUuZGF5czsK</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="-" type="4">
-        <text>processAtMoment</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text>proce</text>
@@ -969,31 +969,31 @@
 };</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlzID0gc2NoZWR1bGUuZGF5czsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjdXJyZW50RGF5ID0gZXhwZWN0UHJvY2Vzc0F0TW9tZW50LmRheSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RQcm9jZXNzQXRNb21lbnQuYWRkKDEsICdkYXknKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBhID0gbW9tZW50KCk7CiAgICAgICAgY29uc29sZS5sb2coYS50b0lTT1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbmV4dERheSA9IGRheXMuZmluZCgoZGF5KSA9PiBkYXlPZldlZWtNYXBwaW5nW2RheV0gPiBjdXJyZW50RGF5KTsKICAgICAgICAgICAgZXhwZWN0UHJvY2Vzc0F0TW9tZW50LmRheShuZXh0RGF5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF5T2ZXZWVrTWFwcGluZ1tfLmxhc3QoZGF5cyldID4gY3VycmVudERheSkgewogICAgICAgICAgICAvLyB0aGlzIHdlZWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcyB3ZWVrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF5T2ZXZWVrTWFwcGluZ1tfLmxhc3QoZGF5cyldID4gY3VycmVudERheSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0Lm9ubHkoJ3Nob3VsZCBnZW5lcmF0ZSBwcm9jZXNzQXQgZnJvbSBhIHNjaGVkdWxlIGZvciBkYXlzIGZyZXF1ZW5jeScsIGZ1bmN0aW9uIChkb25lKSB7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0UHJvY2Vzc0F0TW9tZW50LmRheShuZXh0RGF5ICsgNyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
