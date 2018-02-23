@@ -596,12 +596,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519329062081">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519345420372">
         <mark key="'" line="264" column="58" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="303" column="0" />
-        <mark key="^" line="299" column="15" />
+        <mark key="[" line="233" column="42" />
+        <mark key="]" line="233" column="42" />
+        <mark key="." line="233" column="42" />
+        <mark key="^" line="233" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -661,12 +661,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519334244493">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519344872698">
         <mark key="'" line="104" column="43" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-        <mark key="^" line="37" column="0" />
+        <mark key="[" line="211" column="51" />
+        <mark key="]" line="211" column="68" />
+        <mark key="." line="211" column="68" />
+        <mark key="^" line="211" column="68" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -767,7 +767,7 @@
         <mark key="]" line="287" column="14" />
         <mark key="." line="287" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519321890850">
+      <file name="/Dummy.txt" timestamp="1519345500121">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -948,11 +948,11 @@
       <jump line="104" column="43" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_reminder</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>_reminder</text>
       </register>
       <register name="/" type="4">
         <text>dayOfW</text>
