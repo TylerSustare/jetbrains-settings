@@ -597,11 +597,11 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519419253401">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="241" column="28" />
-        <mark key="." line="240" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519419857556">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="204" column="34" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -661,12 +661,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519415256815">
-        <mark key="'" line="104" column="43" />
-        <mark key="[" line="46" column="152" />
-        <mark key="]" line="46" column="170" />
-        <mark key="." line="46" column="170" />
-        <mark key="^" line="46" column="170" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519419656361">
+        <mark key="'" line="105" column="43" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -950,10 +950,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lOiAnJywK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgIA==</text>
+        <text>trainer_first_name</text>
       </register>
       <register name="/" type="4">
         <text>dayOfW</text>
@@ -962,31 +962,31 @@
         <text encoding="base64">ICAgICAgICAvLyB0aGlzLmNsb2NrLnJlc3RvcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lOiAnJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6ICdSb24nCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvdXJzZV9zZW9fc2x1Zwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvdXJzZV90aXRsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGluc3RydWN0b3JfbmFtZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgY29uc3Qgbm90aWZ5TWVtYmVyQm9keSA9IHsKICAgICAgICAgICAgbWVtYmVyX2lkOiBtZW1iZXJJZCwKICAgICAgICAgICAgY2hhbm5lbHM6IHsKICAgICAgICAgICAgICAgIGVtYWlsOiB7CiAgICAgICAgICAgICAgICAgICAgdG9waWMsCiAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGUsCiAgICAgICAgICAgICAgICAgICAgbWVzc2FnZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuIG5vdGlmaWNhdGlvblNlcnZpY2VDbGllbnQuQVBJLm5vdGlmeU1lbWJlcihub3RpZnlNZW1iZXJCb2R5KS5leGVjKCk7CiA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vIGluc3RydWN0b3JfbmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHZpZGVvX3NlcXVlbmNlX251bWJlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbm90aWZpY2F0aW9uU2VydmljZUNsaWVudC5BUEkubm90aWZ5TWVtYmVyKG5vdGlmeU1lbWJlckJvZHkpLmV4ZWMoKTsK</text>
+        <text encoding="base64">ICAgIC8vIHZpZGVvX3RpdGxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
