@@ -176,11 +176,12 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1519057142987">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1519415167219">
         <mark key="'" line="270" column="0" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
@@ -596,12 +597,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519414273409">
-        <mark key="'" line="238" column="0" />
-        <mark key="[" line="15" column="124" />
-        <mark key="]" line="15" column="142" />
-        <mark key="." line="15" column="142" />
-        <mark key="^" line="15" column="142" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519415934429">
+        <mark key="'" line="241" column="0" />
+        <mark key="[" line="239" column="18" />
+        <mark key="]" line="238" column="66" />
+        <mark key="." line="238" column="66" />
+        <mark key="^" line="238" column="66" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -661,12 +662,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519344872698">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1519415256815">
         <mark key="'" line="104" column="43" />
-        <mark key="[" line="200" column="51" />
-        <mark key="]" line="200" column="68" />
-        <mark key="." line="200" column="68" />
-        <mark key="^" line="200" column="68" />
+        <mark key="[" line="46" column="152" />
+        <mark key="]" line="46" column="170" />
+        <mark key="." line="46" column="170" />
+        <mark key="^" line="46" column="170" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -761,11 +762,12 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1519324895700">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1519415232620">
         <mark key="'" line="288" column="8" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="14" />
-        <mark key="." line="287" column="0" />
+        <mark key="[" line="63" column="127" />
+        <mark key="]" line="63" column="145" />
+        <mark key="." line="63" column="145" />
+        <mark key="^" line="63" column="145" />
       </file>
       <file name="/Dummy.txt" timestamp="1519414283687">
         <mark key="[" line="0" column="0" />
@@ -948,11 +950,11 @@
       <jump line="238" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[memberId]</text>
       </register>
       <register name="-" type="4">
-        <text>_reminder</text>
+        <text>[memberId]</text>
       </register>
       <register name="/" type="4">
         <text>dayOfW</text>
@@ -961,31 +963,31 @@
         <text encoding="base64">ICAgICAgICAvLyB0aGlzLmNsb2NrLnJlc3RvcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXV0aFNlcnZpY2VDbGllbnQuQVBJLmludGVybmFsR2V0VXNlcnNCeUlkcyhbbWVtYmVySWRdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVtYmVyU2VydmljZUNsaWVudC5BUEkuCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgfSA9IHNlcnZpY2VDbGllbnRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWVtYmVyU2VydmljZUNsaWVudC5BUEkuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmNsb2NrLnJlc3RvcmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBjbG9jayA9IHRoaXMuY2xvY2sgPSBzaW5vbi51c2VGYWtlVGltZXJzKCk7IC8vIHVuaXggZXBvY2ggd2FzIGEgV2VkbmVzZGF5Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0geyBzdTogMCwgbTogMSwgdDogMiwgdzogMywgdGg6IDQsIGY6IDUsIHNhOiA2IH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmNsb2NrLnJlc3RvcmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1073,6 +1075,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
