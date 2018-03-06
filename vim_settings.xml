@@ -58,6 +58,12 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1520365801054">
+        <mark key="[" line="306" column="52" />
+        <mark key="]" line="306" column="62" />
+        <mark key="^" line="306" column="62" />
+        <mark key="." line="306" column="62" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/4lambda_test.js" timestamp="1515188966984">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="27" />
@@ -1029,7 +1035,7 @@
         <text encoding="base64">LyoK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1080,9 +1086,9 @@
         <entry>146</entry>
         <entry>124</entry>
         <entry>257</entry>
-        <entry>w</entry>
         <entry>vsp</entry>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
