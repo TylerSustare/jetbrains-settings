@@ -58,11 +58,12 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1520365801054">
-        <mark key="[" line="306" column="52" />
-        <mark key="]" line="306" column="62" />
-        <mark key="^" line="306" column="62" />
-        <mark key="." line="306" column="62" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1520369070508">
+        <mark key="'" line="443" column="72" />
+        <mark key="[" line="444" column="63" />
+        <mark key="]" line="444" column="72" />
+        <mark key="^" line="444" column="72" />
+        <mark key="." line="444" column="72" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/4lambda_test.js" timestamp="1515188966984">
         <mark key="[" line="9" column="26" />
@@ -893,7 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="204" column="34" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="198" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="138" column="49" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -993,13 +993,14 @@
       <jump line="30" column="0" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/test/base.js" />
       <jump line="16" column="0" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" />
+      <jump line="445" column="72" filename="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHNlcnZpY2U=</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:3002</text>
+        <text encoding="base64">IHNlcnZpY2U=</text>
       </register>
       <register name="/" type="4">
         <text>consol</text>
@@ -1069,8 +1070,6 @@
         <entry>consol</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
-        <entry>260</entry>
         <entry>sp</entry>
         <entry>FZF -m</entry>
         <entry>Rgrep</entry>
@@ -1088,6 +1087,8 @@
         <entry>257</entry>
         <entry>vsp</entry>
         <entry>vs</entry>
+        <entry>44</entry>
+        <entry>445</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
