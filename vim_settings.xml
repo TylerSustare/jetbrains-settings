@@ -159,11 +159,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1519420861560">
-        <mark key="[" line="16" column="54" />
-        <mark key="]" line="16" column="91" />
-        <mark key="." line="16" column="26" />
-        <mark key="^" line="16" column="91" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1520892702804">
+        <mark key="'" line="40" column="55" />
+        <mark key="[" line="41" column="65" />
+        <mark key="]" line="41" column="77" />
+        <mark key="." line="41" column="77" />
+        <mark key="^" line="41" column="77" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/publish_email.js" timestamp="1510352930273">
         <mark key="[" line="194" column="12" />
@@ -622,11 +623,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1519423308107">
-        <mark key="[" line="256" column="29" />
-        <mark key="]" line="256" column="29" />
-        <mark key="." line="256" column="29" />
-        <mark key="^" line="256" column="29" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1520892431615">
+        <mark key="'" line="276" column="0" />
+        <mark key="[" line="16" column="146" />
+        <mark key="]" line="17" column="49" />
+        <mark key="." line="17" column="49" />
+        <mark key="^" line="17" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -788,7 +790,7 @@
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/test/base.js" timestamp="1520289693494">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520448154822">
+      <file name="/Dummy.txt" timestamp="1520892433577">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -882,8 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="83" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="86" column="351" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="122" column="37" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="130" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="189" column="3" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -982,61 +982,62 @@
       <jump line="101" column="31" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="102" column="31" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="130" column="82" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="274" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
+      <jump line="40" column="55" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGVfcmVxdWlyZWQ6IHRydWUK</text>
+      <register name="&quot;" type="4">
+        <text>trainingReminderTodos</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>trainingReminderTodos</text>
       </register>
       <register name="/" type="4">
-        <text>userModel</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aC5lbnN1cmVDbGllbnRUeXBlSXNWYWxpZChbJ3NlcnZlcicsICdpbnN0YWxsZWQnLCAnc2VydmljZSddKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhgdHJhaW5pbmdSZW1pbmRlclRvZG9zOiAke0pTT04uc3RyaW5naWZ5KHRyYWluaW5nUmVtaW5kZXJUb2RvcywgbnVsbCwgNCl9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGVfcmVxdWlyZWQ6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aC5lbnN1cmVDbGllbnRUeXBlSXNWYWxpZChbJ3NlcnZlcicsICdpbnN0YWxsZWQnXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGVfcmVxdWlyZWQ6IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aC5lbnN1cmVDbGllbnRUeXBlSXNWYWxpZChbJ3NlcnZlcicsICdpbnN0YWxsZWQnXSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGRvbmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGRvbmUpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0ge307Cg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VzOiB7CiAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0ge307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TY2hlZHVsZVNlcnZpY2U6IHsK</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VzOiB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>userModel</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>userModel</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sched</entry>
         <entry>expectP</entry>
         <entry>monthly</entry>
         <entry>process</entry>
@@ -1056,6 +1057,7 @@
         <entry>res</entry>
         <entry>res\.</entry>
         <entry>userModel</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
