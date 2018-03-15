@@ -520,12 +520,12 @@
         <mark key="^" line="196" column="13" />
         <mark key="." line="196" column="13" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1521070824712">
-        <mark key="'" line="125" column="27" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1521085904997">
+        <mark key="'" line="40" column="64" />
+        <mark key="[" line="39" column="51" />
+        <mark key="]" line="39" column="51" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="39" column="51" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/test.json" timestamp="1518552320791">
         <mark key="[" line="37" column="20" />
@@ -902,7 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="189" column="3" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="185" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="90" column="77" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -1002,13 +1001,14 @@
       <jump line="274" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="40" column="55" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" />
       <jump line="127" column="27" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="40" column="64" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAibGliLWxpY2Vuc2UtbW9kZWxzLW1vbmdvZGItbm9kZWpzIjogIl40LjAuMCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>bookmarkQuery</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
