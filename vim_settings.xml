@@ -254,6 +254,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/exam_test.js" timestamp="1521239087317">
+        <mark key="[" line="139" column="10" />
+        <mark key="]" line="139" column="10" />
+        <mark key="^" line="139" column="11" />
+        <mark key="." line="139" column="10" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/dynamo-event.json" timestamp="1515020828550">
         <mark key="'" line="28" column="30" />
         <mark key="[" line="0" column="0" />
@@ -380,11 +386,12 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" timestamp="1521226584610">
-        <mark key="[" line="177" column="47" />
-        <mark key="]" line="177" column="46" />
-        <mark key="." line="177" column="46" />
-        <mark key="^" line="177" column="46" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" timestamp="1521239269591">
+        <mark key="'" line="169" column="47" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="46" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
@@ -752,6 +759,7 @@
         <mark key="^" line="128" column="71" />
         <mark key="." line="128" column="76" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/base.js" timestamp="1521239227764" />
       <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511298932825">
         <mark key="'" line="182" column="24" />
         <mark key="[" line="27" column="7" />
@@ -824,7 +832,7 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520892433577">
+      <file name="/Dummy.txt" timestamp="1521238138187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/default.json" timestamp="1517267134219">
@@ -918,9 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="59" column="68" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="60" column="19" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="52" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="64" column="76" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="65" column="85" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -1018,63 +1023,63 @@
       <jump line="39" column="20" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="50" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="64" column="56" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="205" column="13" filename="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" />
+      <jump line="169" column="47" filename="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>my</text>
+        <text>.only</text>
       </register>
       <register name="-" type="4">
-        <text>my</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>dates</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgU2NoZWR1bGUgPSBtb25nb29zZUNvbm5lY3Rpb24ubW9kZWxzLlNjaGVkdWxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuIElOIEVORCBcblxuXG4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZS4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbiBJTiBFTkQgXG5cblxuJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBuIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBtc2cgPSBgVG90YWwgY291bnQgb2YgdW5pcXVlIGJvb2ttYXJrcyBub3QgYWRkZWQgdG8gVmlkZW9Ub3RhbHM6ICR7Lmxlbmd0aH1gOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBtc2cgPSBgVG90YWwgY291bnQgb2YgdW5pcXVlIGJvb2ttYXJrcyBub3QgYWRkZWQgdG8gVmlkZW9Ub3RhbHM6ICR7Lmxlbmd0aH1gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>dates</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>dates</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>monthly</entry>
-        <entry>process</entry>
-        <entry>weekly</entry>
         <entry>get\ train</entry>
         <entry>console.log</entry>
         <entry>days</entry>
@@ -1092,11 +1097,11 @@
         <entry>userModel</entry>
         <entry>logger</entry>
         <entry>&quot;</entry>
+        <entry>invalid</entry>
+        <entry>nvalid</entry>
+        <entry>dates</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
-        <entry>FZF -m</entry>
-        <entry>Rgrep</entry>
         <entry>v</entry>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
         <entry>NERDTreeToggle</entry>
@@ -1114,6 +1119,9 @@
         <entry>44</entry>
         <entry>445</entry>
         <entry>w</entry>
+        <entry>0</entry>
+        <entry>wa</entry>
+        <entry>waa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
