@@ -26,7 +26,6 @@
       <file name="internal/process/next_tick.js" timestamp="1511198769720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/mongo_connector.js" timestamp="1521130487055" />
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/qa.js" timestamp="1516987818332">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="11" />
@@ -381,6 +380,12 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" timestamp="1521221815081">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="174" column="47" />
+        <mark key="." line="174" column="47" />
+        <mark key="^" line="174" column="47" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
         <mark key="]" line="19" column="33" />
@@ -448,7 +453,6 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/models/monogdb/schedule.js" timestamp="1521131138660" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/.eslintignore" timestamp="1505496493511">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1011,7 +1015,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gJyc=</text>
@@ -1023,31 +1027,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgU2NoZWR1bGUgPSBtb25nb29zZUNvbm5lY3Rpb24ubW9kZWxzLlNjaGVkdWxlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBtc2cgPSBgVG90YWwgY291bnQgb2YgdW5pcXVlIGJvb2ttYXJrcyBub3QgYWRkZWQgdG8gVmlkZW9Ub3RhbHM6ICR7Lmxlbmd0aH1gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBtc2cgPSBgVG90YWwgY291bnQgb2YgdW5pcXVlIGJvb2ttYXJrcyBub3QgYWRkZWQgdG8gVmlkZW9Ub3RhbHM6ICR7Lmxlbmd0aH1gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gaGVscGVyLnNlbmRTbGFja05vdGlmaWNhdGlvbihgOnJvYm90X2ZhY2U6ICR7bXNnfWApOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gaGVscGVyLnNlbmRTbGFja05vdGlmaWNhdGlvbihgOnJvYm90X2ZhY2U6ICR7bXNnfWApOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2RvLmNyZWF0ZVRvZG8oewogICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZV9pZDogc2NoZWR1bGUuX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzX2F0OiBoZWxwZXIuZ2VuZXJhdGVQcm9jZXNzQXRGcm9tU2NoZWR1bGUoc2NoZWR1bGUpCiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2RvLmNyZWF0ZVRvZG8oewogICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZV9pZDogc2NoZWR1bGUuX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzX2F0OiBoZWxwZXIuZ2VuZXJhdGVQcm9jZXNzQXRGcm9tU2NoZWR1bGUoc2NoZWR1bGUpCiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
