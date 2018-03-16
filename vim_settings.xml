@@ -380,11 +380,11 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" timestamp="1521221815081">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="174" column="47" />
-        <mark key="." line="174" column="47" />
-        <mark key="^" line="174" column="47" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" timestamp="1521222914675">
+        <mark key="[" line="176" column="12" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1510857223070">
         <mark key="[" line="19" column="33" />
@@ -513,6 +513,12 @@
         <mark key="]" line="72" column="43" />
         <mark key="." line="72" column="43" />
         <mark key="^" line="72" column="43" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/.eslintrc" timestamp="1521221991781">
+        <mark key="[" line="9" column="65" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="70" />
+        <mark key="^" line="9" column="70" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/data/v1.1_animals.json" timestamp="1515538708537">
         <mark key="[" line="3" column="19" />
@@ -1014,11 +1020,11 @@
       <jump line="64" column="56" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>es6</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gJyc=</text>
+        <text>es6</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
