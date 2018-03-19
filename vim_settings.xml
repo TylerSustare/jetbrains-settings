@@ -610,6 +610,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/config/routes.js" timestamp="1521475086367">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedulesWithNotTR.js" timestamp="1519173492781">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -659,6 +665,9 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/session.js" timestamp="1521475337583">
+        <mark key="[" line="96" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/common.js" timestamp="1512595032585">
         <mark key="'" line="102" column="52" />
@@ -759,7 +768,6 @@
         <mark key="^" line="128" column="71" />
         <mark key="." line="128" column="76" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/base.js" timestamp="1521239227764" />
       <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511298932825">
         <mark key="'" line="182" column="24" />
         <mark key="[" line="27" column="7" />
@@ -1068,7 +1076,7 @@
         <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1118,10 +1126,10 @@
         <entry>vs</entry>
         <entry>44</entry>
         <entry>445</entry>
-        <entry>w</entry>
         <entry>0</entry>
         <entry>wa</entry>
         <entry>waa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
