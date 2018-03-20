@@ -193,11 +193,12 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521491831072">
-        <mark key="[" line="610" column="64" />
-        <mark key="]" line="609" column="78" />
-        <mark key="." line="610" column="74" />
-        <mark key="^" line="609" column="78" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521561486599">
+        <mark key="'" line="631" column="30" />
+        <mark key="[" line="641" column="68" />
+        <mark key="]" line="641" column="68" />
+        <mark key="." line="641" column="73" />
+        <mark key="^" line="639" column="47" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
@@ -652,11 +653,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/session.js" timestamp="1521490948155">
-        <mark key="[" line="107" column="27" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/session.js" timestamp="1521562323123">
+        <mark key="[" line="114" column="34" />
+        <mark key="]" line="114" column="34" />
+        <mark key="." line="114" column="34" />
+        <mark key="^" line="113" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/common.js" timestamp="1512595032585">
         <mark key="'" line="102" column="52" />
@@ -790,7 +791,7 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520896463047">
+      <file name="/JavaScript Console" timestamp="1521560847559">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" timestamp="1515690437533">
@@ -903,9 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="85" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="67" column="44" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="69" column="32" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="71" column="46" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="72" column="48" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="73" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -1003,61 +1001,63 @@
       <jump line="169" column="47" filename="$USER_HOME$/src/services/service-exam-provider/node/test/api/session_test.js" />
       <jump line="595" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
       <jump line="602" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
+      <jump line="640" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
+      <jump line="615" column="10" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
+      <jump line="631" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>checkP</text>
+        <text>memberId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyLnN0YWNrLCBMT0dfQ0FURUdPUlkpOwogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlcnIsIExPR19DQVRFR09SWSk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoNTAwKS5zZW5kKHJlc3BvbnNlLlNlcnZlckVycm9yKGVycikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleE5hbWUgPSAndXNlcl9pZC1zdGF0dXNfYXQtaW5kZXgnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxLmNoZWNrUGFyYW1zKCd1c2VyX2lkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbiAgXG5cblxuJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyogVmFsaWRhdGUgUXVlcnkgUGFyYW1ldGVycyBBS0EgUHJvdmlkZXIgTmFtZS4gKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIENBVENIID09PSBcblxuXG4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICc6dl9zdGF0ZSc6IHN0YXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIFRIRU4gPT09IFxuXG5cbicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdcblxuXG49PT0gSU4gNDA0ID09PSBcblxuXG4nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdcblxuXG49PT0gSU4gdmFsaWRhdGlvbiBlcnJvcnMgPT09IFxuXG5cbicpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAnI3VpZCc6ICd1c2VyX2lkJyw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5LCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkP</last-search>
+      <last-search>memberId</last-search>
       <last-offset />
-      <last-pattern>checkP</last-pattern>
+      <last-pattern>memberId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
         <entry>days</entry>
         <entry>\'days\'</entry>
         <entry>only</entry>
@@ -1077,6 +1077,7 @@
         <entry>nvalid</entry>
         <entry>dates</entry>
         <entry>checkP</entry>
+        <entry>memberId</entry>
       </history-search>
       <history-cmd>
         <entry>v</entry>
