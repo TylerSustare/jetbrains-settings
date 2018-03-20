@@ -193,12 +193,12 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521561486599">
-        <mark key="'" line="631" column="30" />
-        <mark key="[" line="641" column="68" />
-        <mark key="]" line="641" column="68" />
-        <mark key="." line="641" column="73" />
-        <mark key="^" line="639" column="47" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521563508470">
+        <mark key="'" line="628" column="30" />
+        <mark key="[" line="627" column="0" />
+        <mark key="]" line="627" column="0" />
+        <mark key="^" line="636" column="47" />
+        <mark key="." line="627" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
@@ -653,11 +653,11 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/session.js" timestamp="1521562323123">
-        <mark key="[" line="114" column="34" />
-        <mark key="]" line="114" column="34" />
-        <mark key="." line="114" column="34" />
-        <mark key="^" line="113" column="45" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/session.js" timestamp="1521563498645">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="112" column="45" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/common.js" timestamp="1512595032585">
         <mark key="'" line="102" column="52" />
@@ -812,6 +812,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/README.md" timestamp="1521563742892">
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="108" column="21" />
+        <mark key="^" line="108" column="21" />
+        <mark key="." line="108" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1515705834706">
         <mark key="'" line="28" column="33" />
@@ -1006,47 +1012,47 @@
       <jump line="631" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsuLi59Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>memberId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleE5hbWUgPSAndXNlcl9pZC1zdGF0dXNfYXQtaW5kZXgnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsuLi59Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEucGFyYW1zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbiAgXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIEdFVFVTRVJJRCA9PT0gXG5cblxuJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleE5hbWUgPSAndXNlcl9pZC1pbmRleCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIENBVENIID09PSBcblxuXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIFRIRU4gPT09IFxuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdcblxuXG49PT0gSU4gNDA0ID09PSBcblxuXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbiAgXG5cblxuJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdcblxuXG49PT0gSU4gdmFsaWRhdGlvbiBlcnJvcnMgPT09IFxuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVxLnF1ZXJ5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIENBVENIID09PSBcblxuXG4nKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1080,13 +1086,10 @@
         <entry>memberId</entry>
       </history-search>
       <history-cmd>
-        <entry>v</entry>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
         <entry>NERDTreeToggle</entry>
         <entry>w'</entry>
         <entry>sv</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
         <entry>90</entry>
         <entry>89</entry>
         <entry>146</entry>
@@ -1100,6 +1103,9 @@
         <entry>wa</entry>
         <entry>waa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
+        <entry>qq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
