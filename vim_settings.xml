@@ -883,11 +883,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521575770462">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="46" />
-        <mark key="^" line="20" column="17" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521578728621">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" timestamp="1512690514894">
         <mark key="'" line="51" column="18" />
@@ -916,14 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="46" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="72" column="48" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="74" column="65" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="70" column="53" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="181" column="15" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedulesWithNotTR.js" />
-      <jump line="146" column="28" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="30" column="25" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="79" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="81" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
@@ -1016,62 +1009,68 @@
       <jump line="640" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
       <jump line="615" column="10" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
       <jump line="631" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="82" column="24" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="21" column="54" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="19" column="48" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, connectMongoClientPromise]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZVByb2Nlc3NBdEZyb21TY2hlZHVsZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, connectMongoClientPromise]</text>
+        <text encoding="base64">IGFuZCBNb25nbw==</text>
       </register>
       <register name="/" type="4">
-        <text>memberId</text>
+        <text>ongo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsuLi59Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZVByb2Nlc3NBdEZyb21TY2hlZHVsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZXEucGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0TW9uZ29Nb2RlbHMsCiAgICAgICAgc2VuZFNsYWNrTm90aWZpY2F0aW9uLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIEdFVFVTRVJJRCA9PT0gXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0TW9uZ29DbGllbnQsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleE5hbWUgPSAndXNlcl9pZC1pbmRleCc7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4ge1Byb21pc2UgPE9iamVjdD59CiAgICAgKi8KICAgIGZ1bmN0aW9uIGNvbm5lY3RNb25nb01vZGVscygpIHsKICAgICAgICBjb25zdCBhcHBEaXIgPSBgJHtfX2Rpcm5hbWV9Ly4uYDsKCiAgICAgICAgcmV0dXJuIG1vbmdvQ29ubmVjdG9yLmNvbnN0cnVjdChhcHBEaXIsIGNvbmZpZywgbG9nZ2VyKQogICAgICAgICAgICAudGhlbihjb25uZWN0aW9uID0+IGNvbm5lY3Rpb24pOwogICAgfQoKICAgIC8qKgogICAgICogQHJldHVybiB7UHJvbWlzZX0KICAgICAqLwogICAgZnVuY3Rpb24gc2VuZFNsYWNrTm90aWZpY2F0aW9uKG1lc3NhZ2UpIHsKICAgICAgICByZXR1cm4gUS5Qcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgYWdlbnQKICAgICAgICAgICAgICAgIC5wb3N0KCdodHRwczovL2hvb2tzLnNsYWNrLmNvbS9zZXJ2aWNlcy9UMDJBMExRREQvQjBLTUFDTDZRL2F3Z21FQWczMUpoTERxcnFYR2V1a1oyeicpCiAgICAgICAgICAgICAgICAuc2VuZCh7IHRleHQ6IG1lc3NhZ2UgfSkKICAgICAgICAgICAgICAgIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVqZWN0KGVycik7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICByZXNvbHZlKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIH0KCiAgICBmdW5jdGlvbiBnZW5lcmF0ZVByb2Nlc3NBdEZyb21TY2hlZHVsZShzY2hlZHVsZURldGFpbHMpIHsKICAgICAgICBjb25zdCBkYXlPZldlZWtNYXBwaW5nID0gewogICAgICAgICAgICBzdTogMCwKICAgICAgICAgICAgbTogMSwKICAgICAgICAgICAgdDogMiwKICAgICAgICAgICAgdzogMywKICAgICAgICAgICAgdGg6IDQsCiAgICAgICAgICAgIGY6IDUsCiAgICAgICAgICAgIHNhOiA2CiAgICAgICAgfTsKCiAgICAgICAgY29uc3QgaG91ciA9IHNjaGVkdWxlRGV0YWlscy50aW1lLmg7CiAgICAgICAgY29uc3QgbWludXRlID0gc2NoZWR1bGVEZXRhaWxzLnRpbWUubTsKICAgICAgICBjb25zdCBmcmVxdWVuY3kgPSBzY2hlZHVsZURldGFpbHMuZnJlcXVlbmN5OwogICAgICAgIGNvbnN0IGRheXMgPSBzY2hlZHVsZURldGFpbHMuZGF5czsKCiAgICAgICAgY29uc3QgcHJvY2Vzc0F0TW9tZW50ID0gbW9tZW50KCk7CgogICAgICAgIGlmIChmcmVxdWVuY3kgPT09ICdkYWlseScpIHsKICAgICAgICAgICAgcHJvY2Vzc0F0TW9tZW50LmFkZCgxLCAnZGF5Jyk7CiAgICAgICAgfSBlbHNlIGlmIChmcmVxdWVuY3kgPT09ICd3ZWVrbHknKSB7CiAgICAgICAgICAgIHByb2Nlc3NBdE1vbWVudC5hZGQoMSwgJ3dlZWsnKTsKICAgICAgICAgICAgcHJvY2Vzc0F0TW9tZW50LnN0YXJ0T2YoJ3dlZWsnKTsKICAgICAgICAgICAgcHJvY2Vzc0F0TW9tZW50LmFkZCgxLCAnZGF5Jyk7CiAgICAgICAgfSBlbHNlIGlmIChmcmVxdWVuY3kgPT09ICdtb250aGx5JykgewogICAgICAgICAgICBwcm9jZXNzQXRNb21lbnQuYWRkKDEsICdtb250aCcpOwogICAgICAgICAgICBwcm9jZXNzQXRNb21lbnQuc3RhcnRPZignbW9udGgnKTsKICAgICAgICB9IGVsc2UgaWYgKGZyZXF1ZW5jeSA9PT0gJ2RheXMnKSB7CiAgICAgICAgICAgIGNvbnN0IGN1cnJlbnREYXkgPSBwcm9jZXNzQXRNb21lbnQuZGF5KCk7CiAgICAgICAgICAgIGlmIChkYXlPZldlZWtNYXBwaW5nW18ubGFzdChkYXlzKV0gPiBjdXJyZW50RGF5KSB7CiAgICAgICAgICAgICAgICAvLyB0aGlzIHdlZWsKICAgICAgICAgICAgICAgIGNvbnN0IG5leHREYXkgPSBkYXlzLmZpbmQoKGRheSkgPT4gZGF5T2ZXZWVrTWFwcGluZ1tkYXldID4gY3VycmVudERheSk7CiAgICAgICAgICAgICAgICBwcm9jZXNzQXRNb21lbnQuZGF5KG5leHREYXkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8gbmV4dCB3ZWVrCiAgICAgICAgICAgICAgICBjb25zdCBuZXh0RGF5ID0gZGF5T2ZXZWVrTWFwcGluZ1tfLmhlYWQoZGF5cyldOwogICAgICAgICAgICAgICAgcHJvY2Vzc0F0TW9tZW50LmRheShuZXh0RGF5ICsgNyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHByb2Nlc3NBdE1vbWVudC5ob3VyKGhvdXIpOwogICAgICAgIHByb2Nlc3NBdE1vbWVudC5taW51dGUobWludXRlKTsKCiAgICAgICAgcmV0dXJuIHByb2Nlc3NBdE1vbWVudC50b0lTT1N0cmluZygpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb25uZWN0UG9zdGdyZXNDbGllbnRQcm9taXNlID0gdGhpcy5jb25uZWN0UG9zdGdyZXNDbGllbnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbiAgXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUS4oY29ubmVjdFBvc3RncmVzQ2xpZW50UHJvbWlzZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjb25uZWN0UG9zdGdyZXNDbGllbnRQcm9taXNlID0gdGhpcy5jb25uZWN0UG9zdGdyZXNDbGllbnQoKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnXG5cblxuPT09IElOIENBVENIID09PSBcblxuXG4nKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEByZXR1cm4ge1Byb21pc2UgPE9iamVjdD59CiAgICAgKi8KICAgIGZ1bmN0aW9uIGNvbm5lY3RNb25nb0NsaWVudCgpIHsKICAgICAgICBjb25zdCBtb25nb0Nvbm5lY3Rpb25TdHJpbmcgPSBgbW9uZ29kYjovLyR7Y29uZmlnLm1vbmdvZGIuaG9zdH06JHtjb25maWcubW9uZ29kYi5wb3J0fS9ub3RpZmljYXRpb24tc2NoZWR1bGU/cmVhZFByZWZlcmVuY2U9c2Vjb25kYXJ5YDsKCiAgICAgICAgY29uc3QgbW9uZ29PcHRpb25zID0gewogICAgICAgICAgICByZXBsc2V0OiB7CiAgICAgICAgICAgICAgICByc19uYW1lOiBjb25maWcubW9uZ29kYi5yZXBsaWNhU2V0LAogICAgICAgICAgICAgICAgc29ja2V0T3B0aW9uczogewogICAgICAgICAgICAgICAgICAgIGNvbm5lY3Rpb25UaW1lb3V0TVM6IGNvbmZpZy5tb25nb2RiLnRpbWVvdXRJbk1TLAogICAgICAgICAgICAgICAgICAgIGtlZXBBbGl2ZTogMQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHBvb2xTaXplOiAyMAogICAgICAgICAgICB9CiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuIE1vbmdvQ2xpZW50LmNvbm5lY3QobW9uZ29Db25uZWN0aW9uU3RyaW5nLCBtb25nb09wdGlvbnMpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>memberId</last-search>
+      <last-search>ongo</last-search>
       <last-offset />
-      <last-pattern>memberId</last-pattern>
+      <last-pattern>ongo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>days</entry>
-        <entry>\'days\'</entry>
         <entry>only</entry>
         <entry>expectPr</entry>
         <entry>proce</entry>
@@ -1090,6 +1089,8 @@
         <entry>dates</entry>
         <entry>checkP</entry>
         <entry>memberId</entry>
+        <entry>mongo</entry>
+        <entry>ongo</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
