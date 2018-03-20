@@ -883,12 +883,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521582266582">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521583301771">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="27" column="30" />
-        <mark key="." line="27" column="30" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="53" />
+        <mark key="^" line="27" column="53" />
+        <mark key="." line="27" column="53" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" timestamp="1512690514894">
         <mark key="'" line="51" column="18" />
@@ -1020,10 +1020,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logger.info</text>
+        <text>Video and Bookmark queries were successfull</text>
       </register>
       <register name="-" type="4">
-        <text>logger.info</text>
+        <text>Video and Bookmark queries were successfull</text>
       </register>
       <register name="/" type="4">
         <text>ongo</text>
