@@ -889,12 +889,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1521835828137">
-        <mark key="'" line="194" column="8" />
-        <mark key="[" line="152" column="70" />
-        <mark key="]" line="152" column="70" />
-        <mark key="." line="152" column="70" />
-        <mark key="^" line="152" column="65" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1521838083023">
+        <mark key="'" line="130" column="10" />
+        <mark key="[" line="134" column="40" />
+        <mark key="]" line="134" column="47" />
+        <mark key="." line="134" column="47" />
+        <mark key="^" line="134" column="47" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521651993042">
         <mark key="[" line="6" column="47" />
@@ -929,19 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="47" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="102" column="32" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="38" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="104" column="43" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="238" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="68" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="136" column="59" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="135" column="57" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="134" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="15" column="1" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/test/base.js" />
       <jump line="12" column="28" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/test/base.js" />
       <jump line="14" column="43" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/test/base.js" />
@@ -1014,7 +1001,6 @@
       <jump line="3" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
       <jump line="19" column="48" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
       <jump line="80" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
-      <jump line="190" column="25" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="134" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="156" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="191" column="5" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1022,72 +1008,81 @@
       <jump line="183" column="11" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="185" column="11" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="192" column="40" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="187" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="193" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="198" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="186" column="35" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="189" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="195" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="109" column="1" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="122" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="121" column="11" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="128" column="11" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="133" column="11" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="138" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="206" column="29" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="150" column="37" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="158" column="25" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="175" column="82" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="190" column="29" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="131" column="59" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="132" column="41" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="130" column="10" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>obj</text>
+        <text encoding="base64">IGFsbENvdXJzZXM=</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text encoding="base64">IGFsbENvdXJzZXM=</text>
       </register>
       <register name="/" type="4">
-        <text>console.</text>
+        <text>getAll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdmhzR2V0Q29sbGVjdGlvbnMgPSAnaHR0cDovLzEuZXhhbS1wcm92aWRlci5zZXJ2aWNlLnFhLnVzLWVhc3QtMS5udWdnZXRzLmxvY2FsL2V4YW0tcHJvdmlkZXIvdjEvY291cnNlcy93aXRoL2V4YW1zJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuQ291cnNlcyBmcm9tICJnZXRDb3Vyc2VzV2l0aEV4YW1zOiAnLCBpdGVtcy5sZW5ndGgsICdcblxuJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRhbG9nVGFibGVEYXRhLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbXNbaV0uZXhhbXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzY3JpcHRLZXlzLCBudWxsLCAyKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cbicsIGV4YW1Db3Vyc2VBcnJheS5sZW5ndGgsICdcblxuJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShhbGxDb3Vyc2VzLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjb3Vyc2VzV2l0aEV4YW1zVG9VcGRhdGUsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShleGFtRGljdGlvbmFyeUJ5RXhhbUlkLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRhbG9nVGFibGVEYXRhLCBudWxsLCAyKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRhbG9nRGljdGlvbmFyeUJ5RXh0ZXJuYWxFeGFtSWQsIG51bGwsIDIpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnN0IGV4YW1EaWN0aW9uYXJ5ID0gXy5rZXlCeShleGFtQ291cnNlQXJyYXksIChvYmogPT4gb2JqLmV4YW0pKTsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH0K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIHNjYW5UYWJsZSgpIHsKICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgICAgY29uc3QgdGFibGVOYW1lID0gJ3FhLWV4YW0tcHJvdmlkZXItY2F0YWxvZyc7CgogICAgICAgIGNvbnN0IHNjYW5QYXJhbXMgPSB7CiAgICAgICAgICAgIFRhYmxlTmFtZTogdGFibGVOYW1lLAogICAgICAgICAgICBQcm9qZWN0aW9uRXhwcmVzc2lvbjogJyNwcm92aWRlciwgI2V4YW1faWQsICNleHRfZXhhbV9pZCcsCiAgICAgICAgICAgIEV4cHJlc3Npb25BdHRyaWJ1dGVOYW1lczogewogICAgICAgICAgICAgICAgJyNwcm92aWRlcic6ICdwcm92aWRlcicsCiAgICAgICAgICAgICAgICAnI2V4YW1faWQnOiAnZXhhbV9pZCcsCiAgICAgICAgICAgICAgICAnI2V4dF9leGFtX2lkJzogJ2V4dF9leGFtX2lkJwogICAgICAgICAgICB9CiAgICAgICAgfTsKICAgICAgICBkb2NDbGllbnQuc2NhbihzY2FuUGFyYW1zLCBmdW5jdGlvbiAoZXJyLCBkYXRhKSB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIHJldHVybiByZWplY3QoZXJyKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcmVzb2x2ZShkYXRhKTsKICAgICAgICB9KTsKICAgIH0pOwp9CgpmdW5jdGlvbiBnZXRDb3Vyc2VzV2l0aEV4YW1zKCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICByZXF1ZXN0CiAgICAgICAgICAgIC5nZXQoZXBzR2V0Q291cnNlc1dpdGhFeGFtc1VSTCkKICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBiZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAuZW5kKChlcnIsIF9jb3Vyc2VzUmVzdWx0KSA9PiB7CiAgICAgICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgcmVqZWN0KGVycik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjb25zdCBjb3Vyc2VzUmVzdWx0ID0gSlNPTi5wYXJzZShfY291cnNlc1Jlc3VsdC50ZXh0KTsKICAgICAgICAgICAgICAgIGNvbnN0IHsgaXRlbXMgfSA9IGNvdXJzZXNSZXN1bHQucmVzdWx0OwogICAgICAgICAgICAgICAgY29uc3QgZXhhbUNvdXJzZUFycmF5ID0gW107CiAgICAgICAgICAgICAgICBmb3IgKGxldCBpID0gMDsgaSA8IGl0ZW1zLmxlbmd0aDsgKytpKSB7CiAgICAgICAgICAgICAgICAgICAgaXRlbXNbaV0uZXhhbXMuZm9yRWFjaChleGFtID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgZXhhbUNvdXJzZSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4YW06IGV4YW0uZXhhbV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdXJzZU5hbWU6IGl0ZW1zW2ldLmNvdXJzZV9uYW1lCiAgICAgICAgICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgICAgICAgICAgICAgIGV4YW1Db3Vyc2VBcnJheS5wdXNoKGV4YW1Db3Vyc2UpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHJlc29sdmUoZXhhbURpY3Rpb25hcnkpOwogICAgICAgICAgICB9KTsKICAgIH0pOwp9CgpmdW5jdGlvbiBnZXRBbGxDb3Vyc2VzKCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICByZXF1ZXN0CiAgICAgICAgICAgIC5nZXQodmhzR2V0Q29sbGVjdGlvbnNVUkwpCiAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgYmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgLmVuZCgoZXJyLCBfY291cnNlc1Jlc3VsdCkgPT4gewogICAgICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgICAgIHJlamVjdChlcnIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY29uc3QgY291cnNlc1Jlc3VsdCA9IEpTT04ucGFyc2UoX2NvdXJzZXNSZXN1bHQudGV4dCk7CiAgICAgICAgICAgICAgICBjb25zdCBpZHNBbmRUaXRsZXNBcnJheSA9IGNvdXJzZXNSZXN1bHQubWFwKGNvdXJzZSA9PiB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHsgaWQ6IGNvdXJzZS5pZCwgdGl0bGU6IGNvdXJzZS50aXRsZSB9OwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzb2x2ZShpZHNBbmRUaXRsZXNBcnJheSk7CiAgICAgICAgICAgIH0pOwogICAgfSk7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.</last-search>
+      <last-search>getAll</last-search>
       <last-offset />
-      <last-pattern>console.</last-pattern>
+      <last-pattern>getAll</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>consol</entry>
-        <entry>result</entry>
-        <entry>res</entry>
-        <entry>res\.</entry>
-        <entry>userModel</entry>
         <entry>logger</entry>
         <entry>&quot;</entry>
         <entry>invalid</entry>
@@ -1101,8 +1096,13 @@
         <entry>console</entry>
         <entry>_.first</entry>
         <entry>);)</entry>
-        <entry>console.log</entry>
         <entry>console.</entry>
+        <entry>console.log</entry>
+        <entry>\\n\\n</entry>
+        <entry>\n</entry>
+        <entry>\\n</entry>
+        <entry>allCourses</entry>
+        <entry>getAll</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
