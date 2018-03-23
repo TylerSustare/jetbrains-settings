@@ -64,12 +64,6 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/oauth2.js" timestamp="1520447736683">
-        <mark key="'" line="443" column="72" />
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="0" />
-        <mark key="." line="444" column="0" />
-      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/4lambda_test.js" timestamp="1515188966984">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="27" />
@@ -396,6 +390,12 @@
         <mark key="]" line="19" column="33" />
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/keys.js" timestamp="1521831136511">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="5" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton" timestamp="1515448277773">
         <mark key="[" line="20" column="26" />
@@ -889,6 +889,13 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1521832451208">
+        <mark key="'" line="185" column="11" />
+        <mark key="[" line="168" column="31" />
+        <mark key="]" line="168" column="43" />
+        <mark key="^" line="168" column="43" />
+        <mark key="." line="168" column="43" />
+      </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521651993042">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="7" column="32" />
@@ -922,16 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="25" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="264" column="58" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
-      <jump line="238" column="37" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="288" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="199" column="18" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedules.js" />
       <jump line="213" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedules.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedules.js" />
       <jump line="198" column="19" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/schedules.js" />
@@ -1022,62 +1019,70 @@
       <jump line="3" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
       <jump line="19" column="48" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
       <jump line="80" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
+      <jump line="190" column="25" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="134" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="191" column="5" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="184" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="193" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="195" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="183" column="11" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="185" column="11" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_coursesResult</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_coursesResult</text>
       </register>
       <register name="/" type="4">
-        <text>ongo</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShfY2F0YWxvZ1RhYmxlRGF0YSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">Y29uc3QgdmhzR2V0Q29sbGVjdGlvbnMgPSAnaHR0cDovLzEuZXhhbS1wcm92aWRlci5zZXJ2aWNlLnFhLnVzLWVhc3QtMS5udWdnZXRzLmxvY2FsL2V4YW0tcHJvdmlkZXIvdjEvY291cnNlcy93aXRoL2V4YW1zJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnN0IGV4YW1EaWN0aW9uYXJ5ID0gXy5rZXlCeShleGFtQ291cnNlQXJyYXksIChvYmogPT4gb2JqLmV4YW0pKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShfY2F0YWxvZ1RhYmxlRGF0YSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgZXhhbUNvdXJzZUFycmF5LnB1c2goZXhhbUNvdXJzZSk7CiAgICAgICAgICAgICAgICAvLyAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYXRhbG9nRGljdGlvbmFyeUJ5RXh0ZXJuYWxFeGFtSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgIGNvdXJzZU5hbWU6IGl0ZW1zW2ldLmNvdXJzZV9uYW1lCiAgICAgICAgICAgICAgICAvLyAgICAgICAgIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLnRoZW4oY291cnNlc1Jlc3VsdCA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgY29uc3QgZXhhbUNvdXJzZSA9IHsKICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgIGV4YW06IGV4YW0uZXhhbV9pZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGV4YW1EaWN0aW9uYXJ5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZvciAobGV0IGkgPSAwOyBpIDwgaXRlbXMubGVuZ3RoOyArK2kpIHsKICAgICAgICAgICAgICAgIC8vICAgICBpdGVtc1tpXS5leGFtcy5mb3JFYWNoKGV4YW0gPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRhbG9nVGFibGVEYXRhLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnN0IHsgaXRlbXMgfSA9IGNvdXJzZXNSZXN1bHQucmVzdWx0OwogICAgICAgICAgICAgICAgLy8gY29uc3QgZXhhbUNvdXJzZUFycmF5ID0gW107Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhfY2F0YWxvZ1RhYmxlRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpbmRPbmVBbmRVcGRhdGUgdmlkZW9jb2xsZWN0aW9uIHdoZXJlIGNvdXJzZXNSZXN1bHRbbl1jb3Vyc2VfbmFtZSA9PT0gTW9kZWwudGl0bGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ongo</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>ongo</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>only</entry>
-        <entry>expectPr</entry>
         <entry>proce</entry>
         <entry>dayOfThe</entry>
         <entry>dayOfW</entry>
@@ -1096,6 +1101,8 @@
         <entry>memberId</entry>
         <entry>mongo</entry>
         <entry>ongo</entry>
+        <entry>url</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
