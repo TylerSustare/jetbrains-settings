@@ -58,6 +58,13 @@
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="15" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="27" />
@@ -679,13 +686,6 @@
         <mark key="." line="18" column="49" />
         <mark key="^" line="18" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
-        <mark key="'" line="3" column="1" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/schedule.js" timestamp="1518648694301">
         <mark key="'" line="188" column="20" />
         <mark key="[" line="100" column="31" />
@@ -889,12 +889,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522079397470">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522080805678">
         <mark key="'" line="119" column="27" />
-        <mark key="[" line="233" column="96" />
-        <mark key="]" line="233" column="100" />
-        <mark key="." line="233" column="100" />
-        <mark key="^" line="233" column="100" />
+        <mark key="[" line="234" column="107" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521651993042">
         <mark key="[" line="6" column="47" />
@@ -1031,11 +1030,11 @@
       <jump line="119" column="27" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhhbQo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>exam</text>
       </register>
       <register name="/" type="4">
         <text>\t</text>
@@ -1044,31 +1043,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuQ291cnNlcyBmcm9tICJnZXRDb3Vyc2VzV2l0aEV4YW1zOiAnLCBpdGVtcy5sZW5ndGgsICdcblxuJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjb3Vyc2VzV2l0aEV4YW1zVG9VcGRhdGVbMF0sIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhhbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vyc2VzV2l0aEV4YW1zVG9VcGRhdGVbMF0udGl0bGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjb3Vyc2VzV2l0aEV4YW1zVG9VcGRhdGVbMF0sIG51bGwsIDIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Vyc2VzV2l0aEV4YW1zVG9VcGRhdGVbMF0uCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2VzV2l0aEV4YW1zVG9VcGRhdGVbMF0udGl0bGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRhbG9nVGFibGVEYXRhLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3Vyc2VzV2l0aEV4YW1zVG9VcGRhdGVbMF0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDEyMzogJ1RPRE8gREVMRVRFIE1FJywgLy8gVE9ETzogZGVsZXRlIG1lCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRhbG9nVGFibGVEYXRhLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExlZ2FjeUV4YW1JRAlQcm9kdWN0SUQK</text>
+        <text encoding="base64">ICAgIDEyMzogJ1RPRE8gREVMRVRFIE1FJywgLy8gVE9ETzogZGVsZXRlIG1lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExlZ2FjeUV4YW1JRAlQcm9kdWN0SUQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYXRhbG9nRGljdGlvbmFyeUJ5RXh0ZXJuYWxFeGFtSWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gc2NhbiBkeW5hbW8gY2F0YWxvZyB0YWJsZSAtLSBnZXQgaXQgQUxMCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYXRhbG9nRGljdGlvbmFyeUJ5RXh0ZXJuYWxFeGFtSWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
