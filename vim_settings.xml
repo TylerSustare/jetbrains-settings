@@ -889,11 +889,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522090212455">
-        <mark key="[" line="236" column="58" />
-        <mark key="]" line="236" column="67" />
-        <mark key="." line="236" column="67" />
-        <mark key="^" line="236" column="67" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522093761823">
+        <mark key="'" line="333" column="28" />
+        <mark key="[" line="259" column="43" />
+        <mark key="]" line="259" column="53" />
+        <mark key="." line="259" column="53" />
+        <mark key="^" line="259" column="53" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521651993042">
         <mark key="[" line="6" column="47" />
@@ -928,12 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" />
-      <jump line="198" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="109" column="1" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="206" column="29" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="217" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="210" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="194" column="4" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="102" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1028,55 +1023,61 @@
       <jump line="225" column="53" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="226" column="59" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="238" column="54" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="228" column="20" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="257" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="289" column="24" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="306" column="28" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="322" column="28" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map</text>
+        <text>updateResult</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>updateResult</text>
       </register>
       <register name="/" type="4">
-        <text>allC</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbm9uLXVuaXF1ZScsIHVuc3VwcG9ydGVkRXhhbXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3VjY2Vzc2Z1bFVwZGF0ZXMucHVzaCh1cGRhdGVSZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC8qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgZHVwbGljYXRlRXhhbXMrKzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgaXRlbXMubGVuZ3RoOyArK2kpIHsKLy8gICAgICAgICAgICAgICAgICAgICBpZiAoaXRlbXNbaV0uZXhhbXMubGVuZ3RoID4gMSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgIGNvbnN0IGV4YW1Db3Vyc2VBcnJheSA9IFtdOwovLyAgICAgICAgICAgICAgICAgbGV0IGR1cGxpY2F0ZUV4YW1zID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cGRhdGluZyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgIGNvbnN0IHsgaXRlbXMgfSA9IGNvdXJzZXNSZXN1bHQucmVzdWx0OwovLyAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuJywgaXRlbXMubGVuZ3RoLCAnQ291cnNlcyBmcm9tIGNvdXJzZXMvd2l0aC9leGFtczpcbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgIGNvbnN0IGNvdXJzZXNSZXN1bHQgPSBKU09OLnBhcnNlKF9jb3Vyc2VzUmVzdWx0LnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKLy8gICAgICAgICAgICAgICAgICAgICByZWplY3QoZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBiZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQovLyAgICAgICAgICAgICAuZW5kKChlcnIsIF9jb3Vyc2VzUmVzdWx0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvdXJzZSwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>allC</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>allC</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1099,9 +1100,9 @@
         <entry>allCourses</entry>
         <entry>getAll</entry>
         <entry>&quot;</entry>
-        <entry>console.log</entry>
         <entry>\t</entry>
         <entry>allC</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53ICFwYmNvcHk=</entry>
