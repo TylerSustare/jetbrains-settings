@@ -356,11 +356,11 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/catalog_test.js" timestamp="1522189109890">
-        <mark key="[" line="509" column="31" />
-        <mark key="]" line="509" column="31" />
-        <mark key="^" line="509" column="27" />
-        <mark key="." line="509" column="31" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/catalog_test.js" timestamp="1522193587649">
+        <mark key="[" line="497" column="6" />
+        <mark key="]" line="497" column="6" />
+        <mark key="." line="497" column="6" />
+        <mark key="^" line="497" column="6" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
@@ -589,12 +589,12 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1522192466969">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1522193737980">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="150" column="44" />
-        <mark key="]" line="150" column="44" />
-        <mark key="." line="150" column="44" />
-        <mark key="^" line="150" column="39" />
+        <mark key="[" line="149" column="120" />
+        <mark key="]" line="149" column="120" />
+        <mark key="." line="149" column="120" />
+        <mark key="^" line="149" column="120" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
@@ -640,12 +640,11 @@
         <mark key="^" line="24" column="74" />
         <mark key="." line="24" column="74" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522191759154">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522193843524">
         <mark key="'" line="80" column="75" />
-        <mark key="[" line="106" column="54" />
-        <mark key="]" line="106" column="55" />
-        <mark key="^" line="106" column="55" />
-        <mark key="." line="106" column="55" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="85" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -852,11 +851,11 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/README.md" timestamp="1522192599600">
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/README.md" timestamp="1522194191002">
+        <mark key="[" line="74" column="40" />
+        <mark key="]" line="74" column="103" />
+        <mark key="^" line="74" column="103" />
+        <mark key="." line="74" column="103" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1515705834706">
         <mark key="'" line="28" column="33" />
@@ -1061,46 +1060,77 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aWQnIA==</text>
+        <text>session/by/:user_id](#get_session_by_user_id)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWQnIA==</text>
+        <text>session/by/:user_id](#get_session_by_user_id)</text>
       </register>
       <register name="/" type="4">
         <text>nrnE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbG9nZ2VyIH0gPSBFeHByZXNzQXBwQ29yZS5nZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">KiAhW0RvbmVdKHN0YXRpY3MvZG9uZV9zbWFsbC5wbmcpIFtHRVQgL3Nlc3Npb24vYnkvOnVzZXJfaWRdKCNnZXRfc2Vzc2lvbl9ieV91c2VyX2lkKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgICAgICB9LCBbXQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGBnZXRCeUludGVybmFsSWQgYXJyYXkgb2YgcHJvbWlzZXMgd2l0aCBpZHM6ICR7ZXhhbUlkcy50b1N0cmluZygpfWApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5Db3VudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnU3VjY2Vzc2Z1bGx5IHJlY2VpdmVkJykK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
+      <register name="3" type="4">
+        <text>#### Catalog Routes
+http://localhost:3000/exam-provider/v1/exams/catalog/description/by/80f9ac6a-9b77-43c9-af14-2d9845c78826,65953a9f-256a-4c6c-b350-70b7cdbe663b
+[
+    {
+        &quot;updated_at&quot;: &quot;2018-03-26T23:50:57.508Z&quot;,
+        &quot;ext_updated_at&quot;: &quot;2018-03-26T23:06:04.563Z&quot;,
+        &quot;ext_state&quot;: &quot;active&quot;,
+        &quot;ext_update_at&quot;: &quot;2018-03-26T23:50:57.508Z&quot;,
+        &quot;ext_exam_id&quot;: &quot;340546&quot;,
+        &quot;ext_exam_details&quot;: {
+            &quot;ext_exam_description&quot;: &quot;PMP5ED Project Management Professional (PMP)&quot;,
+            &quot;ext_exam_vendor&quot;: &quot;PMI&quot;,
+            &quot;ext_exam_name&quot;: &quot;PMP5ED 180-Day Exam Preparation (Online + Download)&quot;
+        },
+        &quot;provider&quot;: &quot;kaplan&quot;,
+        &quot;exam_id&quot;: &quot;80f9ac6a-9b77-43c9-af14-2d9845c78826&quot;
+    },
+    {
+        &quot;updated_at&quot;: &quot;2018-03-26T23:50:57.399Z&quot;,
+        &quot;ext_updated_at&quot;: &quot;2018-03-26T23:06:04.454Z&quot;,
+        &quot;ext_state&quot;: &quot;active&quot;,
+        &quot;ext_update_at&quot;: &quot;2018-03-26T23:50:57.399Z&quot;,
+        &quot;ext_exam_id&quot;: &quot;340525&quot;,
+        &quot;ext_exam_details&quot;: {
+            &quot;ext_exam_description&quot;: &quot;1Z0-047 Oracle Database SQL Expert (OCE) Certification Package&quot;,
+            &quot;ext_exam_vendor&quot;: &quot;ORACLE&quot;,
+            &quot;ext_exam_name&quot;: &quot;1Z0-047 180-Day Exam Preparation (Online + Download)&quot;
+        },
+        &quot;provider&quot;: &quot;kaplan&quot;,
+        &quot;exam_id&quot;: &quot;65953a9f-256a-4c6c-b350-70b7cdbe663b&quot;
+    }
+]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHRzLmZvckVhY2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYnVpbGQgcHJvbWlzZSBhcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIHJlc3BvbmQgd2l0aCBhIDIwMCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4YW1OYW1lQW5kSWQgPSBleGFtSWRzLm1hcChleGFtID0+IHsKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geyBpZDogbnJuWzNdIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgewogICAgICAgICAgICAgICAgYXBwLAogICAgICAgICAgICAgICAgY29uZmlnLAogICAgICAgICAgICAgICAgcm91dGVzCiAgICAgICAgICAgIH0gPSBFeHByZXNzQXBwQ29yZS5nZXRJbnN0YW5jZSgpOwoKICAgICAgICAgICAgY29uc3QgbXlUb2tlbkRldGFpbHMgPSB7CiAgICAgICAgICAgICAgICB1c2VyX2lkOiAnNjknCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGJhc2UuY3JlYXRlVmFsaWRUb2tlbihhY2Nlc3NUb2tlbiwgbXlUb2tlbkRldGFpbHMpOwogICAgICAgICAgICBjb25zdCBpZHMgPSAnYTEsYjIsYzMnOwogICAgICAgICAgICBjb25zdCB1cmwgPSByb3V0ZXMuQVBJX0NBVEFMT0dfRVhBTV9ERVNDUklQVElPTi5yZXBsYWNlKCc6ZXhhbV9pZHMnLCBpZHMpOwoKICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QoYXBwKQogICAgICAgICAgICAgICAgLmdldCh1cmwpCiAgICAgICAgICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgYEJlYXJlciAke2FjY2Vzc1Rva2VufWApCiAgICAgICAgICAgICAgICAucXVlcnkoKQogICAgICAgICAgICAgICAgLmV4cGVjdCgyMDApCiAgICAgICAgICAgICAgICAudGhlbigocmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5KS50by5kZWVwLmVxdWFsKFsnYTEnLCAnYjInLCAnYzMnXSkKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnZXQgbmFtZSBhbmQgaWQgZnJvbSAibnJuOmV4YW0tcHJvdmlkZXI6PG5hbWU+OjxpZD4iCiAgICAgICAgY29uc3QgbnJuID0gZXhhbS5zcGxpdCgnOicpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cmh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9leGFtLXByb3ZpZGVyL3YxL2V4YW1zL2NhdGFsb2cvZGVzY3JpcHRpb24vYnkvTk9UX0FOX0VYQU1fSUQsODBmOWFjNmEtOWI3Ny00M2M5LWFmMTQtMmQ5ODQ1Yzc4ODI2LDY1OTUzYTlmLTI1NmEtNGM2Yy1iMzUwLTcwYjdjZGJlNjYzYgpbCiAgICBudWxsLAogICAgewogICAgICAgICJ1cGRhdGVkX2F0IjogIjIwMTgtMDMtMjZUMjM6NTA6NTcuNTA4WiIsCiAgICAgICAgImV4dF91cGRhdGVkX2F0IjogIjIwMTgtMDMtMjZUMjM6MDY6MDQuNTYzWiIsCiAgICAgICAgImV4dF9zdGF0ZSI6ICJhY3RpdmUiLAogICAgICAgICJleHRfdXBkYXRlX2F0IjogIjIwMTgtMDMtMjZUMjM6NTA6NTcuNTA4WiIsCiAgICAgICAgImV4dF9leGFtX2lkIjogIjM0MDU0NiIsCiAgICAgICAgImV4dF9leGFtX2RldGFpbHMiOiB7CiAgICAgICAgICAgICJleHRfZXhhbV9kZXNjcmlwdGlvbiI6ICJQTVA1RUQgUHJvamVjdCBNYW5hZ2VtZW50IFByb2Zlc3Npb25hbCAoUE1QKSIsCiAgICAgICAgICAgICJleHRfZXhhbV92ZW5kb3IiOiAiUE1JIiwKICAgICAgICAgICAgImV4dF9leGFtX25hbWUiOiAiUE1QNUVEIDE4MC1EYXkgRXhhbSBQcmVwYXJhdGlvbiAoT25saW5lICsgRG93bmxvYWQpIgogICAgICAgIH0sCiAgICAgICAgInByb3ZpZGVyIjogImthcGxhbiIsCiAgICAgICAgImV4YW1faWQiOiAiODBmOWFjNmEtOWI3Ny00M2M5LWFmMTQtMmQ5ODQ1Yzc4ODI2IgogICAgfSwKICAgIHsKICAgICAgICAidXBkYXRlZF9hdCI6ICIyMDE4LTAzLTI2VDIzOjUwOjU3LjM5OVoiLAogICAgICAgICJleHRfdXBkYXRlZF9hdCI6ICIyMDE4LTAzLTI2VDIzOjA2OjA0LjQ1NFoiLAogICAgICAgICJleHRfc3RhdGUiOiAiYWN0aXZlIiwKICAgICAgICAiZXh0X3VwZGF0ZV9hdCI6ICIyMDE4LTAzLTI2VDIzOjUwOjU3LjM5OVoiLAogICAgICAgICJleHRfZXhhbV9pZCI6ICIzNDA1MjUiLAogICAgICAgICJleHRfZXhhbV9kZXRhaWxzIjogewogICAgICAgICAgICAiZXh0X2V4YW1fZGVzY3JpcHRpb24iOiAiMVowLTA0NyBPcmFjbGUgRGF0YWJhc2UgU1FMIEV4cGVydCAoT0NFKSBDZXJ0aWZpY2F0aW9uIFBhY2thZ2UiLAogICAgICAgICAgICAiZXh0X2V4YW1fdmVuZG9yIjogIk9SQUNMRSIsCiAgICAgICAgICAgICJleHRfZXhhbV9uYW1lIjogIjFaMC0wNDcgMTgwLURheSBFeGFtIFByZXBhcmF0aW9uIChPbmxpbmUgKyBEb3dubG9hZCkiCiAgICAgICAgfSwKICAgICAgICAicHJvdmlkZXIiOiAia2FwbGFuIiwKICAgICAgICAiZXhhbV9pZCI6ICI2NTk1M2E5Zi0yNTZhLTRjNmMtYjM1MC03MGI3Y2RiZTY2M2IiCiAgICB9Cl0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4YW1OYW1lQW5kSWQgPSBleGFtSWRzLm1hcChleGFtID0+IHsKICAgICAgICAvLyBnZXQgbmFtZSBhbmQgaWQgZnJvbSAibnJuOmV4YW0tcHJvdmlkZXI6PG5hbWU+OjxpZD4iCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgICAgICB9LCBbXQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
