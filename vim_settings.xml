@@ -589,12 +589,12 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1522188910553">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1522192466969">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="155" column="65" />
-        <mark key="]" line="155" column="65" />
-        <mark key="." line="155" column="65" />
-        <mark key="^" line="151" column="25" />
+        <mark key="[" line="150" column="44" />
+        <mark key="]" line="150" column="44" />
+        <mark key="." line="150" column="44" />
+        <mark key="^" line="150" column="39" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
@@ -640,12 +640,12 @@
         <mark key="^" line="24" column="74" />
         <mark key="." line="24" column="74" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522189622837">
-        <mark key="'" line="106" column="54" />
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="106" column="61" />
-        <mark key="." line="106" column="61" />
-        <mark key="^" line="106" column="61" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522191759154">
+        <mark key="'" line="80" column="75" />
+        <mark key="[" line="106" column="54" />
+        <mark key="]" line="106" column="55" />
+        <mark key="^" line="106" column="55" />
+        <mark key="." line="106" column="55" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -839,12 +839,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522188360823">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522191555119">
         <mark key="'" line="147" column="50" />
-        <mark key="[" line="304" column="61" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
-        <mark key="^" line="304" column="0" />
+        <mark key="[" line="86" column="35" />
+        <mark key="]" line="86" column="49" />
+        <mark key="." line="86" column="49" />
+        <mark key="^" line="86" column="49" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
@@ -852,11 +852,11 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/README.md" timestamp="1521563742892">
-        <mark key="[" line="108" column="21" />
-        <mark key="]" line="108" column="21" />
-        <mark key="^" line="108" column="21" />
-        <mark key="." line="108" column="21" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/README.md" timestamp="1522192599600">
+        <mark key="[" line="73" column="19" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1515705834706">
         <mark key="'" line="28" column="33" />
@@ -922,12 +922,8 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522172022239">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522191139679">
         <mark key="'" line="235" column="5" />
-        <mark key="[" line="114" column="45" />
-        <mark key="]" line="122" column="5" />
-        <mark key="." line="122" column="5" />
-        <mark key="^" line="122" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521651993042">
         <mark key="[" line="6" column="47" />
@@ -962,8 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="19" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="124" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="125" column="20" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="126" column="19" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="127" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1062,64 +1056,65 @@
       <jump line="146" column="43" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
       <jump line="1" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
       <jump line="106" column="54" filename="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" />
+      <jump line="108" column="25" filename="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" />
+      <jump line="80" column="75" filename="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>def456</text>
+        <text encoding="base64">aWQnIA==</text>
       </register>
       <register name="-" type="4">
-        <text>def456</text>
+        <text encoding="base64">aWQnIA==</text>
       </register>
       <register name="/" type="4">
-        <text>STATE_</text>
+        <text>nrnE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgbG9nZ2VyIH0gPSBFeHByZXNzQXBwQ29yZS5nZXRJbnN0YW5jZSgpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRQcm9taXNlcy5wdXNoKGNhdGFsb2dNb2RlbC5nZXRCeUV4dGVybmFsSWQoKSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">cmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgICAgICB9LCBbXQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5Db3VudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdldFByb21pc2VzID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBRKGV4YW1JZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHRzLmZvckVhY2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBRKGV4YW1JZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYnVpbGQgcHJvbWlzZSBhcnJheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGV4YW1OYW1lQW5kSWQgPSBleGFtSWRzLm1hcChleGFtID0+IHsKICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geyBpZDogbnJuWzNdIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBnZXQgbmFtZSBhbmQgaWQgZnJvbSAibnJuOmV4YW0tcHJvdmlkZXI6PG5hbWU+OjxpZD4iCiAgICAgICAgY29uc3QgbnJuID0gZXhhbS5zcGxpdCgnOicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoMjAwKS5zZW5kKGV4YW1JZHMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGV4YW1OYW1lQW5kSWQgPSBleGFtSWRzLm1hcChleGFtID0+IHsKICAgICAgICAvLyBnZXQgbmFtZSBhbmQgaWQgZnJvbSAibnJuOmV4YW0tcHJvdmlkZXI6PG5hbWU+OjxpZD4iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>STATE_</last-search>
+      <last-search>nrnE</last-search>
       <last-offset />
-      <last-pattern>STATE_</last-pattern>
+      <last-pattern>nrnE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>memberId</entry>
         <entry>mongo</entry>
         <entry>ongo</entry>
         <entry>url</entry>
@@ -1139,6 +1134,7 @@
         <entry>console.log</entry>
         <entry>skip</entry>
         <entry>STATE_</entry>
+        <entry>nrnE</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
