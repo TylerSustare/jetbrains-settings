@@ -895,8 +895,8 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522172003851">
-        <mark key="'" line="1" column="33" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522172022239">
+        <mark key="'" line="235" column="5" />
         <mark key="[" line="114" column="45" />
         <mark key="]" line="122" column="5" />
         <mark key="." line="122" column="5" />
@@ -935,7 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="114" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="115" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="116" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1035,6 +1034,7 @@
       <jump line="171" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="202" column="12" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="2" column="33" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="235" column="5" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1077,7 +1077,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1125,12 +1125,12 @@
         <entry>0</entry>
         <entry>wa</entry>
         <entry>waa</entry>
-        <entry>wq</entry>
         <entry>qq</entry>
         <entry>q</entry>
         <entry>182</entry>
         <entry>132</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
