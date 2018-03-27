@@ -356,6 +356,12 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/catalog_test.js" timestamp="1522181693393">
+        <mark key="[" line="471" column="62" />
+        <mark key="]" line="472" column="7" />
+        <mark key="^" line="472" column="7" />
+        <mark key="." line="472" column="7" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
         <mark key="[" line="153" column="34" />
@@ -583,6 +589,12 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1522181624661">
+        <mark key="[" line="144" column="97" />
+        <mark key="]" line="144" column="97" />
+        <mark key="^" line="144" column="97" />
+        <mark key="." line="144" column="97" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="5" />
@@ -621,11 +633,11 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/config/routes.js" timestamp="1521491862578">
-        <mark key="[" line="20" column="55" />
-        <mark key="]" line="20" column="55" />
-        <mark key="^" line="20" column="55" />
-        <mark key="." line="20" column="55" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/config/routes.js" timestamp="1522181450569">
+        <mark key="[" line="24" column="73" />
+        <mark key="]" line="24" column="74" />
+        <mark key="^" line="24" column="74" />
+        <mark key="." line="24" column="74" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -1038,10 +1050,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'1902ca818f9c0724ecb5b56bea932d86d6b0c969';</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>'1902ca818f9c0724ecb5b56bea932d86d6b0c969';</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
@@ -1050,34 +1062,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZVByb21pc2VBcnJheS5wdXNoKHVwZGF0ZUNvdXJzZShjb3Vyc2UpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5BQ0NFU1NfVE9LRU4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZXhhbU5ybnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYWNjZXNzVG9rZW4gPSAnMTkwMmNhODE4ZjljMDcyNGVjYjViNTZiZWE5MzJkODZkNmIwYzk2OSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlcyA9PnsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdmFsaWRhdGUgcGFyYW1zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5BQ0NFU1NfVE9LRU4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Y29uc3QgYWNjZXNzVG9rZW4gPSAnMTkwMmNhODE4ZjljMDcyNGVjYjViNTZiZWE5MzJkODZkNmIwYzk2OSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
+        <text encoding="base64">ICAgIC50aGVuKHJlcyA9PnsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvKTsK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1118,7 +1130,6 @@
         <entry>146</entry>
         <entry>124</entry>
         <entry>257</entry>
-        <entry>vsp</entry>
         <entry>vs</entry>
         <entry>44</entry>
         <entry>445</entry>
@@ -1129,8 +1140,9 @@
         <entry>q</entry>
         <entry>182</entry>
         <entry>132</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
