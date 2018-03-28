@@ -357,10 +357,10 @@
         <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/catalog_test.js" timestamp="1522193587649">
-        <mark key="[" line="470" column="6" />
-        <mark key="]" line="470" column="6" />
-        <mark key="." line="470" column="6" />
-        <mark key="^" line="470" column="6" />
+        <mark key="[" line="604" column="6" />
+        <mark key="]" line="604" column="6" />
+        <mark key="." line="604" column="6" />
+        <mark key="^" line="604" column="6" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
@@ -563,7 +563,7 @@
         <mark key="^" line="196" column="13" />
         <mark key="." line="196" column="13" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1521146776123">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522270656864">
         <mark key="'" line="65" column="56" />
         <mark key="[" line="150" column="61" />
         <mark key="]" line="160" column="7" />
@@ -588,13 +588,6 @@
         <mark key="]" line="954" column="119" />
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1522259224014">
-        <mark key="'" line="146" column="20" />
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="35" column="58" />
-        <mark key="." line="35" column="58" />
-        <mark key="^" line="35" column="58" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
@@ -633,12 +626,6 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/config/routes.js" timestamp="1522257618993">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="24" />
-        <mark key="^" line="26" column="24" />
-        <mark key="." line="26" column="24" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522258779372">
         <mark key="'" line="80" column="75" />
@@ -730,11 +717,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/auth_middleware.js" timestamp="1522257894688">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/3lambda_test.js" timestamp="1515188959430">
         <mark key="[" line="9" column="26" />
