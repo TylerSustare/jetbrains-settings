@@ -589,6 +589,13 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1522259224014">
+        <mark key="'" line="146" column="20" />
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="58" />
+        <mark key="." line="35" column="58" />
+        <mark key="^" line="35" column="58" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="5" />
@@ -627,14 +634,18 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/config/routes.js" timestamp="1522181450569">
-        <mark key="[" line="24" column="73" />
-        <mark key="]" line="24" column="74" />
-        <mark key="^" line="24" column="74" />
-        <mark key="." line="24" column="74" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/config/routes.js" timestamp="1522257618993">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522193843524">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522258779372">
         <mark key="'" line="80" column="75" />
+        <mark key="[" line="109" column="24" />
+        <mark key="]" line="109" column="24" />
+        <mark key="." line="109" column="24" />
+        <mark key="^" line="109" column="24" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -719,6 +730,11 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/auth_middleware.js" timestamp="1522257894688">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/3lambda_test.js" timestamp="1515188959430">
         <mark key="[" line="9" column="26" />
@@ -828,12 +844,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522191555119">
-        <mark key="'" line="147" column="50" />
-        <mark key="[" line="86" column="35" />
-        <mark key="]" line="86" column="49" />
-        <mark key="." line="86" column="49" />
-        <mark key="^" line="86" column="49" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
+        <mark key="'" line="353" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
@@ -905,8 +921,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522191139679">
-        <mark key="'" line="235" column="5" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522260728095">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521651993042">
         <mark key="[" line="6" column="47" />
@@ -941,19 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="138" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="139" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="140" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="141" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="142" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="143" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="144" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="145" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="146" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="147" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="148" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="149" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="150" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="151" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="152" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1012,7 +1018,6 @@
       <jump line="253" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="256" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="162" column="10" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="119" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="134" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="165" column="8" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1041,99 +1046,77 @@
       <jump line="168" column="24" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
       <jump line="169" column="24" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
       <jump line="170" column="24" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
+      <jump line="54" column="27" filename="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" />
+      <jump line="353" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" />
+      <jump line="38" column="19" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
+      <jump line="60" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
+      <jump line="143" column="20" filename="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="114" column="128" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="115" column="138" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="116" column="26" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="10" column="26" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="110" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="106" column="22" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="0" column="6" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="100" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBmb3JtYXQgc28gcmVzcG9uc2UgbWFrZXMgc2Vuc2UK</text>
+        <text encoding="base64">Y29uc3Qgc2NyaXB0S2V5cyA9IHJlcXVpcmUoJy4va2V5cycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>1.exam-provider.service.${nodeEnvironment}.us-east-1.nuggets.local</text>
       </register>
       <register name="/" type="4">
-        <text>+</text>
+        <text>AWS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiAhW0RvbmVdKHN0YXRpY3MvZG9uZV9zbWFsbC5wbmcpIFtHRVQgL3Nlc3Npb24vYnkvOnVzZXJfaWRdKCNnZXRfc2Vzc2lvbl9ieV91c2VyX2lkKQo=</text>
+        <text encoding="base64">Y29uc3QgZXBzR2V0Q2F0YWxvZ3MgPSBgaHR0cDovLzEuZXhhbS1wcm92aWRlci5zZXJ2aWNlLiR7bm9kZUVudmlyb25tZW50fS51cy1lYXN0LTEubnVnZ2V0cy5sb2NhbC9leGFtLXByb3ZpZGVyL3YxL2V4YW1zL2NhdGFsb2dgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBmb3JtYXQgc28gcmVzcG9uc2UgbWFrZXMgc2Vuc2UK</text>
+        <text encoding="base64">Y29uc3Qgc2NyaXB0S2V5cyA9IHJlcXVpcmUoJy4va2V5cycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQVdTID0gcmVxdWlyZSgnYXdzLXNkaycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuc3RhdHVzKDIwMCkuc2VuZChjYXRhbG9nRGVzY3JpcHRpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKGBnZXRCeUludGVybmFsSWQgYXJyYXkgb2YgcHJvbWlzZXMgd2l0aCBpZHM6ICR7ZXhhbUlkcy50b1N0cmluZygpfWApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnU3VjY2Vzc2Z1bGx5IHJlY2VpdmVkJykK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>#### Catalog Routes
-http://localhost:3000/exam-provider/v1/exams/catalog/description/by/80f9ac6a-9b77-43c9-af14-2d9845c78826,65953a9f-256a-4c6c-b350-70b7cdbe663b
-[
-    {
-        &quot;updated_at&quot;: &quot;2018-03-26T23:50:57.508Z&quot;,
-        &quot;ext_updated_at&quot;: &quot;2018-03-26T23:06:04.563Z&quot;,
-        &quot;ext_state&quot;: &quot;active&quot;,
-        &quot;ext_update_at&quot;: &quot;2018-03-26T23:50:57.508Z&quot;,
-        &quot;ext_exam_id&quot;: &quot;340546&quot;,
-        &quot;ext_exam_details&quot;: {
-            &quot;ext_exam_description&quot;: &quot;PMP5ED Project Management Professional (PMP)&quot;,
-            &quot;ext_exam_vendor&quot;: &quot;PMI&quot;,
-            &quot;ext_exam_name&quot;: &quot;PMP5ED 180-Day Exam Preparation (Online + Download)&quot;
-        },
-        &quot;provider&quot;: &quot;kaplan&quot;,
-        &quot;exam_id&quot;: &quot;80f9ac6a-9b77-43c9-af14-2d9845c78826&quot;
-    },
-    {
-        &quot;updated_at&quot;: &quot;2018-03-26T23:50:57.399Z&quot;,
-        &quot;ext_updated_at&quot;: &quot;2018-03-26T23:06:04.454Z&quot;,
-        &quot;ext_state&quot;: &quot;active&quot;,
-        &quot;ext_update_at&quot;: &quot;2018-03-26T23:50:57.399Z&quot;,
-        &quot;ext_exam_id&quot;: &quot;340525&quot;,
-        &quot;ext_exam_details&quot;: {
-            &quot;ext_exam_description&quot;: &quot;1Z0-047 Oracle Database SQL Expert (OCE) Certification Package&quot;,
-            &quot;ext_exam_vendor&quot;: &quot;ORACLE&quot;,
-            &quot;ext_exam_name&quot;: &quot;1Z0-047 180-Day Exam Preparation (Online + Download)&quot;
-        },
-        &quot;provider&quot;: &quot;kaplan&quot;,
-        &quot;exam_id&quot;: &quot;65953a9f-256a-4c6c-b350-70b7cdbe663b&quot;
-    }
-]</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFjY2Vzc0tleUlkOiBzY3JpcHRLZXlzLmFjY2VzcywKICAgIHNlY3JldEFjY2Vzc0tleTogc2NyaXB0S2V5cy5zZWNyZXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVdTLmNvbmZpZy51cGRhdGUoewogICAgcmVnaW9uOiAndXMtZWFzdC0xJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIHJlc3BvbmQgd2l0aCBhIDIwMCcsIGZ1bmN0aW9uICgpIHsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Y29uc3QgZG9jQ2xpZW50ID0gbmV3IEFXUy5EeW5hbW9EQi5Eb2N1bWVudENsaWVudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZXBzR2V0Q2F0YWxvZ3MgPSBgaHR0cDovL2xvY2FsaG9zdDozMDAwL2V4YW0tcHJvdmlkZXIvdjEvZXhhbXMvY2F0YWxvZ2A7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>+</last-search>
+      <last-search>AWS</last-search>
       <last-offset />
-      <last-pattern>+</last-pattern>
+      <last-pattern>AWS</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ongo</entry>
-        <entry>url</entry>
-        <entry>console</entry>
-        <entry>_.first</entry>
-        <entry>);)</entry>
         <entry>console.</entry>
         <entry>\\n\\n</entry>
         <entry>\n</entry>
@@ -1149,6 +1132,11 @@ http://localhost:3000/exam-provider/v1/exams/catalog/description/by/80f9ac6a-9b7
         <entry>STATE_</entry>
         <entry>nrnE</entry>
         <entry>+</entry>
+        <entry>scan</entry>
+        <entry>logger.error</entry>
+        <entry>'</entry>
+        <entry>scriptKeys</entry>
+        <entry>AWS</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
