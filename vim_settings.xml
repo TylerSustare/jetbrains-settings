@@ -358,10 +358,10 @@
         <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/catalog_test.js" timestamp="1522193587649">
-        <mark key="[" line="604" column="6" />
-        <mark key="]" line="604" column="6" />
-        <mark key="." line="604" column="6" />
-        <mark key="^" line="604" column="6" />
+        <mark key="[" line="678" column="6" />
+        <mark key="]" line="678" column="6" />
+        <mark key="." line="678" column="6" />
+        <mark key="^" line="678" column="6" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
@@ -627,13 +627,6 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1522258779372">
-        <mark key="'" line="80" column="75" />
-        <mark key="[" line="109" column="24" />
-        <mark key="]" line="109" column="24" />
-        <mark key="." line="109" column="24" />
-        <mark key="^" line="109" column="24" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -910,11 +903,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522260728095">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522356769639">
+        <mark key="'" line="125" column="41" />
+        <mark key="[" line="150" column="58" />
+        <mark key="]" line="151" column="48" />
+        <mark key="." line="151" column="48" />
+        <mark key="^" line="151" column="48" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update_courses_with_existing_exams.js" timestamp="1521651993042">
         <mark key="[" line="6" column="47" />
@@ -949,7 +943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="163" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="164" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="166" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1049,64 +1042,64 @@
       <jump line="126" column="27" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="179" column="33" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="38" column="27" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="125" column="41" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>license-migrate-system-bookmarks&quot;,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>license-migrate-system-bookmarks&quot;,</text>
+        <text>ourse</text>
       </register>
       <register name="/" type="4">
-        <text>_</text>
+        <text>c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZXBzR2V0Q2F0YWxvZ3MgPSBgaHR0cDovLzEuZXhhbS1wcm92aWRlci5zZXJ2aWNlLiR7bm9kZUVudmlyb25tZW50fS51cy1lYXN0LTEubnVnZ2V0cy5sb2NhbC9leGFtLXByb3ZpZGVyL3YxL2V4YW1zL2NhdGFsb2dgOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkodHJhaW5pbmdSZW1pbmRlclRvdGFsLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHB1c2hpbmcgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgc2NyaXB0S2V5cyA9IHJlcXVpcmUoJy4va2V5cycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hpbmcgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQVdTID0gcmVxdWlyZSgnYXdzLXNkaycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnXG51cGRhdGVkIGNvdXJzZXMnLCB1cGRhdGVDb3Vyc2VSZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGV4YW1JZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc0tleUlkOiBzY3JpcHRLZXlzLmFjY2VzcywKICAgIHNlY3JldEFjY2Vzc0tleTogc2NyaXB0S2V5cy5zZWNyZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkodHJhaW5pbmdSZW1pbmRlclRvdGFsLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVdTLmNvbmZpZy51cGRhdGUoewogICAgcmVnaW9uOiAndXMtZWFzdC0xJywK</text>
+        <text encoding="base64">Y29uc3Qgc2NyaXB0S2V5cyA9IHJlcXVpcmUoJy4va2V5cycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_</last-search>
+      <last-search>c</last-search>
       <last-offset />
-      <last-pattern>_</last-pattern>
+      <last-pattern>c</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\\n\\n</entry>
         <entry>\n</entry>
         <entry>\\n</entry>
         <entry>allCourses</entry>
@@ -1126,6 +1119,7 @@
         <entry>scriptKeys</entry>
         <entry>AWS</entry>
         <entry>_</entry>
+        <entry>c</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
