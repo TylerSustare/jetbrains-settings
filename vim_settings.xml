@@ -52,7 +52,8 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522343092395">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522346606535">
+        <mark key="'" line="38" column="27" />
         <mark key="[" line="24" column="125" />
         <mark key="]" line="24" column="125" />
         <mark key="." line="24" column="125" />
@@ -563,12 +564,12 @@
         <mark key="^" line="196" column="13" />
         <mark key="." line="196" column="13" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522343027586">
-        <mark key="'" line="65" column="56" />
-        <mark key="[" line="60" column="40" />
-        <mark key="]" line="60" column="44" />
-        <mark key="." line="60" column="44" />
-        <mark key="^" line="60" column="44" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522346597476">
+        <mark key="'" line="180" column="33" />
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/test.json" timestamp="1518552320791">
         <mark key="[" line="37" column="20" />
@@ -948,17 +949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="151" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="152" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="153" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="154" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="155" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="156" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="157" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="158" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="159" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="160" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="161" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="163" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="164" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1048,6 +1038,17 @@
       <jump line="106" column="22" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="0" column="6" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="100" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="40" column="51" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="44" column="80" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="57" column="35" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="66" column="43" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="68" column="78" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="79" column="65" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="82" column="84" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="100" column="18" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="126" column="27" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="179" column="33" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="38" column="27" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1057,7 +1058,7 @@
         <text>task-notification-schedule-migration</text>
       </register>
       <register name="/" type="4">
-        <text>AWS</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgZXBzR2V0Q2F0YWxvZ3MgPSBgaHR0cDovLzEuZXhhbS1wcm92aWRlci5zZXJ2aWNlLiR7bm9kZUVudmlyb25tZW50fS51cy1lYXN0LTEubnVnZ2V0cy5sb2NhbC9leGFtLXByb3ZpZGVyL3YxL2V4YW1zL2NhdGFsb2dgOwo=</text>
@@ -1097,15 +1098,14 @@
       </register>
     </registers>
     <search>
-      <last-search>AWS</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>AWS</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.</entry>
         <entry>\\n\\n</entry>
         <entry>\n</entry>
         <entry>\\n</entry>
@@ -1125,6 +1125,7 @@
         <entry>'</entry>
         <entry>scriptKeys</entry>
         <entry>AWS</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
