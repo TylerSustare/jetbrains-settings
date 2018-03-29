@@ -320,11 +320,11 @@
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/package.json" timestamp="1521151727043">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/package.json" timestamp="1522350337114">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="50" />
+        <mark key="^" line="1" column="50" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update-courses-with-existing-exams.js" timestamp="1521824868652">
         <mark key="[" line="138" column="104" />
@@ -1052,10 +1052,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>task-notification-schedule-migration</text>
+        <text>license-migrate-system-bookmarks&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>task-notification-schedule-migration</text>
+        <text>license-migrate-system-bookmarks&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
