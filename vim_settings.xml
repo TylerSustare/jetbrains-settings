@@ -52,10 +52,10 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1521151937758">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="50" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522340861374">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="52" column="26" />
+        <mark key="." line="52" column="26" />
         <mark key="^" line="29" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
@@ -563,12 +563,12 @@
         <mark key="^" line="196" column="13" />
         <mark key="." line="196" column="13" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522270656864">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522340580375">
         <mark key="'" line="65" column="56" />
-        <mark key="[" line="150" column="61" />
-        <mark key="]" line="160" column="7" />
-        <mark key="." line="160" column="7" />
-        <mark key="^" line="160" column="7" />
+        <mark key="[" line="60" column="40" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="44" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/test.json" timestamp="1518552320791">
         <mark key="[" line="37" column="20" />
@@ -1044,11 +1044,11 @@
       <jump line="100" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qgc2NyaXB0S2V5cyA9IHJlcXVpcmUoJy4va2V5cycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="-" type="4">
-        <text>1.exam-provider.service.${nodeEnvironment}.us-east-1.nuggets.local</text>
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="/" type="4">
         <text>AWS</text>
