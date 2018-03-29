@@ -699,6 +699,12 @@
         <mark key="." line="18" column="49" />
         <mark key="^" line="18" column="49" />
       </file>
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/schedule.js" timestamp="1518648694301">
         <mark key="'" line="188" column="20" />
         <mark key="[" line="100" column="31" />
@@ -1044,11 +1050,11 @@
       <jump line="100" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZwo=</text>
+      <register name="&quot;" type="4">
+        <text>task-notification-schedule-migration</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3Ig</text>
+        <text>task-notification-schedule-migration</text>
       </register>
       <register name="/" type="4">
         <text>AWS</text>
