@@ -52,12 +52,12 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522346606535">
-        <mark key="'" line="38" column="27" />
-        <mark key="[" line="24" column="125" />
-        <mark key="]" line="24" column="125" />
-        <mark key="." line="24" column="125" />
-        <mark key="^" line="24" column="125" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522430591873">
+        <mark key="'" line="44" column="27" />
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="29" column="70" />
+        <mark key="." line="29" column="70" />
+        <mark key="^" line="29" column="69" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -1045,11 +1045,11 @@
       <jump line="125" column="41" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnZGljdGlvbmFyeSBieSAiZXh0X2V4YW1faWQiIGNyZWF0ZWQgZm9ybSBkeW5hbW8gcmVzdWx0cycpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNhdGFsb2dEaWN0aW9uYXJ5QnlFeHRlcm5hbEV4YW1JZCwgbnVsbCwgMikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>task-notification-schedule-migration</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXBkYXRlQ291cnNlUmVzdWx0IA==</text>
+        <text>task-notification-schedule-migration</text>
       </register>
       <register name="/" type="4">
         <text>c</text>
