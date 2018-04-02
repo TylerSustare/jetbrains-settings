@@ -52,12 +52,12 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522430591873">
-        <mark key="'" line="44" column="27" />
-        <mark key="[" line="29" column="69" />
-        <mark key="]" line="29" column="70" />
-        <mark key="." line="29" column="70" />
-        <mark key="^" line="29" column="69" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522688660938">
+        <mark key="'" line="45" column="27" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -320,7 +320,7 @@
       <file name="/ECMAScript 6 Fragment (api.js:4477).es6" timestamp="1509037333442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/package.json" timestamp="1522350337114">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/package.json" timestamp="1522688295807">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="50" />
         <mark key="." line="1" column="50" />
@@ -564,12 +564,12 @@
         <mark key="^" line="196" column="13" />
         <mark key="." line="196" column="13" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522346597476">
-        <mark key="'" line="180" column="33" />
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522688905084">
+        <mark key="'" line="115" column="47" />
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="22" column="96" />
+        <mark key="." line="22" column="96" />
+        <mark key="^" line="22" column="96" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/test.json" timestamp="1518552320791">
         <mark key="[" line="37" column="20" />
@@ -723,6 +723,12 @@
         <mark key="]" line="9" column="27" />
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/deploy.sh" timestamp="1522687940225">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="1" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/.eslintrc" timestamp="1519149969902">
         <mark key="[" line="4" column="4" />
@@ -943,7 +949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="164" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="166" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="167" column="18" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1043,49 +1048,50 @@
       <jump line="179" column="33" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="38" column="27" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="125" column="41" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
+      <jump line="114" column="47" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>task-notification-schedule-migration</text>
+        <text>connectMongoClientPromise</text>
       </register>
       <register name="-" type="4">
-        <text>task-notification-schedule-migration</text>
+        <text>connectMongoClientPromise</text>
       </register>
       <register name="/" type="4">
         <text>c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZXBzR2V0Q2F0YWxvZ3MgPSBgaHR0cDovLzEuZXhhbS1wcm92aWRlci5zZXJ2aWNlLiR7bm9kZUVudmlyb25tZW50fS51cy1lYXN0LTEubnVnZ2V0cy5sb2NhbC9leGFtLXByb3ZpZGVyL3YxL2V4YW1zL2NhdGFsb2dgOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FsbGVkIGNvbm5lY3RNb25nb0NsaWVudCgpJywgSlNPTi5zdHJpbmdpZnkoY29ubmVjdE1vbmdvQ2xpZW50UHJvbWlzZSwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnZGljdGlvbmFyeSBieSAiZXh0X2V4YW1faWQiIGNyZWF0ZWQgZm9ybSBkeW5hbW8gcmVzdWx0cycpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNhdGFsb2dEaWN0aW9uYXJ5QnlFeHRlcm5hbEV4YW1JZCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnXG51cGRhdGVkIGNvdXJzZXMnLCB1cGRhdGVDb3Vyc2VSZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhgdXBkYXRpbmcgY29sbGVjdGlvbjogJHtjb3Vyc2UuaWR9YCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb3Nub2xlKTsnJwo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVMaXN0T2ZUcmFpbmluZ1JlbWluZGVyc1RvQWRkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdwdXNoaW5nIG9udG8gcHJvbWlzZSBhcnJheScpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoY291cnNlLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbmdvcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmwK</text>
+        <text encoding="base64">ICAgIGNsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
