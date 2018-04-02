@@ -52,12 +52,12 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522703528693">
-        <mark key="'" line="67" column="24" />
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="17" />
-        <mark key="^" line="72" column="17" />
-        <mark key="." line="72" column="17" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522708075530">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="22" column="127" />
+        <mark key="]" line="22" column="127" />
+        <mark key="^" line="22" column="97" />
+        <mark key="." line="22" column="127" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -138,6 +138,11 @@
         <mark key="^" line="161" column="55" />
         <mark key="." line="161" column="55" />
       </file>
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/qa.js" timestamp="1522706691239">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/.eslintrc" timestamp="1519162729244">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="22" />
@@ -169,6 +174,11 @@
         <mark key="]" line="194" column="16" />
         <mark key="^" line="194" column="16" />
         <mark key="." line="194" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/test.js" timestamp="1522706698191">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
@@ -332,8 +342,12 @@
         <mark key="." line="138" column="102" />
         <mark key="^" line="138" column="102" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/production.js" timestamp="1522704106797">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/production.js" timestamp="1522706662562">
         <mark key="'" line="11" column="7" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/eslint-config-cbtnuggets/rules/node-strict.js" timestamp="1511286059466">
         <mark key="[" line="38" column="31" />
@@ -842,6 +856,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/local.js" timestamp="1522706680851">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
         <mark key="'" line="353" column="0" />
         <mark key="[" line="59" column="0" />
@@ -959,7 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="28" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="225" column="53" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="226" column="59" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="238" column="54" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1059,49 +1077,50 @@
       <jump line="57" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="67" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="11" column="7" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/production.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>console</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ongo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihgQW4gZXJyb3Igb2NjdXJlZCB0cnlpbmcgdG8gbWFwIHRyYWluaW5nIHJlbWluZGVyIGRhdGEgJHtlcnJ9YCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">dHJhaW5pbmdSZW1pbmRlcnNUb0FkZFByb21pc2Ug</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBtaWdyYXRlVHJhaW5pbmdSZW1pbmRlcnM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAibGliLWRhdGFiYXNlLWNvbm5lY3Rvci1tb25nb2RiLW5vZGVqcyI6ICIyLjAuMCIsCg==</text>
+        <text encoding="base64">Y29uc3QgbWlncmF0ZVRyYWluaW5nUmVtaW5kZXJzID0gKCkgPT4gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAibW9ja2dvb3NlIjogIjYuMC4yIiwK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibW9uZ29kYiI6ICIyLjEuMTgiLAogICAgICAgICJtb25nb29zZSI6ICI0LjUuNSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGBBbiBlcnJvciBvY2N1cmVkIHRyeWluZyB0byBjb25uZWN0IHRvIE1vbmdvIG9yIGNvbnN0cnVjdCBWaWRlbyBUb3RhbCBCb29rbWFya3MgRGF0YSAke2Vycn1gKTsK</text>
+        <text encoding="base64">Y29uZmlnLm1vbmdvZGIgPSB7Cn07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGBBbiBlcnJvciBvY2N1cmVkIHRyeWluZyB0byBjb25uZWN0IHRvIE1vbmdvIG9yIGNvbnN0cnVjdCBWaWRlbyBUb3RhbCBCb29rbWFya3MgRGF0YSAke2Vycn1gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vbmdvb3NlQ29ubmVjdGlvblByb21pc2UgPSBoZWxwZXIuY29ubmVjdE1vbmdvTW9kZWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb25UeXBlOiAnaG9zdCcsCiAgICBob3N0OiAnbG9jYWxob3N0JywKICAgIHJlcGxpY2FTZXQ6ICd0ZXN0JywKICAgIHRpbWVvdXRJbk1TOiAzMDAwMCwKICAgIHBvcnQ6IDI3MDE3LAogICAgbW9kZWxzOiAnbGljZW5zZScsCiAgICBkYm5hbWU6ICd0ZXN0LWxpY2Vuc2UnLAogICAgdXNlcm5hbWU6ICcnLAogICAgcGFzc3dvcmQ6ICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0ZVByb2Nlc3NBdEZyb21TY2hlZHVsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnLm1vbmdvZGIgPSB7Cn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
