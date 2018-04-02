@@ -564,12 +564,12 @@
         <mark key="^" line="196" column="13" />
         <mark key="." line="196" column="13" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522693028174">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522695306566">
         <mark key="'" line="111" column="16" />
-        <mark key="[" line="167" column="28" />
-        <mark key="]" line="167" column="28" />
-        <mark key="." line="167" column="28" />
-        <mark key="^" line="167" column="28" />
+        <mark key="[" line="57" column="73" />
+        <mark key="]" line="57" column="74" />
+        <mark key="." line="57" column="74" />
+        <mark key="^" line="57" column="118" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/test.json" timestamp="1518552320791">
         <mark key="[" line="37" column="20" />
@@ -666,6 +666,12 @@
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/build/start_task.sh" timestamp="1522695902830">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="44" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/button.js" timestamp="1515198911104">
         <mark key="[" line="1" column="33" />
@@ -1052,10 +1058,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>logger</text>
+        <text>bookmarks</text>
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text>bookmarks</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
