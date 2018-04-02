@@ -52,12 +52,12 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522688660938">
-        <mark key="'" line="45" column="27" />
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="49" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1522693264736">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="18" />
+        <mark key="^" line="72" column="18" />
+        <mark key="." line="72" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
         <mark key="'" line="3" column="1" />
@@ -564,12 +564,12 @@
         <mark key="^" line="196" column="13" />
         <mark key="." line="196" column="13" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522690151639">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1522693028174">
         <mark key="'" line="111" column="16" />
-        <mark key="[" line="156" column="36" />
-        <mark key="]" line="156" column="36" />
-        <mark key="." line="156" column="36" />
-        <mark key="^" line="156" column="35" />
+        <mark key="[" line="167" column="28" />
+        <mark key="]" line="167" column="28" />
+        <mark key="." line="167" column="28" />
+        <mark key="^" line="167" column="28" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/test.json" timestamp="1518552320791">
         <mark key="[" line="37" column="20" />
@@ -1052,46 +1052,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logger</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logger</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNvbm5lY3RNb25nb01vZGVscw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGBBbiBlcnJvciBvY2N1cmVkIHRyeWluZyB0byBjb25uZWN0IHRvIE1vbmdvIG9yIGNvbnN0cnVjdCBWaWRlbyBUb3RhbCBCb29rbWFya3MgRGF0YSAke2Vycn1gKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5pbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW5zaWRlIHRoZW4oKSBhZnRlciBoZWxwZXIuc2VuZFNsYWNrTm90aWZpY2F0aW9uJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuaW5nIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSgsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8obXNnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNhbGxpbmcgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVtaW5kZXJzLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRyYWluaW5nUmVtaW5kZXJzVG9BZGRQcm9taXNlLCBudWxsLCAyKSk7CiAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShtb25nb29zZSwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGxldCBtc2c7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtc2cgPSAnaic7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5pbmcgZnJtIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtc2cgPSAnQ29ubmVjdGVkIHRvIFBvc3RncmVzIGFuZCBNb25nbyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm5pbmcgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
