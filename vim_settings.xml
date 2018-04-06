@@ -362,6 +362,13 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1523047566746">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+      </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="23" />
@@ -496,7 +503,6 @@
         <mark key="^" line="1" column="36" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/models/monogdb/schedule.js" timestamp="1522702909713" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/.eslintignore" timestamp="1505496493511">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -979,7 +985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="53" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="226" column="59" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="238" column="54" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="228" column="20" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1079,13 +1084,14 @@
       <jump line="67" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="11" column="7" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/production.js" />
       <jump line="82" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1vZGVsczogImxpY2Vuc2UiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>ongo</text>
@@ -1094,34 +1100,34 @@
         <text encoding="base64">dHJhaW5pbmdSZW1pbmRlcnNUb0FkZFByb21pc2Ug</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGVsczogImxpY2Vuc2UiLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlyZWhvc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBtaWdyYXRlVHJhaW5pbmdSZW1pbmRlcnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmaXJlaG9zZSA9IG5ldyBBV1MuRmlyZWhvc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgbWlncmF0ZVRyYWluaW5nUmVtaW5kZXJzID0gKCkgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIG1vZGVsczogImxpY2Vuc2UiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBtaWdyYXRlVHJhaW5pbmdSZW1pbmRlcnM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnLm1vbmdvZGIgPSB7Cn07Cg==</text>
+        <text encoding="base64">Y29uc3QgbWlncmF0ZVRyYWluaW5nUmVtaW5kZXJzID0gKCkgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb25UeXBlOiAnaG9zdCcsCiAgICBob3N0OiAnbG9jYWxob3N0JywKICAgIHJlcGxpY2FTZXQ6ICd0ZXN0JywKICAgIHRpbWVvdXRJbk1TOiAzMDAwMCwKICAgIHBvcnQ6IDI3MDE3LAogICAgbW9kZWxzOiAnbGljZW5zZScsCiAgICBkYm5hbWU6ICd0ZXN0LWxpY2Vuc2UnLAogICAgdXNlcm5hbWU6ICcnLAogICAgcGFzc3dvcmQ6ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uZmlnLm1vbmdvZGIgPSB7Cn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
