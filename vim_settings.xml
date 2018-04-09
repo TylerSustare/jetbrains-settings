@@ -357,12 +357,11 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1523050194453">
-        <mark key="'" line="57" column="14" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1523296008293">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="57" column="14" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
@@ -970,7 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="28" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="322" column="28" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="267" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="251" column="39" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1070,10 +1068,11 @@
       <jump line="14" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
       <jump line="35" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
       <jump line="59" column="14" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -1085,34 +1084,34 @@
         <text encoding="base64">dHJhaW5pbmdSZW1pbmRlcnNUb0FkZFByb21pc2Ug</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGNvZGUpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnSU5WQUxJRF9FTlRSWV9GT1JNQVQnOgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA0MDA7CiAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgIGNhc2UgJ0lOVkFMSURfRVhBTV9JRCc6CiAgICAgICAgICAgICAgICB0aGlzLnN0YXR1cyA9IDQwMDsKICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgY2FzZSAnRVJST1JfVVBTRVJUSU5HJzoKICAgICAgICAgICAgICAgIHRoaXMuc3RhdHVzID0gNTAwOwogICAgICAgICAgICAgICAgYnJlYWs7CgogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA1MDA7CiAgICAgICAgICAgICAgICBicmVhazs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZWxldGUgcXVlcnlSZXNwb25zZS5wYWdpbmc7CiAgICAgICAgcmV0dXJuIHF1ZXJ5UmVzcG9uc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogRXhwb3NlIGBGaXJlaG9zZUVycm9yYC4gKi8K</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGJ1aWxkTWVzc2FnZShxdWVyeVJlc3BvbnNlKSB7CiAgICAgICAgcXVlcnlSZXNwb25zZS5yZXNwb25zZV9pZCA9IGBucm46c2VhcmNoOnJlcXVlc3Q6JHt1dWlkLnY0KCl9YDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGNvZGUpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEVycm9yLmNhcHR1cmVTdGFja1RyYWNlKHRoaXMsIHRoaXMuY29uc3RydWN0b3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdXVpZCA9IHJlcXVpcmUoJ3V1aWQnKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnSU5WQUxJRF9FTlRSWV9GT1JNQVQnOgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA0MDA7CiAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgIGNhc2UgJ0lOVkFMSURfRVhBTV9JRCc6CiAgICAgICAgICAgICAgICB0aGlzLnN0YXR1cyA9IDQwMDsKICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgY2FzZSAnRVJST1JfVVBTRVJUSU5HJzoKICAgICAgICAgICAgICAgIHRoaXMuc3RhdHVzID0gNTAwOwogICAgICAgICAgICAgICAgYnJlYWs7CgogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA1MDA7CiAgICAgICAgICAgICAgICBicmVhazs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYXdzID0gcmVxdWlyZSgnYXdzLXNkaycpOwo=</text>
+        <text encoding="base64">LyogRXhwb3NlIGBGaXJlaG9zZUVycm9yYC4gKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYXdzID0gcmVxdWlyZSgnYXdzLXNkaycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
