@@ -69,7 +69,6 @@
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="Editor Copy">
@@ -164,6 +163,13 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="meta 5" />
@@ -171,6 +177,10 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f11" />
