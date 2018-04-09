@@ -160,12 +160,11 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1523293793306">
-        <mark key="'" line="43" column="55" />
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="43" />
-        <mark key="^" line="39" column="43" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1523297978836">
+        <mark key="'" line="34" column="45" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/publish_email.js" timestamp="1510352930273">
         <mark key="[" line="194" column="12" />
@@ -357,11 +356,11 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1523296008293">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="57" column="14" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1523297487234">
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="17" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
@@ -710,12 +709,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1520896523867">
-        <mark key="'" line="276" column="0" />
-        <mark key="[" line="18" column="35" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="49" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1523298002788">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -969,9 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="28" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="267" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="251" column="39" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="227" column="26" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="253" column="30" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="256" column="16" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1069,13 +1065,16 @@
       <jump line="35" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
       <jump line="59" column="14" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
       <jump line="15" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
+      <jump line="341" column="1" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
+      <jump line="35" column="45" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>../lib/firehose</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>../lib/firehose</text>
       </register>
       <register name="/" type="4">
         <text>buildMess</text>
@@ -1084,34 +1083,34 @@
         <text encoding="base64">dHJhaW5pbmdSZW1pbmRlcnNUb0FkZFByb21pc2Ug</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZmlyZWhvc2UgPSByZXF1aXJlKCcuLi9saWIvZmlyZWhvc2UnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBraW5lc2lzIGxvZ2dpbmcKICAgICAgICAgICAgICAgICAgICBmaXJlaG9zZS5wdWJsaXNoKCd0c3QnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxldGUgcXVlcnlSZXNwb25zZS5wYWdpbmc7CiAgICAgICAgcmV0dXJuIHF1ZXJ5UmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGJ1aWxkTWVzc2FnZShxdWVyeVJlc3BvbnNlKSB7CiAgICAgICAgcXVlcnlSZXNwb25zZS5yZXNwb25zZV9pZCA9IGBucm46c2VhcmNoOnJlcXVlc3Q6JHt1dWlkLnY0KCl9YDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGNvZGUpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgcXVlcnlSZXNwb25zZS5wYWdpbmc7CiAgICAgICAgcmV0dXJuIHF1ZXJ5UmVzcG9uc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGJ1aWxkTWVzc2FnZShxdWVyeVJlc3BvbnNlKSB7CiAgICAgICAgcXVlcnlSZXNwb25zZS5yZXNwb25zZV9pZCA9IGBucm46c2VhcmNoOnJlcXVlc3Q6JHt1dWlkLnY0KCl9YDsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnSU5WQUxJRF9FTlRSWV9GT1JNQVQnOgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA0MDA7CiAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgIGNhc2UgJ0lOVkFMSURfRVhBTV9JRCc6CiAgICAgICAgICAgICAgICB0aGlzLnN0YXR1cyA9IDQwMDsKICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgY2FzZSAnRVJST1JfVVBTRVJUSU5HJzoKICAgICAgICAgICAgICAgIHRoaXMuc3RhdHVzID0gNTAwOwogICAgICAgICAgICAgICAgYnJlYWs7CgogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA1MDA7CiAgICAgICAgICAgICAgICBicmVhazs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGNvZGUpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyogRXhwb3NlIGBGaXJlaG9zZUVycm9yYC4gKi8K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnSU5WQUxJRF9FTlRSWV9GT1JNQVQnOgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA0MDA7CiAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgIGNhc2UgJ0lOVkFMSURfRVhBTV9JRCc6CiAgICAgICAgICAgICAgICB0aGlzLnN0YXR1cyA9IDQwMDsKICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgY2FzZSAnRVJST1JfVVBTRVJUSU5HJzoKICAgICAgICAgICAgICAgIHRoaXMuc3RhdHVzID0gNTAwOwogICAgICAgICAgICAgICAgYnJlYWs7CgogICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgdGhpcy5zdGF0dXMgPSA1MDA7CiAgICAgICAgICAgICAgICBicmVhazs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
