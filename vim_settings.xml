@@ -146,9 +146,10 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" timestamp="1523398578644">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" timestamp="1523399168892">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
+        <mark key="^" line="77" column="70" />
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
@@ -1090,10 +1091,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3NvbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5EYXRhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>expectedMessage</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -1102,34 +1103,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3NvbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5EYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVwZGF0ZWRUb2RvLCBudWxsLCAyKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGF0YSwgbnVsbCwgMikpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGFyYW1zLCBudWxsLCAyKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5kYXRhKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCAyKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGFyYW1zLCBudWxsLCAyKSk7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIGJhZE1lc3NhZ2UuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlyZWhvc2UK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlcnJvciwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
