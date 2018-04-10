@@ -544,12 +544,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1511223108066">
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1523377522515">
         <mark key="'" line="68" column="47" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="16" column="40" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_trainer.js" timestamp="1512604022662">
         <mark key="[" line="72" column="33" />
@@ -1088,10 +1088,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>('101',</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>('101',</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>handle\ no</text>
