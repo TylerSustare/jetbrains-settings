@@ -146,12 +146,11 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" timestamp="1523393344543">
-        <mark key="'" line="24" column="22" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="35" column="60" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" timestamp="1523396486060">
+        <mark key="[" line="59" column="79" />
+        <mark key="]" line="60" column="50" />
+        <mark key="." line="60" column="50" />
+        <mark key="^" line="60" column="50" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -342,6 +341,9 @@
         <mark key="]" line="31" column="25" />
         <mark key="^" line="31" column="25" />
         <mark key="." line="31" column="25" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1523394808207">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
@@ -1087,10 +1089,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobWVzc2FnZSwgbnVsbCwgMikpOwogICAgICAgICAgICBleHBlY3QobWVzc2FnZS50b2RvLnByb2Nlc3NfYXQpLnRvLm5vdC5iZS5hKCdudW1iZXInKTsgLy8gZW5zdXJlIG5vdCBlcG9jaCBzZWNvbmRzCg==</text>
+        <text encoding="base64">ICBkb25lKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>todo, scheduleForTodo.member_id, nextCourse, lastViewedCourse, didCompleteLastViewedCourse</text>
+        <text>done</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -1099,34 +1101,64 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobWVzc2FnZSwgbnVsbCwgMikpOwogICAgICAgICAgICBleHBlY3QobWVzc2FnZS50b2RvLnByb2Nlc3NfYXQpLnRvLm5vdC5iZS5hKCdudW1iZXInKTsgLy8gZW5zdXJlIG5vdCBlcG9jaCBzZWNvbmRzCg==</text>
+        <text encoding="base64">ICBkb25lKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7Cg==</text>
+      <register name="2" type="4">
+        <text>{
+                event_id: ObjectId('58e2a97a11665c183615e937'),
+                todo: {
+                    _id: ObjectId('58e2a97a11665c183615e937'),
+                    updated_at: '2017-04-03T19:58:50.707Z',
+                    created_at: '2017-04-03T19:58:50.707Z',
+                    process_at: '2017-04-01T19:58:50.704Z',
+                    schedule_id: ObjectId('58d44a9f45dd21e8c0b8afee'),
+                    __v: 0
+                },
+                notificationData: {
+                    __v: 0,
+                    _id: ObjectId('58d44a9f45dd21e8c0b8afe0'),
+                    inactive_at: '2017-04-23T00:00:00Z',
+                    disabled_at: '2016-03-23T00:00:00Z',
+                    created_at: '2017-03-23T00:00:00Z',
+                    updated_at: '2017-03-23T00:00:00Z',
+                    time: {
+                        m: 15,
+                        h: 11
+                    },
+                    days: [
+                        'm',
+                        'w',
+                        'f'
+                    ],
+                    frequency: 'days',
+                    type: 'TR',
+                    member_id: '122'
+                }
+            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7CiAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkodG9kb0RldGFpbHMsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoXy5oZWFkKHRvZG9GaXh0dXJlcy5yZWNvcmRzKSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIGZvcm1hdCBhIG1lc3NhZ2UgaW50byBhICcsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobWVzc2FnZSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICBkb25lKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBkb25lKCk7CiAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIGFmdGVyKGRvbmUgPT4gewogICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBBV1MucmVzdG9yZSgpOwogICAgICAgIGRvbmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
