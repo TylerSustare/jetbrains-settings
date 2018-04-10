@@ -146,11 +146,10 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" timestamp="1523397848597">
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="51" column="32" />
-        <mark key="." line="51" column="32" />
-        <mark key="^" line="51" column="37" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" timestamp="1523398578644">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -336,7 +335,7 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1523397798019">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1523397945620">
         <mark key="[" line="46" column="13" />
         <mark key="]" line="46" column="17" />
         <mark key="^" line="46" column="17" />
@@ -806,12 +805,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" timestamp="1523390723441">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" timestamp="1523398347079">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
         <mark key="^" line="124" column="3" />
-        <mark key="." line="193" column="0" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
@@ -989,8 +987,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="26" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="10" column="26" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="110" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="106" column="22" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="0" column="6" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
@@ -1089,64 +1085,65 @@
       <jump line="75" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="81" column="11" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="53" column="1" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
+      <jump line="193" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" />
+      <jump line="134" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'error'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3NvbnQK</text>
       </register>
       <register name="-" type="4">
-        <text>'error'</text>
+        <text>params</text>
       </register>
       <register name="/" type="4">
-        <text>only</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlcnJvciwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3NvbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvLmRlZXAuZXF1YWwoZmlyZWhvc2VFcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVwZGF0ZWRUb2RvLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZmlyZWhvc2VFcnJvciA9IHsKfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGF0YSwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGFyYW1zLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdGaXJlaG9zZUVycm9yJywKICAgIG1lc3NhZ2U6ICcnLAogICAgc3RhdHVzOiA1MDAsCiAgICB0eXBlOiAnRklSRUhPU0UnLAogICAgZGF0YTogJ3siZXZlbnRfaWQiOiI1OGUyYTk3YTExNjY1YzE4MzYxNWU5MzciLCJ0b2RvIjp7Il9pZCI6IjU4ZTJhOTdhMTE2NjVjMTgzNjE1ZTkzNyIsInVwZGF0ZWRfYXQiOiIyMDE3LTA0LTAzVDE5OjU4OjUwLjcwN1oiLCJjcmVhdGVkX2F0IjoiMjAxNy0wNC0wM1QxOTo1ODo1MC43MDdaIiwicHJvY2Vzc19hdCI6IjIwMTctMDQtMDFUMTk6NTg6NTAuNzA0WiIsInNjaGVkdWxlX2lkIjoiNThkNDRhOWY0NWRkMjFlOGMwYjhhZmVlIiwiX192IjowfX1cbicsCiAgICAnZXJyb3JAY29udGV4dCc6IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5kYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoZmlyZWhvc2VSZXN1bHQpLnRvLmRlZXAuZXF1YWwoZXhwZWN0ZWRNZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShmaXJlaG9zZVJlc3VsdCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGFyYW1zLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShmaXJlaG9zZVJlc3VsdCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlcnJvciwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>only</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>only</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scriptKeys</entry>
         <entry>AWS</entry>
         <entry>_</entry>
         <entry>c</entry>
@@ -1166,6 +1163,7 @@
         <entry>handle</entry>
         <entry>id</entry>
         <entry>only</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
