@@ -364,6 +364,13 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" timestamp="1523401103758">
+        <mark key="'" line="7" column="34" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
         <mark key="[" line="153" column="34" />
@@ -524,11 +531,11 @@
       <file name="/fragment.js" timestamp="1523389741245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1520290494704">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="10" column="4" />
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1523401090315">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1523377522515">
         <mark key="'" line="68" column="47" />
@@ -581,11 +588,8 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/test.js" timestamp="1520290016855">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/test.js" timestamp="1523400916888">
+        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_once.js" timestamp="1523385348924">
         <mark key="[" line="24" column="67" />
@@ -941,12 +945,11 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1520289778089">
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523401605825">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="20" column="24" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522361535180">
         <mark key="'" line="127" column="41" />
@@ -986,14 +989,14 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/keys.json" timestamp="1523400951681">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="22" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="17" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="106" column="22" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="0" column="6" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
-      <jump line="40" column="51" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="44" column="80" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="57" column="35" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="66" column="43" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="68" column="78" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
@@ -1088,64 +1091,69 @@
       <jump line="53" column="1" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="193" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" />
       <jump line="134" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/test.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
+      <jump line="3" column="21" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
+      <jump line="6" column="30" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
+      <jump line="7" column="34" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5EYXRhKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvbmZpZywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>expectedMessage</text>
+        <text>qa</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>qa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5EYXRhKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvbmZpZywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
+        <text encoding="base64">Ly8gdXNlIFFBIGF1dGggc2VydmljZSBpbiBkZXYgYWNjb3VudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">Ly8gdXNlIFFBIGF1dGggc2VydmljZSBpbiBkZXYgYWNjb3VudAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvbmZpZywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5EYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGFyYW1zLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlIGJhZE1lc3NhZ2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyZWhvc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>qa</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>qa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AWS</entry>
         <entry>_</entry>
         <entry>c</entry>
         <entry>logger</entry>
@@ -1165,6 +1173,7 @@
         <entry>id</entry>
         <entry>only</entry>
         <entry>console</entry>
+        <entry>qa</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
