@@ -364,12 +364,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" timestamp="1523401103758">
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" timestamp="1523416063080">
         <mark key="'" line="7" column="34" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="35" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="3" column="21" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
@@ -531,11 +531,11 @@
       <file name="/fragment.js" timestamp="1523389741245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1523401090315">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1523416015113">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1523377522515">
         <mark key="'" line="68" column="47" />
@@ -588,8 +588,12 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/test.js" timestamp="1523400916888">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/test.js" timestamp="1523416273794">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+        <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_once.js" timestamp="1523385348924">
         <mark key="[" line="24" column="67" />
@@ -945,7 +949,7 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523401605825">
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523402943282">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1099,11 +1103,11 @@
       <jump line="7" column="34" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvbmZpZywgbnVsbCwgMikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>qa</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>qa</text>
@@ -1112,34 +1116,40 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvbmZpZywgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gdXNlIFFBIGF1dGggc2VydmljZSBpbiBkZXYgYWNjb3VudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gdXNlIFFBIGF1dGggc2VydmljZSBpbiBkZXYgYWNjb3VudAo=</text>
+      <register name="3" type="4">
+        <text>},
+    
+    logging: {
+        logstash: {
+            host: 'logger.aws.cbtnuggets.com',
+            port: 12201
+        }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvbmZpZywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5EYXRhKTsK</text>
+        <text encoding="base64">Ly8gdXNlIFFBIGF1dGggc2VydmljZSBpbiBkZXYgYWNjb3VudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
+        <text encoding="base64">Ly8gdXNlIFFBIGF1dGggc2VydmljZSBpbiBkZXYgYWNjb3VudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNvbmZpZywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGF0YSA9IEpTT04ucGFyc2UocGFyYW1zLlJlY29yZC5EYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
