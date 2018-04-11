@@ -531,7 +531,7 @@
       <file name="/fragment.js" timestamp="1523389741245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1523416015113">
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1523488263318">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
@@ -738,6 +738,7 @@
         <mark key="^" line="231" column="29" />
         <mark key="." line="100" column="31" />
       </file>
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/node_modules/lib-service-client-nodejs/lib/request.js" timestamp="1523488603029" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
         <mark key="]" line="76" column="39" />
@@ -872,7 +873,7 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="/JavaScript Console" timestamp="1523389716380">
+      <file name="/JavaScript Console" timestamp="1523488626789">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="27" />
@@ -950,10 +951,7 @@
         <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523402943282">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="'" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522361535180">
         <mark key="'" line="127" column="41" />
@@ -993,11 +991,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/keys.json" timestamp="1523400951681">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="35" />
-        <mark key="^" line="22" column="31" />
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/keys.json" timestamp="1523488619515">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -1104,10 +1102,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>2065a57ablarg0aeb880b51b83f5e74278569f9acf416</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>2065a57ablarg0aeb880b51b83f5e74278569f9acf416</text>
       </register>
       <register name="/" type="4">
         <text>qa</text>
@@ -1202,9 +1200,9 @@
         <entry>182</entry>
         <entry>132</entry>
         <entry>wq</entry>
-        <entry>vsp</entry>
         <entry>vs</entry>
         <entry>q</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
