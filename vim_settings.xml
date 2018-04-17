@@ -159,7 +159,6 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/package.json" timestamp="1523902776858" />
       <file name="$USER_HOME$/src/services/service-auth/node/lib/publish_email.js" timestamp="1510352930273">
         <mark key="[" line="194" column="12" />
         <mark key="]" line="194" column="16" />
@@ -739,7 +738,6 @@
         <mark key="^" line="231" column="29" />
         <mark key="." line="100" column="31" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/node_modules/lib-service-client-nodejs/lib/request.js" timestamp="1523488603029" />
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
         <mark key="]" line="76" column="39" />
@@ -951,8 +949,9 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523402943282">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523984681698">
+        <mark key="'" line="16" column="40" />
+        <mark key="[" line="3" column="57" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522361535180">
         <mark key="'" line="127" column="41" />
@@ -992,7 +991,7 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/keys.json" timestamp="1523903671745">
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/keys.json" timestamp="1523904246617">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="30" />
@@ -1000,7 +999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="35" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="66" column="43" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="68" column="78" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="79" column="65" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
@@ -1100,6 +1098,7 @@
       <jump line="3" column="21" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
       <jump line="6" column="30" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
       <jump line="7" column="34" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" />
+      <jump line="16" column="40" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
