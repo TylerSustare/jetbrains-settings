@@ -364,12 +364,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" timestamp="1523985890449">
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/prod.js" timestamp="1523989051704">
         <mark key="'" line="7" column="34" />
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="8" column="53" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
@@ -531,10 +531,10 @@
       <file name="/fragment.js" timestamp="1523389741245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1523986622167">
-        <mark key="[" line="11" column="124" />
-        <mark key="]" line="11" column="123" />
-        <mark key="." line="11" column="123" />
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1523989027369">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="124" />
+        <mark key="." line="15" column="17" />
         <mark key="^" line="11" column="123" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1523377522515">
@@ -1104,17 +1104,17 @@
       <jump line="31" column="58" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgbm90aWZpY2F0aW9uU2NoZWR1bGVDbGllbnRMaWIgPSByZXF1aXJlKCdsaWItbm90aWZpY2F0aW9uLXNjaGVkdWxlLXNlcnZpY2UtY2xpZW50LW5vZGVqcycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>LOG_CA</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBncmFudF90eXBlOiBrZXlzLnNlcnZpY2UucHJvZC5ncmFudF90eXBlCg==</text>
+        <text encoding="base64">ICAgIG5vdGlmaWNhdGlvblNjaGVkdWxlSG9zdDogJ2h0dHA6Ly8xLm5vdGlmaWNhdGlvbi1zY2hlZHVsZS5zZXJ2aWNlLnFhLnVzLWVhc3QtMS5udWdnZXRzLmxvY2FsLi9ub3RpZmljYXRpb24tc2NoZWR1bGUvdjEnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gY29uc3Qgbm90aWZpY2F0aW9uU2NoZWR1bGVDbGllbnRMaWIgPSByZXF1aXJlKCdsaWItbm90aWZpY2F0aW9uLXNjaGVkdWxlLXNlcnZpY2UtY2xpZW50LW5vZGVqcycpOwo=</text>
