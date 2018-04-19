@@ -266,12 +266,14 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" timestamp="1524162199307">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="95" />
-        <mark key="." line="33" column="95" />
-        <mark key="^" line="33" column="95" />
+      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" timestamp="1524164069715">
+        <mark key="'" line="47" column="39" />
+        <mark key="[" line="61" column="71" />
+        <mark key="]" line="61" column="80" />
+        <mark key="." line="61" column="80" />
+        <mark key="^" line="61" column="80" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/node_modules/lib-service-client-nodejs/lib/request.js" timestamp="1524164612743" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512755480837">
         <mark key="'" line="213" column="13" />
         <mark key="[" line="224" column="57" />
@@ -741,9 +743,6 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1523396749429">
-        <mark key="'" line="103" column="0" />
-      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="5" />
@@ -1024,8 +1023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="33" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="125" column="41" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" />
       <jump line="114" column="47" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="61" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="92" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
@@ -1124,66 +1121,67 @@
       <jump line="31" column="58" filename="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" />
       <jump line="3" column="24" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_notification.js" />
       <jump line="1" column="6" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_notification.js" />
+      <jump line="40" column="12" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
+      <jump line="47" column="39" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>destination, applicantInfo, file</text>
       </register>
       <register name="-" type="4">
-        <text>destination</text>
+        <text>destination, applicantInfo, file</text>
       </register>
       <register name="/" type="4">
-        <text>payload</text>
+        <text>report</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU2VydmljZUFQSUVycm9yKFNlcnZpY2VBUElFcnJvci5jb2Rlcy5NSVNTSU5HX1JFUVVJUkVEX1BBUkFNLCB7CiAgICAgICAgICAgICAgICAgICAgcGFyYW1ldGVyOiAnZGVzdGluYXRpb24nCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZpY2VSZXF1ZXN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFib2R5KSB7Cgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>ServiceAPIError.codes.MISSING_REQUIRED_PARAM, {
                     parameter: 'body'
                 }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcm5hbE5vdGZpZnkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>payload</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern>payload</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mongo</entry>
         <entry>ongo</entry>
         <entry>buildMess</entry>
         <entry>stats</entry>
@@ -1203,6 +1201,7 @@
         <entry>config</entry>
         <entry>util</entry>
         <entry>payload</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
