@@ -266,6 +266,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" timestamp="1524161757925">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="41" column="58" />
+        <mark key="." line="41" column="58" />
+        <mark key="^" line="41" column="58" />
+      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512755480837">
         <mark key="'" line="213" column="13" />
         <mark key="[" line="224" column="57" />
@@ -353,9 +359,6 @@
         <mark key="]" line="46" column="17" />
         <mark key="^" line="46" column="17" />
         <mark key="." line="46" column="17" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1523394808207">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
@@ -540,9 +543,6 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="/fragment.js" timestamp="1523389741245">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1524002130811">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="124" />
@@ -657,6 +657,12 @@
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/.nvmrc" timestamp="1524161793766">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -934,9 +940,6 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523377162676">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/2lambda_test.js" timestamp="1515188953470">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="27" />
@@ -1123,47 +1126,49 @@
       <jump line="1" column="6" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_notification.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>destination</text>
       </register>
       <register name="-" type="4">
-        <text>, next</text>
+        <text>destination</text>
       </register>
       <register name="/" type="4">
         <text>payload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJkeW5hbW9kYiI6ewogICAgICAgICJ0YWJsZSI6ICJxYS1hdXRoIgogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU2VydmljZUFQSUVycm9yKFNlcnZpY2VBUElFcnJvci5jb2Rlcy5NSVNTSU5HX1JFUVVJUkVEX1BBUkFNLCB7CiAgICAgICAgICAgICAgICAgICAgcGFyYW1ldGVyOiAnZGVzdGluYXRpb24nCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoOiBhdXRoQ2xpZW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiBmYWxzZSB9KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFib2R5KSB7Cgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>ServiceAPIError.codes.MISSING_REQUIRED_PARAM, {
+                    parameter: 'body'
+                }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcC5nZXQoCiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbE5vdGZpZnkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cm91dGVzLkdFVF9VU0VSX1NVTU1BUlksCiAgICAgICAgcGFzc3BvcnQuYXV0aGVudGljYXRlKCdiZWFyZXInLCB7IGFzc2lnblByb3BlcnR5OiAndG9rZW4nLCBzZXNzaW9uOiBmYWxzZSwgZmFpbFdpdGhFcnJvcjogZmFsc2UgfSksCiAgICAgICAgbG9nZ2VyLnN0YXRzZC5jb2xsZWN0KCdlbmRwb2ludC5nZXQudXNlcl9zdW1tYXJ5JywgewogICAgICAgICAgICBzdGF0dXM6IHRydWUsCiAgICAgICAgICAgIHRpbWluZzogdHJ1ZQogICAgICAgIH0pLAogICAgICAgIChyZXEsIHJlcywgbmV4dCkgPT4gewogICAgICAgICAgICBsZXQgdXNlclN1bW1hcnk7CiAgICAgICAgICAgIFEuYWxsKFsKICAgICAgICAgICAgICAgIG1lbWJlclNlcnZpY2VDbGllbnQuQVBJLmdldFByb2ZpbGUocmVxLnRva2VuLmFjY2Vzc190b2tlbikuZXhlYygpLAogICAgICAgICAgICAgICAgbWVtYmVyU2VydmljZUNsaWVudC5BUEkuaW50ZXJuYWxHZXRHcm91cEZvck1lbWJlcihyZXEudG9rZW4udXNlcl9pZCkuZXhlYygpLAogICAgICAgICAgICAgICAgbWVtYmVyU2VydmljZUNsaWVudC5BUEkuaW50ZXJuYWxHZXRHcm91cEZvck1lbWJlcihyZXEudG9rZW4udXNlcl9pZCwgJ3N0cmVhbVN1YnNjcmlwdGlvbicpLmV4ZWMoKSwKICAgICAgICAgICAgICAgIGF1dGhDbGllbnQuQVBJLmdldFVzZXJGcm9tQWNjZXNzVG9rZW4ocmVxLnRva2VuLmFjY2Vzc190b2tlbikuZXhlYygpXSkKICAgICAgICAgICAgICAgIC5zcHJlYWQoKHByb2ZpbGUsIGdyb3VwLCBsYXRlc3RTdWJzY3JpcHRpb25Hcm91cCwgYXV0aEluZm8pID0+IHsKICAgICAgICAgICAgICAgICAgICB1c2VyU3VtbWFyeSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbWFyeUdyb3VwSWQ6IGdyb3VwLmdyb3VwLAogICAgICAgICAgICAgICAgICAgICAgICBsYXRlc3RTdWJzY3JpcHRpb25Hcm91cElkOiBsYXRlc3RTdWJzY3JpcHRpb25Hcm91cC5ncm91cCwKICAgICAgICAgICAgICAgICAgICAgICAgYXV0aEluZm8KICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgICAgIHJldHVybiBtZW1iZXJTZXJ2aWNlQ2xpZW50LkFQSS5pbnRlcm5hbEdldEdyb3VwUm9sZXNGb3JVc2VyKGdyb3VwLmdyb3VwLCByZXEudG9rZW4udXNlcl9pZCkuZXhlYygpOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC50aGVuKHJvbGVzID0+IHsKICAgICAgICAgICAgICAgICAgICB1c2VyU3VtbWFyeS5ncm91cFJvbGVzID0gcm9sZXM7CiAgICAgICAgICAgICAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQodXNlclN1bW1hcnkpOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGVycik7CiAgICAgICAgICAgICAgICAgICAgcmVzLnN0YXR1cyg1MDApLnNlbmQoZ2VuZXJhdGVQYXlsb2FkKG51bGwsIGVycikpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqCiAgICAgKiAvdXNlci9zdW1tYXJ5CiAgICAgKgogICAgICogcmV0dXJucyBhIHN1bW1hcnkgb2YgdXNlciBpbmZvIGZvciB1c2VyIHdpdGggdGhlIGFjY2VzcyB0b2tlbiBwYXNzZWQgaW4uCiAgICAgKgogICAgICogU3RydWN0dXJlIHJldHVybmVkOgogICAgICoKICAgICAqICAgICB7CiAgICAgKiAgICAgICJwcm9maWxlIjogewogICAgICogICAgICAgICJfaWQiOiAiNTdmZDUzMzJkNGRlODUyZjAxODAxMmQzIiwKICAgICAqICAgICAgICAiZGlzcGxheV9uYW1lIjogIktlaXRoX0pvaG5zdG9uIiwKICAgICAqICAgICAgICAibWVtYmVyX2lkIjogIjIwMzQxNjkiLAogICAgICogICAgICAgICJfX3YiOiAwLAogICAgICogICAgICAgICJjb250YWN0X3Bob25lX2NvdW50cnlfY29kZSI6ICJ1cyIsCiAgICAgKiAgICAgICAgImNvbnRhY3RfcGhvbmUiOiAiKzE1NDE1NTU2MDYwIiwKICAgICAqICAgICAgICAiY29udGFjdF9lbWFpbCI6IG51bGwsCiAgICAgKiAgICAgICAgImNvbnRhY3Rfc2t5cGUiOiAia2VpdGhqb2huc3RvbiIsCiAgICAgKiAgICAgICAgImNvbnRhY3RfZ29vZ2xlX2hhbmdvdXQiOiBudWxsLAogICAgICogICAgICAgICJjb250YWN0X3RleHRfY291bnRyeV9jb2RlIjogbnVsbCwKICAgICAqICAgICAgICAiY29udGFjdF90ZXh0IjogbnVsbCwKICAgICAqICAgICAgICAiYXZhdGFyIjogewogICAgICogICAgICAgICAgImtleSI6ICJram9obnN0b25AY2J0bnVnZ2V0cy5jb20iLAogICAgICogICAgICAgICAgInByb3ZpZGVyIjogImdyYXZhdGFyIiwKICAgICAqICAgICAgICAgICJzbWFsbCI6ICJodHRwczovL2dyYXZhdGFyLmNvbS9hdmF0YXIvMGU3OWRjYmE0YTU3NTg1MzE4YTI1YjFmODlkYWViMDQ/cz0zMiZkPWh0dHBzJTNBJTJGJTJGd3d3LmNidG51Z2dldHMuY29tJTJGc3RhdGljJTJGaW1hZ2VzJTJGYXZhdGFycyUyRmdvbGQzMi5wbmciLAogICAgICogICAgICAgICAgIm1lZGl1bSI6ICJodHRwczovL2dyYXZhdGFyLmNvbS9hdmF0YXIvMGU3OWRjYmE0YTU3NTg1MzE4YTI1YjFmODlkYWViMDQ/cz02NCZkPWh0dHBzJTNBJTJGJTJGd3d3LmNidG51Z2dldHMuY29tJTJGc3RhdGljJTJGaW1hZ2VzJTJGYXZhdGFycyUyRmdvbGQ2NC5wbmciLAogICAgICogICAgICAgICAgImxhcmdlIjogImh0dHBzOi8vZ3JhdmF0YXIuY29tL2F2YXRhci8wZTc5ZGNiYTRhNTc1ODUzMThhMjViMWY4OWRhZWIwND9zPTEyOCZkPWh0dHBzJTNBJTJGJTJGd3d3LmNidG51Z2dldHMuY29tJTJGc3RhdGljJTJGaW1hZ2VzJTJGYXZhdGFycyUyRmdvbGQxMjgucG5nIgogICAgICogICAgICAgIH0KICAgICAqICAgICAgfSwKICAgICAqICAgICAgInByaW1hcnlHcm91cElkIjogIDMwODc3MSwKICAgICAqICAgICAgImF1dGhJbmZvIjogewogICAgICogICAgICAgICJuYW1lIjogewogICAgICogICAgICAgICAgImZpcnN0IjogIktlaXRoIiwKICAgICAqICAgICAgICAgICJsYXN0IjogIkpvaG5zdG9uIgogICAgICogICAgICAgIH0sCiAgICAgKiAgICAgICAgImlkIjogIjIwMzQxNjkiLAogICAgICogICAgICAgICJ1c2VybmFtZSI6ICJram9obnN0b25AY2J0bnVnZ2V0cy5jb20iLAogICAgICogICAgICAgICJyb2xlcyI6IFsKICAgICAqICAgICAgICAgICJhZG1pbiIsCiAgICAgKiAgICAgICAgICAic3RhZmYiLAogICAgICogICAgICAgICAgInN1cHBvcnQiLAogICAgICogICAgICAgICAgIm1hcmtldGluZyIKICAgICAqICAgICAgICBdLAogICAgICogICAgICAgICJlbWFpbCI6ICJram9obnN0b25AY2J0bnVnZ2V0cy5jb20iCiAgICAgKiAgICAgIH0KICAgICAqICAgIH0KICAgICAqCiAgICAgKi8=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRoOiBhdXRoQ2xpZW50LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBPU1RfTk9USUZZOiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiBmYWxzZSB9KSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBkZXYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
