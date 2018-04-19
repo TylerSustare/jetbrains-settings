@@ -266,11 +266,11 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" timestamp="1524161757925">
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="41" column="58" />
-        <mark key="." line="41" column="58" />
-        <mark key="^" line="41" column="58" />
+      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" timestamp="1524162199307">
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="33" column="95" />
+        <mark key="." line="33" column="95" />
+        <mark key="^" line="33" column="95" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512755480837">
         <mark key="'" line="213" column="13" />
@@ -1126,8 +1126,8 @@
       <jump line="1" column="6" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_notification.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>destination</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>destination</text>
@@ -1139,36 +1139,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU2VydmljZUFQSUVycm9yKFNlcnZpY2VBUElFcnJvci5jb2Rlcy5NSVNTSU5HX1JFUVVJUkVEX1BBUkFNLCB7CiAgICAgICAgICAgICAgICAgICAgcGFyYW1ldGVyOiAnZGVzdGluYXRpb24nCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFib2R5KSB7Cgo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>ServiceAPIError.codes.MISSING_REQUIRED_PARAM, {
                     parameter: 'body'
                 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlcm5hbE5vdGZpZnkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoOiBhdXRoQ2xpZW50LAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiBmYWxzZSB9KSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
