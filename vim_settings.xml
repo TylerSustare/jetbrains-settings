@@ -266,14 +266,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" timestamp="1524164069715">
-        <mark key="'" line="47" column="39" />
-        <mark key="[" line="61" column="71" />
-        <mark key="]" line="61" column="80" />
-        <mark key="." line="61" column="80" />
-        <mark key="^" line="61" column="80" />
+      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" timestamp="1524169817904">
+        <mark key="'" line="56" column="40" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/node_modules/lib-service-client-nodejs/lib/request.js" timestamp="1524164612743" />
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512755480837">
         <mark key="'" line="213" column="13" />
         <mark key="[" line="224" column="57" />
@@ -1023,8 +1021,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="47" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="61" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="92" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="105" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
@@ -1123,13 +1119,15 @@
       <jump line="1" column="6" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_notification.js" />
       <jump line="40" column="12" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
       <jump line="47" column="39" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
+      <jump line="53" column="40" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>destination, applicantInfo, file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF8uaXNOaWwoYXJncy5kZXN0aW5hdGlvbikgPyAK</text>
       </register>
       <register name="-" type="4">
-        <text>destination, applicantInfo, file</text>
+        <text encoding="base64">IGNyZWF0ZVBhcmFtcw==</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
@@ -1138,36 +1136,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU2VydmljZUFQSUVycm9yKFNlcnZpY2VBUElFcnJvci5jb2Rlcy5NSVNTSU5HX1JFUVVJUkVEX1BBUkFNLCB7CiAgICAgICAgICAgICAgICAgICAgcGFyYW1ldGVyOiAnZGVzdGluYXRpb24nCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlcnZpY2VSZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgIF8uaXNOaWwoYXJncy5kZXN0aW5hdGlvbikgPyAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIHRlcm5hcnkgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGU6IGZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGxpY2FudF9pbmZvOiBfLmdldChhcHBsaWNhbnRJbmZvLCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhcmFtcy5hcHBsaWNhbnRfaW5mbyA9IGFwcGxpY2FudEluZm87Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFib2R5KSB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>ServiceAPIError.codes.MISSING_REQUIRED_PARAM, {
-                    parameter: 'body'
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
