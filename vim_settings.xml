@@ -387,6 +387,12 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1524247019715">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="30" column="11" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/index.js" timestamp="1515441025305">
         <mark key="'" line="139" column="40" />
         <mark key="[" line="153" column="34" />
@@ -817,13 +823,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1523396774745">
-        <mark key="'" line="295" column="40" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="328" column="42" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -895,7 +894,7 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="/JavaScript Console" timestamp="1523488626789">
+      <file name="/JavaScript Console" timestamp="1524247147145">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="27" />
@@ -1124,17 +1123,17 @@
       <jump line="32" column="33" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>applicantInfo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>applicantInfo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>applicant</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU2VydmljZUFQSUVycm9yKFNlcnZpY2VBUElFcnJvci5jb2Rlcy5NSVNTSU5HX1JFUVVJUkVEX1BBUkFNLCB7CiAgICAgICAgICAgICAgICAgICAgcGFyYW1ldGVyOiAnZGVzdGluYXRpb24nCiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
