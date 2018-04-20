@@ -654,12 +654,12 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1515691159794">
-        <mark key="'" line="417" column="33" />
-        <mark key="[" line="355" column="26" />
-        <mark key="]" line="358" column="33" />
-        <mark key="." line="358" column="37" />
-        <mark key="^" line="358" column="33" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1524264826415">
+        <mark key="'" line="429" column="33" />
+        <mark key="[" line="353" column="9" />
+        <mark key="]" line="353" column="9" />
+        <mark key="." line="353" column="9" />
+        <mark key="^" line="353" column="9" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-notification-schedule-service-client-nodejs/client.js" timestamp="1519066337377">
         <mark key="'" line="21" column="1" />
@@ -946,6 +946,7 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/woodhouse.js" timestamp="1524264580532" />
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/.eslintrc" timestamp="1510269022888">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
@@ -1126,8 +1127,8 @@
       <jump line="32" column="33" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>knes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="-" type="4">
         <text>knes</text>
@@ -1139,34 +1140,34 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAp9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhcmFtcy5hcHBsaWNhbnRfaW5mbyA9IGFwcGxpY2FudEluZm87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhcmFtcy5hcHBsaWNhbnRfaW5mbyA9IGFwcGxpY2FudEluZm87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGU6IGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGxpY2FudF9pbmZvOiBhcHBsaWNhbnRJbmZvLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc3RpbmF0aW9uOiBkZXN0aW5hdGlvbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGU6IGZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
