@@ -550,12 +550,12 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524517088111">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524517692043">
         <mark key="'" line="167" column="0" />
-        <mark key="[" line="167" column="63" />
-        <mark key="]" line="167" column="62" />
-        <mark key="^" line="167" column="62" />
-        <mark key="." line="167" column="62" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="^" line="166" column="36" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" timestamp="1518730412858">
         <mark key="'" line="39" column="31" />
@@ -1154,19 +1154,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuVmFsdWVzLmV4cGlyZXNJbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7U3RyaW5nfSB1c2VySWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRva2VuVmFsdWVzID0gXy5jbG9uZURlZXAodGhpcy5kZXNlcmlhbGl6ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuVmFsdWVzLmV4cGlyZXNJbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1175,22 +1175,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
