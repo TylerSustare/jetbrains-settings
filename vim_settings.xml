@@ -43,6 +43,12 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1524512370465">
+        <mark key="[" line="72" column="10" />
+        <mark key="]" line="72" column="18" />
+        <mark key="^" line="72" column="18" />
+        <mark key="." line="72" column="18" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -195,6 +201,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" timestamp="1524511439243">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="20" />
+        <mark key="^" line="34" column="5" />
+        <mark key="." line="32" column="20" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/response.js" timestamp="1507927845047">
         <mark key="[" line="49" column="50" />
@@ -406,6 +419,13 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" timestamp="1524511577429">
+        <mark key="'" line="39" column="16" />
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="10" column="16" />
+      </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
         <mark key="[" line="16" column="6" />
         <mark key="]" line="16" column="6" />
@@ -530,7 +550,13 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524504342814" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524510616127">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" timestamp="1518730412858">
         <mark key="'" line="39" column="31" />
         <mark key="[" line="39" column="38" />
@@ -1025,25 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="16" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="104" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="111" column="16" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="27" column="50" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="122" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="189" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="21" column="60" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="20" column="64" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="190" column="16" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="23" column="47" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="23" column="38" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="1" column="80" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="21" column="61" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="24" column="58" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="37" column="33" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="38" column="29" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="57" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
@@ -1125,66 +1132,82 @@
       <jump line="56" column="31" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
       <jump line="57" column="43" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
       <jump line="32" column="33" filename="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/api.js" />
+      <jump line="33" column="15" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="34" column="8" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="36" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="37" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="38" column="8" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" />
+      <jump line="16" column="54" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
+      <jump line="10" column="18" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
+      <jump line="39" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="&quot;" type="4">
+        <text>TokenGSI</text>
       </register>
       <register name="-" type="4">
-        <text>knes</text>
+        <text>TokenGSI</text>
       </register>
       <register name="/" type="4">
-        <text>applicant</text>
+        <text>mapV</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAp9LAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJJZCcsICd0b2tlbklkJywgJ2NsaWVudElkJywgJ3R5cGUnLCAnZmFjdG9ycycsICdpZHAnLCAndHRsJwogICAgICAgIF07Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLkFMTE9XRURfUEFSQU1TID0gWwogICAgICAgICAgICAndXNlcklkJywgJ3Rva2VuSWQnLCAnY2xpZW50SWQnLCAndHlwZScsICdmYWN0b3JzJywgJ2lkcCcsICd0dGwnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhcmFtcy5hcHBsaWNhbnRfaW5mbyA9IGFwcGxpY2FudEluZm87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcklkOiAnc3RyaW5nJywgLy8gUGFydGl0aW9uCiAgICAgICAgICAgIHRva2VuSWQ6ICdzdHJpbmcnLCAvLyBzb3J0CiAgICAgICAgICAgIGNsaWVudElkOiAnc3RyaW5nJywKICAgICAgICAgICAgdHlwZTogJ3N0cmluZycsCiAgICAgICAgICAgIGZhY3RvcnM6ICdzdHJpbmcnLAogICAgICAgICAgICBpZHA6ICdzdHJpbmcnLAogICAgICAgICAgICB0dGw6ICdudW1iZXInLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGU6IGZpbGUK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>applicant</last-search>
+      <last-search>mapV</last-search>
       <last-offset />
-      <last-pattern>applicant</last-pattern>
+      <last-pattern>mapV</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buildMess</entry>
-        <entry>stats</entry>
-        <entry>firehose</entry>
         <entry>notifyMember</entry>
         <entry>todoFix</entry>
         <entry>todoF</entry>
@@ -1202,6 +1225,9 @@
         <entry>payload</entry>
         <entry>report</entry>
         <entry>applicant</entry>
+        <entry>+</entry>
+        <entry>callback</entry>
+        <entry>mapV</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
