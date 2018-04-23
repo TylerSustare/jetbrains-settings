@@ -43,11 +43,11 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1524512370465">
-        <mark key="[" line="72" column="10" />
-        <mark key="]" line="72" column="18" />
-        <mark key="^" line="72" column="18" />
-        <mark key="." line="72" column="18" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1524514473387">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="^" line="65" column="29" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -550,12 +550,12 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524510616127">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524514839669">
+        <mark key="'" line="159" column="16" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="^" line="166" column="15" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" timestamp="1518730412858">
         <mark key="'" line="39" column="31" />
@@ -1051,11 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="33" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="38" column="29" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="57" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="67" column="24" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="11" column="7" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/production.js" />
       <jump line="82" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="65" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
       <jump line="39" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
@@ -1151,64 +1146,68 @@
       <jump line="16" column="54" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
       <jump line="10" column="18" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
       <jump line="39" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/validation/validation_tokenModel.js" />
+      <jump line="26" column="95" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="161" column="37" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="157" column="41" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="158" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="159" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TokenGSI</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TokenGSI</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
-        <text>mapV</text>
+        <text>multi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7U3RyaW5nfSB1c2VySWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJJZCcsICd0b2tlbklkJywgJ2NsaWVudElkJywgJ3R5cGUnLCAnZmFjdG9ycycsICdpZHAnLCAndHRsJwogICAgICAgIF07Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLkFMTE9XRURfUEFSQU1TID0gWwogICAgICAgICAgICAndXNlcklkJywgJ3Rva2VuSWQnLCAnY2xpZW50SWQnLCAndHlwZScsICdmYWN0b3JzJywgJ2lkcCcsICd0dGwnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcklkOiAnc3RyaW5nJywgLy8gUGFydGl0aW9uCiAgICAgICAgICAgIHRva2VuSWQ6ICdzdHJpbmcnLCAvLyBzb3J0CiAgICAgICAgICAgIGNsaWVudElkOiAnc3RyaW5nJywKICAgICAgICAgICAgdHlwZTogJ3N0cmluZycsCiAgICAgICAgICAgIGZhY3RvcnM6ICdzdHJpbmcnLAogICAgICAgICAgICBpZHA6ICdzdHJpbmcnLAogICAgICAgICAgICB0dGw6ICdudW1iZXInLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>mapV</last-search>
+      <last-search>multi</last-search>
       <last-offset />
-      <last-pattern>mapV</last-pattern>
+      <last-pattern>multi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>notifyMember</entry>
         <entry>todoFix</entry>
         <entry>todoF</entry>
         <entry>reminder_course</entry>
@@ -1228,6 +1227,7 @@
         <entry>+</entry>
         <entry>callback</entry>
         <entry>mapV</entry>
+        <entry>multi</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
@@ -1247,9 +1247,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
         <entry>vs</entry>
         <entry>sp</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
