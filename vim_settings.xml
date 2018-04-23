@@ -202,12 +202,12 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" timestamp="1524511439243">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/constants.js" timestamp="1524516253003">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="20" />
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="5" />
         <mark key="^" line="34" column="5" />
-        <mark key="." line="32" column="20" />
+        <mark key="." line="34" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/response.js" timestamp="1507927845047">
         <mark key="[" line="49" column="50" />
@@ -550,12 +550,12 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524514839669">
-        <mark key="'" line="159" column="16" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="^" line="166" column="15" />
-        <mark key="." line="163" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524516451431">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="166" column="46" />
+        <mark key="]" line="166" column="19" />
+        <mark key="^" line="166" column="19" />
+        <mark key="." line="166" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_trainersGet.js" timestamp="1518730412858">
         <mark key="'" line="39" column="31" />
@@ -1051,7 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="65" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
       <jump line="39" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
       <jump line="60" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" />
@@ -1151,64 +1150,64 @@
       <jump line="157" column="41" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
       <jump line="158" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
       <jump line="159" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="167" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>multi</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSB7U3RyaW5nfSB1c2VySWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>multi</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern>multi</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>todoFix</entry>
         <entry>todoF</entry>
         <entry>reminder_course</entry>
         <entry>sendTrainingReminderNo</entry>
@@ -1228,6 +1227,7 @@
         <entry>callback</entry>
         <entry>mapV</entry>
         <entry>multi</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
@@ -1247,9 +1247,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>vsp</entry>
-        <entry>w</entry>
         <entry>vs</entry>
         <entry>sp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
