@@ -553,12 +553,12 @@
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524522968953">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524524154940">
         <mark key="'" line="168" column="0" />
-        <mark key="[" line="172" column="29" />
-        <mark key="]" line="172" column="39" />
-        <mark key="^" line="172" column="39" />
-        <mark key="." line="172" column="39" />
+        <mark key="[" line="174" column="37" />
+        <mark key="]" line="175" column="57" />
+        <mark key="." line="175" column="57" />
+        <mark key="^" line="175" column="57" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/require-directory/index.js" timestamp="1524520067147">
         <mark key="[" line="58" column="52" />
@@ -935,7 +935,7 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="/JavaScript Console" timestamp="1524522976655">
+      <file name="/JavaScript Console" timestamp="1524524050620">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="27" />
@@ -1165,10 +1165,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{});</text>
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text>{});</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
@@ -1177,34 +1177,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRva2VuVmFsdWVzID0gXy5jbG9uZURlZXAodGhpcy5kZXNlcmlhbGl6ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRva2VuVmFsdWVzID0gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuVmFsdWVzLmV4cGlyZXNJbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGUsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpbmc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNsZyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZGRiVG9rZW4gPT4gZGRiVG9rZW4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRva2VuVmFsdWVzID0gdGhpczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRva2VuVmFsdWVzLmV4cGlyZXNJbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
