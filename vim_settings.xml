@@ -493,10 +493,10 @@
         <mark key="." line="31" column="51" />
         <mark key="^" line="31" column="51" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1524590175084">
+      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1524590293283">
         <mark key="[" line="33" column="61" />
         <mark key="]" line="33" column="61" />
-        <mark key="^" line="33" column="61" />
+        <mark key="^" line="33" column="44" />
         <mark key="." line="33" column="61" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516925340159">
@@ -1177,10 +1177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ['saml']</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>, ['saml']</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
