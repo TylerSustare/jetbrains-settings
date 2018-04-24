@@ -385,6 +385,7 @@
         <mark key="^" line="46" column="17" />
         <mark key="." line="46" column="17" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/node_modules/lib-video-query-service-client-nodejs/node_modules/lib-logger-nodejs/lib/node_logger.js" timestamp="1524603851512" />
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="23" />
@@ -803,13 +804,13 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524602408033">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524604066621">
         <mark key="a" line="82" column="70" />
-        <mark key="'" line="285" column="24" />
-        <mark key="[" line="82" column="67" />
-        <mark key="]" line="82" column="67" />
-        <mark key="." line="82" column="67" />
-        <mark key="^" line="82" column="71" />
+        <mark key="'" line="84" column="28" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="41" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -1058,6 +1059,12 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="32" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/package.json" timestamp="1524604019144">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token.js" timestamp="1512690514894">
         <mark key="'" line="51" column="18" />
         <mark key="[" line="114" column="0" />
@@ -1091,7 +1098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="265" column="23" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="54" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="3" column="35" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
@@ -1191,64 +1197,64 @@
       <jump line="321" column="42" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="287" column="63" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
       <jump line="285" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
+      <jump line="84" column="28" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dXNlY2FzIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5hbGVydChgYCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlY2FzIA==</text>
+        <text>espiro</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ0NsaWVudCBTaWduYXR1cmUgVGVzdHMnLCAnLi9saWIvY2xpZW50X3NpZ25hdHVyZXMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KG5vdGlmeUVycm9yLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5hbGVydChgYCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkgewoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KG5vdGlmeUVycm9yLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4obm90aWZpY2F0aW9uU2VydmljZUVycm9yID0+IHsKICAgICAgICAgICAgICAgIGlmICgpIHsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoc2NoZWR1bGVGb3JUb2RvLmZyZXF1ZW5jeSAhPT0gJ29uY2UnKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgbmV4dFByb2Nlc3NBdCA9IGdlbmVyYXRlUHJvY2Vzc0F0RnJvbVNjaGVkdWxlKHNjaGVkdWxlRm9yVG9kbyk7CgogICAgICAgICAgICAgICAgICAgIHJldHVybiBUb2RvTW9kZWwuY3JlYXRlVG9kbyh7CiAgICAgICAgICAgICAgICAgICAgICAgIHNjaGVkdWxlX2lkOiBzY2hlZHVsZUZvclRvZG8uX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzX2F0OiBuZXh0UHJvY2Vzc0F0CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwog</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCkgewoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2gobm90aWZ5RXJyb3IgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAobm90aWZ5RXJyb3IubWVzc2FnZS5pbmNsdWRlcygnZHVwbGljYXRlIGtleSBlcnJvciBpbmRleDogbWVtYmVyLmNoYW5uZWxzLiRjb25maWcuZW1haWxfMSAgZHVwIGtleTonKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobm90aWZ5RXJyb3IsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4obm90aWZpY2F0aW9uU2VydmljZUVycm9yID0+IHsKICAgICAgICAgICAgICAgIGlmICgpIHsKCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoc2NoZWR1bGVGb3JUb2RvLmZyZXF1ZW5jeSAhPT0gJ29uY2UnKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgbmV4dFByb2Nlc3NBdCA9IGdlbmVyYXRlUHJvY2Vzc0F0RnJvbVNjaGVkdWxlKHNjaGVkdWxlRm9yVG9kbyk7CgogICAgICAgICAgICAgICAgICAgIHJldHVybiBUb2RvTW9kZWwuY3JlYXRlVG9kbyh7CiAgICAgICAgICAgICAgICAgICAgICAgIHNjaGVkdWxlX2lkOiBzY2hlZHVsZUZvclRvZG8uX2lkLAogICAgICAgICAgICAgICAgICAgICAgICBwcm9jZXNzX2F0OiBuZXh0UHJvY2Vzc0F0CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwog</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2gobm90aWZ5RXJyb3IgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAobm90aWZ5RXJyb3IubWVzc2FnZS5pbmNsdWRlcygnZHVwbGljYXRlIGtleSBlcnJvciBpbmRleDogbWVtYmVyLmNoYW5uZWxzLiRjb25maWcuZW1haWxfMSAgZHVwIGtleTonKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobm90aWZ5RXJyb3IsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reminder_course</entry>
         <entry>sendTrainingReminderNo</entry>
         <entry>handleNotifications</entry>
         <entry>handle\ no</entry>
@@ -1268,6 +1274,7 @@
         <entry>multi</entry>
         <entry>null</entry>
         <entry>mock</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
