@@ -814,12 +814,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524769002547">
-        <mark key="'" line="328" column="0" />
-        <mark key="[" line="289" column="63" />
-        <mark key="]" line="290" column="39" />
-        <mark key="." line="290" column="39" />
-        <mark key="^" line="290" column="39" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524778605001">
+        <mark key="'" line="359" column="0" />
+        <mark key="[" line="317" column="73" />
+        <mark key="]" line="318" column="90" />
+        <mark key="." line="318" column="90" />
+        <mark key="^" line="318" column="90" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -827,7 +827,7 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/schedule.js" timestamp="1518648694301">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/schedule.js" timestamp="1524778323462">
         <mark key="[" line="100" column="31" />
         <mark key="]" line="100" column="31" />
         <mark key="^" line="231" column="29" />
@@ -896,10 +896,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524772862339">
-        <mark key="[" line="372" column="8" />
-        <mark key="]" line="372" column="8" />
-        <mark key="." line="372" column="8" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524777765675">
+        <mark key="'" line="325" column="28" />
+        <mark key="[" line="123" column="6" />
+        <mark key="]" line="123" column="10" />
+        <mark key="." line="123" column="10" />
+        <mark key="^" line="123" column="10" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -1111,8 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="22" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="23" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="24" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="25" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
@@ -1211,16 +1211,18 @@
       <jump line="246" column="5" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="185" column="22" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" />
       <jump line="4" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
+      <jump line="325" column="28" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="357" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.schedule_id]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.schedule_id]</text>
       </register>
       <register name="/" type="4">
-        <text>handle\ noti</text>
+        <text>sendTrainingReminder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ1Nhbml0aXplciBsaWIgVGVzdHMnLCAnLi9saWIvc2FuaXRpemVycycpOwo=</text>
@@ -1260,16 +1262,14 @@
       </register>
     </registers>
     <search>
-      <last-search>handle\ noti</last-search>
+      <last-search>sendTrainingReminder</last-search>
       <last-offset />
-      <last-pattern>handle\ noti</last-pattern>
+      <last-pattern>sendTrainingReminder</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mock</entry>
-        <entry>return Q</entry>
         <entry>logger</entry>
         <entry>PROCESS_TO</entry>
         <entry>const\ trainingRem</entry>
@@ -1288,6 +1288,8 @@
         <entry>should\ get</entry>
         <entry>should\ get\ training</entry>
         <entry>handle\ noti</entry>
+        <entry>reminder_gener</entry>
+        <entry>sendTrainingReminder</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
@@ -1305,10 +1307,10 @@
         <entry>132</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>vsp</entry>
         <entry>vs</entry>
         <entry>sp</entry>
         <entry>19</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
