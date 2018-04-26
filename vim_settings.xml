@@ -821,12 +821,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524780648208">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524781931072">
         <mark key="'" line="359" column="0" />
-        <mark key="[" line="317" column="73" />
-        <mark key="]" line="318" column="90" />
-        <mark key="." line="318" column="90" />
-        <mark key="^" line="318" column="90" />
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="78" column="51" />
+        <mark key="." line="78" column="51" />
+        <mark key="^" line="271" column="42" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -903,12 +903,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524781231588">
-        <mark key="'" line="354" column="7" />
-        <mark key="[" line="123" column="6" />
-        <mark key="]" line="123" column="6" />
-        <mark key="." line="123" column="6" />
-        <mark key="^" line="354" column="10" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524782656889">
+        <mark key="'" line="183" column="11" />
+        <mark key="[" line="189" column="53" />
+        <mark key="]" line="189" column="58" />
+        <mark key="." line="189" column="58" />
+        <mark key="^" line="189" column="58" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -1120,7 +1120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="28" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="30" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="31" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
@@ -1220,49 +1219,50 @@
       <jump line="52" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/todos.js" />
       <jump line="123" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="354" column="7" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="183" column="11" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>only</text>
+        <text>scheduleFixtures</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>scheduleFixtures</text>
       </register>
       <register name="/" type="4">
         <text>only</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ1Nhbml0aXplciBsaWIgVGVzdHMnLCAnLi9saWIvc2FuaXRpemVycycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IF8uY2xvbmVEZWVwKF8uaGVhZChzY2hlZHVsZUZpeHR1cmVzLnJlY29yZHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHsgX2lkOiAxLCBtZW1iZXJfaWQ6ICcxMDEnIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvYWQ6IChtb2RlbCkgPT4gbW9kZWwuY3JlYXRlKHJlY29yZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSgsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgT2JqZWN0SWQgPSByZXF1aXJlKCdtb25nb29zZScpLlR5cGVzLk9iamVjdElkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvUHJvY2Vzcy5zZW5kVHJhaW5pbmdSZW1pbmRlck5vdGlmaWNhdGlvbignMTAxJywgbmV4dENvdXJzZSwgbGFzdFZpZXdlZENvdXJzZSwgZmFsc2UpCg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvUHJvY2Vzcy5zZW5kVHJhaW5pbmdSZW1pbmRlck5vdGlmaWNhdGlvbignMTAxJywgbmV4dENvdXJzZSwgbGFzdFZpZXdlZENvdXJzZSwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGxvYWQ6IChtb2RlbCkgPT4gbW9kZWwuY3JlYXRlKHJlY29yZHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
