@@ -236,6 +236,9 @@
         <mark key="^" line="640" column="47" />
         <mark key="." line="631" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1524779610627">
+        <mark key="'" line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1113,7 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="24" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="25" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="26" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
@@ -1213,6 +1215,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="325" column="28" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="357" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" />
+      <jump line="6" column="32" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1222,7 +1225,7 @@
         <text>.schedule_id]</text>
       </register>
       <register name="/" type="4">
-        <text>sendTrainingReminder</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGltcG9ydFRlc3QoJ1Nhbml0aXplciBsaWIgVGVzdHMnLCAnLi9saWIvc2FuaXRpemVycycpOwo=</text>
@@ -1262,15 +1265,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sendTrainingReminder</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>sendTrainingReminder</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>PROCESS_TO</entry>
         <entry>const\ trainingRem</entry>
         <entry>nextDay</entry>
@@ -1290,6 +1292,7 @@
         <entry>handle\ noti</entry>
         <entry>reminder_gener</entry>
         <entry>sendTrainingReminder</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
