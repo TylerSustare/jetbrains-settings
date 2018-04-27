@@ -821,12 +821,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524781931072">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todoProcess.js" timestamp="1524785234433">
         <mark key="'" line="359" column="0" />
-        <mark key="[" line="78" column="51" />
-        <mark key="]" line="78" column="51" />
-        <mark key="." line="78" column="51" />
-        <mark key="^" line="271" column="42" />
+        <mark key="[" line="320" column="80" />
+        <mark key="]" line="320" column="80" />
+        <mark key="." line="320" column="80" />
+        <mark key="^" line="316" column="43" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -903,12 +903,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524782656889">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524785191921">
         <mark key="'" line="183" column="11" />
-        <mark key="[" line="189" column="53" />
-        <mark key="]" line="189" column="58" />
-        <mark key="." line="189" column="58" />
-        <mark key="^" line="189" column="58" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
+        <mark key="^" line="252" column="35" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/.nvmrc" timestamp="1515020176033">
         <mark key="[" line="0" column="0" />
@@ -1223,46 +1223,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scheduleFixtures</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>scheduleFixtures</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>only</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IF8uY2xvbmVEZWVwKF8uaGVhZChzY2hlZHVsZUZpeHR1cmVzLnJlY29yZHMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB0b2RvID0gXy5jbG9uZURlZXAoXy5oZWFkKHRvZG9GaXh0dXJlcy5yZWNvcmRzKSk7CiAgICAgICAgY29uc3QgbmV4dENvdXJzZSA9IHJlcXVpcmUoJy4uL2ZpeHR1cmVzL25leHRfY291cnNlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHsgX2lkOiAxLCBtZW1iZXJfaWQ6ICcxMDEnIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB0aGlzU2NoZWR1bGUgPSBzY2hlZHVsZXNCeUlkW3RvZG8uc2NoZWR1bGVfaWRdOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbnN1cmUgdHlwZSBpcyBUUiBhbmQgc2NoZWR1bGUgZG9lcyBub3QgaGF2ZSBhbiBgaW5hY3RpdmVfYXRgIGRhdGUKICAgICAgICAgICAgICAgICAgICBjb25zdCBpbmFjdGl2ZSA9IF8uZ2V0KHRoaXNTY2hlZHVsZSwgJ2luYWN0aXZlX2F0JywgbnVsbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHNjaGVkdWxlRml4dHVyZXMucmVjb3Jkcy5maW5kKHMgPT4gcy5faWQgPT09IHRvZG9bMF0uc2NoZWR1bGVfaWQpOwogICAgICAgIHNjaGVkdWxlLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2RvWzBdLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBuZXh0Q291cnNlID0gcmVxdWlyZSgnLi4vZml4dHVyZXMvbmV4dF9jb3Vyc2UnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSgsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHsgX2lkOiAxLCBtZW1iZXJfaWQ6ICcxMDEnIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvYWQ6IChtb2RlbCkgPT4gbW9kZWwuY3JlYXRlKHJlY29yZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
