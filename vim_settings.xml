@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/common.js" timestamp="1524589678738">
-        <mark key="'" line="72" column="13" />
-        <mark key="[" line="58" column="18" />
-        <mark key="]" line="59" column="43" />
-        <mark key="^" line="59" column="43" />
-        <mark key="." line="59" column="43" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/common.js" timestamp="1525114253990">
+        <mark key="'" line="59" column="43" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" timestamp="1512603971714">
         <mark key="'" line="176" column="8" />
@@ -347,12 +346,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1520382045938">
-        <mark key="'" line="130" column="82" />
-        <mark key="[" line="82" column="6" />
-        <mark key="]" line="82" column="6" />
-        <mark key="." line="82" column="6" />
-        <mark key="^" line="130" column="90" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1525115132811">
+        <mark key="'" line="586" column="24" />
+        <mark key="[" line="585" column="0" />
+        <mark key="]" line="585" column="125" />
+        <mark key="^" line="558" column="85" />
+        <mark key="." line="585" column="0" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/package.json" timestamp="1522704094940">
         <mark key="[" line="19" column="0" />
@@ -536,12 +535,12 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="108" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1525109413504">
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/client_auth.js" timestamp="1525114082123">
         <mark key="'" line="37" column="6" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="117" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="87" column="102" />
       </file>
       <file name="$USER_HOME$/src/projects/tic-tac-toe/src/GameComponent.js" timestamp="1512183582529">
         <mark key="[" line="3" column="7" />
@@ -582,12 +581,12 @@
         <mark key="." line="54" column="43" />
         <mark key="^" line="54" column="43" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1524524154940">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="174" column="37" />
-        <mark key="]" line="175" column="57" />
-        <mark key="." line="175" column="57" />
-        <mark key="^" line="175" column="57" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1525115347734">
+        <mark key="'" line="171" column="33" />
+        <mark key="[" line="171" column="118" />
+        <mark key="]" line="171" column="118" />
+        <mark key="." line="171" column="118" />
+        <mark key="^" line="171" column="118" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/require-directory/index.js" timestamp="1524520067147">
         <mark key="[" line="58" column="52" />
@@ -1119,49 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="31" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="35" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="36" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="37" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="41" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="42" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="47" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="48" column="4" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="49" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="50" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="52" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="53" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="54" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="55" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="56" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="57" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="58" column="3" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="59" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="60" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="61" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="62" column="3" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="63" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="64" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="65" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="66" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="67" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="68" column="11" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="69" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="70" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="71" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="72" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="73" column="11" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="74" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
-      <jump line="75" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="76" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="77" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
       <jump line="78" column="24" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/firehose.js" />
@@ -1219,71 +1175,106 @@
       <jump line="123" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="354" column="7" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="183" column="11" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
+      <jump line="59" column="43" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
+      <jump line="28" column="13" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="29" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="32" column="80" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="137" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="4" column="36" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="5" column="40" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="19" column="23" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="23" column="12" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="80" column="35" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="355" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="359" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="584" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="27" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="81" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="138" column="32" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="181" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="210" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="238" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="268" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="296" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="316" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="336" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="356" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="389" column="20" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="390" column="20" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="422" column="28" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="423" column="28" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="457" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="491" column="28" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="492" column="28" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="559" column="32" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="585" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="586" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
+      <jump line="170" column="47" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="175" column="77" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="8" column="24" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="10" column="22" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="157" column="21" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
+      <jump line="171" column="33" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdOTyBDUkVBVEUgRk9SIFlPVScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
-        <text>140</text>
+        <text>logger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0b2RvID0gXy5jbG9uZURlZXAoXy5oZWFkKHRvZG9GaXh0dXJlcy5yZWNvcmRzKSk7CiAgICAgICAgY29uc3QgbmV4dENvdXJzZSA9IHJlcXVpcmUoJy4uL2ZpeHR1cmVzL25leHRfY291cnNlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ04vQScpOyAvLyBzaG91bGQgbm90IGNyZWF0ZSBkeW5hbW8gdG9rZW4gb24gYW55IGVycm9ycwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdOTyBDUkVBVEUgRk9SIFlPVScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzY2hlZHVsZSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ04vQScpOyAvLyBzaG91bGQgbm90IGNyZWF0ZSBkeW5hbW8gdG9rZW4gb24gYW55IGVycm9ycwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB0aGlzU2NoZWR1bGUgPSBzY2hlZHVsZXNCeUlkW3RvZG8uc2NoZWR1bGVfaWRdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvbmUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbnN1cmUgdHlwZSBpcyBUUiBhbmQgc2NoZWR1bGUgZG9lcyBub3QgaGF2ZSBhbiBgaW5hY3RpdmVfYXRgIGRhdGUKICAgICAgICAgICAgICAgICAgICBjb25zdCBpbmFjdGl2ZSA9IF8uZ2V0KHRoaXNTY2hlZHVsZSwgJ2luYWN0aXZlX2F0JywgbnVsbCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHNjaGVkdWxlRml4dHVyZXMucmVjb3Jkcy5maW5kKHMgPT4gcy5faWQgPT09IHRvZG9bMF0uc2NoZWR1bGVfaWQpOwogICAgICAgIHNjaGVkdWxlLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvWzBdLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBuZXh0Q291cnNlID0gcmVxdWlyZSgnLi4vZml4dHVyZXMvbmV4dF9jb3Vyc2UnKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW5jb2RlVVJJQ29tcG9uZW50UHJldHR5KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSgpKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHsgX2lkOiAxLCBtZW1iZXJfaWQ6ICcxMDEnIH07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>140</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>140</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nextDay</entry>
-        <entry>head</entry>
-        <entry>+</entry>
-        <entry>expected</entry>
-        <entry>todoPro</entry>
-        <entry>rminder_</entry>
-        <entry>reminder_gene</entry>
-        <entry>reminder_course</entry>
         <entry>reminder_ten_min</entry>
         <entry>get tri</entry>
         <entry>get\ training</entry>
@@ -1296,11 +1287,16 @@
         <entry>get</entry>
         <entry>only</entry>
         <entry>140</entry>
+        <entry>dynamo</entry>
+        <entry>Dynamo</entry>
+        <entry>done</entry>
+        <entry>done\(\)</entry>
+        <entry>done()</entry>
+        <entry>thing</entry>
+        <entry>token</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
-        <entry>89</entry>
-        <entry>146</entry>
-        <entry>124</entry>
         <entry>257</entry>
         <entry>44</entry>
         <entry>445</entry>
@@ -1317,6 +1313,9 @@
         <entry>vsp</entry>
         <entry>140</entry>
         <entry>wq</entry>
+        <entry>63</entry>
+        <entry>114</entry>
+        <entry>119</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
