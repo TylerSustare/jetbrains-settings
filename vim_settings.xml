@@ -923,12 +923,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" timestamp="1524776080992">
-        <mark key="'" line="185" column="22" />
-        <mark key="[" line="164" column="8" />
-        <mark key="]" line="164" column="8" />
-        <mark key="^" line="138" column="62" />
-        <mark key="." line="164" column="8" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" timestamp="1524849139493">
+        <mark key="'" line="184" column="22" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
@@ -1223,61 +1222,60 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzY2hlZHVsZSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>only</text>
+        <text>140</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB0b2RvID0gXy5jbG9uZURlZXAoXy5oZWFkKHRvZG9GaXh0dXJlcy5yZWNvcmRzKSk7CiAgICAgICAgY29uc3QgbmV4dENvdXJzZSA9IHJlcXVpcmUoJy4uL2ZpeHR1cmVzL25leHRfY291cnNlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzY2hlZHVsZSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkVG9kby5wcm9jZXNzX2F0KS50by5iZS5hKCdEYXRlJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB0aGlzU2NoZWR1bGUgPSBzY2hlZHVsZXNCeUlkW3RvZG8uc2NoZWR1bGVfaWRdOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzY2hlZHVsZSwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbnN1cmUgdHlwZSBpcyBUUiBhbmQgc2NoZWR1bGUgZG9lcyBub3QgaGF2ZSBhbiBgaW5hY3RpdmVfYXRgIGRhdGUKICAgICAgICAgICAgICAgICAgICBjb25zdCBpbmFjdGl2ZSA9IF8uZ2V0KHRoaXNTY2hlZHVsZSwgJ2luYWN0aXZlX2F0JywgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB0aGlzU2NoZWR1bGUgPSBzY2hlZHVsZXNCeUlkW3RvZG8uc2NoZWR1bGVfaWRdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHNjaGVkdWxlRml4dHVyZXMucmVjb3Jkcy5maW5kKHMgPT4gcy5faWQgPT09IHRvZG9bMF0uc2NoZWR1bGVfaWQpOwogICAgICAgIHNjaGVkdWxlLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBlbnN1cmUgdHlwZSBpcyBUUiBhbmQgc2NoZWR1bGUgZG9lcyBub3QgaGF2ZSBhbiBgaW5hY3RpdmVfYXRgIGRhdGUKICAgICAgICAgICAgICAgICAgICBjb25zdCBpbmFjdGl2ZSA9IF8uZ2V0KHRoaXNTY2hlZHVsZSwgJ2luYWN0aXZlX2F0JywgbnVsbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b2RvWzBdLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHNjaGVkdWxlRml4dHVyZXMucmVjb3Jkcy5maW5kKHMgPT4gcy5faWQgPT09IHRvZG9bMF0uc2NoZWR1bGVfaWQpOwogICAgICAgIHNjaGVkdWxlLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBuZXh0Q291cnNlID0gcmVxdWlyZSgnLi4vZml4dHVyZXMvbmV4dF9jb3Vyc2UnKTsK</text>
+        <text encoding="base64">ICAgICAgICB0b2RvWzBdLmluYWN0aXZlX2F0ID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBuZXh0Q291cnNlID0gcmVxdWlyZSgnLi4vZml4dHVyZXMvbmV4dF9jb3Vyc2UnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHsgX2lkOiAxLCBtZW1iZXJfaWQ6ICcxMDEnIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2hlZHVsZSA9IHsgX2lkOiAxLCBtZW1iZXJfaWQ6ICcxMDEnIH07Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>only</last-search>
+      <last-search>140</last-search>
       <last-offset />
-      <last-pattern>only</last-pattern>
+      <last-pattern>140</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>const\ trainingRem</entry>
         <entry>nextDay</entry>
         <entry>head</entry>
         <entry>+</entry>
@@ -1297,9 +1295,9 @@
         <entry>sendTrainingReminder</entry>
         <entry>get</entry>
         <entry>only</entry>
+        <entry>140</entry>
       </history-search>
       <history-cmd>
-        <entry>90</entry>
         <entry>89</entry>
         <entry>146</entry>
         <entry>124</entry>
@@ -1312,13 +1310,14 @@
         <entry>qq</entry>
         <entry>182</entry>
         <entry>132</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>vs</entry>
         <entry>sp</entry>
         <entry>19</entry>
         <entry>vsp</entry>
+        <entry>140</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
