@@ -82,6 +82,13 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1525124262117">
+        <mark key="'" line="79" column="19" />
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="28" />
+      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/ff/get_ff.js" timestamp="1510640309167">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="68" />
@@ -253,12 +260,12 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="111" column="39" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1525120683291">
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1525124236346">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="106" column="53" />
-        <mark key="]" line="106" column="73" />
-        <mark key="." line="106" column="73" />
-        <mark key="^" line="106" column="73" />
+        <mark key="[" line="268" column="19" />
+        <mark key="]" line="268" column="25" />
+        <mark key="." line="268" column="25" />
+        <mark key="^" line="268" column="25" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1517010857015">
         <mark key="'" line="833" column="47" />
@@ -1141,9 +1148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="6" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="354" column="7" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
-      <jump line="183" column="11" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" />
       <jump line="59" column="43" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
       <jump line="28" column="13" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="29" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
@@ -1241,64 +1245,66 @@
       <jump line="203" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="207" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="211" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
+      <jump line="19" column="24" filename="$USER_HOME$/src/services/service-auth/node/config/routes.js" />
+      <jump line="75" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/routes.js" />
+      <jump line="77" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ04vQScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ04vQScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCdvcGVuIG1vZGFsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtwYXJhbX0gJHtwYXJhbXNbcGFyYW1dfSBpcyB0eXBlICR7dHlwZW9mIHBhcmFtc1twYXJhbV19YCk7Cg==</text>
+        <text encoding="base64">ICAgIEwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCdvcGVuIG1vZGFsJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2NrRHluYW1vLnJlc2V0KCk7IC8vIGRvbid0IGltcGFjdCBkeW5hbW8gdGVzdHMgYnkgbWFudWFsIHRva2VuIGNyZWF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgJHtwYXJhbX0gJHtwYXJhbXNbcGFyYW1dfSBpcyB0eXBlICR7dHlwZW9mIHBhcmFtc1twYXJhbV19YCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ja0R5bmFtby5yZXNldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2NrRHluYW1vLnJlc2V0KCk7IC8vIGRvbid0IGltcGFjdCBkeW5hbW8gdGVzdHMgYnkgbWFudWFsIHRva2VuIGNyZWF0aW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFEucmVqZWN0KGVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja0R5bmFtby5yZXNldCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFEucmVqZWN0KGVycm9yKTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFEucmVqZWN0KGVycm9yKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reminder_gener</entry>
         <entry>sendTrainingReminder</entry>
         <entry>get</entry>
         <entry>only</entry>
@@ -1318,6 +1324,7 @@
         <entry>console</entry>
         <entry>console.</entry>
         <entry>logger</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
