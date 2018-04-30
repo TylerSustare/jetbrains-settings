@@ -581,12 +581,12 @@
         <mark key="." line="54" column="43" />
         <mark key="^" line="54" column="43" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1525115347734">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1525115528638">
         <mark key="'" line="171" column="33" />
-        <mark key="[" line="171" column="118" />
-        <mark key="]" line="171" column="118" />
-        <mark key="." line="171" column="118" />
-        <mark key="^" line="171" column="118" />
+        <mark key="[" line="175" column="109" />
+        <mark key="]" line="175" column="110" />
+        <mark key="." line="175" column="110" />
+        <mark key="^" line="175" column="110" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/require-directory/index.js" timestamp="1524520067147">
         <mark key="[" line="58" column="52" />
@@ -1220,11 +1220,11 @@
       <jump line="171" column="33" filename="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdOTyBDUkVBVEUgRk9SIFlPVScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, 'LOG'</text>
       </register>
       <register name="-" type="4">
-        <text>console</text>
+        <text>, 'LOG'</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
