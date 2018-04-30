@@ -148,12 +148,12 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1516042886147">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="22" />
-        <mark key="^" line="38" column="22" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1525130499814">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515442222454">
         <mark key="'" line="59" column="40" />
@@ -244,11 +244,11 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525126237254">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525130034645">
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="6" />
         <mark key="^" line="32" column="10" />
-        <mark key="." line="48" column="0" />
+        <mark key="." line="32" column="6" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521563508470">
         <mark key="'" line="632" column="30" />
@@ -532,11 +532,12 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525108893764">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="33" column="44" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525130324792">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="43" column="7" />
+        <mark key="]" line="45" column="39" />
+        <mark key="^" line="45" column="39" />
+        <mark key="." line="45" column="39" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516925340159">
         <mark key="[" line="64" column="79" />
@@ -1037,6 +1038,12 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525129311423">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1524260943373">
         <mark key="'" line="28" column="33" />
         <mark key="[" line="58" column="36" />
@@ -1158,12 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="43" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
-      <jump line="28" column="13" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
-      <jump line="29" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
-      <jump line="32" column="80" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
-      <jump line="137" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="4" column="36" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="5" column="40" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="19" column="23" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
@@ -1258,65 +1259,69 @@
       <jump line="19" column="24" filename="$USER_HOME$/src/services/service-auth/node/config/routes.js" />
       <jump line="75" column="18" filename="$USER_HOME$/src/services/service-auth/node/config/routes.js" />
       <jump line="77" column="19" filename="$USER_HOME$/src/services/service-auth/node/config/routes.js" />
+      <jump line="16" column="43" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
+      <jump line="6" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
+      <jump line="19" column="14" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
+      <jump line="4" column="49" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS51c2VyX2lkKS50by5lcXVhbCh1c2VyLnVpZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>ixtures</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobW9ja0R5bmFtby5nZXRDcmVhdGVSZXN1bHQoKSkudG8uZXF1YWwoJ04vQScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLnVzZXJJZCkudG8uZXF1YWwodG9rZW5GaXh0dXJlLnVzZXJfaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS51c2VyX2lkKS50by5lcXVhbCh1c2VyLnVpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5hY2Nlc3NfdG9rZW4pLnRvLm1hdGNoKC9bYS16MC05XSsvKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5yZWZyZXNoX3Rva2VuKS50by5tYXRjaCgvW2EtejAtOV0rLyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5leHBpcmVzX2luKS50by5iZS5iZWxvdygzNjAwKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5leHBpcmVzX2luKS50by5iZS5hYm92ZSgwKTsK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbkZpeHR1cmU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS52ZXJpZmljYXRpb25zKS50by5kZWVwLmVxdWFsKFtdKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS50b2tlbl90eXBlKS50by5lcXVhbCgnQmVhcmVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uaGF2ZS5wcm9wZXJ0eSgndG9rZW5fdHlwZScpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5KS50by5oYXZlLnByb3BlcnR5KCd2ZXJpZmljYXRpb25zJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50X2lkOiAnYWJjZGUxMjM0NScsCiAgICAgICAgICAgIGZhY3RvcnM6IFsnc2FtbCddLAogICAgICAgICAgICBpZGVudGl0eV9wcm92aWRlcjogJ29uZUxvZ2luJywKICAgICAgICAgICAgaWQ6ICcxMjM0NTYnLAogICAgICAgICAgICB0eXBlOiAnYWNjZXNzJywKICAgICAgICAgICAgdXNlcl9pZDogJzEwMDEnLAogICAgICAgICAgICBleHBpcmVzX2luOiBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAxMDAgKiA2MCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uaGF2ZS5wcm9wZXJ0eSgnZXhwaXJlc19pbicpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5KS50by5oYXZlLnByb3BlcnR5KCd1c2VyX2lkJyk7Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uaGF2ZS5wcm9wZXJ0eSgnYWNjZXNzX3Rva2VuJyk7CiAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkpLnRvLmhhdmUucHJvcGVydHkoJ3JlZnJlc2hfdG9rZW4nKTsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUb2tlbiA9IG5ldyBUb2tlbk1vZGVsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>ixtures</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>ixtures</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendTrainingReminder</entry>
-        <entry>get</entry>
         <entry>only</entry>
         <entry>140</entry>
         <entry>dynamo</entry>
@@ -1335,6 +1340,8 @@
         <entry>console.</entry>
         <entry>logger</entry>
         <entry>log</entry>
+        <entry>Token</entry>
+        <entry>ixtures</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
