@@ -48,11 +48,11 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1524514473387">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="65" column="29" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525211188419">
+        <mark key="[" line="93" column="18" />
+        <mark key="]" line="94" column="18" />
+        <mark key="^" line="94" column="18" />
+        <mark key="." line="94" column="18" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -336,9 +336,11 @@
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token_manager.js" timestamp="1525205587436">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="79" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token_manager.js" timestamp="1525210204667">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="48" column="29" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -536,12 +538,11 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525201100863">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="37" column="75" />
-        <mark key="]" line="37" column="89" />
-        <mark key="." line="37" column="89" />
-        <mark key="^" line="37" column="89" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525209783205">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="47" column="37" />
+        <mark key="." line="47" column="37" />
+        <mark key="^" line="47" column="42" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516925340159">
         <mark key="[" line="64" column="79" />
@@ -1275,11 +1276,11 @@
       <jump line="7" column="72" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>sso</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ixtures</text>
@@ -1288,34 +1289,34 @@
         <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB1c2VySWQ6ICcxMDAxJywKICAgICAgICAgICAgICAgIHRva2VuSWQ6ICcxMjM0NTYnLAogICAgICAgICAgICAgICAgaWRwOiAnb25lTG9naW4nLAogICAgICAgICAgICAgICAgY2xpZW50SWQ6ICdhY2JkZTEyMzQ1JywKICAgICAgICAgICAgICAgIGZhY3RvcnM6ICdzYW1sJywKICAgICAgICAgICAgICAgIHR0bDogJzIwMTEtMTAtMDVUMTQ6NDg6MDAuMDAwWicKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdXNlcklkOiAnMTAwMScsCiAgICAgICAgICAgICAgICB0b2tlbklkOiAnNjU0MzIxJywKICAgICAgICAgICAgICAgIGlkcDogJ29uZUxvZ2luJywKICAgICAgICAgICAgICAgIGNsaWVudElkOiAnYWNiZGUxMjM0NScsCiAgICAgICAgICAgICAgICBmYWN0b3JzOiAnc2FtbCcsCiAgICAgICAgICAgICAgICB0dGw6ICcyMDExLTEwLTA1VDE0OjQ5OjAwLjAwMFonCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgIENvdW50OiAyLAogICAgICAgIFNjYW5uZWRDb3VudDogMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtczogW10sCiAgICAgICAgQ291bnQ6CiAgICAgICAgICAgIDIsCiAgICAgICAgU2Nhbm5lZENvdW50OgogICAgICAgICAgICAyLAogICAgICAgIExhc3RFdmFsdWF0ZWRLZXk6CiAgICAgICAgICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHt9KQo=</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHt9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmRlc2VyaWFsaXplKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7CiAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGFyYW1zLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJdGVtczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB1c2VySWQ6ICcxMDAxJywKICAgICAgICAgICAgICAgIHRva2VuSWQ6ICcxMjM0NTYnLAogICAgICAgICAgICAgICAgaWRwOiAnb25lTG9naW4nLAogICAgICAgICAgICAgICAgY2xpZW50SWQ6ICdhY2JkZTEyMzQ1JywKICAgICAgICAgICAgICAgIGZhY3RvcnM6ICdzYW1sJywKICAgICAgICAgICAgICAgIHR0bDogJzIwMTEtMTAtMDVUMTQ6NDg6MDAuMDAwWicKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdXNlcklkOiAnMTAwMScsCiAgICAgICAgICAgICAgICB0b2tlbklkOiAnNjU0MzIxJywKICAgICAgICAgICAgICAgIGlkcDogJ29uZUxvZ2luJywKICAgICAgICAgICAgICAgIGNsaWVudElkOiAnYWNiZGUxMjM0NScsCiAgICAgICAgICAgICAgICBmYWN0b3JzOiAnc2FtbCcsCiAgICAgICAgICAgICAgICB0dGw6ICcyMDExLTEwLTA1VDE0OjQ5OjAwLjAwMFonCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgIENvdW50OiAyLAogICAgICAgIFNjYW5uZWRDb3VudDogMgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1352,7 +1353,6 @@
         <entry>ixtures</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
         <entry>445</entry>
         <entry>0</entry>
         <entry>wa</entry>
@@ -1370,6 +1370,7 @@
         <entry>114</entry>
         <entry>119</entry>
         <entry>75</entry>
+        <entry>v</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
