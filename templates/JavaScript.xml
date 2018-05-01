@@ -31,4 +31,17 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="lgi" value="logger.info(`$message$ ${$val$}`);" description="logger.info" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jstr" value="JSON.stringify($obj$)" description="JSON.stringify" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
