@@ -608,11 +608,11 @@
         <mark key="." line="54" column="43" />
         <mark key="^" line="54" column="43" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1525201175422">
-        <mark key="[" line="165" column="18" />
-        <mark key="]" line="165" column="23" />
-        <mark key="." line="165" column="23" />
-        <mark key="^" line="165" column="23" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1525202156777">
+        <mark key="[" line="164" column="44" />
+        <mark key="]" line="164" column="44" />
+        <mark key="." line="164" column="44" />
+        <mark key="^" line="164" column="44" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/require-directory/index.js" timestamp="1524520067147">
         <mark key="[" line="58" column="52" />
@@ -1267,11 +1267,11 @@
       <jump line="30" column="7" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tokenFixture</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKSA9PiApKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>tokenFixture</text>
+        <text>this.deserialize(</text>
       </register>
       <register name="/" type="4">
         <text>ixtures</text>
@@ -1280,34 +1280,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLnVzZXJJZCkudG8uZXF1YWwodG9rZW5GaXh0dXJlLnVzZXJfaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKSA9PiApKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7CiAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkodGhpcy51c2VyX2lkLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBkeW5hbW9DcmVhdGVSZXN1bHQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7CiAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkodGhpcy51c2VyX2lkLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2F2ZVRvRHluYW1vKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
