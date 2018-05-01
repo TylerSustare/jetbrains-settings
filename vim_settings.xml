@@ -48,11 +48,12 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525211188419">
-        <mark key="[" line="93" column="18" />
-        <mark key="]" line="94" column="18" />
-        <mark key="^" line="94" column="18" />
-        <mark key="." line="94" column="18" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525212979423">
+        <mark key="'" line="107" column="15" />
+        <mark key="[" line="91" column="10" />
+        <mark key="]" line="91" column="11" />
+        <mark key="^" line="91" column="11" />
+        <mark key="." line="91" column="11" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -538,11 +539,11 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525209783205">
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="47" column="37" />
-        <mark key="." line="47" column="37" />
-        <mark key="^" line="47" column="42" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525213008242">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="10" />
+        <mark key="." line="43" column="10" />
+        <mark key="^" line="43" column="10" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516925340159">
         <mark key="[" line="64" column="79" />
@@ -1174,7 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="80" column="35" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="355" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="359" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
@@ -1274,13 +1274,14 @@
       <jump line="30" column="7" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" />
       <jump line="270" column="45" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="7" column="72" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
+      <jump line="107" column="15" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>deleteAllForUser</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>deleteAllForUser</text>
       </register>
       <register name="/" type="4">
         <text>ixtures</text>
@@ -1289,34 +1290,34 @@
         <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHJ1bgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaGFzTGFzdEV2YWx1YXRlZEtleSA9IHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IFtdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGFzTGFzdEV2YWx1YXRlZEtleSA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKGRhdGEgPT4gewogICAgICAgICAgICAgICAgICAgIGlmICghZGF0YS5MYXN0RXZhbHVhdGVkS2V5KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVtczogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB1c2VySWQ6ICcxMDAxJywKICAgICAgICAgICAgICAgIHRva2VuSWQ6ICcxMjM0NTYnLAogICAgICAgICAgICAgICAgaWRwOiAnb25lTG9naW4nLAogICAgICAgICAgICAgICAgY2xpZW50SWQ6ICdhY2JkZTEyMzQ1JywKICAgICAgICAgICAgICAgIGZhY3RvcnM6ICdzYW1sJywKICAgICAgICAgICAgICAgIHR0bDogJzIwMTEtMTAtMDVUMTQ6NDg6MDAuMDAwWicKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdXNlcklkOiAnMTAwMScsCiAgICAgICAgICAgICAgICB0b2tlbklkOiAnNjU0MzIxJywKICAgICAgICAgICAgICAgIGlkcDogJ29uZUxvZ2luJywKICAgICAgICAgICAgICAgIGNsaWVudElkOiAnYWNiZGUxMjM0NScsCiAgICAgICAgICAgICAgICBmYWN0b3JzOiAnc2FtbCcsCiAgICAgICAgICAgICAgICB0dGw6ICcyMDExLTEwLTA1VDE0OjQ5OjAwLjAwMFonCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgIENvdW50OiAyLAogICAgICAgIFNjYW5uZWRDb3VudDogMgo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoaGFzTGFzdEV2YWx1YXRlZEtleSkgewogICAgICAgICAgICB0aGlzLnF1ZXJ5KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
