@@ -148,12 +148,12 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1525190317353">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-        <mark key="^" line="30" column="26" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1525193310334">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515442222454">
         <mark key="'" line="59" column="40" />
@@ -1267,8 +1267,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fixtures</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>fixtures</text>
@@ -1280,34 +1280,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwYXlsb2FkLnVzZXJJZCkudG8uZXF1YWwodG9rZW5GaXh0dXJlLnVzZXJfaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbkZpeHR1cmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBxdWVyeUZpeHR1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50X2lkOiAnYWJjZGUxMjM0NScsCiAgICAgICAgICAgIGZhY3RvcnM6IFsnc2FtbCddLAogICAgICAgICAgICBpZGVudGl0eV9wcm92aWRlcjogJ29uZUxvZ2luJywKICAgICAgICAgICAgaWQ6ICcxMjM0NTYnLAogICAgICAgICAgICB0eXBlOiAnYWNjZXNzJywKICAgICAgICAgICAgdXNlcl9pZDogJzEwMDEnLAogICAgICAgICAgICBleHBpcmVzX2luOiBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAxMDAgKiA2MCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0b2tlbkZpeHR1cmU7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50X2lkOiAnYWJjZGUxMjM0NScsCiAgICAgICAgICAgIGZhY3RvcnM6IFsnc2FtbCddLAogICAgICAgICAgICBpZGVudGl0eV9wcm92aWRlcjogJ29uZUxvZ2luJywKICAgICAgICAgICAgaWQ6ICcxMjM0NTYnLAogICAgICAgICAgICB0eXBlOiAnYWNjZXNzJywKICAgICAgICAgICAgdXNlcl9pZDogJzEwMDEnLAogICAgICAgICAgICBleHBpcmVzX2luOiBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAxMDAgKiA2MCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUb2tlbiA9IG5ldyBUb2tlbk1vZGVsKCk7Cg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
