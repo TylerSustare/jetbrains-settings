@@ -51,12 +51,11 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525293361195">
-        <mark key="'" line="99" column="44" />
-        <mark key="[" line="137" column="16" />
-        <mark key="]" line="138" column="7" />
-        <mark key="^" line="138" column="7" />
-        <mark key="." line="138" column="7" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525294591070">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -1179,7 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="316" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="336" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
       <jump line="356" column="16" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" />
@@ -1279,10 +1277,11 @@
       <jump line="94" column="27" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="97" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="98" column="44" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
+      <jump line="144" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>''</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgYSA9IHJlcXVpcmUoJ2xpYi1jb21tJykK</text>
       </register>
       <register name="-" type="4">
         <text>''</text>
@@ -1294,34 +1293,34 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxldGVSZXF1ZXN0ID0ge307Cg==</text>
+        <text encoding="base64">Y29uc3QgYSA9IHJlcXVpcmUoJ2xpYi1jb21tJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlUmVxdWVzdDogewogICAgICAgICAgICAgICAgS2V5OiB7CiAgICAgICAgICAgICAgICAgICAgdXNlcklkOiAnJywKICAgICAgICAgICAgICAgICAgICB0b2tlbklkOiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxldGVSZXF1ZXN0ID0ge307Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleTogewogICAgICAgICAgICAgICAgICAgIHVzZXJJZDogJycsCiAgICAgICAgICAgICAgICAgICAgdG9rZW5JZDogJycKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVsZXRlUmVxdWVzdDogewogICAgICAgICAgICAgICAgS2V5OiB7CiAgICAgICAgICAgICAgICAgICAgdXNlcklkOiAnJywKICAgICAgICAgICAgICAgICAgICB0b2tlbklkOiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleTogewogICAgICAgICAgICAgICAgICAgIHVzZXJJZDogJycsCiAgICAgICAgICAgICAgICAgICAgdG9rZW5JZDogJycKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZVJlcXVlc3RzID0gdXNlcklkcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtdXN0IGJlIGxlc3MgdGhhbiAyNSB0b2tlbnMgcGVyIHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZVJlcXVlc3RzID0gdXNlcklkcwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtdXN0IGJlIGxlc3MgdGhhbiAyNSB0b2tlbnMgcGVyIHJlcXVlc3QK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgY29uc3QgZGVsZXRlUmVxdWVzdCA9IHsKICAgICAgICAgICAgRGVsZXRlUmVxdWVzdDogewogICAgICAgICAgICAgICAgS2V5OiB7CiAgICAgICAgICAgICAgICAgICAgdXNlcklkOiAnJywKICAgICAgICAgICAgICAgICAgICB0b2tlbklkOiAnJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfTs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
