@@ -51,12 +51,12 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525280883242">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525282196912">
         <mark key="'" line="99" column="44" />
-        <mark key="[" line="115" column="49" />
-        <mark key="]" line="115" column="49" />
-        <mark key="^" line="84" column="109" />
-        <mark key="." line="115" column="49" />
+        <mark key="[" line="113" column="52" />
+        <mark key="]" line="114" column="15" />
+        <mark key="^" line="114" column="15" />
+        <mark key="." line="114" column="15" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -1282,10 +1282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>userData</text>
