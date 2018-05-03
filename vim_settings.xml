@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/common.js" timestamp="1525114253990">
-        <mark key="'" line="59" column="43" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/index.js" timestamp="1525126101546">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="32" />
@@ -31,6 +25,9 @@
       <file name="internal/process/next_tick.js" timestamp="1525216065276">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1525365572238">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/qa.js" timestamp="1516987818332">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="11" />
@@ -51,11 +48,11 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525363265687">
-        <mark key="[" line="155" column="17" />
-        <mark key="]" line="156" column="27" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525366223038">
+        <mark key="[" line="192" column="12" />
+        <mark key="]" line="192" column="12" />
         <mark key="^" line="156" column="27" />
-        <mark key="." line="156" column="27" />
+        <mark key="." line="192" column="12" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -151,10 +148,11 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1525280252603">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1525365848367">
+        <mark key="[" line="43" column="51" />
+        <mark key="]" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+        <mark key="^" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/lambda_test.js" timestamp="1515442222454">
         <mark key="'" line="59" column="40" />
@@ -539,11 +537,11 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525363425726">
-        <mark key="[" line="59" column="7" />
-        <mark key="]" line="61" column="39" />
-        <mark key="^" line="61" column="39" />
-        <mark key="." line="61" column="39" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1525365943946">
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516925340159">
         <mark key="[" line="64" column="79" />
@@ -962,12 +960,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/models/todo.js" timestamp="1524849139493">
-        <mark key="'" line="184" column="22" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
         <mark key="[" line="128" column="76" />
@@ -1015,7 +1007,7 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525216019206">
+      <file name="/JavaScript Console" timestamp="1525366045231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -1051,13 +1043,13 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525280311332">
-        <mark key="[" line="30" column="23" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="23" />
-        <mark key="^" line="30" column="23" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525365580681">
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
+        <mark key="^" line="55" column="27" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1524260943373">
+      <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1525365308713">
         <mark key="'" line="28" column="33" />
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="39" />
@@ -1112,12 +1104,6 @@
         <mark key="]" line="21" column="29" />
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/util/token_utils.js" timestamp="1525122167068">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523999558506">
         <mark key="'" line="31" column="58" />
@@ -1280,11 +1266,11 @@
       <jump line="134" column="11" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtdXN0IGJlIGxlc3MgdGhhbiAyNSB0b2tlbnMgcGVyIHJlcXVlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>result</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>result</text>
       </register>
       <register name="/" type="4">
         <text>_\.</text>
@@ -1293,34 +1279,34 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBtdXN0IGJlIGxlc3MgdGhhbiAyNSB0b2tlbnMgcGVyIHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhLmxlbmd0aCwgYi5sZW5ndGgpIC0+IDAsIDYKICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiID1fLmNvbXBhY3QoYikKICAgICAgICBjb25zb2xlLmxvZyhhLGIpIC0+IFtdLCBbJ2EnLCdiJy4uLiwnZiddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYiA9IF8ucHVsbEF0KGEsIFswLDEsMiwzLDQsNSw2LDcsOCw5LDEwXSkKICAgICAgICBhID0gXy5jb21wYWN0KGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIHZhciBhID0gWydhJywnYicsJ2MnLCdkJywnZScsJ2YnXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIV8uaXNOaWwodGhpcy5QVUxMX0FUX0lOREVYRVMpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBtdXN0IGJlIGxlc3MgdGhhbiAyNSB0b2tlbnMgcGVyIHJlcXVlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1357,7 +1343,6 @@
         <entry>_\.</entry>
       </history-search>
       <history-cmd>
-        <entry>445</entry>
         <entry>0</entry>
         <entry>wa</entry>
         <entry>waa</entry>
@@ -1365,7 +1350,6 @@
         <entry>182</entry>
         <entry>132</entry>
         <entry>q</entry>
-        <entry>sp</entry>
         <entry>19</entry>
         <entry>140</entry>
         <entry>wq</entry>
@@ -1374,8 +1358,10 @@
         <entry>119</entry>
         <entry>75</entry>
         <entry>v</entry>
-        <entry>vs</entry>
         <entry>vsp</entry>
+        <entry>sp</entry>
+        <entry>cs</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
