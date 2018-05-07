@@ -237,12 +237,12 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525728069370">
-        <mark key="'" line="35" column="14" />
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="10" />
-        <mark key="^" line="35" column="10" />
-        <mark key="." line="35" column="10" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525729606010">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="6" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="53" column="6" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521563508470">
         <mark key="'" line="632" column="30" />
@@ -271,12 +271,8 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="111" column="39" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1525726920455">
-        <mark key="'" line="11" column="30" />
-        <mark key="[" line="278" column="20" />
-        <mark key="]" line="278" column="26" />
-        <mark key="." line="278" column="26" />
-        <mark key="^" line="278" column="26" />
+      <file name="$USER_HOME$/src/services/service-auth/node/routes/auth.js" timestamp="1525729340025">
+        <mark key="'" line="277" column="102" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/todo.js" timestamp="1525716916693">
         <mark key="[" line="50" column="0" />
@@ -1201,9 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="43" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
-      <jump line="6" column="24" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
-      <jump line="19" column="14" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
       <jump line="4" column="49" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
       <jump line="20" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
@@ -1301,64 +1294,66 @@
       <jump line="7" column="19" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
       <jump line="36" column="43" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
       <jump line="35" column="14" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
+      <jump line="16" column="10" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
+      <jump line="277" column="102" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="-" type="4">
         <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>tokenM</text>
+        <text>testPass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgVG9rZW5NYW5hZ2VyID0gcmVxdWlyZSgnLi4vLi4vLi4vbGliL3Rva2Vucy90b2tlbl9tYW5hZ2VyJyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGl0Lm9ubHkoJ1Nob3VsZCBzdWNjZXNzZnVsbHkgbG9nIG91dCB1c2VyIGJhc2VkIG9uIHRva2VuIHBhc3NlZCBpbicsIGRvbmUgPT4gewogICAgICAgIGNvbnN0IGxvZ291dFN0dWIgPSBzaW5vbi5zdHViKFRva2VuTWFuYWdlci5wcm90b3R5cGUsICdsb2dvdXQnKS5jYWxsc0Zha2UoKCkgPT4gUSh7fSkpOwoKICAgICAgICB1dGlsLmdldFZhbGlkVG9rZW4oJ2FjY2VzcycsIHRva2VuID0+IHsKICAgICAgICAgICAgdG9rZW4udXNlcl9pZCA9ICcxMDAxJzsKICAgICAgICAgICAgcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAucG9zdChyb3V0ZXMuTE9HT1VUKQogICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHt0b2tlbi5pZH1gKQogICAgICAgICAgICAgICAgLnNlbmQoe30pCiAgICAgICAgICAgICAgICAuZXhwZWN0KDIwMikKICAgICAgICAgICAgICAgIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZG9uZShlcnIpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBleHBlY3QobG9nb3V0U3R1Yi5jYWxsQ291bnQpLnRvLmVxdWFsKDEpOwogICAgICAgICAgICAgICAgICAgIFRva2VuTWFuYWdlci5wcm90b3R5cGUubG9nb3V0LnJlc3RvcmUoKTsKICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkpLnRvLmVxbCh7fSk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRvbmUoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHsgdXNlciwgY2xpZW50IH0gPSByZXN1bHRzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBsb2dvdXRTdHViID0gc2lub24uc3R1YihUb2tlbk1hbmFnZXIsICdsb2dvdXQnKS5jYWxsc0Zha2UoKCkgPT4gUSh7fSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVzLmJvZHksIG51bGwsIDIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUb2tlbk1hbmFnZXIubG9nb3V0LnJlc3RvcmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5KS50by5lcWwoe30pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB0b2tlbk1hbmFnZXIgPSBuZXcgVG9rZW5NYW5hZ2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkpLnRvLmVxbCh7fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0b2tlbk1hbmFnZXIsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QobG9nb3V0U3R1Yi5jYWxsQ291bnQpLnRvLmVxdWFsKDEpOwogICAgICAgICAgICAgICAgICAgIFRva2VuTWFuYWdlci5wcm90b3R5cGUubG9nb3V0LnJlc3RvcmUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShUb2tlbk1hbmFnZXIsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgIGxldCBjbGllbnQ7CiAgICBsZXQgdXNlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShsb2dvdXRTdHViLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRlc3RQYXNzd29yZCA9ICdwYXNzd29yZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShsb2dvdXRTdHViLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tokenM</last-search>
+      <last-search>testPass</last-search>
       <last-offset />
-      <last-pattern>tokenM</last-pattern>
+      <last-pattern>testPass</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>done();</entry>
         <entry>done</entry>
         <entry>\/\/ should</entry>
         <entry>server.</entry>
@@ -1378,6 +1373,7 @@
         <entry>logger.error</entry>
         <entry>test</entry>
         <entry>tokenM</entry>
+        <entry>testPass</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
