@@ -505,8 +505,6 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/notifier.js" timestamp="1525713947939" />
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/training_aggregator.js" timestamp="1525713882411" />
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1524257714017">
         <mark key="[" line="32" column="18" />
         <mark key="]" line="32" column="34" />
@@ -1017,7 +1015,6 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525713934246" />
       <file name="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" timestamp="1515690437533">
         <mark key="'" line="7" column="5" />
         <mark key="[" line="4" column="34" />
@@ -1047,6 +1044,13 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/README.md" timestamp="1525717570364">
+        <mark key="'" line="89" column="75" />
+        <mark key="[" line="444" column="25" />
+        <mark key="]" line="444" column="25" />
+        <mark key="." line="444" column="25" />
+        <mark key="^" line="449" column="30" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
         <mark key="'" line="353" column="0" />
@@ -1190,7 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="12" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="187" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="190" column="30" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="203" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
@@ -1290,46 +1293,47 @@
       <jump line="331" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="280" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="200" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
+      <jump line="89" column="75" filename="$USER_HOME$/src/services/service-notification-schedule/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>schedule</text>
+        <text>c60fca4d3c017f947d</text>
       </register>
       <register name="-" type="4">
-        <text>schedule</text>
+        <text>c60fca4d3c017f947d</text>
       </register>
       <register name="/" type="4">
         <text>logger.error</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3IsIGxvZ0NhdGVnb3J5KTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CjxhIG5hbWU9InBvc3RfaW50ZXJuYWxfcHJvY2VzcyI+PC9hPgpbQmFjayB0byBNZW51XSgjcm91dGVzX21lbnUpCiMjIyBQT1NUIC9pbnRlcm5hbC9wcm9jZXNzCiFbTm90X1N0YXJ0ZWRdKHN0YXRpY3MvZG9uZS5wbmcpCi0KRmluZCBhbGwgY3VycmVudGx5IHNjaGVkdWxlZCAqdG9kb3MqIGZvciB0aGUgY3VycmVudCB0aW1lIGFuZCBzZW5kIHRoZWlyIG5vdGlmaWNhdGlvbnMgdG8gdGhlIG5vdGlmaWNhdGlvbiBzZXJ2aWNlLiBSZW1vdmUgdGhlICp0b2RvKiBlbnRyaWVzIHRoYXQgYXJlIHNlbnQsIGFuZCBpZiB0aGV5IGFyZSByZW9jY3VycmluZywgY3JlYXRlIGEgbmV3ICp0b2RvKiBmb3IgdGhlIG5leHQgc2NoZWR1bGVkIG5vdGlmaWNhdGlvbi4KCioqKlBhcmFtZXRlcnMqKioKClBhcmFtIHwgVHlwZSB8IEluIHwgUmVxdWlyZWQ/IHwgRGVzY3JpcHRpb24KLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tCmFjY2Vzc190b2tlbnwgc3RyaW5nIHwgaGVhZGVyIHwgdHJ1ZSB8IEF1dGhvcml6YXRpb246YmVhcmVyIHt7YWNjZXNzX3Rva2VufX0KcHJvY2Vzc19hdHwgSVNPIFN0cmluZ3wgYm9keXwgdHJ1ZXwgIjIwMTgtMDMtMTJUMjI6NDg6MTAuODc3WiIgd2lsbCBwcm9jZXNzIGFsbCBzY2hlZHVsZWQgbm90aWZpY2F0aW9ucyBiZWZvcmUgTWFyY2ggMTIsIDIwMTguLi4KCioqKlNhbXBsZSBSZXF1ZXN0OioqKgpgYGAKUE9TVCBodHRwczovL2FwaS5jYnRudWdnZXRzLmNvbS9ub3RpZmljYXRpb24tc2NoZWR1bGUvdjEvaW50ZXJuYWwvcHJvY2VzcwoKSEVBREVSOgpBdXRob3JpemF0aW9uOiAnQmVhcmVyIDxhY2Nlc3NfdG9rZW4+JwoKQk9EWTogKGFwcGxpY2F0aW9uL2pzb24pCnsKICAicHJvY2Vzc19hdCI6ICIyMDE5LTAzLTEyVDIyOjQ4OjEwLjg3N1oiCn0KYGBgCgoqKipTYW1wbGUgUmVzcG9uc2U6KioqCmBgYGpzb24KU3RhdHVzIENvZGU6IDIwMgoKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcC5wb3N0KHJvdXRlcy5BUElfVE9ET1MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Qk9EWTogKGFwcGxpY2F0aW9uL2pzb24pCnsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuc3RhdHNkLmNvbGxlY3QoJ2VuZHBvaW50LmdldC50b2RvcycsIHsgc3RhdHVzOiB0cnVlLCB0aW1pbmc6IHRydWUgfSksCiAgICAgICAgKHJlcSwgcmVzKSA9PiB7Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcC5wb3N0KHJvdXRlcy5BUElfVE9ET1MsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxLmNoZWNrUGFyYW1zKCd0b2RvX2lkJykuaXNNb25nb0lkKCkud2l0aE1lc3NhZ2UoJ2lkIG11c3QgYmUgYSB2YWxpZCBNb25nb0lkJyk7CiAgICAgICAgICAgIGNvbnN0IGVycm9ycyA9IHJlcS52YWxpZGF0aW9uRXJyb3JzKCk7CiAgICAgICAgICAgIGlmIChlcnJvcnMpIHsKICAgICAgICAgICAgICAgIHJldHVybiByZXMuc3RhdHVzKDQwMCkuc2VuZChyZXNwb25zZS5CYWRSZXF1ZXN0KGVycm9ycykpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gVG9kb01vZGVsLnVwZGF0ZVRvZG8ocmVxLnBhcmFtcy50b2RvX2lkLCByZXEuYm9keS50b2RvKQogICAgICAgICAgICAgICAgLnRoZW4oKCkgPT4gcmVzLnN0YXR1cygyMDIpLnNlbmQoe30pKQogICAgICAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgICAgICAgICAgICBpZiAoZXJyb3IubWVzc2FnZSA9PT0gJ1RPRE9fRE9FU19OT1RfRVhJU1QnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMuc3RhdHVzKDQwNCkuc2VuZChyZXNwb25zZS5Ob3RGb3VuZChlcnJvcikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3IsIGxvZ0NhdGVnb3J5KTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLnNlbmQocmVzcG9uc2UuU2VydmVyRXJyb3IoZXJyb3IpKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAogICAgICAgIH0pOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIGEgMjAyIHVwZGF0aW5nIGEgdG9kbycsIGRvbmUgPT4gewogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuc3RhdHNkLmNvbGxlY3QoJ2VuZHBvaW50LmdldC50b2RvcycsIHsgc3RhdHVzOiB0cnVlLCB0aW1pbmc6IHRydWUgfSksCiAgICAgICAgKHJlcSwgcmVzKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
