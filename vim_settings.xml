@@ -1045,12 +1045,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/README.md" timestamp="1525717570364">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/README.md" timestamp="1525718965975">
         <mark key="'" line="89" column="75" />
-        <mark key="[" line="444" column="25" />
-        <mark key="]" line="444" column="25" />
-        <mark key="." line="444" column="25" />
-        <mark key="^" line="449" column="30" />
+        <mark key="[" line="431" column="0" />
+        <mark key="]" line="431" column="2" />
+        <mark key="." line="431" column="2" />
+        <mark key="^" line="431" column="2" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
         <mark key="'" line="353" column="0" />
@@ -1129,11 +1129,11 @@
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/routes.js" timestamp="1525467458714">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="30" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="18" column="30" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/routes.js" timestamp="1525719415518">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/index.js" timestamp="1523999558506">
         <mark key="'" line="31" column="58" />
@@ -1296,11 +1296,11 @@
       <jump line="89" column="75" filename="$USER_HOME$/src/services/service-notification-schedule/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c60fca4d3c017f947d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c60fca4d3c017f947d</text>
+        <text>POST</text>
       </register>
       <register name="/" type="4">
         <text>logger.error</text>
@@ -1315,28 +1315,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Qk9EWTogKGFwcGxpY2F0aW9uL2pzb24pCnsgfQo=</text>
+        <text encoding="base64">ICAgIEFQSV9UT0RPUzogJy90b2Rvcy86dG9kb19pZCcsCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">Qk9EWTogKGFwcGxpY2F0aW9uL2pzb24pCnsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFwcC5wb3N0KHJvdXRlcy5BUElfVE9ET1MsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGFwcC5wb3N0KHJvdXRlcy5BUElfVE9ET1MsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuc3RhdHNkLmNvbGxlY3QoJ2VuZHBvaW50LmdldC50b2RvcycsIHsgc3RhdHVzOiB0cnVlLCB0aW1pbmc6IHRydWUgfSksCiAgICAgICAgKHJlcSwgcmVzKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
