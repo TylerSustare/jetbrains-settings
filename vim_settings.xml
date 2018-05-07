@@ -505,6 +505,8 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/notifier.js" timestamp="1525713947939" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/training_aggregator.js" timestamp="1525713882411" />
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1524257714017">
         <mark key="[" line="32" column="18" />
         <mark key="]" line="32" column="34" />
@@ -727,7 +729,7 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" timestamp="1525502512650">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" timestamp="1525713885478">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="43" column="50" />
         <mark key="]" line="43" column="81" />
@@ -1015,6 +1017,7 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="33" />
       </file>
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525713934246" />
       <file name="$USER_HOME$/src/services/service-auth/node/test/models/dynamoToken.js" timestamp="1515690437533">
         <mark key="'" line="7" column="5" />
         <mark key="[" line="4" column="34" />
