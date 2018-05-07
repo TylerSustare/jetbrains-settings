@@ -234,11 +234,12 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525387638163">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525723749511">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="94" />
+        <mark key="^" line="34" column="94" />
+        <mark key="." line="34" column="94" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521563508470">
         <mark key="'" line="632" column="30" />
@@ -886,6 +887,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/test/api/internal/internal_verification_for_members.js" timestamp="1525723733254" />
       <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_notification.js" timestamp="1524160384505">
         <mark key="'" line="1" column="6" />
         <mark key="[" line="1" column="0" />
@@ -1194,7 +1196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="190" column="30" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="203" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
       <jump line="207" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/token_refresh.js" />
@@ -1294,64 +1295,64 @@
       <jump line="280" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="200" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="89" column="75" filename="$USER_HOME$/src/services/service-notification-schedule/README.md" />
+      <jump line="0" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sinon</text>
       </register>
       <register name="-" type="4">
-        <text>POST</text>
+        <text>sinon</text>
       </register>
       <register name="/" type="4">
-        <text>logger.error</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CjxhIG5hbWU9InBvc3RfaW50ZXJuYWxfcHJvY2VzcyI+PC9hPgpbQmFjayB0byBNZW51XSgjcm91dGVzX21lbnUpCiMjIyBQT1NUIC9pbnRlcm5hbC9wcm9jZXNzCiFbTm90X1N0YXJ0ZWRdKHN0YXRpY3MvZG9uZS5wbmcpCi0KRmluZCBhbGwgY3VycmVudGx5IHNjaGVkdWxlZCAqdG9kb3MqIGZvciB0aGUgY3VycmVudCB0aW1lIGFuZCBzZW5kIHRoZWlyIG5vdGlmaWNhdGlvbnMgdG8gdGhlIG5vdGlmaWNhdGlvbiBzZXJ2aWNlLiBSZW1vdmUgdGhlICp0b2RvKiBlbnRyaWVzIHRoYXQgYXJlIHNlbnQsIGFuZCBpZiB0aGV5IGFyZSByZW9jY3VycmluZywgY3JlYXRlIGEgbmV3ICp0b2RvKiBmb3IgdGhlIG5leHQgc2NoZWR1bGVkIG5vdGlmaWNhdGlvbi4KCioqKlBhcmFtZXRlcnMqKioKClBhcmFtIHwgVHlwZSB8IEluIHwgUmVxdWlyZWQ/IHwgRGVzY3JpcHRpb24KLS0tIHwgLS0tIHwgLS0tIHwgLS0tIHwgLS0tCmFjY2Vzc190b2tlbnwgc3RyaW5nIHwgaGVhZGVyIHwgdHJ1ZSB8IEF1dGhvcml6YXRpb246YmVhcmVyIHt7YWNjZXNzX3Rva2VufX0KcHJvY2Vzc19hdHwgSVNPIFN0cmluZ3wgYm9keXwgdHJ1ZXwgIjIwMTgtMDMtMTJUMjI6NDg6MTAuODc3WiIgd2lsbCBwcm9jZXNzIGFsbCBzY2hlZHVsZWQgbm90aWZpY2F0aW9ucyBiZWZvcmUgTWFyY2ggMTIsIDIwMTguLi4KCioqKlNhbXBsZSBSZXF1ZXN0OioqKgpgYGAKUE9TVCBodHRwczovL2FwaS5jYnRudWdnZXRzLmNvbS9ub3RpZmljYXRpb24tc2NoZWR1bGUvdjEvaW50ZXJuYWwvcHJvY2VzcwoKSEVBREVSOgpBdXRob3JpemF0aW9uOiAnQmVhcmVyIDxhY2Nlc3NfdG9rZW4+JwoKQk9EWTogKGFwcGxpY2F0aW9uL2pzb24pCnsKICAicHJvY2Vzc19hdCI6ICIyMDE5LTAzLTEyVDIyOjQ4OjEwLjg3N1oiCn0KYGBgCgoqKipTYW1wbGUgUmVzcG9uc2U6KioqCmBgYGpzb24KU3RhdHVzIENvZGU6IDIwMgoKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFQSV9UT0RPUzogJy90b2Rvcy86dG9kb19pZCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFQSV9UT0RPUzogJy90b2Rvcy86dG9kb19pZCcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Qk9EWTogKGFwcGxpY2F0aW9uL2pzb24pCnsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Qk9EWTogKGFwcGxpY2F0aW9uL2pzb24pCnsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcC5wb3N0KHJvdXRlcy5BUElfVE9ET1MsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">KiAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFwcC5wb3N0KHJvdXRlcy5BUElfVE9ET1MsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logger.error</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>logger.error</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>token</entry>
         <entry>done9)</entry>
         <entry>done();</entry>
         <entry>done</entry>
@@ -1371,6 +1372,7 @@
         <entry>Token</entry>
         <entry>logger</entry>
         <entry>logger.error</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -1390,8 +1392,8 @@
         <entry>sp</entry>
         <entry>cs</entry>
         <entry>v</entry>
-        <entry>vs</entry>
         <entry>274</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
