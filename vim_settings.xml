@@ -45,12 +45,11 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525383785964">
-        <mark key="'" line="128" column="42" />
-        <mark key="[" line="127" column="28" />
-        <mark key="]" line="128" column="42" />
-        <mark key="^" line="128" column="42" />
-        <mark key="." line="128" column="42" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1525734898124">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -1203,7 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="49" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
       <jump line="20" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
       <jump line="30" column="7" filename="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" />
       <jump line="270" column="45" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
@@ -1303,64 +1301,64 @@
       <jump line="277" column="102" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="52" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
       <jump line="129" column="0" filename="$USER_HOME$/src/services/service-auth/README.md" />
+      <jump line="68" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Returns the subscriptions for a given member in their aliased form.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Returns the subscriptions for a given member in their aliased form.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>testPass</text>
+        <text>reason</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHluYW1vVG9rZW5Nb2RlbC5wcm90b3R5cGUuYmF0Y2hEZWxldGVUb2tlbnNTdHViLnJlc3RvcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJDQlQiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">CSJDQlQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAJZXJyb3I6ICdNRU1CRVJfRE9FU05UX0VYSVNUJwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAJbWVzc2FnZTogJ05vdCBGb3VuZCcsCiAgCWNvZGU6ICdFUlJfTk9UX0ZPVU5EJywK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewoJc3RhdHVzOiA0MDQsCg==</text>
+        <text encoding="base64">ICAJZXJyb3I6ICdNRU1CRVJfRE9FU05UX0VYSVNUJwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KioqVW5pcXVlIFJlc3BvbnNlIENvZGVzKioqCmBgYAo=</text>
+        <text encoding="base64">ICAJbWVzc2FnZTogJ05vdCBGb3VuZCcsCiAgCWNvZGU6ICdFUlJfTk9UX0ZPVU5EJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWVtYmVyX2lkIHwgc3RyaW5nIHwgcXVlcnkgfCBmYWxzZSB8IE9wdGlvbmFsIG1lbWJlciBpZCBvZiB0aGUgbWVtYmVyLCB3aWxsIGZldGNoIGZyb20gdG9rZW4gaWYgbm9uZSBpcyBwcm92aWRlZAo=</text>
+        <text encoding="base64">ewoJc3RhdHVzOiA0MDQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CjxhIG5hbWU9InJvdXRlc19tZW51Ij48L2E+Cg==</text>
+        <text encoding="base64">KioqVW5pcXVlIFJlc3BvbnNlIENvZGVzKioqCmBgYAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>testPass</last-search>
+      <last-search>reason</last-search>
       <last-offset />
-      <last-pattern>testPass</last-pattern>
+      <last-pattern>reason</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>done</entry>
         <entry>\/\/ should</entry>
         <entry>server.</entry>
         <entry>server\.*</entry>
@@ -1380,6 +1378,7 @@
         <entry>test</entry>
         <entry>tokenM</entry>
         <entry>testPass</entry>
+        <entry>reason</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
