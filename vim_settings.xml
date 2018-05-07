@@ -247,12 +247,12 @@
         <mark key="^" line="640" column="47" />
         <mark key="." line="631" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1525502708885">
-        <mark key="'" line="203" column="20" />
-        <mark key="[" line="82" column="49" />
-        <mark key="]" line="82" column="48" />
-        <mark key="." line="82" column="48" />
-        <mark key="^" line="82" column="48" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1525716978777">
+        <mark key="'" line="185" column="20" />
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="40" />
+        <mark key="." line="63" column="40" />
+        <mark key="^" line="63" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
@@ -273,10 +273,10 @@
         <mark key="." line="277" column="99" />
         <mark key="^" line="277" column="99" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/todo.js" timestamp="1525502991360">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/todo.js" timestamp="1525716916693">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-leaderboard-models-mongodb-nodejs/models/score.js" timestamp="1517010857015">
         <mark key="'" line="833" column="47" />
@@ -1292,11 +1292,11 @@
       <jump line="200" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcy5ib2R5LCBudWxsLCAyKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>schedule</text>
       </register>
       <register name="-" type="4">
-        <text>BySchedule</text>
+        <text>schedule</text>
       </register>
       <register name="/" type="4">
         <text>logger.error</text>
@@ -1305,34 +1305,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3IsIGxvZ0NhdGVnb3J5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcy5ib2R5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgIGFwcC5wb3N0KHJvdXRlcy5BUElfVE9ET1MsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3IsIGxvZ0NhdGVnb3J5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXR0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiAnZmFrZUlkMTIzJwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuc3RhdHNkLmNvbGxlY3QoJ2VuZHBvaW50LmdldC50b2RvcycsIHsgc3RhdHVzOiB0cnVlLCB0aW1pbmc6IHRydWUgfSksCiAgICAgICAgKHJlcSwgcmVzKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgLmNhdGNoKGRvbmUpOwogICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyAgICAgICAgIC50aGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxLmNoZWNrUGFyYW1zKCd0b2RvX2lkJykuaXNNb25nb0lkKCkud2l0aE1lc3NhZ2UoJ2lkIG11c3QgYmUgYSB2YWxpZCBNb25nb0lkJyk7CiAgICAgICAgICAgIGNvbnN0IGVycm9ycyA9IHJlcS52YWxpZGF0aW9uRXJyb3JzKCk7CiAgICAgICAgICAgIGlmIChlcnJvcnMpIHsKICAgICAgICAgICAgICAgIHJldHVybiByZXMuc3RhdHVzKDQwMCkuc2VuZChyZXNwb25zZS5CYWRSZXF1ZXN0KGVycm9ycykpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gVG9kb01vZGVsLnVwZGF0ZVRvZG8ocmVxLnBhcmFtcy50b2RvX2lkLCByZXEuYm9keS50b2RvKQogICAgICAgICAgICAgICAgLnRoZW4oKCkgPT4gcmVzLnN0YXR1cygyMDIpLnNlbmQoe30pKQogICAgICAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgICAgICAgICAgICBpZiAoZXJyb3IubWVzc2FnZSA9PT0gJ1RPRE9fRE9FU19OT1RfRVhJU1QnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMuc3RhdHVzKDQwNCkuc2VuZChyZXNwb25zZS5Ob3RGb3VuZChlcnJvcikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3IsIGxvZ0NhdGVnb3J5KTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLnNlbmQocmVzcG9uc2UuU2VydmVyRXJyb3IoZXJyb3IpKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgLmV4cGVjdCgyMDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQo=</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmV0dXJuIGEgMjAyIHVwZGF0aW5nIGEgdG9kbycsIGRvbmUgPT4gewogICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgICByZXF1ZXN0KGFwcCkKICAgIC8vICAgICAgICAgLmdldChyb3V0ZXMuQVBJX1RPRE9TX0JZX1NDSEVEVUxFLnJlcGxhY2UoJzpzY2hlZHVsZV9pZCcsIHNjaGVkdWxlSWQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
