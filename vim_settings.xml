@@ -275,8 +275,8 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" timestamp="1525793145090">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" timestamp="1525814299004">
+        <mark key="'" line="50" column="79" />
         <mark key="[" line="91" column="42" />
         <mark key="]" line="91" column="46" />
         <mark key="." line="91" column="46" />
@@ -647,7 +647,7 @@
         <mark key="^" line="640" column="47" />
         <mark key="." line="631" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1525812098693">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1525815196058">
         <mark key="'" line="9" column="36" />
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="46" />
@@ -1113,11 +1113,12 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525812217855">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="43" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525815318030">
+        <mark key="'" line="22" column="40" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="/JavaScript Console" timestamp="1525730141457">
         <mark key="[" line="0" column="0" />
@@ -1213,14 +1214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="142" column="32" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="31" column="64" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="32" column="71" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="44" column="40" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="46" column="18" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="118" column="38" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="132" column="16" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="133" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
@@ -1313,65 +1306,71 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="9" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="48" column="14" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/process.js" />
+      <jump line="71" column="18" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
+      <jump line="19" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
+      <jump line="20" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
+      <jump line="45" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
+      <jump line="50" column="79" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
+      <jump line="27" column="80" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
+      <jump line="21" column="40" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCBzZXJ2aWNlQ2xpZW50cyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBzZXJ2aWNlQ2xpZW50cyA=</text>
+        <text>serviceClients</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3RlbXBsYXRlcy9lbWFpbHMiIG5hbWU9IlRlbXBsYXRlcyIgZXhhY3QgY29tcG9uZW50PXtNYWlufSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlcnZpY2VDbGllbnRzID0gc2VydmljZUNsaWVudHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJTZWFyY2hCYXIoKX0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKHN0YXRlKSA9PiAoewogICAgZGlzcGxheTogXy5nZXQoc3RhdGUsICdtaWx0b25fZGlzcGxheScsIHt9KQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbmRlckVtYWlscygpIHsKCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlcnZpY2VDbGllbnRzID0gc2VydmljZUNsaWVudHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
-        <entry>console.</entry>
         <entry>log</entry>
         <entry>ixtures</entry>
         <entry>userData</entry>
@@ -1390,6 +1389,8 @@
         <entry>\/project</entry>
         <entry>template</entry>
         <entry>todo</entry>
+        <entry>member</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -1405,12 +1406,12 @@
         <entry>114</entry>
         <entry>119</entry>
         <entry>75</entry>
-        <entry>vsp</entry>
         <entry>sp</entry>
         <entry>cs</entry>
         <entry>v</entry>
         <entry>274</entry>
         <entry>vs</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
