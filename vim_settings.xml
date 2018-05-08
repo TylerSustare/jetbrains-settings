@@ -73,11 +73,11 @@
         <mark key="^" line="16" column="316" />
         <mark key="." line="83" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/index.js" timestamp="1525803623451">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="35" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/index.js" timestamp="1525805046373">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="43" />
         <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+        <mark key="." line="12" column="43" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/dynamodb.js" timestamp="1525727239276">
         <mark key="[" line="46" column="0" />
@@ -177,12 +177,12 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/components/Editor/index.js" timestamp="1525803751336">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/components/Editor/index.js" timestamp="1525804648980">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="27" column="40" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
@@ -458,7 +458,12 @@
         <mark key="." line="283" column="38" />
         <mark key="^" line="283" column="38" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Main/index.js" timestamp="1525800952094" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Main/index.js" timestamp="1525805077842">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+      </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/state/store.js" timestamp="1525802780799" />
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/.eslintrc" timestamp="1510269022888">
         <mark key="[" line="8" column="26" />
@@ -472,11 +477,11 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" timestamp="1525803707655">
-        <mark key="'" line="34" column="21" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" timestamp="1525805480248">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1510097216111">
         <mark key="[" line="187" column="141" />
@@ -1335,11 +1340,11 @@
       <jump line="38" column="21" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SortIcon</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJTZWFyY2hCYXIoKX0K</text>
       </register>
       <register name="-" type="4">
-        <text>SortIcon</text>
+        <text>milton_display</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
@@ -1348,34 +1353,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3RlbXBsYXRlcy9lbWFpbHMiIG5hbWU9IlRlbXBsYXRlcyIgZXhhY3QgY29tcG9uZW50PXtNYWlufSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJTZWFyY2hCYXIoKX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ3JlYWN0LXJlZHV4JzsKaW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlbmRlckVtYWlscygpIHsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbWFwU3RhdGVUb1Byb3BzKHN0YXRlKSB7Cn0K</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKHN0YXRlKSA9PiAoewogICAgZGlzcGxheTogXy5nZXQoc3RhdGUsICdtaWx0b25fZGlzcGxheScsIHt9KQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJzID0gXy5jaGFpbihfLmdldChzdGF0ZSwgJ21pbHRvbl9wcm9qZWN0cy5kYXRhJywgW10pKQogICAgICAgIC5tYXAoKHByb2plY3QpID0+IF8uZ2V0KHByb2plY3QsICd1c2VyJywgbnVsbCkpCiAgICAgICAgLmZpbHRlcigodXNlcikgPT4gIV8uaXNFbXB0eSh1c2VyKSkKICAgICAgICAudW5pcSgpCiAgICAgICAgLnNvcnQoKQogICAgICAgIC52YWx1ZSgpOwoKICAgIHJldHVybiB7CiAgICAgICAgc3RhdHVzOiBfLmdldChzdGF0ZSwgJ21pbHRvbl9wcm9qZWN0cy5zdGF0dXMnLCBOT1RfU1RBUlRFRCksCiAgICAgICAgcHJvamVjdHM6IHByb2plY3RzV2l0aERldGFpbHMoc3RhdGUpLAogICAgICAgIHVzZXJzCiAgICB9Ow==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aD5DdXJyZW50IERlcGxveXM8L3RoPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aD5OPC90aD4K</text>
+        <text encoding="base64">ICAgIHJlbmRlckVtYWlscygpIHsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGg+Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbWFwU3RhdGVUb1Byb3BzKHN0YXRlKSB7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
