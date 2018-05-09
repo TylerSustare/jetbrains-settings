@@ -1124,11 +1124,11 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525894449842">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525895309651">
         <mark key="'" line="44" column="13" />
-        <mark key="[" line="38" column="84" />
-        <mark key="]" line="38" column="83" />
-        <mark key="." line="38" column="83" />
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
         <mark key="^" line="38" column="83" />
       </file>
       <file name="/JavaScript Console" timestamp="1525891849739">
@@ -1328,10 +1328,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
