@@ -449,11 +449,12 @@
         <mark key="." line="283" column="38" />
         <mark key="^" line="283" column="38" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1525889472153">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1525896318515">
         <mark key="'" line="68" column="12" />
-        <mark key="]" line="224" column="12" />
-        <mark key="^" line="224" column="12" />
-        <mark key="." line="224" column="12" />
+        <mark key="[" line="231" column="37" />
+        <mark key="]" line="231" column="70" />
+        <mark key="^" line="231" column="70" />
+        <mark key="." line="231" column="70" />
       </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Main/index.js" timestamp="1525805077842">
         <mark key="[" line="13" column="45" />
@@ -645,11 +646,6 @@
         <mark key="]" line="49" column="58" />
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todo_factory.js" timestamp="1525892248960">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521563508470">
         <mark key="'" line="632" column="30" />
@@ -1124,12 +1120,12 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525895309651">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525895954850">
         <mark key="'" line="44" column="13" />
         <mark key="[" line="44" column="47" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
-        <mark key="^" line="38" column="83" />
+        <mark key="]" line="44" column="52" />
+        <mark key="." line="44" column="52" />
+        <mark key="^" line="44" column="52" />
       </file>
       <file name="/JavaScript Console" timestamp="1525891849739">
         <mark key="[" line="0" column="0" />
@@ -1328,16 +1324,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>America/Los_Angeles</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>America/Los_Angeles</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbi5hZGQoLTcsICdob3VycycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
