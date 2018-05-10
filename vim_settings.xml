@@ -688,12 +688,12 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1525974892888">
-        <mark key="'" line="42" column="48" />
-        <mark key="[" line="226" column="65" />
-        <mark key="]" line="226" column="72" />
-        <mark key="." line="226" column="72" />
-        <mark key="^" line="226" column="72" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1525975646635">
+        <mark key="'" line="82" column="44" />
+        <mark key="[" line="82" column="28" />
+        <mark key="]" line="82" column="28" />
+        <mark key="." line="82" column="44" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/errors/firehose_error.js" timestamp="1524776113467">
         <mark key="'" line="18" column="0" />
@@ -1221,12 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
-      <jump line="123" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
-      <jump line="131" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
-      <jump line="139" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
-      <jump line="147" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
-      <jump line="155" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
       <jump line="163" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
       <jump line="171" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
       <jump line="179" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
@@ -1321,16 +1315,22 @@
       <jump line="199" column="84" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="28" column="52" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="42" column="48" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="81" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="75" column="28" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="77" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="78" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="79" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="82" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>schedule</text>
+        <text>reminder</text>
       </register>
       <register name="-" type="4">
-        <text>schedule</text>
+        <text>reminder</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>reminder\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbi5hZGQoLTcsICdob3VycycpOwo=</text>
@@ -1370,15 +1370,14 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>reminder\.</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>reminder\.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_</entry>
         <entry>_\.</entry>
         <entry>123456</entry>
         <entry>TokenConstants</entry>
@@ -1398,6 +1397,7 @@
         <entry>app</entry>
         <entry>console</entry>
         <entry>user</entry>
+        <entry>reminder\.</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
