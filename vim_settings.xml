@@ -525,9 +525,6 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/common.js" timestamp="1525723868924">
-        <mark key="'" line="151" column="0" />
-      </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="53" column="30" />
@@ -572,9 +569,6 @@
         <mark key="]" line="25" column="68" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1524257693056">
-        <mark key="'" line="53" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/firehose_expected_values.js" timestamp="1524776103327">
         <mark key="'" line="38" column="2" />
@@ -771,9 +765,6 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/app.js" timestamp="1525811883861">
-        <mark key="'" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1524768523021">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="63" column="5" />
@@ -963,12 +954,12 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1525979938890">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1525995468951">
         <mark key="'" line="191" column="38" />
-        <mark key="[" line="231" column="40" />
-        <mark key="]" line="231" column="48" />
-        <mark key="." line="231" column="48" />
-        <mark key="^" line="231" column="48" />
+        <mark key="[" line="222" column="53" />
+        <mark key="]" line="222" column="51" />
+        <mark key="." line="222" column="51" />
+        <mark key="^" line="222" column="51" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_once.js" timestamp="1524769189164">
         <mark key="'" line="32" column="0" />
@@ -1085,11 +1076,11 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/deploy.sh" timestamp="1522687940225">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="1" />
-        <mark key="^" line="50" column="1" />
-        <mark key="." line="50" column="1" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/deploy.sh" timestamp="1525995318308">
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/.eslintrc" timestamp="1519149969902">
         <mark key="[" line="4" column="4" />
@@ -1155,9 +1146,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/process.js" timestamp="1525812031867">
-        <mark key="'" line="48" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
         <mark key="'" line="353" column="0" />
@@ -1354,10 +1342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>only</text>
+        <text>timezone</text>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>timezone</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
