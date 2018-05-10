@@ -688,12 +688,12 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1525969478759">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="7" column="24" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1525970718615">
+        <mark key="'" line="42" column="48" />
+        <mark key="[" line="218" column="30" />
+        <mark key="]" line="218" column="49" />
+        <mark key="." line="218" column="49" />
+        <mark key="^" line="218" column="49" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/errors/firehose_error.js" timestamp="1524776113467">
         <mark key="'" line="18" column="0" />
@@ -1221,9 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
-      <jump line="99" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
-      <jump line="107" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
       <jump line="115" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
       <jump line="123" column="26" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
       <jump line="131" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" />
@@ -1321,64 +1318,66 @@
       <jump line="43" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="43" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="49" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="199" column="84" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="28" column="52" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
+      <jump line="42" column="48" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>America/Los_Angeles</text>
+        <text>schedule</text>
       </register>
       <register name="-" type="4">
-        <text>America/Los_Angeles</text>
+        <text>schedule</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbi5hZGQoLTcsICdob3VycycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhgaW5zaWRlIHBvc3ROZXdTY2hlZHVsZSwgd2l0aCBzY2hlZHVsZTogXG4gJHtKU09OLnN0cmluZ2lmeShzY2hlZHVsZSwgbnVsbCwgMil9YCwgTE9HX0NBVEVHT1JZKTsKICAgICAgICBsb2dnZXIuaW5mbyhgbWFraW5nIHJlcXVlc3QgdG8gJHtjb25maWcuYXV0aFVybH0vb2F1dGgyL2F1dGgvY2xpZW50YCwgTE9HX0NBVEVHT1JZKTsKICAgICAgICBjb25zdCBib2R5ID0geyBjbGllbnRfaWQ6IGNvbmZpZy5jbGllbnRJZCwgZ3JhbnRfdHlwZTogY29uZmlnLmdyYW50VHlwZSwgY2xpZW50X3NlY3JldDogY29uZmlnLmNsaWVudFNlY3JldCB9OwogICAgICAgIGxvZ2dlci5pbmZvKGB3aXRoIHBhcmFtZXRlcnNcbiAke0pTT04uc3RyaW5naWZ5KGJvZHksIG51bGwsIDIpfWApOwogICAgICAgIHJldHVybiBRLlByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgICBhZ2VudAogICAgICAgICAgICAgICAgLnBvc3QoYCR7Y29uZmlnLmF1dGhIb3N0fS9vYXV0aDIvYXV0aC9jbGllbnRgKQogICAgICAgICAgICAgICAgLnNlbmQoYm9keSkKICAgICAgICAgICAgICAgIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoYGluc2lkZSBlcnJvciBmcm9tIGNhbGwgdG8gYXV0aCBmcm9tIHNjaGVkdWxlICR7SlNPTi5zdHJpbmdpZnkoc2NoZWR1bGUsIG51bGwsIDIpfWAsIExPR19DQVRFR09SWSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihgaW5zaWRlIGVycm9yIGZyb20gY2FsbCB0byBhdXRoIHdpdGggJHtKU09OLnN0cmluZ2lmeShlcnIsIG51bGwsIDIpfWAsIExPR19DQVRFR09SWSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZWplY3QoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3I6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlOiAnZXJyb3IgZ2V0dGluZyB0b2tlbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXV0aEhvc3RFcnJvcjogZXJyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhgc3VjY2Vzc2Z1bCBjYWxsIHRvIGF1dGggd2l0aCAke0pTT04uc3RyaW5naWZ5KHJlcywgbnVsbCwgMil9YCwgTE9HX0NBVEVHT1JZKTsKICAgICAgICAgICAgICAgICAgICBjb25zdCB0ZXh0ID0gSlNPTi5wYXJzZShyZXMudGV4dCk7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSB0ZXh0LmFjY2Vzc190b2tlbjsKCiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oYGFjY2VzcyB0b2tlbiBpczogJHtKU09OLnN0cmluZ2lmeShhY2Nlc3NUb2tlbiwgbnVsbCwgMil9YCwgTE9HX0NBVEVHT1JZKTsKCiAgICAgICAgICAgICAgICAgICAgYWdlbnQKICAgICAgICAgICAgICAgICAgICAgICAgLnBvc3QoYCR7Y29uZmlnLm5vdGlmaWNhdGlvblNjaGVkdWxlSG9zdH0vc2NoZWR1bGUvcmVjdXJyaW5nYCkKICAgICAgICAgICAgICAgICAgICAgICAgLnNlbmQoc2NoZWR1bGUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgICAgICAgICAgICAgLmVuZCgoZXJyb3IsIHJlc3BvbnNlKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhgaW5zaWRlIGVycm9yIGZyb20gY2FsbCB0byBub3RpZmljYXRpb24gc2NoZWR1bGUgZnJvbSBzY2hlZHVsZSAke0pTT04uc3RyaW5naWZ5KHNjaGVkdWxlLCBudWxsLCAyKX1gLCBMT0dfQ0FURUdPUlkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGBpbiBlcnJvciBmcm9tIGNhbGwgdG8gbm90aWZpY2F0aW9uIHNjaGVkdWxlICR7SlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpfWAsIExPR19DQVRFR09SWSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlamVjdCh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlOiAnZXJyb3IgY3JlYXRpbmcgc2NoZWR1bGUgaW4gbm90aWZpY2F0aW9uIHNjaGVkdWxlIHNlcnZpY2UnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub3RpZmljYXRpb25TY2hlZHVsZUVycm9yOiBlcnJvcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhgc3VjY2Vzc2Z1bCBjYWxsIHRvIG5vdGlmaWNhdGlvbiBzY2hlZHVsZSBzZXJ2aWNlIHdpdGggJHtKU09OLnN0cmluZ2lmeShyZXNwb25zZSwgbnVsbCwgMil9YCwgTE9HX0NBVEVHT1JZKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNvbHZlKEpTT04uc3RyaW5naWZ5KHJlc3BvbnNlLCBudWxsLCAyKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgc2NoZWR1bGUuX2RvYywgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXh0X3Byb2Nlc3NlZF9hdDogdG9kb0ZhY3RvcnkuZ2V0TmV4dFByb2Nlc3NEYXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCB0b2RvRmFjdG9yeSA9IG5ldyBUb2RvRmFjdG9yeShzY2hlZHVsZSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIE1PRElGWSBXSVRIIFBST0NFU1NfQVQgREFURWRqZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NoZWR1bGVzID0gc2NoZWR1bGVzLm1hcChzY2hlZHVsZSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgc2NoZWR1bGUuX2RvYywgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXh0X3Byb2Nlc3NlZF9hdDogdG9kb0ZhY3RvcnkuZ2V0TmV4dFByb2Nlc3NEYXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>userData</entry>
         <entry>_</entry>
         <entry>_\.</entry>
         <entry>123456</entry>
@@ -1398,6 +1397,7 @@
         <entry>id</entry>
         <entry>app</entry>
         <entry>console</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
