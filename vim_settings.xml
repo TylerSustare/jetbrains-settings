@@ -28,12 +28,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526062169631">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526063186548">
         <mark key="'" line="154" column="0" />
-        <mark key="[" line="179" column="68" />
-        <mark key="]" line="179" column="68" />
-        <mark key="^" line="179" column="56" />
-        <mark key="." line="179" column="68" />
+        <mark key="[" line="136" column="37" />
+        <mark key="]" line="136" column="52" />
+        <mark key="^" line="136" column="52" />
+        <mark key="." line="136" column="52" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
@@ -732,7 +732,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="93" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token_manager.js" timestamp="1525730138425">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token_manager.js" timestamp="1526063255366">
         <mark key="[" line="2" column="44" />
         <mark key="]" line="2" column="57" />
         <mark key="." line="2" column="57" />
@@ -847,12 +847,12 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1526057582961">
+      <file name="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" timestamp="1526063102348">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="85" column="17" />
-        <mark key="]" line="85" column="17" />
-        <mark key="^" line="85" column="17" />
-        <mark key="." line="85" column="17" />
+        <mark key="[" line="117" column="17" />
+        <mark key="]" line="104" column="37" />
+        <mark key="^" line="104" column="37" />
+        <mark key="." line="104" column="37" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/lib/connections.js" timestamp="1516925340159">
         <mark key="[" line="64" column="79" />
@@ -1160,7 +1160,7 @@
         <mark key="." line="44" column="52" />
         <mark key="^" line="44" column="52" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525991000937">
+      <file name="/JavaScript Console" timestamp="1526063004522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1361,46 +1361,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>object</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>aws</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgY29uc3QgZGVsZXRlUmVxdWVzdHMgPSBkZWxldGVUb2tlbnMubWFwKHRva2VuID0+ICh7CiAgICAgICAgICAgIERlbGV0ZVJlcXVlc3Q6IHsKICAgICAgICAgICAgICAgIEtleTogewogICAgICAgICAgICAgICAgICAgIHVzZXJJZDogdG9rZW4udXNlcklkLAogICAgICAgICAgICAgICAgICAgIHRva2VuSWQ6IHRva2VuLnRva2VuSWQKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pKTsKCiAgICAgICAgdGhpcy5wYXJhbXMgPSB7CiAgICAgICAgICAgIFJlcXVlc3RJdGVtczogewogICAgICAgICAgICAgICAgW3RoaXMudGFibGVdOiBkZWxldGVSZXF1ZXN0cwogICAgICAgICAgICB9CiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuIFEubmludm9rZSh0aGlzLmRvY0NsaWVudCwgJ2JhdGNoV3JpdGUnLCB0aGlzLnBhcmFtcykKICA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzLnB1c2gocmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBRLnJlamVjdCh2YWx1ZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIV8uaGFzKGRhdGEsIHZhbHVlKSA/IGRhdGEucHVzaCh2YWx1ZSkgOiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1bmlxdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFEucmVqZWN0KHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgPSBfLnVuaXEoZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGF0YSwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVuaXF1ZURhdGEsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gICAgICAgICByZXR1cm4gZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1bmlxdWVEYXRhOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICAgICByZXR1cm4gdGhpcy5iYXRjaERlbGV0ZVRva2Vucyh0b2tlbnMpOwogICAgICAgIC8vICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
