@@ -673,12 +673,11 @@
         <mark key="^" line="640" column="47" />
         <mark key="." line="631" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1525967977429">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="63" />
-        <mark key="." line="36" column="63" />
-        <mark key="^" line="36" column="63" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" timestamp="1526078801388">
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="353" column="0" />
+        <mark key="^" line="296" column="20" />
+        <mark key="." line="353" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
@@ -1258,7 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="27" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
       <jump line="21" column="18" filename="$USER_HOME$/src/services/service-auth/node/test/common.js" />
       <jump line="32" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
       <jump line="44" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
@@ -1358,64 +1356,64 @@
       <jump line="160" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="141" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="154" column="0" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
+      <jump line="328" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>aws</text>
+        <text>token</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzLnB1c2gocmVzdWx0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBRLnJlamVjdCh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZXJyLm1lc3NhZ2UgPT09ICdGb3JiaWRkZW4nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXMuc3RhdHVzKDQwMykuc2VuZChyZXNwb25zZS5Gb3JiaWRkZW4oZXJyLm1lc3NhZ2UpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFEucmVqZWN0KHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIShzY2hlZHVsZS5tZW1iZXJfaWQgPT09IG1lbWJlcklkIHx8IChtZW1iZXJJbmZvLnJvbGVzLmluY2x1ZGVzKCdhZG1pbicpIHx8IG1lbWJlckluZm8ucm9sZXMuaW5jbHVkZXMoJ3N0YWZmJykpKSkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ0ZvcmJpZGRlbicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGF0YSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUS5hbGwocHJvbWlzZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVuaXF1ZURhdGEsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB1bmlxdWVEYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcHJvbWlzZXMgPSBbCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>aws</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>aws</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>todo</entry>
         <entry>member</entry>
         <entry>id</entry>
         <entry>app</entry>
@@ -1435,6 +1433,7 @@
         <entry>console</entry>
         <entry>helper</entry>
         <entry>aws</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
