@@ -525,9 +525,6 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/test/common.js" timestamp="1525723868924">
-        <mark key="'" line="151" column="0" />
-      </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="53" column="30" />
@@ -572,9 +569,6 @@
         <mark key="]" line="25" column="68" />
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1524257693056">
-        <mark key="'" line="53" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/firehose_expected_values.js" timestamp="1524776103327">
         <mark key="'" line="38" column="2" />
@@ -771,9 +765,6 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/app.js" timestamp="1525811883861">
-        <mark key="'" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/firehose.js" timestamp="1524768523021">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="63" column="5" />
@@ -930,11 +921,11 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/index.js" timestamp="1526017202103">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="44" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/index.js" timestamp="1526018048880">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="10" />
+        <mark key="." line="4" column="10" />
+        <mark key="^" line="4" column="10" />
       </file>
       <file name="/fragment.js" timestamp="1525990757324">
         <mark key="[" line="0" column="0" />
@@ -969,12 +960,12 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1526016896263">
-        <mark key="'" line="191" column="38" />
-        <mark key="[" line="222" column="53" />
-        <mark key="]" line="222" column="51" />
-        <mark key="." line="163" column="54" />
-        <mark key="^" line="222" column="51" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1526018109972">
+        <mark key="'" line="192" column="38" />
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="5" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_once.js" timestamp="1524769189164">
         <mark key="'" line="32" column="0" />
@@ -1117,7 +1108,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/timezones.json" timestamp="1526017221818">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/timezones.json" timestamp="1526018277869">
         <mark key="'" line="1375" column="1" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/todo.js" timestamp="1525467511770">
@@ -1164,9 +1155,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/process.js" timestamp="1525812031867">
-        <mark key="'" line="48" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
         <mark key="'" line="353" column="0" />
@@ -1362,11 +1350,11 @@
       <jump line="1375" column="1" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/timezones.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>timezone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>timezone</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
@@ -1375,34 +1363,34 @@
         <text encoding="base64">ICAgICAgICAidGVzdFNlcnZpY2UiOiAiYWJjMTIzIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzZXJ2aWNlc0ZvckludGVybmFsQWNjZXNzIgo=</text>
+        <text encoding="base64">Y29uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoTWlkZGxld2FyZS5jaGVja0Zvck1lbWJlcklkLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXBpQmFzZSA9IHJlcXVpcmUoJy4vYmFzZScpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVWYWxpZENsaWVudFRva2VuLAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJzZXJ2aWNlc0ZvckludGVybmFsQWNjZXNzIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRoTWlkZGxld2FyZS5jaGVja0Zvck1lbWJlcklkLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNhbGxiYWNrKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlVmFsaWRDbGllbnRUb2tlbih0b2tlbklkLCBkZXRhaWxzKSB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXBpQmFzZSA9IHJlcXVpcmUoJy4vYmFzZScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB0b2tlblN0b3JlW3Rva2VuSWRdID0gZGV0YWlsczsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
