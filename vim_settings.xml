@@ -28,12 +28,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526054717003">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526056165378">
         <mark key="'" line="92" column="64" />
-        <mark key="[" line="142" column="25" />
-        <mark key="]" line="142" column="34" />
-        <mark key="." line="142" column="34" />
-        <mark key="^" line="142" column="34" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="169" column="27" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
@@ -582,7 +582,7 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1526052344509">
+      <file name="$USER_HOME$/src/services/service-auth/node/config/qa.json" timestamp="1526056141528">
         <mark key="[" line="28" column="66" />
         <mark key="]" line="28" column="64" />
         <mark key="^" line="28" column="64" />
@@ -768,14 +768,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="1" column="50" />
-      </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/config/production.js" timestamp="1525980200389">
-        <mark key="e" line="12" column="6" />
-        <mark key="'" line="11" column="7" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="92" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/eslint-config-cbtnuggets/rules/node-strict.js" timestamp="1511286059466">
         <mark key="[" line="38" column="31" />
@@ -1004,8 +996,8 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1524264826415">
-        <mark key="'" line="429" column="33" />
+      <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1526056125315">
+        <mark key="'" line="18" column="13" />
         <mark key="[" line="353" column="9" />
         <mark key="]" line="353" column="9" />
         <mark key="." line="353" column="9" />
@@ -1266,10 +1258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
-      <jump line="318" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
-      <jump line="355" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
-      <jump line="429" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="378" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="331" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="280" column="20" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
@@ -1366,64 +1354,67 @@
       <jump line="32" column="58" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="113" column="7" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="92" column="64" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
+      <jump line="32" column="36" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="149" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="371" column="9" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
+      <jump line="18" column="13" filename="$USER_HOME$/src/services/service-auth/node/config/schema.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzYXZlIHRvIGR5bmFtbywgaWYgdXNlcl9pZCBleGlzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$keys.AWS.qa.AccessKeyId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>helper</text>
+        <text>aws</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkic2VjcmV0X2FjY2Vzc19rZXkiOiAiJGtleXMuQVdTLnFhLlNlY3JldEFjY2Vzc0tleSIsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAgICAgY29uc3QgZGVsZXRlUmVxdWVzdHMgPSBkZWxldGVUb2tlbnMubWFwKHRva2VuID0+ICh7CiAgICAgICAgICAgIERlbGV0ZVJlcXVlc3Q6IHsKICAgICAgICAgICAgICAgIEtleTogewogICAgICAgICAgICAgICAgICAgIHVzZXJJZDogdG9rZW4udXNlcklkLAogICAgICAgICAgICAgICAgICAgIHRva2VuSWQ6IHRva2VuLnRva2VuSWQKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pKTsKCiAgICAgICAgdGhpcy5wYXJhbXMgPSB7CiAgICAgICAgICAgIFJlcXVlc3RJdGVtczogewogICAgICAgICAgICAgICAgW3RoaXMudGFibGVdOiBkZWxldGVSZXF1ZXN0cwogICAgICAgICAgICB9CiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuIFEubmludm9rZSh0aGlzLmRvY0NsaWVudCwgJ2JhdGNoV3JpdGUnLCB0aGlzLnBhcmFtcykKICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzYXZlIHRvIGR5bmFtbywgaWYgdXNlcl9pZCBleGlzdHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBtdXN0IGJlIGxlc3MgdGhhbiAyNSB0b2tlbnMgcGVyIHJlcXVlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGVycm9yLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQVdTLmNvbmZpZy51cGRhdGUoewogICAgICAgICAgICAgICAgYWNjZXNzS2V5SWQ6IHRoaXMuY29uZmlnLmdldFByb3BlcnR5KCdhd3MubHhfYWNjZXNzX2tleV9pZCcpLAogICAgICAgICAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnYXdzLmx4X3NlY3JldF9hY2Nlc3Nfa2V5JyksCiAgICAgICAgICAgICAgICByZWdpb246IHRoaXMuY29uZmlnLmdldFByb3BlcnR5KCdhd3MucmVnaW9uJykKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQVdTLmNvbmZpZy51cGRhdGUoewogICAgICAgICAgICAgICAgYWNjZXNzS2V5SWQ6IHRoaXMuY29uZmlnLmdldFByb3BlcnR5KCdhd3MuYWNjZXNzX2tleV9pZCcpLAogICAgICAgICAgICAgICAgc2VjcmV0QWNjZXNzS2V5OiB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnYXdzLnNlY3JldF9hY2Nlc3Nfa2V5JyksCiAgICAgICAgICAgICAgICByZWdpb246IHRoaXMuY29uZmlnLmdldFByb3BlcnR5KCdhd3MucmVnaW9uJykKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBLRVlTIFdJTEwgQ0hBTkdFIEFGVEVSIC0gREVWT1BTLTI3MzcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>helper</last-search>
+      <last-search>aws</last-search>
       <last-offset />
-      <last-pattern>helper</last-pattern>
+      <last-pattern>aws</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
         <entry>todo</entry>
         <entry>member</entry>
         <entry>id</entry>
@@ -1443,6 +1434,7 @@
         <entry>utc</entry>
         <entry>console</entry>
         <entry>helper</entry>
+        <entry>aws</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
