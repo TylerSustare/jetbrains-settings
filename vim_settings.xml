@@ -28,12 +28,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526333698312">
-        <mark key="'" line="41" column="12" />
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="34" />
-        <mark key="." line="25" column="34" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526334434977">
+        <mark key="'" line="37" column="74" />
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="14" column="44" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
@@ -1270,7 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="14" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
       <jump line="16" column="10" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
       <jump line="277" column="102" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
       <jump line="52" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
@@ -1370,19 +1369,20 @@
       <jump line="25" column="29" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="31" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="41" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
+      <jump line="36" column="74" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AWS</text>
+        <text>config.getProperty('dynamodb.table');</text>
       </register>
       <register name="-" type="4">
-        <text>AWS</text>
+        <text>config.getProperty('dynamodb.table');</text>
       </register>
       <register name="/" type="4">
         <text>AWS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2Vzc0tleUlkOiB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnYXdzLmx4X2FjY2Vzc19rZXlfaWQnKSwKICAgICAgICAgICAgICAgIHNlY3JldEFjY2Vzc0tleTogdGhpcy5jb25maWcuZ2V0UHJvcGVydHkoJ2F3cy5seF9zZWNyZXRfYWNjZXNzX2tleScpLAogICAgICAgICAgICAgICAgcmVnaW9uOiB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnYXdzLnJlZ2lvbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnRhYmxlID0gY29uZmlnLmdldFByb3BlcnR5KCdkeW5hbW9kYi50YWJsZScpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9LAo=</text>
