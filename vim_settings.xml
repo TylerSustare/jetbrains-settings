@@ -28,12 +28,12 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526063186548">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="136" column="37" />
-        <mark key="]" line="136" column="52" />
-        <mark key="^" line="136" column="52" />
-        <mark key="." line="136" column="52" />
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526331828328">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="82" />
+        <mark key="^" line="138" column="52" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
@@ -1368,7 +1368,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uYmUuYW4oJ29iamVjdCcpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5KS50by5lcWwoe30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2Vzc0tleUlkOiB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnYXdzLmFjY2Vzc19rZXlfaWQnKSwKICAgICAgICAgICAgICAgIHNlY3JldEFjY2Vzc0tleTogdGhpcy5jb25maWcuZ2V0UHJvcGVydHkoJ2F3cy5zZWNyZXRfYWNjZXNzX2tleScpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>be.an('object');</text>
@@ -1377,7 +1377,7 @@
         <text>token</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uYmUuYW4oJ29iamVjdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2Vzc0tleUlkOiB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnYXdzLmFjY2Vzc19rZXlfaWQnKSwKICAgICAgICAgICAgICAgIHNlY3JldEFjY2Vzc0tleTogdGhpcy5jb25maWcuZ2V0UHJvcGVydHkoJ2F3cy5zZWNyZXRfYWNjZXNzX2tleScpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uYmUuYW4oJ29iamVjdCcpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5KS50by5lcWwoe30pOwo=</text>
