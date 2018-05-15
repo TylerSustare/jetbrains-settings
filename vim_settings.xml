@@ -28,7 +28,7 @@
         <mark key="^" line="70" column="19" />
         <mark key="." line="70" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526418444814">
+      <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526419056047">
         <mark key="'" line="37" column="74" />
         <mark key="[" line="14" column="44" />
         <mark key="]" line="14" column="45" />
@@ -585,12 +585,11 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1525979764258">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="26" column="64" />
-        <mark key="]" line="26" column="63" />
-        <mark key="." line="26" column="63" />
-        <mark key="^" line="26" column="63" />
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" timestamp="1526425733420">
+        <mark key="[" line="292" column="1" />
+        <mark key="]" line="292" column="1" />
+        <mark key="." line="292" column="1" />
+        <mark key="^" line="292" column="1" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1524160063321">
         <mark key="[" line="86" column="48" />
@@ -988,10 +987,10 @@
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1526019083421">
+      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" timestamp="1526425130815">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="89" column="89" />
-        <mark key="]" line="89" column="90" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="49" />
         <mark key="." line="89" column="90" />
         <mark key="^" line="89" column="90" />
       </file>
@@ -1276,25 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="10" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
-      <jump line="277" column="102" filename="$USER_HOME$/src/services/service-auth/node/routes/auth.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" />
-      <jump line="129" column="0" filename="$USER_HOME$/src/services/service-auth/README.md" />
-      <jump line="68" column="4" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
-      <jump line="91" column="44" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/components/Editor/index.js" />
-      <jump line="332" column="30" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="32" column="50" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="148" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="25" column="20" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="31" column="50" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="36" column="54" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="246" column="36" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="38" column="21" filename="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/app.js" />
-      <jump line="270" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
-      <jump line="272" column="43" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="9" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
       <jump line="48" column="14" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/process.js" />
@@ -1376,64 +1356,82 @@
       <jump line="31" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="41" column="12" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="36" column="74" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="13" column="42" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="17" column="49" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="23" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="24" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="68" column="41" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="72" column="48" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="102" column="42" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="148" column="43" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="67" column="41" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="71" column="48" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="100" column="56" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="101" column="42" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="147" column="43" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="53" column="10" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IFRvZG9Nb2RlbC5kZWxldGVUb2Rvc0ZvclNjaGVkdWxlSWQoc2NoZWR1bGVJZCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>this.</text>
       </register>
       <register name="-" type="4">
-        <text>ateToProps</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text>AWS</text>
+        <text>this\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IFRvZG9Nb2RlbC5kZWxldGVUb2Rvc0ZvclNjaGVkdWxlSWQoc2NoZWR1bGVJZCkpCg==</text>
+        <text encoding="base64">Y29uc3QgeyBDbGllbnQ6IFBvc3RncmVzQ2xpZW50IH0gPSByZXF1aXJlKCdwZycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">bGV0IHBzcWxDbGllbnQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlNlY3JldEFjY2Vzc0tleSI6ICJ2YWx1ZSIK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoKCkgPT4ge30pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAicHJvZCI6IHsKICAgICAgICAgICAgIkFjY2Vzc0tleUlkIjogIkFLSUFJRVo2VUE0WVFGN0FQUzZBIiwK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBtaWdyYXRlVHJhaW5pbmdSZW1pbmRlcnM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY2Vzc0tleUlkOiB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnYXdzLmFjY2Vzc19rZXlfaWQnKSwKICAgICAgICAgICAgICAgIHNlY3JldEFjY2Vzc0tleTogdGhpcy5jb25maWcuZ2V0UHJvcGVydHkoJ2F3cy5zZWNyZXRfYWNjZXNzX2tleScpLAo=</text>
+        <text encoding="base64">bGV0IHBzcWxDbGllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uYmUuYW4oJ29iamVjdCcpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5KS50by5lcWwoe30pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgTE9HX0NBVEVHT1JZID0gJ3Rhc2stZXhhbS1wcm92aWRlcic7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgZ2V0IGEgNDAzIGF0dGVtcHRpbmcgdG8gZGlzYWJsZSBhIHNjaGVkdWxlIHRoYXQgaXMgZm9yIGEgZGlmZmVyZW50IG1lbWJlcicsIGRvbmUgPT4gewogICAgICAgIGNvbnN0IHNjaGVkdWxlUmVjb3JkID0gXy5oZWFkKHNjaGVkdWxlRml4dHVyZXMucmVjb3Jkcyk7CiAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4yID0gJ25vdEFkbWluT3JTdGFmZic7CgogICAgICAgIHRlc3QuY3JlYXRlVmFsaWRUb2tlbihhY2Nlc3NUb2tlbjIsIHsgdXNlcl9pZDogdXNlcklkIH0pOwogICAgICAgIHJlcXVlc3QoYXBwKQogICAgICAgICAgICAucG9zdChyb3V0ZXMuQVBJX1NDSEVEVUxFX0RJU0FCTEUucmVwbGFjZSgnOnNjaGVkdWxlX2lkJywgc2NoZWR1bGVSZWNvcmQuX2lkKSkKICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbjJ9YCkKICAgICAgICAgICAgLmV4cGVjdCg0MDMpCiAgICAgICAgICAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkuc3RhdHVzKS50by5lcXVhbCg0MDMpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5Lm1lc3NhZ2UpLnRvLmVxdWFsKCdGb3JiaWRkZW4nKTsKICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keS5jb2RlKS50by5lcXVhbCgnRVJSX0ZPUkJJRERFTicpOwogICAgICAgICAgICAgICAgZXhwZWN0KHJlcy5ib2R5LmVycm9yKS50by5lcXVhbCgnRm9yYmlkZGVuJyk7CgogICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2goZG9uZSk7CiAgICB9KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgTE9HX0NBVEVHT1JZID0gJ3Rhc2stZXhhbS1wcm92aWRlcic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>AWS</last-search>
+      <last-search>this\.</last-search>
       <last-offset />
-      <last-pattern>AWS</last-pattern>
+      <last-pattern>this\.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>app</entry>
         <entry>user</entry>
         <entry>reminder\.</entry>
@@ -1449,10 +1447,11 @@
         <entry>auth</entry>
         <entry>utc</entry>
         <entry>console</entry>
-        <entry>helper</entry>
         <entry>aws</entry>
         <entry>token</entry>
         <entry>AWS</entry>
+        <entry>helper</entry>
+        <entry>this\.</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
