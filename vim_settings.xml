@@ -80,7 +80,7 @@
         <mark key="^" line="16" column="316" />
         <mark key="." line="83" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/index.js" timestamp="1525805046373">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/index.js" timestamp="1526405556380">
         <mark key="[" line="12" column="43" />
         <mark key="]" line="12" column="43" />
         <mark key="^" line="5" column="35" />
@@ -510,6 +510,12 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/views/Emails/index.js" timestamp="1526405651375">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="26" />
+        <mark key="." line="59" column="26" />
+        <mark key="^" line="59" column="26" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/test/base.js" timestamp="1510097216111">
         <mark key="[" line="187" column="141" />
         <mark key="]" line="187" column="141" />
@@ -618,7 +624,7 @@
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/breadcrumbs.js" timestamp="1525803009330">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/breadcrumbs.js" timestamp="1526405490578">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="42" />
         <mark key="." line="1" column="42" />
@@ -1373,10 +1379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config.getProperty('dynamodb.table');</text>
+        <text>ateToProps</text>
       </register>
       <register name="-" type="4">
-        <text>config.getProperty('dynamodb.table');</text>
+        <text>ateToProps</text>
       </register>
       <register name="/" type="4">
         <text>AWS</text>
