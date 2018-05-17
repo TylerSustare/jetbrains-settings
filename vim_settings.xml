@@ -217,6 +217,11 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="22" column="59" />
       </file>
+      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/metadata.yaml" timestamp="1526517860490">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedules.js" timestamp="1525892011821">
         <mark key="[" line="95" column="6" />
         <mark key="]" line="95" column="6" />
@@ -304,7 +309,7 @@
         <mark key="^" line="954" column="119" />
         <mark key="." line="954" column="119" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" timestamp="1525814299004">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" timestamp="1526521880027">
         <mark key="'" line="50" column="79" />
         <mark key="[" line="91" column="42" />
         <mark key="]" line="91" column="46" />
@@ -1370,17 +1375,17 @@
       <jump line="53" column="10" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>this\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBDbGllbnQ6IFBvc3RncmVzQ2xpZW50IH0gPSByZXF1aXJlKCdwZycpOwo=</text>
+        <text encoding="base64">Zm9ybWF0aW9uVGVtcGxhdGU6ICJsYW1iZGEtY3Jvbi13aXRoLXZwYy55YW1sIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
