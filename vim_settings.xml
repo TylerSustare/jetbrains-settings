@@ -1165,14 +1165,14 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526531660212">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526539387500">
         <mark key="'" line="21" column="26" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="22" column="107" />
+        <mark key="[" line="42" column="47" />
+        <mark key="]" line="42" column="50" />
+        <mark key="." line="42" column="50" />
+        <mark key="^" line="42" column="50" />
       </file>
-      <file name="/JavaScript Console" timestamp="1526343414096">
+      <file name="/JavaScript Console" timestamp="1526539495790">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1372,11 +1372,11 @@
       <jump line="21" column="26" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudHJpZ2dlci51dGNPZmZzZXQodGltZVpvbmUsIHRydWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>zone</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>zone</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
