@@ -1133,9 +1133,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/timezones.json" timestamp="1526019216810">
-        <mark key="'" line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/todo.js" timestamp="1525467511770">
         <mark key="[" line="72" column="47" />
         <mark key="]" line="72" column="46" />
@@ -1168,12 +1165,12 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1525895954850">
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="44" column="47" />
-        <mark key="]" line="44" column="52" />
-        <mark key="." line="44" column="52" />
-        <mark key="^" line="44" column="52" />
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526530623220">
+        <mark key="'" line="21" column="26" />
+        <mark key="[" line="22" column="104" />
+        <mark key="]" line="22" column="107" />
+        <mark key="." line="22" column="107" />
+        <mark key="^" line="22" column="107" />
       </file>
       <file name="/JavaScript Console" timestamp="1526343414096">
         <mark key="[" line="0" column="0" />
@@ -1283,7 +1280,6 @@
       <jump line="45" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="50" column="79" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="27" column="80" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
-      <jump line="21" column="40" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="40" column="33" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="44" column="33" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="51" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
@@ -1373,64 +1369,64 @@
       <jump line="101" column="42" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="147" column="43" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="53" column="10" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
+      <jump line="21" column="26" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGAgJHt9YCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>this\.</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zm9ybWF0aW9uVGVtcGxhdGU6ICJsYW1iZGEtY3Jvbi13aXRoLXZwYy55YW1sIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGAgJHt9YCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGBpbnNpZGUgZXJyb3IgZnJvbSBjYWxsIHRvIG1lbWJlciBzZXJ2aWNlIGZyb20gdXNlciAke21lbWJlcl9pZH1gLCBMT0dfQ0FURUdPUlkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oYGluIGVycm9yIGZyb20gY2FsbCB0byBtZW1iZXIgc2VydmljZSAke0pTT04uc3RyaW5naWZ5KGVycm9yLCBudWxsLCAyKX1gLCBMT0dfQ0FURUdPUlkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGBpbnNpZGUgZXJyb3IgZnJvbSBjYWxsIHRvIG5vdGlmaWNhdGlvbiBzY2hlZHVsZSBmcm9tIHNjaGVkdWxlICR7SlNPTi5zdHJpbmdpZnkoc2NoZWR1bGUsIG51bGwsIDIpfWAsIExPR19DQVRFR09SWSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhgaW4gZXJyb3IgZnJvbSBjYWxsIHRvIG5vdGlmaWNhdGlvbiBzY2hlZHVsZSAke0pTT04uc3RyaW5naWZ5KGVycm9yLCBudWxsLCAyKX1gLCBMT0dfQ0FURUdPUlkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IHBzcWxDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGBpbnNpZGUgZXJyb3IgZnJvbSBjYWxsIHRvIG1lbWJlciBzZXJ2aWNlIGZyb20gdXNlciAke21lbWJlcl9pZH1gLCBMT0dfQ0FURUdPUlkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oYGluIGVycm9yIGZyb20gY2FsbCB0byBtZW1iZXIgc2VydmljZSAke0pTT04uc3RyaW5naWZ5KGVycm9yLCBudWxsLCAyKX1gLCBMT0dfQ0FURUdPUlkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoKCkgPT4ge30pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGBpbnNpZGUgZXJyb3IgZnJvbSBjYWxsIHRvIG5vdGlmaWNhdGlvbiBzY2hlZHVsZSBmcm9tIHNjaGVkdWxlICR7SlNPTi5zdHJpbmdpZnkoc2NoZWR1bGUsIG51bGwsIDIpfWAsIExPR19DQVRFR09SWSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhgaW4gZXJyb3IgZnJvbSBjYWxsIHRvIG5vdGlmaWNhdGlvbiBzY2hlZHVsZSAke0pTT04uc3RyaW5naWZ5KGVycm9yLCBudWxsLCAyKX1gLCBMT0dfQ0FURUdPUlkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBtaWdyYXRlVHJhaW5pbmdSZW1pbmRlcnM7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">bGV0IHBzcWxDbGllbnQ7Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoKCkgPT4ge30pCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBtaWdyYXRlVHJhaW5pbmdSZW1pbmRlcnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgTE9HX0NBVEVHT1JZID0gJ3Rhc2stZXhhbS1wcm92aWRlcic7Cg==</text>
+        <text encoding="base64">bGV0IHBzcWxDbGllbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this\.</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>this\.</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
         <entry>user</entry>
         <entry>reminder\.</entry>
         <entry>userId</entry>
@@ -1450,6 +1446,7 @@
         <entry>AWS</entry>
         <entry>helper</entry>
         <entry>this\.</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
