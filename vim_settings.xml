@@ -1171,12 +1171,12 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526548728225">
+      <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="40" column="81" />
-        <mark key="." line="40" column="81" />
-        <mark key="^" line="40" column="81" />
+        <mark key="[" line="49" column="29" />
+        <mark key="]" line="49" column="29" />
+        <mark key="." line="49" column="29" />
+        <mark key="^" line="49" column="30" />
       </file>
       <file name="/JavaScript Console" timestamp="1526539495790">
         <mark key="[" line="0" column="0" />
@@ -1379,10 +1379,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>membber_id</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>membber_id</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
