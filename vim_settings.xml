@@ -130,6 +130,12 @@
         <mark key="^" line="73" column="3" />
         <mark key="." line="73" column="3" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/index.js" timestamp="1527185092383">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
@@ -239,6 +245,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/index.js" timestamp="1527185315755">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/auth.js" timestamp="1511224662779">
         <mark key="[" line="15" column="39" />
@@ -424,11 +436,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/.eslintignore" timestamp="1527183934918">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="$USER_HOME$/src/projects/tech-stack/.eslintignore" timestamp="1527185488805">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517252550248">
         <mark key="'" line="48" column="19" />
@@ -488,6 +500,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/App.js" timestamp="1527185911755">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
@@ -1042,6 +1060,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/.eslintrc" timestamp="1527185557747">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
         <mark key="]" line="6" column="76" />
@@ -1397,49 +1421,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lX3pvbmU6IG1vbWVudC50ei5ndWVzcygpLCAvLyBzZXQgdG8gbG9jYWwgdGltZSB6b25lIG9mIHVzZXIgcnVubmluZyB0aGUgdGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFByb3ZpZGVyID4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNbZnJlcXVlbmN5XSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoZTwvaGVhZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9nZ2VyLmluZm8oYCAke31gKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNbZnJlcXVlbmN5XSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGFpbmVyfS8+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGdldCB0aW1lem9uZSBmb3IgYSB1c2VyIGFuZCBzZXQgdGhlIFVUQyBvZmZzZXQgdG8gYWNjb3VudCBmb3IgRFNUCiAgICAgICAgICAgICAgICBjb25zdCB0aW1lWm9uZSA9IG1vbWVudFRpbWV6b25lLnR6KHByZWZlcmVuY2VzWzBdLnRpbWVfem9uZSkuZm9ybWF0KCdaJyk7Cg==</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoeyB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RhdGlvbi5hZGQoMSwgJ21vbnRoJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudHJpZ2dlci51dGNPZmZzZXQodGltZVpvbmUsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI2ZmZicsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1491,8 +1515,8 @@
         <entry>vs</entry>
         <entry>vsp</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
