@@ -805,8 +805,12 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" timestamp="1527188374301">
-        <mark key="'" line="13" column="26" />
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" timestamp="1527189185557">
+        <mark key="'" line="21" column="34" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.js" timestamp="1510857105599">
         <mark key="[" line="23" column="0" />
@@ -1164,6 +1168,12 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/ListItem.js" timestamp="1527189140209">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/qa.json" timestamp="1525503019538">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="28" />
@@ -1333,9 +1343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
-      <jump line="19" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
-      <jump line="20" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="45" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="50" column="79" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="27" column="80" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
@@ -1433,13 +1440,16 @@
       <jump line="46" column="1" filename="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryList.json" />
       <jump line="0" column="0" filename="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryList.json" />
       <jump line="8" column="26" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
+      <jump line="1" column="35" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
+      <jump line="20" column="34" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -1448,34 +1458,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPFByb3ZpZGVyID4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGliPjwvTGliPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGliPjwvTGliPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ewp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
