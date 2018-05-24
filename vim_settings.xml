@@ -130,11 +130,11 @@
         <mark key="^" line="73" column="3" />
         <mark key="." line="73" column="3" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/index.js" timestamp="1527185092383">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
+      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/index.js" timestamp="1527186709109">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -501,11 +501,11 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/App.js" timestamp="1527185911755">
-        <mark key="[" line="12" column="51" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/src/projects/tech-stack/App.js" timestamp="1527187617862">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
@@ -805,6 +805,9 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" timestamp="1527188374301">
+        <mark key="'" line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.js" timestamp="1510857105599">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="61" />
@@ -1060,11 +1063,16 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/.eslintrc" timestamp="1527185557747">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="27" />
+      <file name="$USER_HOME$/src/projects/tech-stack/.eslintrc" timestamp="1527186874430">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryReducer.js" timestamp="1527187112630">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -1117,6 +1125,13 @@
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
         <mark key="^" line="316" column="43" />
+      </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryList.json" timestamp="1527187054724">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="46" column="1" />
+        <mark key="." line="46" column="1" />
+        <mark key="^" line="46" column="1" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/schedule.js" timestamp="1524778323462">
         <mark key="[" line="100" column="31" />
@@ -1318,9 +1333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="36" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
-      <jump line="48" column="14" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/api/process.js" />
-      <jump line="71" column="18" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="8" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="19" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
       <jump line="20" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
@@ -1418,13 +1430,16 @@
       <jump line="53" column="10" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="21" column="26" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="40" column="8" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" />
+      <jump line="46" column="1" filename="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryList.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryList.json" />
+      <jump line="8" column="26" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -1433,34 +1448,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPFByb3ZpZGVyID4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoZTwvaGVhZD4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGliPjwvTGliPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJyZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGFpbmVyfS8+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoeyB9KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ewp9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGZsZXg6IDEsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI2ZmZicsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgfSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
