@@ -424,6 +424,12 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/.eslintignore" timestamp="1527183934918">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517252550248">
         <mark key="'" line="48" column="19" />
         <mark key="[" line="9" column="0" />
@@ -588,6 +594,12 @@
         <mark key="]" line="139" column="102" />
         <mark key="." line="139" column="102" />
         <mark key="^" line="139" column="102" />
+      </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/__tests__/.eslintrc" timestamp="1527183789149">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="20" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1524160063321">
         <mark key="[" line="86" column="48" />
@@ -1024,6 +1036,12 @@
         <mark key="." line="353" column="9" />
         <mark key="^" line="353" column="9" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/__tests__/App.test.js" timestamp="1527183706332">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
         <mark key="]" line="6" column="76" />
@@ -1421,7 +1439,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudHJpZ2dlci51dGNPZmZzZXQodGltZVpvbmUsIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1462,7 +1480,6 @@
         <entry>132</entry>
         <entry>19</entry>
         <entry>140</entry>
-        <entry>wq</entry>
         <entry>63</entry>
         <entry>114</entry>
         <entry>119</entry>
@@ -1475,6 +1492,7 @@
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
