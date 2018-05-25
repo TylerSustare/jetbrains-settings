@@ -130,11 +130,11 @@
         <mark key="^" line="73" column="3" />
         <mark key="." line="73" column="3" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/index.js" timestamp="1527186709109">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/index.js" timestamp="1527227255264">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
         <mark key="[" line="4" column="15" />
@@ -501,11 +501,11 @@
         <mark key="^" line="4" column="45" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/App.js" timestamp="1527187617862">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="34" />
-        <mark key="^" line="14" column="34" />
+      <file name="$USER_HOME$/src/projects/tech-stack/App.js" timestamp="1527226905324">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
@@ -721,6 +721,12 @@
         <mark key="]" line="27" column="36" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/actions/index.js" timestamp="1527227546544">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/api.js" timestamp="1521563508470">
         <mark key="'" line="632" column="30" />
         <mark key="[" line="631" column="0" />
@@ -805,12 +811,12 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" timestamp="1527189185557">
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" timestamp="1527219153548">
         <mark key="'" line="21" column="34" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.js" timestamp="1510857105599">
         <mark key="[" line="23" column="0" />
@@ -1042,6 +1048,12 @@
         <mark key="^" line="24" column="67" />
         <mark key="." line="24" column="67" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/SelectionReducer.js" timestamp="1527227200511">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="5" />
@@ -1168,11 +1180,11 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/components/ListItem.js" timestamp="1527189140209">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/ListItem.js" timestamp="1527226868451">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/qa.json" timestamp="1525503019538">
         <mark key="[" line="31" column="27" />
@@ -1446,10 +1458,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
