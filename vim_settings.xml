@@ -117,6 +117,9 @@
         <mark key="." line="167" column="44" />
         <mark key="^" line="167" column="44" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/actions/index.js" timestamp="1527371956513">
+        <mark key="^" line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/src/libs/lib-notification-schedule-service-client-nodejs/api.js" timestamp="1519066753345">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -805,18 +808,24 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/common/CardSection.js" timestamp="1527371496718">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+      </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/test/api/base.js" timestamp="1507852283295">
         <mark key="[" line="40" column="24" />
         <mark key="]" line="40" column="29" />
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" timestamp="1527219153548">
-        <mark key="'" line="21" column="34" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="40" />
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" timestamp="1527370455415">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+        <mark key="^" line="11" column="62" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.js" timestamp="1510857105599">
         <mark key="[" line="23" column="0" />
@@ -869,6 +878,9 @@
         <mark key="]" line="153" column="34" />
         <mark key="^" line="139" column="40" />
         <mark key="." line="153" column="40" />
+      </file>
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/common/Header.js" timestamp="1527371508999">
+        <mark key="'" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/response.js" timestamp="1511291393796">
         <mark key="[" line="0" column="0" />
@@ -1048,11 +1060,11 @@
         <mark key="^" line="24" column="67" />
         <mark key="." line="24" column="67" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/SelectionReducer.js" timestamp="1527227200511">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
+      <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/SelectionReducer.js" timestamp="1527372235133">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+        <mark key="^" line="0" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
@@ -1180,11 +1192,11 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/src/components/ListItem.js" timestamp="1527226868451">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-        <mark key="." line="10" column="38" />
+      <file name="$USER_HOME$/src/projects/tech-stack/src/components/ListItem.js" timestamp="1527371979834">
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/qa.json" timestamp="1525503019538">
         <mark key="[" line="31" column="27" />
@@ -1355,9 +1367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
-      <jump line="50" column="79" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_handler.js" />
-      <jump line="27" column="80" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="40" column="33" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="44" column="33" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
       <jump line="51" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
@@ -1455,13 +1464,16 @@
       <jump line="1" column="35" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
       <jump line="20" column="34" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
+      <jump line="11" column="62" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
+      <jump line="19" column="19" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/src/projects/tech-stack/src/components/common/Header.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmV0dXJuIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>selectLibrary</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -1470,34 +1482,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPFByb3ZpZGVyID4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGwK</text>
+        <text encoding="base64">cmV0dXJuIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOyAvLyBubyBwcmUtc2VsZWN0ZWQgcm93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGliPjwvTGliPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHN0YXRlLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGVVVVVVVVVVVVVUNLJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVOVCcpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewp9Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
