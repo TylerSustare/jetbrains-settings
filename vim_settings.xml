@@ -41,6 +41,12 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" timestamp="1527752584626">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/4lambda_test.js" timestamp="1515188966984">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="27" />
@@ -53,6 +59,12 @@
         <mark key="]" line="25" column="29" />
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="28" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" timestamp="1527752588041">
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/models/user.js" timestamp="1513196668171">
         <mark key="[" line="505" column="42" />
@@ -210,6 +222,12 @@
         <mark key="]" line="29" column="23" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="26" column="59" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/__tests__/LoginForm.test.js" timestamp="1527750595715">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/test/api/catalog_test.js" timestamp="1522193587649">
         <mark key="[" line="678" column="6" />
@@ -610,6 +628,12 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/config/firebase_keys.js" timestamp="1527751722638">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/index.js" timestamp="1525126101546">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="32" />
@@ -801,11 +825,11 @@
         <mark key="^" line="562" column="54" />
         <mark key="." line="562" column="54" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/App.js" timestamp="1527748303513">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="$USER_HOME$/src/projects/requests-app/requests/App.js" timestamp="1527751894677">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/token_mock.js" timestamp="1524588499043">
         <mark key="[" line="26" column="2" />
@@ -1203,6 +1227,19 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="316" column="43" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/config/firebase_keys.json" timestamp="1527751477227">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" timestamp="1527750854464">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryList.json" timestamp="1527187054724">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="1" />
@@ -1417,19 +1454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="68" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
-      <jump line="61" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
-      <jump line="43" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="199" column="84" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="28" column="52" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="42" column="48" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="81" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="75" column="28" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="77" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="78" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="79" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="82" column="44" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
       <jump line="67" column="36" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
@@ -1517,69 +1541,79 @@
       <jump line="12" column="47" filename="$USER_HOME$/src/projects/tech-stack/src/components/ListItem.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/projects/requests-app/requests-app/.eslintrc" />
       <jump line="23" column="0" filename="$USER_HOME$/src/projects/requests-app/requests-app/App.js" />
+      <jump line="5" column="47" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
+      <jump line="6" column="38" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
+      <jump line="1" column="54" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
+      <jump line="2" column="48" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
+      <jump line="3" column="56" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
+      <jump line="4" column="17" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
+      <jump line="5" column="12" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
+      <jump line="11" column="23" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
+      <jump line="13" column="22" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
+      <jump line="14" column="26" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
+      <jump line="15" column="27" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
+      <jump line="16" column="25" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
+      <jump line="17" column="29" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmlyZWJhc2Ug</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhrZXlzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlyZWJhc2Ug</text>
+        <text>firebaseKeys</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>firebaseK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZW5kZXJlZCA9IHJlbmRlcmVyLmNyZWF0ZSg8QXBwLz4pLnRvSlNPTigpOwogICAgICAgIGV4cGVjdChyZW5kZXJlZCkudG9CZVRydXRoeSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWw9IkVtYWlsIgogICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iZW1haWxAZW1haWwuY29tIgogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhrZXlzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiamVzdC92YWxpZC1leHBlY3QiOiAiZXJyb3IiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiamVzdC9uby1pZGVudGljYWwtdGl0bGUiOiAiZXJyb3IiLAogICAgICAgICJqZXN0L3ByZWZlci10by1oYXZlLWxlbmd0aCI6ICJ3YXJuIiwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgYXBpS2V5OiBrZXlzLmFwaUtleSwKICAgICAgICAgICAgYXV0aERvbWFpbjoga2V5cy5hdXRoRG9tYWluLAogICAgICAgICAgICBkYXRhYmFzZVVSTDoga2V5cy5kYXRhYmFzZVVSTCwKICAgICAgICAgICAgcHJvamVjdElkOiBrZXlzLnByb2plY3RJZCwKICAgICAgICAgICAgc3RvcmFnZUJ1Y2tldDoga2V5cy5zdG9yYWdlQnVja2V0LAogICAgICAgICAgICBtZXNzYWdpbmdTZW5kZXJJZDoga2V5cy5tZXNzYWdpbmdTZW5kZXJJZA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiamVzdC9uby1kaXNhYmxlZC10ZXN0cyI6ICJ3YXJuIiwKICAgICAgICAiamVzdC9uby1mb2N1c2VkLXRlc3RzIjogImVycm9yIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF0sCiAgICAicnVsZXMiOiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJqZXN0Igo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGtleXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZmlyZWJhc2VLZXlzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZW5kZXJlZCA9IHJlbmRlcmVyLmNyZWF0ZSg8QXBwLz4pLnRvSlNPTigpOwogICAgICAgIGV4cGVjdChyZW5kZXJlZCkudG9IYXZlUHJvcGVydHkoJ1Byb3ZpZGVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>firebaseK</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>firebaseK</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry>reminder\.</entry>
         <entry>userId</entry>
         <entry>user_id</entry>
         <entry>&quot;</entry>
-        <entry>'</entry>
         <entry>\/api\/base</entry>
         <entry>base</entry>
         <entry>\</entry>
@@ -1594,6 +1628,9 @@
         <entry>helper</entry>
         <entry>this\.</entry>
         <entry>log</entry>
+        <entry>:</entry>
+        <entry>'</entry>
+        <entry>firebaseK</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
