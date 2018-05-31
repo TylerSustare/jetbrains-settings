@@ -252,6 +252,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests-app/__tests__/.eslintrc" timestamp="1527746951027">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/components/index.js" timestamp="1527185315755">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -346,6 +352,12 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests-app/.eslintrc" timestamp="1527746685352">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/src/libs/lib-notification-schedule-service-client-nodejs/client.js" timestamp="1519066337377">
         <mark key="'" line="21" column="1" />
         <mark key="[" line="13" column="26" />
@@ -397,6 +409,12 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests-app/src/reducers/index.js" timestamp="1527746050181">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/.nvmrc" timestamp="1515197118447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -415,6 +433,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests-app/__tests__/App.test.js" timestamp="1527747755333">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
         <mark key="[" line="7" column="21" />
@@ -695,6 +718,13 @@
         <mark key="]" line="30" column="43" />
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests-app/App.js" timestamp="1527746106896">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="48" />
+        <mark key="^" line="9" column="48" />
+        <mark key="." line="9" column="48" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
@@ -1370,8 +1400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="33" filename="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" />
-      <jump line="51" column="13" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="62" column="16" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="68" column="12" filename="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" />
       <jump line="61" column="41" filename="$USER_HOME$/src/services/service-notification-schedule/node/routes/api.js" />
@@ -1470,49 +1498,51 @@
       <jump line="19" column="19" filename="$USER_HOME$/src/projects/tech-stack/src/components/LibraryList.js" />
       <jump line="8" column="11" filename="$USER_HOME$/src/projects/tech-stack/src/components/common/Header.js" />
       <jump line="12" column="47" filename="$USER_HOME$/src/projects/tech-stack/src/components/ListItem.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/requests-app/requests-app/.eslintrc" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/projects/requests-app/requests-app/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hooks into the view updates (re-rendering) MUST call before the update to the view happens</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>hooks into the view updates (re-rendering) MUST call before the update to the view happens</text>
+        <text>tohaveproperty</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMYXlvdXRBbmltYXRpb24ubGluZWFyKCk7IC8vIGhvb2tzIGludG8gdGhlIHZpZXcgdXBkYXRlcyAocmUtcmVuZGVyaW5nKSBNVVNUIGNhbGwgYmVmb3JlIHRoZSB1cGRhdGUgdG8gdGhlIHZpZXcgaGFwcGVucwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZW5kZXJlZCA9IHJlbmRlcmVyLmNyZWF0ZSg8QXBwLz4pLnRvSlNPTigpOwogICAgICAgIGV4cGVjdChyZW5kZXJlZCkudG9CZVRydXRoeSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCgo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uU3R5bGU6IHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZW5kZXJlZCA9IHJlbmRlcmVyLmNyZWF0ZSg8QXBwLz4pLnRvSlNPTigpOwogICAgICAgIGV4cGVjdChyZW5kZXJlZCkudG9IYXZlUHJvcGVydHkoJ1Byb3ZpZGVyJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBpdCgnaGFzIGEgUHJvdmlkZXIgY2hpbGQgY29tcG9uZW50JywgKCkgPT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsgc2VsZWN0ZWRMaWJyYXJ5SWQ6IHN0YXRlLnNlbGVjdGVkTGlicmFyeUlkIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxlY3RlZExpYnJhcnlJZCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGlicmFyeScpOwogICAgICAgIGNvbnNvbGUubG9nKGxpYnJhcnkpOwo=</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsaWJyYXJ5KTsK</text>
+        <text encoding="base64">ICAgICAgICAibm9kZSI6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAiYnJvd3NlciI6IHRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSgsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1566,8 +1596,8 @@
         <entry>274</entry>
         <entry>vs</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
