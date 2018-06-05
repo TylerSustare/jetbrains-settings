@@ -41,12 +41,12 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" timestamp="1528153097266">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="69" />
-        <mark key="." line="24" column="69" />
-        <mark key="^" line="24" column="69" />
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" timestamp="1528155732451">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/4lambda_test.js" timestamp="1515188966984">
         <mark key="[" line="9" column="26" />
@@ -61,12 +61,12 @@
         <mark key="." line="25" column="29" />
         <mark key="^" line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" timestamp="1528153499892">
-        <mark key="'" line="15" column="15" />
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
-        <mark key="^" line="17" column="49" />
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" timestamp="1528156600969">
+        <mark key="'" line="54" column="30" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/models/user.js" timestamp="1513196668171">
         <mark key="[" line="505" column="42" />
@@ -119,11 +119,11 @@
         <mark key="^" line="194" column="16" />
         <mark key="." line="194" column="16" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/types.js" timestamp="1527836902731">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="48" />
-        <mark key="^" line="1" column="48" />
-        <mark key="." line="1" column="48" />
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/types.js" timestamp="1528155619574">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="3" column="48" />
+        <mark key="^" line="3" column="48" />
+        <mark key="." line="3" column="48" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/.eslintrc" timestamp="1527748059404">
         <mark key="[" line="1" column="40" />
@@ -711,11 +711,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" timestamp="1528153178875">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" timestamp="1528156050888">
+        <mark key="'" line="21" column="19" />
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="24" column="74" />
+        <mark key="." line="24" column="74" />
+        <mark key="^" line="24" column="74" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" timestamp="1515091189948">
         <mark key="'" line="61" column="0" />
@@ -1465,11 +1466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="38" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="385" column="4" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
-      <jump line="70" column="4" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
-      <jump line="71" column="21" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
-      <jump line="72" column="15" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
       <jump line="73" column="22" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
       <jump line="74" column="60" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
       <jump line="75" column="18" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
@@ -1565,64 +1561,68 @@
       <jump line="37" column="55" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
       <jump line="11" column="15" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
       <jump line="17" column="2" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
+      <jump line="13" column="19" filename="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" />
+      <jump line="38" column="13" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
+      <jump line="39" column="14" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
+      <jump line="54" column="30" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlzcGF0Y2gg</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>firebaseK</text>
+        <text>LOGIN_USER_F</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIEVNQUlMX0NIQU5HRUQ6CiAgICAgICAgICAgIHJldHVybiB7IC4uLnN0YXRlLCBlbWFpbDogYWN0aW9uLnBheWxvYWQgfTsgLy8gbWFrZSBhIG5ldyBvYmplY3QuIFBVUkUgRlVOQ1RJT04K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9naW5Vc2VyU3VjY2VzcyhkaXNwYXRjaCwgdXNlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKHsgdHlwZTogTE9HSU5fVVNFUl9TVUNDRVNTLCBwYXlsb2FkOiB1c2VyIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGF0Y2goeyB0eXBlOiBMT0dJTl9VU0VSX1NVQ0NFU1MsIHBheWxvYWQ6IHVzZXIgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEVNQUlMX0NIQU5HRUQgPSAnZW1haWxfY2hhbmdlZCc7IC8vIGNhbGxlZCBhICduYW1lZCBleHBvcnRzJyB3aGVuIG5vICdkZWZhdWx0JwpleHBvcnQgY29uc3QgRU1BSUxfQ0hBTkdFRCA9ICdlbWFpbF9jaGFuZ2VkJzsgLy8gY2FsbGVkIGEgJ25hbWVkIGV4cG9ydHMnIHdoZW4gbm8gJ2RlZmF1bHQnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoeyAuLi5zdGF0ZSwgZW1haWw6IGFjdGlvbi5wYXlsb2FkIH0sIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>firebaseK</last-search>
+      <last-search>LOGIN_USER_F</last-search>
       <last-offset />
-      <last-pattern>firebaseK</last-pattern>
+      <last-pattern>LOGIN_USER_F</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>userId</entry>
         <entry>user_id</entry>
         <entry>&quot;</entry>
         <entry>\/api\/base</entry>
@@ -1642,6 +1642,7 @@
         <entry>:</entry>
         <entry>'</entry>
         <entry>firebaseK</entry>
+        <entry>LOGIN_USER_F</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
