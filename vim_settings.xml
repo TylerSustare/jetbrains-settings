@@ -41,6 +41,13 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" timestamp="1528930870965">
+        <mark key="'" line="46" column="22" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+      </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/4lambda_test.js" timestamp="1515188966984">
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="27" />
@@ -111,6 +118,11 @@
         <mark key="]" line="194" column="16" />
         <mark key="^" line="194" column="16" />
         <mark key="." line="194" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/types.js" timestamp="1528930090594">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/.eslintrc" timestamp="1527748059404">
         <mark key="[" line="1" column="40" />
@@ -306,6 +318,11 @@
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="23" />
         <mark key="." line="29" column="23" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/screens/SignIn.js" timestamp="1528931187438">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1526052949393">
         <mark key="[" line="169" column="63" />
@@ -606,6 +623,12 @@
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/screens/SignUp.js" timestamp="1528931373005">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/keys.json" timestamp="1526332954440">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -697,6 +720,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" timestamp="1528930130695">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" timestamp="1515091189948">
         <mark key="'" line="61" column="0" />
@@ -819,6 +847,11 @@
         <mark key="]" line="562" column="54" />
         <mark key="^" line="562" column="54" />
         <mark key="." line="562" column="54" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/App.js" timestamp="1528929262970">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/token_mock.js" timestamp="1524588499043">
         <mark key="[" line="26" column="2" />
@@ -1052,10 +1085,11 @@
         <mark key="^" line="34" column="32" />
         <mark key="." line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/__tests__/App.test.js" timestamp="1527748028087">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/src/projects/requests-app/requests/__tests__/App.test.js" timestamp="1528929291734">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/test/api/base.js" timestamp="1525990401890">
         <mark key="[" line="132" column="0" />
@@ -1233,6 +1267,13 @@
         <mark key="]" line="100" column="31" />
         <mark key="^" line="231" column="29" />
         <mark key="." line="100" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/requests/src/components/SignInForm.js" timestamp="1528930907783">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_tag.js" timestamp="1512604011500">
         <mark key="[" line="76" column="33" />
@@ -1440,11 +1481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="21" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
-      <jump line="77" column="8" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
-      <jump line="68" column="57" filename="$USER_HOME$/src/services/service-member/node/test/base.js" />
-      <jump line="149" column="39" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
       <jump line="133" column="18" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
       <jump line="51" column="52" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
       <jump line="57" column="57" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
@@ -1540,64 +1576,68 @@
       <jump line="28" column="22" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
       <jump line="74" column="34" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
       <jump line="58" column="39" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
+      <jump line="40" column="22" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
+      <jump line="28" column="32" filename="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/SignInForm.js" />
+      <jump line="3" column="47" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/SignInForm.js" />
+      <jump line="19" column="19" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/SignInForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>LOGIN_USER_F</text>
+        <text>signInUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIDxWaWV3IHN0eWxlPXt7IHBhZGRpbmdWZXJ0aWNhbDogMjUgfX0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3N3b3JkOiAnJywKICAgICAgICAgICAgICAgIGlzTG9hZGluZzogZmFsc2UgCg==</text>
+        <text encoding="base64">ICAgIC8qPFZpZXcgc3R5bGU9e3sgcGFkZGluZ1ZlcnRpY2FsOiAyNSB9fT4qLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yOiAnJywKICAgICAgICAgICAgICAgIGVtYWlsOiAnJywK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uUHJlc3M9e3RoaXMub25CdXR0b25QcmVzcy5iaW5kKHRoaXMpfT4KICAgICAgICAgICAgICAgICAgICAgICAgTG9naW4gb3IgU2lnbiBVcAogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIFNJR05fVVBfVVNFUl9TVUNDRVNTOgogICAgICAgICAgICByZXR1cm4geyAuLi5zdGF0ZSwgLi4uSU5JVElBTF9TVEFURSwgdXNlcjogYWN0aW9uLnBheWxvYWQgfTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFNJR05fVVBfVVNFUgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNJR05fVVBfVVNFUiA9ICdzaWduX3VwX3VzZXInOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hcFN0YXRlVG9Qcm9wcyA9IHN0YXRlID0+IHsKICAgIGNvbnN0IHtlbWFpbCwgcGFzc3dvcmQsIGVycm9yLCBpc0xvYWRpbmd9ID0gc3RhdGUuYXV0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZXJyID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbih1c2VyID0+IHNpZ25JblVzZXJTdWNjZXNzKGRpc3BhdGNoLCB1c2VyKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKHsgdHlwZTogTE9HSU5fVVNFUl9TVUNDRVNTLCBwYXlsb2FkOiB1c2VyIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmaXJlYmFzZS5hdXRoKCkuY3JlYXRlVXNlcldpdGhFbWFpbEFuZFBhc3N3b3JkKGVtYWlsLCBwYXNzd29yZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>LOGIN_USER_F</last-search>
+      <last-search>signInUser</last-search>
       <last-offset />
-      <last-pattern>LOGIN_USER_F</last-pattern>
+      <last-pattern>signInUser</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user_id</entry>
         <entry>&quot;</entry>
         <entry>\/api\/base</entry>
         <entry>base</entry>
@@ -1617,6 +1657,7 @@
         <entry>'</entry>
         <entry>firebaseK</entry>
         <entry>LOGIN_USER_F</entry>
+        <entry>signInUser</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
