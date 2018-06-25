@@ -192,6 +192,13 @@
         <mark key="^" line="92" column="72" />
         <mark key="." line="233" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" timestamp="1529911021812">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="25" column="3" />
+      </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/lib/index.js" timestamp="1510338023858">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="51" />
@@ -475,6 +482,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/App.js" timestamp="1529910752081">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
         <mark key="[" line="7" column="21" />
@@ -806,6 +819,13 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" timestamp="1529910918109">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="53" column="4" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todo_factory.js" timestamp="1526540635124">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="36" />
@@ -829,6 +849,12 @@
         <mark key="]" line="347" column="75" />
         <mark key="^" line="347" column="50" />
         <mark key="." line="347" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/__tests__/SignInForm.test.js" timestamp="1529910320063">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+        <mark key="^" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/password.js" timestamp="1510353067041">
         <mark key="[" line="15" column="0" />
@@ -1091,6 +1117,12 @@
         <mark key="]" line="6" column="45" />
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Settings.js" timestamp="1529910834955">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/test/api/base.js" timestamp="1525990401890">
         <mark key="[" line="132" column="0" />
@@ -1475,9 +1507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="18" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="51" column="52" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="57" column="57" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
       <jump line="58" column="34" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
       <jump line="67" column="8" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
       <jump line="68" column="8" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
@@ -1575,13 +1604,16 @@
       <jump line="92" column="0" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/SignInForm.js" />
       <jump line="3" column="47" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/SignInForm.js" />
       <jump line="19" column="19" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/SignInForm.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/App.js" />
+      <jump line="0" column="10" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">ICAgIGlmIChnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSkgewogICAgICB0aGlzLnByb3BzLnNjb3JlQ2hhbmdlZCh7IC4uLmdhbWVTY29yZSwgW3VwZGF0ZVBsYXllcl06IGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdIC09IHNjb3JlIH0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zY29yZUNoYW5nZWQoeyAuLi5nYW1lU2NvcmUsIFt1cGRhdGVQbGF5ZXJdOiBnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSA9ICgwIC0gc2NvcmUpIH0pOwogICAgfQogICAgbmF2aWdhdGlvbi5nb0JhY2soKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>signInUser</text>
@@ -1589,35 +1621,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxWaWV3IHN0eWxlPXt7IHBhZGRpbmdWZXJ0aWNhbDogMjUgfX0+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qPFZpZXcgc3R5bGU9e3sgcGFkZGluZ1ZlcnRpY2FsOiAyNSB9fT4qLwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGlmIChnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSkgewogICAgICB0aGlzLnByb3BzLnNjb3JlQ2hhbmdlZCh7IC4uLmdhbWVTY29yZSwgW3VwZGF0ZVBsYXllcl06IGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdIC09IHNjb3JlIH0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zY29yZUNoYW5nZWQoeyAuLi5nYW1lU2NvcmUsIFt1cGRhdGVQbGF5ZXJdOiBnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSA9ICgwIC0gc2NvcmUpIH0pOwogICAgfQogICAgbmF2aWdhdGlvbi5nb0JhY2soKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIFNJR05fVVBfVVNFUl9TVUNDRVNTOgogICAgICAgICAgICByZXR1cm4geyAuLi5zdGF0ZSwgLi4uSU5JVElBTF9TVEFURSwgdXNlcjogYWN0aW9uLnBheWxvYWQgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNJR05fVVBfVVNFUgo=</text>
+        <text encoding="base64">LyogQXV0aCAqLwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNJR05fVVBfVVNFUiA9ICdzaWduX3VwX3VzZXInOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmNvbnN0IHNpZ25JblVzZXJGYWlsID0gZGlzcGF0Y2ggPT4gewogICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6IFNJR05fSU5fVVNFUl9GQUlMCiAgICB9KTsKfTsKCmNvbnN0IHNpZ25JblVzZXJTdWNjZXNzID0gKGRpc3BhdGNoLCB1c2VyKSA9PiB7CiAgICBkaXNwYXRjaCh7CiAgICAgICAgdHlwZTogU0lHTl9JTl9VU0VSX1NVQ0NFU1MsCiAgICAgICAgcGF5bG9hZDogdXNlcgogICAgfSk7Cn07</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y29uc3Qgc2lnbkluVXNlciA9ICh7IGVtYWlsLCBwYXNzd29yZCB9KSA9PiB7CiAgICAvKiB0aGlzIGFjdGlvbiBjcmVhdG9yIHJldHVybnMgYSBmdW5jdGlvbiB0aGF0IHdoZW4gcmV0dXJuZWQgd2lsbCBjYWxsIGRpc3BhdGNoICovCiAgICByZXR1cm4gZGlzcGF0Y2ggPT4gewogICAgICAgIGRpc3BhdGNoKHsgdHlwZTogU0lHTl9JTl9VU0VSX1NUQVJUIH0pOwoKICAgICAgICByZXR1cm4gZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKGVtYWlsLCBwYXNzd29yZCkKICAgICAgICAgICAgLnRoZW4odXNlciA9PiBzaWduSW5Vc2VyU3VjY2VzcyhkaXNwYXRjaCwgdXNlcikpCiAgICAgICAgICAgIC5jYXRjaChlcnIgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICAgICAgICAgIHNpZ25JblVzZXJGYWlsKGRpc3BhdGNoKTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignQVVUSF9GQUlMJyk7CiAgICAgICAgICAgIH0pOwogICAgfTsKfTsKCmNvbnN0IHNpZ25VcFVzZXIgPSAoeyBlbWFpbCwgcGFzc3dvcmQgfSkgPT4gewogICAgcmV0dXJuIGRpc3BhdGNoID0+IHsKICAgICAgICBkaXNwYXRjaCh7IHR5cGU6IFNJR05fSU5fVVNFUl9TVEFSVCB9KTsKCiAgICAgICAgcmV0dXJuIGZpcmViYXNlLmF1dGgoKS5jcmVhdGVVc2VyV2l0aEVtYWlsQW5kUGFzc3dvcmQoZW1haWwsIHBhc3N3b3JkKQogICAgICAgICAgICAudGhlbih1c2VyID0+IHNpZ25JblVzZXJTdWNjZXNzKGRpc3BhdGNoLCB1c2VyKSkKICAgICAgICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgICAgICAgICAgc2lnbkluVXNlckZhaWwoZGlzcGF0Y2gpOwogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdBVVRIX0ZBSUwnKTsKICAgICAgICAgICAgfSk7CiAgICB9Owp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY2F0Y2goZXJyID0+IHsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbih1c2VyID0+IHNpZ25JblVzZXJTdWNjZXNzKGRpc3BhdGNoLCB1c2VyKSkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGF1dGhVc2VyID0gKHsgZW1haWwsIHBhc3N3b3JkLCBpc05ld1VzZXIgfSkgPT4gewogICAgaWYgKGlzTmV3VXNlcikgewogICAgICAgIHJldHVybiBzaWduVXBVc2VyKHsgZW1haWwsIHBhc3N3b3JkIH0pOwogICAgfQogICAgcmV0dXJuIHNpZ25JblVzZXIoeyBlbWFpbCwgcGFzc3dvcmQgfSk7Cn07</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmaXJlYmFzZS5hdXRoKCkuY3JlYXRlVXNlcldpdGhFbWFpbEFuZFBhc3N3b3JkKGVtYWlsLCBwYXNzd29yZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1654,7 +1686,6 @@
         <entry>signInUser</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry>waa</entry>
         <entry>qq</entry>
         <entry>182</entry>
@@ -1673,6 +1704,7 @@
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>50</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
