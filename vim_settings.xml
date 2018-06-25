@@ -192,12 +192,12 @@
         <mark key="^" line="92" column="72" />
         <mark key="." line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" timestamp="1529911021812">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="4" />
-        <mark key="^" line="25" column="3" />
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" timestamp="1529913649059">
+        <mark key="'" line="76" column="4" />
+        <mark key="[" line="68" column="2" />
+        <mark key="]" line="68" column="39" />
+        <mark key="^" line="68" column="39" />
+        <mark key="." line="68" column="39" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/lib/index.js" timestamp="1510338023858">
         <mark key="[" line="6" column="46" />
@@ -396,12 +396,6 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests-app/.eslintrc" timestamp="1527746685352">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/src/libs/lib-notification-schedule-service-client-nodejs/client.js" timestamp="1519066337377">
         <mark key="'" line="21" column="1" />
         <mark key="[" line="13" column="26" />
@@ -483,11 +477,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/App.js" timestamp="1529910752081">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/App.js" timestamp="1529912848353">
+        <mark key="'" line="17" column="17" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
         <mark key="[" line="7" column="21" />
@@ -819,12 +814,12 @@
         <mark key="." line="49" column="58" />
         <mark key="^" line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" timestamp="1529910918109">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="53" column="4" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" timestamp="1529912701170">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="46" column="4" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todo_factory.js" timestamp="1526540635124">
         <mark key="[" line="27" column="0" />
@@ -1507,14 +1502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="34" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="67" column="8" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="68" column="8" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="72" column="8" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="132" column="43" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="38" column="26" filename="$USER_HOME$/src/services/service-member/node/test/api/userprefs_test.js" />
-      <jump line="954" column="7" filename="$USER_HOME$/src/services/service-member/node/routes/api.js" />
-      <jump line="14" column="46" filename="$USER_HOME$/src/services/service-member/node/routes/api.js" />
       <jump line="20" column="18" filename="$USER_HOME$/src/services/service-member/node/routes/api.js" />
       <jump line="48" column="33" filename="$USER_HOME$/src/services/service-member/node/routes/api.js" />
       <jump line="1375" column="1" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/timezones.json" />
@@ -1607,46 +1594,54 @@
       <jump line="60" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
       <jump line="22" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/App.js" />
       <jump line="0" column="10" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" />
+      <jump line="25" column="16" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="56" column="35" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" />
+      <jump line="16" column="30" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="17" column="17" filename="$USER_HOME$/src/projects/requests-app/score-redux/App.js" />
+      <jump line="42" column="11" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="76" column="4" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGlmIChnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSkgewogICAgICB0aGlzLnByb3BzLnNjb3JlQ2hhbmdlZCh7IC4uLmdhbWVTY29yZSwgW3VwZGF0ZVBsYXllcl06IGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdIC09IHNjb3JlIH0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zY29yZUNoYW5nZWQoeyAuLi5nYW1lU2NvcmUsIFt1cGRhdGVQbGF5ZXJdOiBnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSA9ICgwIC0gc2NvcmUpIH0pOwogICAgfQogICAgbmF2aWdhdGlvbi5nb0JhY2soKTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>signInUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxWaWV3IHN0eWxlPXt7IHBhZGRpbmdWZXJ0aWNhbDogMjUgfX0+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZ2FtZVNjb3JlLCBuYXZpZ2F0aW9uLCB1cGRhdGVQbGF5ZXIsIHVwZGF0ZVNjb3JlIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGlmIChnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSkgewogICAgICB0aGlzLnByb3BzLnNjb3JlQ2hhbmdlZCh7IC4uLmdhbWVTY29yZSwgW3VwZGF0ZVBsYXllcl06IGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdIC09IHNjb3JlIH0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zY29yZUNoYW5nZWQoeyAuLi5nYW1lU2NvcmUsIFt1cGRhdGVQbGF5ZXJdOiBnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSA9ICgwIC0gc2NvcmUpIH0pOwogICAgfQogICAgbmF2aWdhdGlvbi5nb0JhY2soKTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxMYXlvdXQgYT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNJR05fT1VUX1VTRVIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogQXV0aCAqLwo=</text>
+        <text encoding="base64">ICAgIFNJR05fSU5fVVNFUl9TVEFSVCwK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNvbnN0IHNpZ25JblVzZXJGYWlsID0gZGlzcGF0Y2ggPT4gewogICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6IFNJR05fSU5fVVNFUl9GQUlMCiAgICB9KTsKfTsKCmNvbnN0IHNpZ25JblVzZXJTdWNjZXNzID0gKGRpc3BhdGNoLCB1c2VyKSA9PiB7CiAgICBkaXNwYXRjaCh7CiAgICAgICAgdHlwZTogU0lHTl9JTl9VU0VSX1NVQ0NFU1MsCiAgICAgICAgcGF5bG9hZDogdXNlcgogICAgfSk7Cn07</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFNJR05fSU5fVVNFUl9TVUNDRVNTLAogICAgU0lHTl9JTl9VU0VSX0ZBSUwsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3Qgc2lnbkluVXNlciA9ICh7IGVtYWlsLCBwYXNzd29yZCB9KSA9PiB7CiAgICAvKiB0aGlzIGFjdGlvbiBjcmVhdG9yIHJldHVybnMgYSBmdW5jdGlvbiB0aGF0IHdoZW4gcmV0dXJuZWQgd2lsbCBjYWxsIGRpc3BhdGNoICovCiAgICByZXR1cm4gZGlzcGF0Y2ggPT4gewogICAgICAgIGRpc3BhdGNoKHsgdHlwZTogU0lHTl9JTl9VU0VSX1NUQVJUIH0pOwoKICAgICAgICByZXR1cm4gZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKGVtYWlsLCBwYXNzd29yZCkKICAgICAgICAgICAgLnRoZW4odXNlciA9PiBzaWduSW5Vc2VyU3VjY2VzcyhkaXNwYXRjaCwgdXNlcikpCiAgICAgICAgICAgIC5jYXRjaChlcnIgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICAgICAgICAgIHNpZ25JblVzZXJGYWlsKGRpc3BhdGNoKTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignQVVUSF9GQUlMJyk7CiAgICAgICAgICAgIH0pOwogICAgfTsKfTsKCmNvbnN0IHNpZ25VcFVzZXIgPSAoeyBlbWFpbCwgcGFzc3dvcmQgfSkgPT4gewogICAgcmV0dXJuIGRpc3BhdGNoID0+IHsKICAgICAgICBkaXNwYXRjaCh7IHR5cGU6IFNJR05fSU5fVVNFUl9TVEFSVCB9KTsKCiAgICAgICAgcmV0dXJuIGZpcmViYXNlLmF1dGgoKS5jcmVhdGVVc2VyV2l0aEVtYWlsQW5kUGFzc3dvcmQoZW1haWwsIHBhc3N3b3JkKQogICAgICAgICAgICAudGhlbih1c2VyID0+IHNpZ25JblVzZXJTdWNjZXNzKGRpc3BhdGNoLCB1c2VyKSkKICAgICAgICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgICAgICAgICAgc2lnbkluVXNlckZhaWwoZGlzcGF0Y2gpOwogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdBVVRIX0ZBSUwnKTsKICAgICAgICAgICAgfSk7CiAgICB9Owp9Owo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEVNQUlMX0NIQU5HRUQsCiAgICBQQVNTV09SRF9DSEFOR0VELAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGF1dGhVc2VyID0gKHsgZW1haWwsIHBhc3N3b3JkLCBpc05ld1VzZXIgfSkgPT4gewogICAgaWYgKGlzTmV3VXNlcikgewogICAgICAgIHJldHVybiBzaWduVXBVc2VyKHsgZW1haWwsIHBhc3N3b3JkIH0pOwogICAgfQogICAgcmV0dXJuIHNpZ25JblVzZXIoeyBlbWFpbCwgcGFzc3dvcmQgfSk7Cn07</text>
+        <text encoding="base64">ICAgIGlmIChnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSkgewogICAgICB0aGlzLnByb3BzLnNjb3JlQ2hhbmdlZCh7IC4uLmdhbWVTY29yZSwgW3VwZGF0ZVBsYXllcl06IGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdIC09IHNjb3JlIH0pOwogICAgfSBlbHNlIHsKICAgICAgdGhpcy5wcm9wcy5zY29yZUNoYW5nZWQoeyAuLi5nYW1lU2NvcmUsIFt1cGRhdGVQbGF5ZXJdOiBnYW1lU2NvcmVbdXBkYXRlUGxheWVyXSA9ICgwIC0gc2NvcmUpIH0pOwogICAgfQogICAgbmF2aWdhdGlvbi5nb0JhY2soKTs=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
