@@ -192,11 +192,12 @@
         <mark key="^" line="92" column="72" />
         <mark key="." line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" timestamp="1530160865800">
-        <mark key="'" line="77" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" timestamp="1530162482156">
+        <mark key="'" line="83" column="11" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/lib/index.js" timestamp="1510338023858">
         <mark key="[" line="6" column="46" />
@@ -666,11 +667,8 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/ScoreRow.js" timestamp="1530161091363">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="28" />
-        <mark key="." line="40" column="28" />
-        <mark key="^" line="40" column="28" />
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/ScoreRow.js" timestamp="1530162281379">
+        <mark key="^" line="35" column="76" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
@@ -1609,8 +1607,8 @@
       <jump line="29" column="36" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/components/ScoreRow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.bind(this)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGZvcm1hdCBmb3JtICdmb3JtYXQtJwo=</text>
       </register>
       <register name="-" type="4">
         <text>.bind(this)</text>
@@ -1622,34 +1620,34 @@
         <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gKDxUZXh0IHN0eWxlPXt0ZXh0U3R5bGV9Pnt0aGlzLmZvcm1hdFNjb3JlKGdhbWVTY29yZVtwbGF5ZXJdKX08L1RleHQ+KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG51bWVyYWwgPSByZXF1aXJlKCdudW1lcmFsJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZvcm1hdCBmb3JtICdmb3JtYXQtJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1hdHRlZFNjb3JlID0gbnVtZXJhbChnYW1lU2NvcmUpLmZvcm1hdCgnMCwwJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG51bWVyYWwgPSByZXF1aXJlKCdudW1lcmFsJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1hdHRlZFNjb3JlID0gbnVtZXJhbChnYW1lU2NvcmUpLmZvcm1hdCgnMCwwJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnYW1lU2NvcmUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnYW1lU2NvcmUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IE51bWJlckZvcm1hdCBmcm9tICdyZWFjdC1udW1iZXItZm9ybWF0JzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE51bWJlckZvcm1hdCBmcm9tICdyZWFjdC1udW1iZXItZm9ybWF0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdFNjb3JlKCl7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
