@@ -192,12 +192,10 @@
         <mark key="^" line="92" column="72" />
         <mark key="." line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" timestamp="1530162482156">
-        <mark key="'" line="83" column="11" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="32" column="26" />
-        <mark key="^" line="32" column="26" />
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" timestamp="1530164416626">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/lib/index.js" timestamp="1510338023858">
         <mark key="[" line="6" column="46" />
@@ -1116,11 +1114,12 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Settings.js" timestamp="1529910834955">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Settings.js" timestamp="1530164939354">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="0" column="25" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/test/api/base.js" timestamp="1525990401890">
         <mark key="[" line="132" column="0" />
@@ -1505,9 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/helper.js" />
-      <jump line="8" column="22" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/lib/timezones/timezones.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-auth/node/test/lib/dynamodb_token.js" />
       <jump line="32" column="58" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="113" column="7" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
       <jump line="92" column="64" filename="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" />
@@ -1600,18 +1596,21 @@
       <jump line="48" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" />
       <jump line="16" column="30" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
       <jump line="17" column="17" filename="$USER_HOME$/src/projects/requests-app/score-redux/App.js" />
-      <jump line="42" column="11" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
       <jump line="76" column="4" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
       <jump line="77" column="11" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
       <jump line="24" column="25" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/components/ScoreRow.js" />
       <jump line="29" column="36" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/components/ScoreRow.js" />
+      <jump line="49" column="14" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="36" column="39" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="42" column="39" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Settings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGZvcm1hdCBmb3JtICdmb3JtYXQtJwo=</text>
+        <text encoding="base64">aW1wb3J0IE51bWJlckZvcm1hdCBmcm9tICdyZWFjdC1udW1iZXItZm9ybWF0JzsK</text>
       </register>
       <register name="-" type="4">
-        <text>.bind(this)</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
         <text>signInUser</text>
@@ -1620,34 +1619,34 @@
         <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gKDxUZXh0IHN0eWxlPXt0ZXh0U3R5bGV9Pnt0aGlzLmZvcm1hdFNjb3JlKGdhbWVTY29yZVtwbGF5ZXJdKX08L1RleHQ+KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGZvcm1hdCBmb3JtICdmb3JtYXQtJwo=</text>
+        <text encoding="base64">aW1wb3J0IE51bWJlckZvcm1hdCBmcm9tICdyZWFjdC1udW1iZXItZm9ybWF0JzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG51bWVyYWwgPSByZXF1aXJlKCdudW1lcmFsJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IE51bWJlckZvcm1hdCBmcm9tICdyZWFjdC1udW1iZXItZm9ybWF0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1hdHRlZFNjb3JlID0gbnVtZXJhbChnYW1lU2NvcmUpLmZvcm1hdCgnMCwwJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxOdW1iZXJGb3JtYXQgdmFsdWU9ezI0NTY5ODF9IGRpc3BsYXlUeXBlPXsndGV4dCd9IHRob3VzYW5kU2VwYXJhdG9yIHByZWZpeD17JyQnfSAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhnYW1lU2NvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxOdW1iZXJGb3JtYXQgdGhvdXNhbmRTZXBhcmF0b3I9e3RydWV9Lz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdhbWVTY29yZVt1cGRhdGVQbGF5ZXJdKTsK</text>
+        <text encoding="base64">aW1wb3J0IE51bWJlckZvcm1hdCBmcm9tICdyZWFjdC1udW1iZXItZm9ybWF0JzsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IE51bWJlckZvcm1hdCBmcm9tICdyZWFjdC1udW1iZXItZm9ybWF0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxOdW1iZXJGb3JtYXQgdGhvdXNhbmRTZXBhcmF0b3I9e3RydWV9Lz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
