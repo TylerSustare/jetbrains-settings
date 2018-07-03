@@ -722,11 +722,11 @@
         <mark key="." line="86" column="55" />
         <mark key="^" line="86" column="55" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530651402375">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="23" column="46" />
-        <mark key="." line="23" column="46" />
-        <mark key="^" line="23" column="46" />
+      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530658235650">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="31" column="42" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/ff/get_ff.js" timestamp="1510640309167">
         <mark key="[" line="25" column="0" />
@@ -1658,11 +1658,11 @@
       <jump line="445" column="29" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text>AWS_ENV</text>
