@@ -154,6 +154,12 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" timestamp="1530636053834">
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="74" column="53" />
+        <mark key="^" line="74" column="53" />
+        <mark key="." line="74" column="53" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525730369743">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="72" column="7" />
@@ -727,12 +733,12 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530634969213">
-        <mark key="'" line="159" column="16" />
-        <mark key="[" line="234" column="15" />
-        <mark key="]" line="235" column="31" />
-        <mark key="^" line="235" column="31" />
-        <mark key="." line="235" column="31" />
+      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530636763810">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="241" column="7" />
+        <mark key="]" line="335" column="16" />
+        <mark key="^" line="335" column="16" />
+        <mark key="." line="335" column="16" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/firehose_expected_values.js" timestamp="1524776103327">
         <mark key="'" line="38" column="2" />
@@ -1543,8 +1549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="13" column="42" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="17" column="49" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="23" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="24" column="34" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
@@ -1643,13 +1647,15 @@
       <jump line="63" column="8" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
       <jump line="111" column="29" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
       <jump line="159" column="16" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
+      <jump line="40" column="31" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzdWVtIAo=</text>
+      <register name="&quot;" type="4">
+        <text>ninvoke</text>
       </register>
       <register name="-" type="4">
-        <text>yourappname</text>
+        <text>ninvoke</text>
       </register>
       <register name="/" type="4">
         <text>this.keys</text>
@@ -1657,35 +1663,35 @@
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFBMQUNFTUVOVF9JRCA9ICczOTYwMDU1MjA5MDQ1ODdfMzk2MTc4NTI3NTUzOTUzJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzdWVtIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgY29uc3QgcHJvcGVydHlGaWxlTG9hZHMgPSBbCiAgICAgICAgICAgIFEubmludm9rZShmcywgJ3JlYWRGaWxlJywgYCR7dGhpcy5zZXR0aW5ncy5jb25maWdEaXJ9L3NjaGVtYS5qc29uYCwgJ3V0ZjgnKSwKICAgICAgICAgICAgUS5uaW52b2tlKGZzLCAncmVhZEZpbGUnLCBgJHt0aGlzLnNldHRpbmdzLmNvbmZpZ0Rpcn0vZGVmYXVsdC5qc29uYCwgJ3V0ZjgnKSwKICAgICAgICAgICAgUS5uaW52b2s=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxsb3cgYXNzdW1lIHJvbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZXhwZWN0ZWRQbGFpbnRleHRLZXkgPSAnSnVzdCBBIEtleSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzdWVtIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVzbGludC1jb25maWctY2J0bnVnZ2V0cy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZXhwZWN0ZWRQbGFpbnRleHRLZXkgPSAnSnVzdCBBIEtleSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGVzbGludC1jb25maWctY2J0bnVnZ2V0cy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5kcm9pZCI6IHsKICAgICAgICAgICAgInBhY2thZ2UiOiAiY29tLnR5bGVyc3VzdGFyZS5zaW1wbGUtc2NvcmUiCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2Jykgewo=</text>
+        <text encoding="base64">ICAgICAgICAiYW5kcm9pZCI6IHsKICAgICAgICAgICAgInBhY2thZ2UiOiAiY29tLnR5bGVyc3VzdGFyZS5zaW1wbGUtc2NvcmUiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
