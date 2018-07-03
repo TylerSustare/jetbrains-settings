@@ -154,12 +154,10 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" timestamp="1530646968972">
-        <mark key="'" line="19" column="24" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" timestamp="1530648661579">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525730369743">
         <mark key="'" line="52" column="0" />
@@ -734,12 +732,12 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530647005796">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="243" column="7" />
-        <mark key="^" line="243" column="7" />
-        <mark key="." line="243" column="7" />
+      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530648265455">
+        <mark key="'" line="246" column="0" />
+        <mark key="[" line="244" column="51" />
+        <mark key="]" line="244" column="60" />
+        <mark key="^" line="244" column="60" />
+        <mark key="." line="244" column="60" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/firehose_expected_values.js" timestamp="1524776103327">
         <mark key="'" line="38" column="2" />
@@ -1442,7 +1440,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530633253521">
+      <file name="/JavaScript Console" timestamp="1530648232640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1550,10 +1548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="67" column="41" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="71" column="48" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
-      <jump line="100" column="56" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="101" column="42" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="147" column="43" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
       <jump line="53" column="10" filename="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/app.js" />
@@ -1632,7 +1626,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Home.js" />
       <jump line="65" column="26" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
       <jump line="83" column="12" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
-      <jump line="139" column="37" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
       <jump line="160" column="25" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
       <jump line="368" column="39" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
       <jump line="63" column="8" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
@@ -1646,69 +1639,72 @@
       <jump line="61" column="23" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
       <jump line="70" column="20" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
       <jump line="7" column="4" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
-      <jump line="20" column="10" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
       <jump line="26" column="45" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
       <jump line="75" column="15" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
       <jump line="19" column="24" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
+      <jump line="139" column="22" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
+      <jump line="243" column="29" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
+      <jump line="265" column="33" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
+      <jump line="246" column="0" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" />
+      <jump line="81" column="12" filename="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQoJ3Nob3VsZCBhc3N1bWUgYSByb2xlIGJhc2VkIG9uIEFXU19FTlYnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCdhc3N1bWUgcm9sZXMnLCAoKSA9PiB7CiAgICAgICAgbGV0IGFzc3VtZVJvbGVGb3JVc2VyU3B5ID0gbnVsbDsKICAgICAgICBiZWZvcmUoKCkgPT4gewogICAgICAgICAgICBhc3N1bWVSb2xlRm9yVXNlclNweSA9IHNpbm9uLnNweShDb25maWcucHJvdG90eXBlLCAnYXNzdW1lUm9sZUZvclVzZXInKTsKICAgICAgICB9KTsKICAgICAgICBhZnRlckVhY2goKCkgPT4gewogICAgICAgICAgICBhc3N1bWVSb2xlRm9yVXNlclNweS5yZXNldCgpOwogICAgICAgIH0pOwogICAgICAgIGFmdGVyKCgpID0+IHsKICAgICAgICAgICAgYXNzdW1lUm9sZUZvclVzZXJTcHkucmVzdG9yZSgpOwogICAgICAgIH0pOwogICAgICAgIGl0KCdzaG91bGQgYXNzdW1lIGEgcm9sZSBiYXNlZCBvbiBBV1NfRU5WJywgKCkgPT4gewogICAgICAgICAgICByZXR1cm4gaW5pdGlhbGl6ZShzZXR0aW5ncykKICAgICAgICAgICAgICAgIC50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGFzc3VtZVJvbGVGb3JVc2VyU3B5LmNhbGxDb3VudCkudG8uZXFsKDApOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
       <register name="-" type="4">
-        <text>ninvoke</text>
+        <text>assumeRoleSpy</text>
       </register>
       <register name="/" type="4">
-        <text>retrieve</text>
+        <text>catch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFBMQUNFTUVOVF9JRCA9ICczOTYwMDU1MjA5MDQ1ODdfMzk2MTc4NTI3NTUzOTUzJzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQoJ3Nob3VsZCBhc3N1bWUgYSByb2xlIGJhc2VkIG9uIEFXU19FTlYnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGRlc2NyaWJlKCdhc3N1bWUgcm9sZXMnLCAoKSA9PiB7CiAgICAgICAgbGV0IGFzc3VtZVJvbGVGb3JVc2VyU3B5ID0gbnVsbDsKICAgICAgICBiZWZvcmUoKCkgPT4gewogICAgICAgICAgICBhc3N1bWVSb2xlRm9yVXNlclNweSA9IHNpbm9uLnNweShDb25maWcucHJvdG90eXBlLCAnYXNzdW1lUm9sZUZvclVzZXInKTsKICAgICAgICB9KTsKICAgICAgICBhZnRlckVhY2goKCkgPT4gewogICAgICAgICAgICBhc3N1bWVSb2xlRm9yVXNlclNweS5yZXNldCgpOwogICAgICAgIH0pOwogICAgICAgIGFmdGVyKCgpID0+IHsKICAgICAgICAgICAgYXNzdW1lUm9sZUZvclVzZXJTcHkucmVzdG9yZSgpOwogICAgICAgIH0pOwogICAgICAgIGl0KCdzaG91bGQgYXNzdW1lIGEgcm9sZSBiYXNlZCBvbiBBV1NfRU5WJywgKCkgPT4gewogICAgICAgICAgICByZXR1cm4gaW5pdGlhbGl6ZShzZXR0aW5ncykKICAgICAgICAgICAgICAgIC50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGFzc3VtZVJvbGVGb3JVc2VyU3B5LmNhbGxDb3VudCkudG8uZXFsKDApOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICB9KTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVmb3JlKCgpID0+IHsKICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGRlc2NyaWJlKCdhc3N1bWUgcm9sZXMnLCAoKSA9PiB7CiAgICAgICAgICAgIGxldCBhc3N1bWVSb2xlRm9yVXNlclNweSA9IG51bGw7CiAgICAgICAgICAgIGJlZm9yZSgoKSA9PiB7CiAgICAgICAgICAgICAgICBhc3N1bWVSb2xlRm9yVXNlclNweSA9IHNpbm9uLnNweShDb25maWcucHJvdG90eXBlLCAnYXNzdW1lUm9sZUZvclVzZXInKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGFmdGVyRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICBhc3N1bWVSb2xlRm9yVXNlclNweS5yZXNldCgpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgYWZ0ZXIoKCkgPT4gewogICAgICAgICAgICAgICAgYXNzdW1lUm9sZUZvclVzZXJTcHkucmVzdG9yZSgpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgaXQoJ3Nob3VsZCBhc3N1bWUgYSByb2xlIGJhc2VkIG9uIEFXU19FTlYnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gaW5pdGlhbGl6ZShzZXR0aW5ncykKICAgICAgICAgICAgICAgICAgICAudGhlbihyZXN1bHQgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoYXNzdW1lUm9sZUZvclVzZXJTcHkuY2FsbENvdW50KS50by5lcWwoMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMikpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJlCg==</text>
+        <text encoding="base64">bGV0IGFzc3VtZVJvbGVTcHkgPSBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIGFzc3VtZSBhIHJvbGUgYmFzZWQgb24gQVdTX0VOVicsICgpID0+IHsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgY29uc3QgcHJvcGVydHlGaWxlTG9hZHMgPSBbCiAgICAgICAgICAgIFEubmludm9rZShmcywgJ3JlYWRGaWxlJywgYCR7dGhpcy5zZXR0aW5ncy5jb25maWdEaXJ9L3NjaGVtYS5qc29uYCwgJ3V0ZjgnKSwKICAgICAgICAgICAgUS5uaW52b2tlKGZzLCAncmVhZEZpbGUnLCBgJHt0aGlzLnNldHRpbmdzLmNvbmZpZ0Rpcn0vZGVmYXVsdC5qc29uYCwgJ3V0ZjgnKSwKICAgICAgICAgICAgUS5uaW52b2s=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGFzc3VtZVJvbGUoKXsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>retrieve</last-search>
+      <last-search>catch</last-search>
       <last-offset />
-      <last-pattern>retrieve</last-pattern>
+      <last-pattern>catch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>auth</entry>
-        <entry>utc</entry>
         <entry>console</entry>
         <entry>aws</entry>
         <entry>token</entry>
@@ -1727,6 +1723,8 @@
         <entry>this.keys</entry>
         <entry>Config</entry>
         <entry>retrieve</entry>
+        <entry>promise</entry>
+        <entry>catch</entry>
       </history-search>
       <history-cmd>
         <entry>waa</entry>
