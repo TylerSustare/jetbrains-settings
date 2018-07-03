@@ -727,8 +727,12 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530633531829">
+      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530634969213">
         <mark key="'" line="159" column="16" />
+        <mark key="[" line="234" column="15" />
+        <mark key="]" line="235" column="31" />
+        <mark key="^" line="235" column="31" />
+        <mark key="." line="235" column="31" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/firehose_expected_values.js" timestamp="1524776103327">
         <mark key="'" line="38" column="2" />
@@ -1642,7 +1646,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZXhwZWN0ZWRQbGFpbnRleHRLZXkgPSAnSnVzdCBBIEtleSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzdWVtIAo=</text>
       </register>
       <register name="-" type="4">
         <text>yourappname</text>
@@ -1654,34 +1658,34 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFBMQUNFTUVOVF9JRCA9ICczOTYwMDU1MjA5MDQ1ODdfMzk2MTc4NTI3NTUzOTUzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZXhwZWN0ZWRQbGFpbnRleHRLZXkgPSAnSnVzdCBBIEtleSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzdWVtIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVzbGludC1jb25maWctY2J0bnVnZ2V0cy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZXhwZWN0ZWRQbGFpbnRleHRLZXkgPSAnSnVzdCBBIEtleSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGVzbGludC1jb25maWctY2J0bnVnZ2V0cy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiYW5kcm9pZCI6IHsKICAgICAgICAgICAgInBhY2thZ2UiOiAiY29tLnR5bGVyc3VzdGFyZS5zaW1wbGUtc2NvcmUiCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2Jykgewo=</text>
+        <text encoding="base64">ICAgICAgICAiYW5kcm9pZCI6IHsKICAgICAgICAgICAgInBhY2thZ2UiOiAiY29tLnR5bGVyc3VzdGFyZS5zaW1wbGUtc2NvcmUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IE5VTUJFUl9PRl9BRFNfVE9fUkVRVUVTVCA9IDU7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBMQUNFTUVOVF9JRCA9ICczOTYwMDU1MjA5MDQ1ODdfMzk2MTc4NTI3NTUzOTUzJzsK</text>
+        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2Jykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
