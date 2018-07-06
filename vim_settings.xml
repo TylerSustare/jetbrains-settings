@@ -654,6 +654,9 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1530913170227">
+        <mark key="'" line="232" column="12" />
+      </file>
       <file name="$USER_HOME$/src/projects/react-native-music/data/v1_animals.json" timestamp="1515536691661">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="86" />
@@ -1555,9 +1558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/src/projects/requests-app/requests-app/.eslintrc" />
-      <jump line="23" column="0" filename="$USER_HOME$/src/projects/requests-app/requests-app/App.js" />
-      <jump line="5" column="47" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
       <jump line="6" column="38" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
       <jump line="1" column="54" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
       <jump line="2" column="48" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
@@ -1655,6 +1655,9 @@
       <jump line="50" column="50" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Settings.js" />
       <jump line="16" column="10" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Settings.js" />
       <jump line="19" column="8" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Settings.js" />
+      <jump line="21" column="31" filename="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" />
+      <jump line="121" column="8" filename="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" />
+      <jump line="232" column="12" filename="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2190,7 +2193,7 @@
         <text>auth-service</text>
       </register>
       <register name="/" type="4">
-        <text>setScore</text>
+        <text>console.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUm9sZUFybjogJ2Fybjphd3M6aWFtOjo4MTU4MDkzMzU1ODQ6cm9sZS9hdXRoLXNlcnZpY2UnLAo=</text>
@@ -2230,16 +2233,14 @@
       </register>
     </registers>
     <search>
-      <last-search>setScore</last-search>
+      <last-search>console.</last-search>
       <last-offset />
-      <last-pattern>setScore</last-pattern>
+      <last-pattern>console.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AWS</entry>
-        <entry>helper</entry>
         <entry>this\.</entry>
         <entry>log</entry>
         <entry>:</entry>
@@ -2258,6 +2259,8 @@
         <entry>this\.env</entry>
         <entry>AWS_ENV</entry>
         <entry>setScore</entry>
+        <entry>cosnole</entry>
+        <entry>console.</entry>
       </history-search>
       <history-cmd>
         <entry>waa</entry>
