@@ -35,6 +35,13 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="27" />
@@ -1087,6 +1094,11 @@
         <mark key="." line="65" column="42" />
         <mark key="^" line="65" column="42" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_videos.js" timestamp="1531338352479">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/users/user_migrations.js" timestamp="1513101676136">
         <mark key="[" line="87" column="6" />
         <mark key="]" line="87" column="10" />
@@ -1267,13 +1279,6 @@
         <mark key="]" line="31" column="30" />
         <mark key="^" line="31" column="30" />
         <mark key="." line="31" column="30" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1516040730814">
-        <mark key="'" line="3" column="1" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/routes/api.js" timestamp="1517605747404">
         <mark key="'" line="296" column="68" />
@@ -2191,7 +2196,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>auth-service</text>
@@ -2203,34 +2208,34 @@
         <text encoding="base64">ICAgICAgICAgICAgUm9sZUFybjogJ2Fybjphd3M6aWFtOjo4MTU4MDkzMzU1ODQ6cm9sZS9hdXRoLXNlcnZpY2UnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBV1MuY29uZmlnLmNyZWRlbnRpYWxzID0gbmV3IEFXUy5UZW1wb3JhcnlDcmVkZW50aWFscyhhc3N1bWVSb2xlUGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgJywgZG9uZSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncmVzdWx0OicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMiksICdcbicpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKCdjcmVkczonLCBKU09OLnN0cmluZ2lmeShBV1MuY29uZmlnLmNyZWRlbnRpYWxzLCBudWxsLCAyKSwgJ1xuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBV1MuY29uZmlnLmNyZWRlbnRpYWxzLmRpc2FibGVBc3N1bWVSb2xlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBV1MuY29uZmlnLmNyZWRlbnRpYWxzID0gbmV3IEFXUy5UZW1wb3JhcnlDcmVkZW50aWFscyhhc3N1bWVSb2xlUGFyYW1zKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBV1MuY29uZmlnLmNyZWRlbnRpYWxzID0gbmV3IEFXUy5UZW1wb3JhcnlDcmVkZW50aWFscyhyZXN1bHQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncmVzdWx0OicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMiksICdcbicpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKCdjcmVkczonLCBKU09OLnN0cmluZ2lmeShBV1MuY29uZmlnLmNyZWRlbnRpYWxzLCBudWxsLCAyKSwgJ1xuJyk7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBBV1MuY29uZmlnLmNyZWRlbnRpYWxzLmRpc2FibGVBc3N1bWVSb2xlID0gZmFsc2U7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gc3RzLmFzc3VtZVJvbGUoYXNzdW1lUm9sZVBhcmFtcykucHJvbWlzZSgpCiAgICAgICAgLy8gICAgIC50aGVuKHJlc3VsdCA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
