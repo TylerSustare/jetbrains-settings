@@ -212,6 +212,13 @@
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
+        <mark key="'" line="39" column="1" />
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="32" column="16" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1525727289152">
         <mark key="'" line="209" column="70" />
         <mark key="[" line="585" column="0" />
@@ -689,9 +696,6 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/ScoreRow.js" timestamp="1530162281379">
-        <mark key="^" line="35" column="76" />
-      </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="53" column="30" />
@@ -867,7 +871,13 @@
         <mark key="^" line="46" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/course_test.js" timestamp="1531345834979" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/course_test.js" timestamp="1531349200868">
+        <mark key="'" line="11" column="44" />
+        <mark key="[" line="712" column="12" />
+        <mark key="]" line="712" column="12" />
+        <mark key="^" line="12" column="85" />
+        <mark key="." line="712" column="12" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todo_factory.js" timestamp="1526540635124">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="36" />
@@ -1228,6 +1238,12 @@
         <mark key="." line="89" column="90" />
         <mark key="^" line="89" column="90" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" timestamp="1531349076824">
+        <mark key="[" line="610" column="34" />
+        <mark key="]" line="610" column="40" />
+        <mark key="^" line="610" column="40" />
+        <mark key="." line="610" column="40" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_once.js" timestamp="1524769189164">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="24" column="67" />
@@ -1462,7 +1478,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531345842512">
+      <file name="/JavaScript Console" timestamp="1531348552626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1570,10 +1586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="17" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
-      <jump line="5" column="12" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
-      <jump line="11" column="23" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
-      <jump line="13" column="22" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
       <jump line="14" column="26" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
       <jump line="15" column="27" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
       <jump line="16" column="25" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
@@ -1670,6 +1682,10 @@
       <jump line="19" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_videos.js" />
       <jump line="71" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" />
       <jump line="26" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" />
+      <jump line="24" column="1" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" />
+      <jump line="731" column="61" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/course_test.js" />
+      <jump line="760" column="57" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/course_test.js" />
+      <jump line="11" column="44" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/course_test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2198,62 +2214,61 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>only</text>
       </register>
       <register name="-" type="4">
-        <text>auth-service</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>courses\/with\/exams</text>
+        <text>fixture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm9sZUFybjogJ2Fybjphd3M6aWFtOjo4MTU4MDkzMzU1ODQ6cm9sZS9hdXRoLXNlcnZpY2UnLAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXh0X3N0YXRlLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgJywgZG9uZSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChleGFtX2lkID09PSAnYWN0aXZlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBV1MuY29uZmlnLmNyZWRlbnRpYWxzID0gbmV3IEFXUy5UZW1wb3JhcnlDcmVkZW50aWFscyhhc3N1bWVSb2xlUGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAiaXRlbXMiOiBbXQogICAgICAgICAgICAvLyAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncmVzdWx0OicsIEpTT04uc3RyaW5naWZ5KHJlc3VsdCwgbnVsbCwgMiksICdcbicpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKCdjcmVkczonLCBKU09OLnN0cmluZ2lmeShBV1MuY29uZmlnLmNyZWRlbnRpYWxzLCBudWxsLCAyKSwgJ1xuJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICJmYWlsZWQiOiB7CiAgICAgICAgICAgIC8vICAgICAgICAgImNvdW50IjogMCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBV1MuY29uZmlnLmNyZWRlbnRpYWxzLmRpc2FibGVBc3N1bWVSb2xlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICBdCiAgICAgICAgICAgIC8vICAgICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICJleGFtX2lkIjogRVhBTV9JRAogICAgICAgICAgICAvLyAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>courses\/with\/exams</last-search>
+      <last-search>fixture</last-search>
       <last-offset />
-      <last-pattern>courses\/with\/exams</last-pattern>
+      <last-pattern>fixture</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>:</entry>
         <entry>'</entry>
         <entry>firebaseK</entry>
@@ -2273,6 +2288,7 @@
         <entry>cosnole</entry>
         <entry>console.</entry>
         <entry>courses\/with\/exams</entry>
+        <entry>fixture</entry>
       </history-search>
       <history-cmd>
         <entry>waa</entry>
