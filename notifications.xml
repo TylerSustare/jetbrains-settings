@@ -2,6 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Framework Detection" displayType="NONE" />
-    <notification groupId="Module Manager" shouldLog="false" />
+    <notification groupId="Module Manager" displayType="NONE" shouldLog="false" />
   </component>
 </application>
