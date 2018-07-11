@@ -730,7 +730,8 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1524160063321">
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1531339039037">
+        <mark key="'" line="26" column="29" />
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="55" />
         <mark key="." line="8" column="55" />
@@ -1568,8 +1569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="48" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
-      <jump line="3" column="56" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
       <jump line="4" column="17" filename="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" />
       <jump line="5" column="12" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
       <jump line="11" column="23" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
@@ -1668,6 +1667,8 @@
       <jump line="232" column="12" filename="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" />
       <jump line="51" column="19" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_videos.js" />
       <jump line="19" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_videos.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" />
+      <jump line="26" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2203,7 +2204,7 @@
         <text>auth-service</text>
       </register>
       <register name="/" type="4">
-        <text>console.</text>
+        <text>courses\/with\/exams</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUm9sZUFybjogJ2Fybjphd3M6aWFtOjo4MTU4MDkzMzU1ODQ6cm9sZS9hdXRoLXNlcnZpY2UnLAo=</text>
@@ -2243,15 +2244,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console.</last-search>
+      <last-search>courses\/with\/exams</last-search>
       <last-offset />
-      <last-pattern>console.</last-pattern>
+      <last-pattern>courses\/with\/exams</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this\.</entry>
         <entry>log</entry>
         <entry>:</entry>
         <entry>'</entry>
@@ -2271,6 +2271,7 @@
         <entry>setScore</entry>
         <entry>cosnole</entry>
         <entry>console.</entry>
+        <entry>courses\/with\/exams</entry>
       </history-search>
       <history-cmd>
         <entry>waa</entry>
