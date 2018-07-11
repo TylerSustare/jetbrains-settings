@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="clg" value="console.log('$log$');" description="console.log" toReformat="false" toShortenFQNames="true">
+  <template name="clg" value="console.log($log$);" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="log" expression="" defaultValue="'LOGME'" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -12,7 +12,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="inhere" value="console.log('\n\n\n');&#10;console.log('$HERE$');&#10;console.log('\n\n\n');" description="trace statement" toReformat="true" toShortenFQNames="true">
+  <template name="inhere" value="console.log('\n\n\n');&#10;console.log($HERE$);&#10;console.log('\n\n\n');" description="trace statement" toReformat="true" toShortenFQNames="true">
     <variable name="HERE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -30,5 +30,33 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
+  </template>
+  <template name="lgi" value="logger.info(`$message$ ${$val$}`);" description="logger.info" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jsons" value="JSON.stringify($obj$)" description="JSON.stringify" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="importitems" value="import {$ITEM$$END$} from '$MODULE$';&#10;" description="Import statement - import {b} from 'a'" toReformat="true" toShortenFQNames="true">
+    <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="importns" value="import * as $ITEM$ from '$MODULE$';&#10;$END$" description="Import statement - import * as b from 'a'" toReformat="true" toShortenFQNames="true">
+    <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="jsSuggestImportedEntityName()" defaultValue="Namespace" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="importdefault" value="import $ITEM$ from '$MODULE$';&#10;$END$" description="Import statement - import b from 'a'" toReformat="true" toShortenFQNames="true">
+    <variable name="MODULE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="jsSuggestImportedEntityName()" defaultValue="Namespace" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
