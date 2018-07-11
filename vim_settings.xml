@@ -867,6 +867,7 @@
         <mark key="^" line="46" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/course_test.js" timestamp="1531345834979" />
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todo_factory.js" timestamp="1526540635124">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="36" />
@@ -1227,7 +1228,6 @@
         <mark key="." line="89" column="90" />
         <mark key="^" line="89" column="90" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" timestamp="1531339252151" />
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_once.js" timestamp="1524769189164">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="24" column="67" />
@@ -1462,7 +1462,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530915555428">
+      <file name="/JavaScript Console" timestamp="1531345842512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -2241,7 +2241,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -2287,14 +2287,14 @@
         <entry>75</entry>
         <entry>sp</entry>
         <entry>cs</entry>
-        <entry>v</entry>
         <entry>274</entry>
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>50</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>v</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
