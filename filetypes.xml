@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="index" type="JavaScript" />
       <mapping pattern="SoundButton" type="JavaScript" />
       <mapping pattern="vqs_videocollectionsGet" type="JavaScript" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
