@@ -181,11 +181,11 @@
         <mark key="^" line="6" column="84" />
         <mark key="." line="6" column="84" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" timestamp="1531867813955">
-        <mark key="'" line="11" column="12" />
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" timestamp="1531869054665">
+        <mark key="'" line="46" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="7" column="0" />
+        <mark key="^" line="7" column="17" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/mocha.opts" timestamp="1509038075454">
@@ -594,6 +594,12 @@
         <mark key="." line="431" column="2" />
         <mark key="^" line="431" column="2" />
       </file>
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/.eslintrc" timestamp="1531868810401">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/config/routes.js" timestamp="1505419692212">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -612,12 +618,6 @@
         <mark key="]" line="283" column="38" />
         <mark key="." line="283" column="38" />
         <mark key="^" line="283" column="38" />
-      </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" timestamp="1531867810368">
-        <mark key="'" line="20" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1526546879817">
         <mark key="'" line="68" column="12" />
@@ -699,14 +699,22 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1530633142671">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/config/qa.js" timestamp="1531870465887">
+        <mark key="[" line="25" column="57" />
+        <mark key="]" line="25" column="57" />
+        <mark key="." line="25" column="57" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/index.js" timestamp="1525126101546">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="32" />
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/index.js" timestamp="1531871709570">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
@@ -1456,8 +1464,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" timestamp="1531867566000">
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" timestamp="1531871049471">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/todo.js" timestamp="1525467511770">
         <mark key="[" line="72" column="47" />
@@ -1592,6 +1603,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="51" column="22" />
       </file>
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/config/production.js" timestamp="1531869942371">
+        <mark key="'" line="16" column="50" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="12" />
+      </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="38" />
@@ -1606,13 +1624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="29" filename="$USER_HOME$/src/projects/requests-app/requests/App.js" />
-      <jump line="3" column="59" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
-      <jump line="37" column="55" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
-      <jump line="11" column="15" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
-      <jump line="13" column="19" filename="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" />
-      <jump line="38" column="13" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
       <jump line="39" column="14" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
       <jump line="5" column="4" filename="$USER_HOME$/src/projects/requests-app/requests/src/actions/index.js" />
       <jump line="54" column="30" filename="$USER_HOME$/src/projects/requests-app/requests/src/components/LoginForm.js" />
@@ -1706,6 +1717,13 @@
       <jump line="49" column="5" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" />
       <jump line="20" column="11" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" />
       <jump line="11" column="12" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" />
+      <jump line="35" column="5" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" />
+      <jump line="9" column="17" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" />
+      <jump line="46" column="7" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" />
+      <jump line="40" column="1" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" />
+      <jump line="18" column="50" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/config/production.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2235,46 +2253,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhdXRoR2V0U3R1ZGlvVG9rZW5VcmwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>fixture</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">Y29uZmlnLmF1dGgudXJsID0ga2V5cy5zZXJ2aWNlLnFhLmhvc3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhdXRoR2V0U3R1ZGlvVG9rZW5VcmwpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXNlckFjY2Vzc1Rva2VuKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNlcl9pZDogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgYXV0aEdldFN0dWRpb1Rva2VuVXJsID0gYCR7Y29uZmlnLmF1dGhfaW5mby5ob3N0fS9vYXV0aDIvYXV0aC9lbWFpbGA7IC8vIGNvbmZpZyB1c2VybmFtZSBhbmQgcGFzc3dvcmQgbXVzdCBiZSBhZG1pbiBvbiB0aGUgY2xpZW50CmNvbnN0IGF1dGhHZXRUb2tlbkZvclVzZXJVcmwgPSBgJHtjb25maWcuYXV0aF9pbmZvLmhvc3R9L29hdXRoMi91c2VyL3Rva2VuYDsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIHBvc3RQYXNzd29yZFVwZGF0ZSh1c2VySWQsIHBvc3RCb2R5KSB7CiAgICBjb25zdCBkZWZlcnJlZCA9IFEuZGVmZXIoKTsKICAgIHJldHVybiBoZWxwZXJzLmdldFN0dWRpb0FjY2Vzc1Rva2VuKCkKICAgICAgICAudGhlbihhY2Nlc3NUb2tlbiA9PiBoZWxwZXJzLmdldFVzZXJBY2Nlc3NUb2tlbih1c2VySWQsIGFjY2Vzc1Rva2VuKSkKICAgICAgICAudGhlbih1c2VyQWNjZXNzVG9rZW4gPT4gewogICAgICAgICAgICBhZ2VudAogICAgICAgICAgICAgICAgLnBvc3QoYCR7Y29uZmlnLmF1dGgudXJsfS9wYXNzd29yZC91cGRhdGVgKQogICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHt1c2VyQWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgICAgIC5zZW5kKHBvc3RCb2R5KQogICAgICAgICAgICAgICAgLmVuZCgoZXJyLCByZXMpID0+IHsKICAgICAgICAgICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3RFcnJvcnMucHVzaChlcnIpOwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgUEFTU1dPUkQgTk9UIFVQREFURUQgRk9SIFVTRVIgSUQ6ICR7dXNlcklkfWApOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGVmZXJyZWQucmVqZWN0KGVycik7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgcGFzc3dvcmQgdXBkYXRlZCBmb3IgdXNlciBpZDogJHt1c2VySWR9YCk7CiAgICAgICAgICAgICAgICAgICAgcG9zdFJlc3VsdHMucHVzaChyZXMuc3RhdHVzKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGVmZXJyZWQucmVzb2x2ZShyZXMuYm9keSk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgcmV0dXJuIGRlZmVycmVkLnByb21pc2U7CiAgICAgICAgfSkKICAgICAgICAuY2F0Y2goZXJyID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICAgICAgcmV0dXJuIGRlZmVycmVkLnJlamVjdChlcnIpOwogICAgICAgIH0pOwp9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZSBhY2Nlc3MgdG9rZW4gd2l0aCBwYXNzd29yZCBncmFudCBhZ2FpbnN0IGF1dGggY2xpZW50IGZvciBQT1NUIHJlcXVlc3RzCiAqIEByZXR1cm4ge1Byb21pc2V9IFthY2Nlc3NfdG9rZW5dCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgICAvLyBQcm9jZXNzIHBvc3QgcmVxdWVzdHMgc2VxdWVudGlhbGx5CiAgICAgICAgY29uc3QgcHJvY2Vzc1JlcXVlc3RzID0gXy5yZWR1Y2UoVVNFUl9JRFNfVE9fVVBEQVRFLCBmdW5jdGlvbiAocHJvY2Vzc2VkU29GYXIsIGRhdGEpIHsKICAgICAgICAgICAgcmV0dXJuIHByb2Nlc3NlZFNvRmFyCiAgICAgICAgICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgcG9zdEJvZHkgPSB7fTsKCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHBvc3RQYXNzd29yZFVwZGF0ZShkYXRhLCBwb3N0Qm9keSk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICB9LCBRKCkpOwoKICAgICAgICByZXR1cm4gcHJvY2Vzc1JlcXVlc3RzOwogICAgfSk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBhc3N3b3JkIjogInZhbHVlIiwKICAgICAgICAgICAgInVzZXJuYW1lIjogInZhbHVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ6IG5ld1Bhc3N3b3JkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2311,7 +2329,6 @@
         <entry>fixture</entry>
       </history-search>
       <history-cmd>
-        <entry>waa</entry>
         <entry>qq</entry>
         <entry>182</entry>
         <entry>132</entry>
@@ -2330,6 +2347,7 @@
         <entry>50</entry>
         <entry>v</entry>
         <entry>vs</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
