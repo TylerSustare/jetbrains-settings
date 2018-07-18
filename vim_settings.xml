@@ -627,11 +627,12 @@
         <mark key="." line="283" column="38" />
         <mark key="^" line="283" column="38" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" timestamp="1531897999154">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="90" column="30" />
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" timestamp="1531898811376">
+        <mark key="'" line="127" column="10" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+        <mark key="^" line="178" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1526546879817">
         <mark key="'" line="68" column="12" />
@@ -1485,11 +1486,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" timestamp="1531888879340">
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" timestamp="1531898805215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="108" column="55" />
-        <mark key="." line="0" column="0" />
+        <mark key="^" line="109" column="55" />
+        <mark key="." line="7" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/models/mongodb/todo.js" timestamp="1525467511770">
         <mark key="[" line="72" column="47" />
@@ -1645,9 +1646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="35" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/actions/index.js" />
-      <jump line="16" column="30" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
       <jump line="17" column="17" filename="$USER_HOME$/src/projects/requests-app/score-redux/App.js" />
       <jump line="76" column="4" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
       <jump line="77" column="11" filename="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/AddScore.js" />
@@ -1745,6 +1743,9 @@
       <jump line="141" column="54" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" />
       <jump line="142" column="54" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" />
       <jump line="143" column="67" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/member_service/remove_gdpr_user_data.js" />
+      <jump line="49" column="2" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" />
+      <jump line="97" column="31" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" />
+      <jump line="127" column="10" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2274,61 +2275,60 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncG9zdEVycm9yczonKTsKICAgICAgICBjb25zb2xlLmxvZyhwb3N0RXJyb3JzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>name updated for user id: ${userId}</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>GDPR</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGBOQU1FIE5PVCBVUERBVEVEIEZPUiBVU0VSIElEOiAke3VzZXJJZH1gLCBMT0dfQ0FURUdPUlkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoYEVSUk9SOiAke2Vycn1gLCBMT0dfQ0FURUdPUlkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncG9zdEVycm9yczonKTsKICAgICAgICBjb25zb2xlLmxvZyhwb3N0RXJyb3JzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coYGApOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRVJST1IhJyk7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coYFxuXG5uJHtlcnJ9XG5cblxuYCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU1VDQ0VTUyEgUmVzdWx0czogJywgcG9zdFJlc3VsdHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGBcblxubiR7ZXJyfVxuXG5cbmApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JhbnRfdHlwZTogJ25vcGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbyhgcGFzc3dvcmQgdXBkYXRlZCBmb3IgdXNlciBpZDogJHt1c2VySWR9YCwgTE9HX0NBVEVHT1JZKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCcnLCBMT0dfQ0FURUdPUlkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgYCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGxvZ2dlciA9IHJlcXVpcmUoJ2xpYi1sb2dnZXItbm9kZWpzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coYGApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2VyLmluaXQoY29uZmlnLmxvZ2dpbmcsIG51bGwsIF9fZGlybmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi9jb25maWcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgYCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GDPR</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>GDPR</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>LOGIN_USER_F</entry>
         <entry>signInUser</entry>
         <entry>AW</entry>
         <entry>AWSS</entry>
@@ -2348,6 +2348,7 @@
         <entry>lastname</entry>
         <entry>'</entry>
         <entry>GDPR</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>182</entry>
