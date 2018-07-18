@@ -233,6 +233,11 @@
         <mark key="^" line="558" column="85" />
         <mark key="." line="585" column="0" />
       </file>
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/deploy.sh" timestamp="1531896468332">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update-courses-with-existing-exams.js" timestamp="1521824868652">
         <mark key="[" line="138" column="104" />
         <mark key="]" line="138" column="102" />
@@ -370,6 +375,9 @@
         <mark key="]" line="26" column="24" />
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/config/default.js" timestamp="1531897133922">
+        <mark key="[" line="11" column="51" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/errors/firehose_error.js" timestamp="1524776113467">
         <mark key="'" line="18" column="0" />
@@ -619,11 +627,11 @@
         <mark key="." line="283" column="38" />
         <mark key="^" line="283" column="38" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" timestamp="1531887514821">
-        <mark key="'" line="37" column="15" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/auth_service/auth_remove_gdpr_user_data.js" timestamp="1531897219385">
+        <mark key="'" line="39" column="15" />
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/common.js" timestamp="1526546879817">
         <mark key="'" line="68" column="12" />
@@ -811,6 +819,12 @@
         <mark key="]" line="57" column="18" />
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/package.json" timestamp="1531896808738">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
       </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/apps/templates/breadcrumbs.js" timestamp="1526405490578">
         <mark key="[" line="1" column="42" />
@@ -2260,10 +2274,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgIG1lbWJlcklkID0gb3ZlcnJpZGVNZW1iZXJJCg==</text>
+        <text encoding="base64">bGV0IGxvZ2dlciA9IHJlcXVpcmUoJ2xpYi1sb2dnZXItbm9kZWpzJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>GDPR</text>
@@ -2272,34 +2286,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGFjdF90ZXh0OiAnNTU1LTU1NS01NTU1JyAvLyBtdXN0IGJlIGEgcGhvbmUgbnVtYmVyIGxpa2Ugc3RyaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgIG1lbWJlcklkID0gb3ZlcnJpZGVNZW1iZXJJCg==</text>
+        <text encoding="base64">bGV0IGxvZ2dlciA9IHJlcXVpcmUoJ2xpYi1sb2dnZXItbm9kZWpzJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gdmFyIG1lbWJlcklkID0gOTk5OTk5OwovLyBpZiAodHlwZW9mIG92ZXJyaWRlTWVtYmVySWQgIT09ICd1bmRlZmluZWQnKSB7Cg==</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2VyLmluaXQoY29uZmlnLmxvZ2dpbmcsIG51bGwsIF9fZGlybmFtZSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZCAvLyBOZWVkIHRvIGxvb3AgaGVyZSBhdCBzb21lIHBvaW50PwovLyB9Ci8vCi8vIHByaW50KCk7Ci8vIHZhciBkYiA9IGRiLmdldFNpYmxpbmdEQignbWVtYmVyJyk7Ci8vIHZhciBtZW1iZXJSZWNvcmRzID0gZGIudXNlcl9wcm9maWxlcy5maW5kKHsgIm1lbWJlcl9pZCI6ICIiICsgbWVtYmVySWQgfSk7Ci8vCi8vIGlmIChtZW1iZXJSZWNvcmRzLnRvQXJyYXkoKS5sZW5ndGggPT09IDEpIHsKLy8gICAgIGNvbnN0IHJlY29yZCA9IG1lbWJlclJlY29yZHNbMF07Ci8vICAgICBwcmludCgnUmVjb3JkIGxvY2F0ZWQuIFRoZSBmb2xsb3dpbmcgaW5mb3JtYXRpb24gd2lsbCBiZSByZW1vdmVkIGZyb20gdGhlIGRhdGFiYXNlOicpCi8vICAgICBwcmludCgiZGlzcGxheV9uYW1lOiIsIHJlY29yZC5kaXNwbGF5X25hbWUpOwovLyAgICAgcHJpbnQoImF2YXRhci5rZXk6IiwgcmVjb3JkLmF2YXRhci5rZXkpOwovLwovLyAgICAgcmVjb3JkLmRpc3BsYXlfbmFtZSA9ICJHRFBSIgovLyAgICAgcmVjb3JkLmF2YXRhci5rZXkgPSAiR0RQUiI7Ci8vCi8vICAgICBPYmplY3Qua2V5cyhyZWNvcmQpLmZvckVhY2goa2V5ID0+IHsKLy8gICAgICAgICBpZiAoa2V5LmluY2x1ZGVzKCJjb250YWN0IikpIHsKLy8gICAgICAgICAgICAgcHJpbnQoa2V5ICsgIjogIiArIHJlY29yZFtrZXldKTsKLy8gICAgICAgICAgICAgcmVjb3JkW2tleV0gPSAiR0RQUiI7Ci8vICAgICAgICAgfQovLyAgICAgfSk7Ci8vCi8vICAgICBkYi51c2VyX3Byb2ZpbGVzLnVwZGF0ZSh7IF9pZDogcmVjb3JkLl9pZCB9LCByZWNvcmQpOwovLwovLyB9IGVsc2UgewovLyAgICAgcHJpbnQoIiIgKyBtZW1iZXJSZWNvcmRzLnRvQXJyYXkoKS5sZW5ndGggKyAiIG1hdGNoaW5nIHJlY29yZHMgZm91bmQuIEV4aXRpbmcgd2l0aG91dCBjaGFuZ2VzLiIpCi8vIH0KLy8gOwoKLyoqCiAqIHFhOiBOT0RFX0VOVj1xYSBub2RlIHJlbW92ZV9nZHByX3VzZXJfZGF0YS5qcwogKiBwcm9kOiBOT0RFX0VOVj1wcm9kdWN0aW9uIG5vZGUgcmVtb3ZlX2dkcHJfdXNlcl9kYXRhLmpzCiAqLw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi9jb25maWcnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZW52ID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlY7CmNvbnN0IExPR19DQVRFR09SWSA9ICd0YXNrLWV4YW0tcHJvdmlkZXInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29udGFjdF9waG9uZV9jb3VudHJ5X2NvZGU6IGBHRFBSICR7Z3VpZH1gLAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29udGFjdF9waG9uZTogJ0dEUFIgJHtndWlkfWAsCg==</text>
+        <text encoding="base64">Ly8gICAgIG1lbWJlcklkID0gb3ZlcnJpZGVNZW1iZXJJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29udGFjdF9waG9uZV9jb3VudHJ5X2NvZGU6IGBHRFBSICR7Z3VpZH1gLAo=</text>
+        <text encoding="base64">Ly8gdmFyIG1lbWJlcklkID0gOTk5OTk5OwovLyBpZiAodHlwZW9mIG92ZXJyaWRlTWVtYmVySWQgIT09ICd1bmRlZmluZWQnKSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29udGFjdF9waG9uZTogJ0dEUFIgJHtndWlkfWAsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZCAvLyBOZWVkIHRvIGxvb3AgaGVyZSBhdCBzb21lIHBvaW50PwovLyB9Ci8vCi8vIHByaW50KCk7Ci8vIHZhciBkYiA9IGRiLmdldFNpYmxpbmdEQignbWVtYmVyJyk7Ci8vIHZhciBtZW1iZXJSZWNvcmRzID0gZGIudXNlcl9wcm9maWxlcy5maW5kKHsgIm1lbWJlcl9pZCI6ICIiICsgbWVtYmVySWQgfSk7Ci8vCi8vIGlmIChtZW1iZXJSZWNvcmRzLnRvQXJyYXkoKS5sZW5ndGggPT09IDEpIHsKLy8gICAgIGNvbnN0IHJlY29yZCA9IG1lbWJlclJlY29yZHNbMF07Ci8vICAgICBwcmludCgnUmVjb3JkIGxvY2F0ZWQuIFRoZSBmb2xsb3dpbmcgaW5mb3JtYXRpb24gd2lsbCBiZSByZW1vdmVkIGZyb20gdGhlIGRhdGFiYXNlOicpCi8vICAgICBwcmludCgiZGlzcGxheV9uYW1lOiIsIHJlY29yZC5kaXNwbGF5X25hbWUpOwovLyAgICAgcHJpbnQoImF2YXRhci5rZXk6IiwgcmVjb3JkLmF2YXRhci5rZXkpOwovLwovLyAgICAgcmVjb3JkLmRpc3BsYXlfbmFtZSA9ICJHRFBSIgovLyAgICAgcmVjb3JkLmF2YXRhci5rZXkgPSAiR0RQUiI7Ci8vCi8vICAgICBPYmplY3Qua2V5cyhyZWNvcmQpLmZvckVhY2goa2V5ID0+IHsKLy8gICAgICAgICBpZiAoa2V5LmluY2x1ZGVzKCJjb250YWN0IikpIHsKLy8gICAgICAgICAgICAgcHJpbnQoa2V5ICsgIjogIiArIHJlY29yZFtrZXldKTsKLy8gICAgICAgICAgICAgcmVjb3JkW2tleV0gPSAiR0RQUiI7Ci8vICAgICAgICAgfQovLyAgICAgfSk7Ci8vCi8vICAgICBkYi51c2VyX3Byb2ZpbGVzLnVwZGF0ZSh7IF9pZDogcmVjb3JkLl9pZCB9LCByZWNvcmQpOwovLwovLyB9IGVsc2UgewovLyAgICAgcHJpbnQoIiIgKyBtZW1iZXJSZWNvcmRzLnRvQXJyYXkoKS5sZW5ndGggKyAiIG1hdGNoaW5nIHJlY29yZHMgZm91bmQuIEV4aXRpbmcgd2l0aG91dCBjaGFuZ2VzLiIpCi8vIH0KLy8gOwoKLyoqCiAqIHFhOiBOT0RFX0VOVj1xYSBub2RlIHJlbW92ZV9nZHByX3VzZXJfZGF0YS5qcwogKiBwcm9kOiBOT0RFX0VOVj1wcm9kdWN0aW9uIG5vZGUgcmVtb3ZlX2dkcHJfdXNlcl9kYXRhLmpzCiAqLw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29udGFjdF9za3lwZTogYEdEUFIgJHtndWlkfWAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
