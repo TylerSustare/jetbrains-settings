@@ -1500,12 +1500,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1532128942627">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-        <mark key="^" line="5" column="44" />
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1532130592889">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/common/index.js" timestamp="1530250352719">
         <mark key="[" line="5" column="26" />
@@ -1674,8 +1673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/index" />
-      <jump line="15" column="37" filename="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/index" />
       <jump line="12" column="58" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="1" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="153" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
@@ -1774,6 +1771,8 @@
       <jump line="526" column="80" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="2" column="2" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
       <jump line="7" column="0" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
+      <jump line="52" column="10" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
+      <jump line="50" column="8" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2302,47 +2301,47 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaWVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>exam</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjdGl2ZUlkcyA9IGRhdGEuZmlsdGVyKGQgPT4gXy5pc09iamVjdChkLmV4YW1zWzBdKSAmJiBkLnN0YXRlID09PSAnUmVsZWFzZScpOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgdXJsID0gJ2h0dHBzOi8vaWNzMndzLmljMy5jb20vY29tbWVyY2UvMS54L3RyYW5zYWN0aW9uUHJvY2Vzc29yL0N5YmVyU291cmNlVHJhbnNhY3Rpb25fMS4xNDgud3NkbCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsaWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihyZXN1bHQgPT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVzdWx0LCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNsaWVudC53c2RsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHR5cGUge3tJU29hcE1ldGhvZDogSVNvYXBNZXRob2Q7IElTb2FwU2VydmljZU1ldGhvZDogSVNvYXBTZXJ2aWNlTWV0aG9kOyBJU29hcEZhdWx0OiBJU29hcEZhdWx0OyBJU29hcEZhdWx0MTE6IElTb2FwRmF1bHQxMTsgSVNvYXBGYXVsdDEyOiBJU29hcEZhdWx0MTI7IElTZWN1cml0eTogSVNlY3VyaXR5OyBJU2VydmljZVBvcnQ6IElTZXJ2aWNlUG9ydDsgSVNlcnZpY2U6IElTZXJ2aWNlOyBJU2VydmljZXM6IElTZXJ2aWNlczsgSVhtbEF0dHJpYnV0ZTogSVhtbEF0dHJpYnV0ZTsgSVdzZGxCYXNlT3B0aW9uczogSVdzZGxCYXNlT3B0aW9uczsgSU9wdGlvbnM6IElPcHRpb25zOyBJT25lV2F5T3B0aW9uczogSU9uZVdheU9wdGlvbnM7IElTZXJ2ZXJPcHRpb25zOiBJU2VydmVyT3B0aW9uczsgV1NETDogV1NETDsgQ2xpZW50OiBDbGllbnQ7IGNyZWF0ZUNsaWVudDsgY3JlYXRlQ2xpZW50QXN5bmM7IFNlcnZlcjogU2VydmVyOyBsaXN0ZW47IEh0dHBDbGllbnQ6IEh0dHBDbGllbnQ7IEJhc2ljQXV0aFNlY3VyaXR5OiBCYXNpY0F1dGhTZWN1cml0eTsgQmVhcmVyU2VjdXJpdHk6IEJlYXJlclNlY3VyaXR5OyBXU1NlY3VyaXR5OiBXU1NlY3VyaXR5OyBXU1NlY3VyaXR5Q2VydDogV1NTZWN1cml0eUNlcnQ7IENsaWVudFNTTFNlY3VyaXR5OiBDbGllbnRTU0xTZWN1cml0eTsgQ2xpZW50U1NMU2VjdXJpdHlQRlg6IENsaWVudFNTTFNlY3VyaXR5UEZYOyBwYXNzd29yZERpZ2VzdDsgU2VjdXJpdHk6IFNlY3VyaXR5OyBTb2FwTWV0aG9kOiBTb2FwTWV0aG9kOyBPcHRpb246IE9wdGlvbn19Cg==</text>
+        <text encoding="base64">Y29uc3QgdXJsID0gJ2h0dHBzOi8vaWNzMndzLmljMy5jb20vY29tbWVyY2UvMS54L3RyYW5zYWN0aW9uUHJvY2Vzc29yL0N5YmVyU291cmNlVHJhbnNhY3Rpb25fMS4xNDgueHNkJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">dmFyIHVybCA9ICdodHRwOi8vYnJpY2tzZXQuY29tL2FwaS92Mi5hc214P1dTREwnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Y29uc3QgdXJsID0gJ2h0dHBzOi8vaWNzMndzLmljMy5jb20vY29tbWVyY2UvMS54L3RyYW5zYWN0aW9uUHJvY2Vzc29yL0N5YmVyU291cmNlVHJhbnNhY3Rpb25fMS4xNDgud3NkbCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aHR0cHM6Ly9pY3Myd3MuaWMzLmNvbS9jb21tZXJjZS8xLngvdHJhbnNhY3Rpb25Qcm9jZXNzb3IvQ3liZXJTb3VyY2VUcmFuc2FjdGlvbl8xLjE0OC53c2RsCg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
