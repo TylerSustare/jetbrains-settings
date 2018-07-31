@@ -262,6 +262,7 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/node_modules/soap/lib/wsdl.js" timestamp="1533060293215" />
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="23" />
@@ -1500,12 +1501,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1533059004957">
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1533060571013">
         <mark key="'" line="7" column="19" />
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="0" />
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/common/index.js" timestamp="1530250352719">
         <mark key="[" line="5" column="26" />
@@ -1559,7 +1560,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533058920605">
+      <file name="/JavaScript Console" timestamp="1533060308356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -2306,7 +2307,7 @@
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>seth</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
@@ -2315,34 +2316,34 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKCdcbmVycm9yOiAnLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuY2F0Y2goZSA9PiB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LmFkZFNvYXBIZWFkZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaGVhZGVycyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOykK</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goZSA9PiB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
