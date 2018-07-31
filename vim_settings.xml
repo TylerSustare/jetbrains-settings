@@ -263,7 +263,6 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/node_modules/soap/lib/wsdl.js" timestamp="1533060293215" />
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/auth_middleware.js" timestamp="1507852391460">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="23" />
@@ -826,6 +825,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/soap-test.js" timestamp="1533066729559">
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="36" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+      </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" timestamp="1528930130695">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -875,6 +880,11 @@
         <mark key="]" line="797" column="49" />
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/package.json" timestamp="1533066587580">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1526547277109">
         <mark key="'" line="40" column="8" />
@@ -2309,13 +2319,13 @@
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>seth</text>
+        <text>in !result</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKCdcbmVycm9yOiAnLCBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW4gIXJlc3VsdCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
