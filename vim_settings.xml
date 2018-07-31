@@ -825,11 +825,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/soap-test.js" timestamp="1533066729559">
-        <mark key="[" line="50" column="28" />
-        <mark key="]" line="50" column="36" />
-        <mark key="^" line="50" column="36" />
-        <mark key="." line="50" column="36" />
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/soap-test.js" timestamp="1533068540062">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="138" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="1" column="123" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" timestamp="1528930130695">
         <mark key="[" line="28" column="0" />
@@ -1687,10 +1688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="153" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="141" column="47" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="132" column="46" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="134" column="44" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="139" column="48" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="50" column="6" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
@@ -1787,6 +1784,10 @@
       <jump line="52" column="10" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
       <jump line="50" column="8" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
       <jump line="6" column="19" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
+      <jump line="17" column="3" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/soap-test.js" />
+      <jump line="6" column="27" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/soap-test.js" />
+      <jump line="14" column="30" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/soap-test.js" />
+      <jump line="9" column="20" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/soap-test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2319,43 +2320,43 @@
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>in !result</text>
+        <text encoding="base64">IGh0dHBzOi8vZGV2ZWxvcGVycy5yZWRoYXQuY29tL2Jsb2cvMjAxNi8wMi8xOS9hcHBzLTEwMS1hbi1hYnNvbHV0ZS1iZWdpbm5lcnMtZ3VpZGUtdG8taW50ZWdyYXRpbmctd2l0aC1hLW5vZGUtanMtYmFja2VuZC8=</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW4gIXJlc3VsdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcignZXJyb3InKTsKICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLmpzb24oZXJyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzLmpzb24ocmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoNTAwKS5qc29uKGVycik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Y29uc3Qgc29hcCA9IHJlcXVpcmUoJ3NvYXAnKTsKY29uc3QgYXBpV1NETCA9ICdodHRwOi8vYnJpY2tzZXQuY29tL2FwaS92Mi5hc214P1dTREwnOwoKbGV0IGtleSA9ICdoYk9tLWJRZ3QtWVlJMic7CgovL2Jhc2VkIG9uIHNlYXJjaGluZyBicmlja3NldC5jb20KY29uc3QgbWluWWVhciA9IDE5NTA7CgpmdW5jdGlvbiBnZXRSYW5kb21JbnQobWluLCBtYXgpIHsKICAgIHJldHVybiBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAobWF4IC0gbWluICsgMSkpICsgbWluOwp9CgpmdW5jdGlvbiBzZXRLZXkoaykgewogICAga2V5ID0gazsKfQoKZnVuY3Rpb24gZ2V0UmFuZG9tU2V0KCkgewogICAgLy9maXJzdCwgZGV0ZXJtaW5lIHRoZSB5ZWFyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnN0IGFyZ3MgPSB7CiAgICAgICAgICAgICAgICBhcGlLZXk6IGtleSwKICAgICAgICAgICAgICAgIHVzZXJIYXNoOiAnJywKICAgICAgICAgICAgICAgIHF1ZXJ5OiAnJywKICAgICAgICAgICAgICAgIHRoZW1lOiAnJywKICAgICAgICAgICAgICAgIHN1YnRoZW1lOiAnJywKICAgICAgICAgICAgICAgIHNldE51bWJlcjogJycsCiAgICAgICAgICAgICAgICB5ZWFyLAogICAgICAgICAgICAgICAgb3duZWQ6ICcnLAogICAgICAgICAgICAgICAgd2FudGVkOiAnJywKICAgICAgICAgICAgICAgIG9yZGVyQnk6ICcnLAogICAgICAgICAgICAgICAgcGFnZVNpemU6ICcyMDAwJywKICAgICAgICAgICAgICAgIHBhZ2VOdW1iZXI6ICcxJywKICAgICAgICAgICAgICAgIHVzZXJOYW1lOiAnJwogICAgICAgICAgICB9OwoKICAgICAgICAgICAgY2xpZW50LmdldFNldHMoYXJncywgZnVuY3Rpb24gKGVyciwgcmVzdWx0KSB7CiAgICAgICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VycicpOwogICAgICAgICAgICAgICAgICAgIHJlamVjdChlcnIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCFyZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnaW4gIXJlc3VsdCcpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBnZXRSYW5kb21TZXQoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdubyBlcnJvcicpOwogICAgICAgICAgICAgICAgcmVzb2x2ZShyZXN1bHQpOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgIH0pOwoKICAgIHJldHVybiBwOwp9CgpnZXRSYW5kb21TZXQoKS50aGVuKHJlcyA9PiBjb25zb2xlLmxvZyhyZXMpKS5jYXRjaChlID0+IGNvbnNvbGUubG9nKCdlcnJyb3JycnInLCBlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVycikgdGhyb3cgbmV3IEVycm9yKGVycik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBzb2FwLmNyZWF0ZUNsaWVudChhcGlXU0RMLCBmdW5jdGlvbiAoZXJyLCBjbGllbnQpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuY2F0Y2goZSA9PiB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHAgPSBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
