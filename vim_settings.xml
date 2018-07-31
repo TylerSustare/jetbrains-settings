@@ -1500,11 +1500,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1532730250607">
-        <mark key="[" line="1" column="51" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1533059004957">
+        <mark key="'" line="7" column="19" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/common/index.js" timestamp="1530250352719">
         <mark key="[" line="5" column="26" />
@@ -1558,7 +1559,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532041113345">
+      <file name="/JavaScript Console" timestamp="1533058920605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -1673,7 +1674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="58" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="1" column="0" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="153" column="40" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="141" column="47" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
@@ -1773,6 +1773,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
       <jump line="52" column="10" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
       <jump line="50" column="8" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2305,43 +2306,43 @@
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gY29uc3QgdXJsID0gJ2h0dHBzOi8vaWNzMndzLmljMy5jb20vY29tbWVyY2UvMS54L3RyYW5zYWN0aW9uUHJvY2Vzc29yL0N5YmVyU291cmNlVHJhbnNhY3Rpb25fMS4xNDgud3NkbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKCdcbmVycm9yOiAnLCBlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdXJsID0gJ0h0dHBzOi8vaWNzMndzLmljMy5jb20vY29tbWVyY2UvMS54L3RyYW5zYWN0aW9uUHJvY2Vzc29yL0N5YmVyU291cmNlVHJhbnNhY3Rpb25fMS4xNDgud3NkbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdXJsID0gJ0h0dHBzOi8vaWNzMndzLmljMy5jb20vY29tbWVyY2UvMS54L3RyYW5zYWN0aW9uUHJvY2Vzc29yL0N5YmVyU291cmNlVHJhbnNhY3Rpb25fMS4xNDgud3NkbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyZXN1bHQgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goZSA9PiB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVzdWx0LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LmFkZFNvYXBIZWFkZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGNsaWVudC53c2RsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdXJsID0gJ2h0dHBzOi8vaWNzMndzLmljMy5jb20vY29tbWVyY2UvMS54L3RyYW5zYWN0aW9uUHJvY2Vzc29yL0N5YmVyU291cmNlVHJhbnNhY3Rpb25fMS4xNDgueHNkJzsK</text>
+        <text encoding="base64">Y29uc3QgaGVhZGVycyA9IHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHVybCA9ICdodHRwOi8vYnJpY2tzZXQuY29tL2FwaS92Mi5hc214P1dTREwnOwo=</text>
+        <text encoding="base64">ICAgIC50aGVuKGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
