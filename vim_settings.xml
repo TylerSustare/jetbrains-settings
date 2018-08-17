@@ -280,12 +280,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534529492449">
-        <mark key="'" line="59" column="45" />
-        <mark key="[" line="69" column="51" />
-        <mark key="]" line="69" column="54" />
-        <mark key="." line="69" column="54" />
-        <mark key="^" line="69" column="54" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534534968016">
+        <mark key="'" line="128" column="21" />
+        <mark key="[" line="127" column="17" />
+        <mark key="]" line="127" column="37" />
+        <mark key="^" line="127" column="37" />
+        <mark key="." line="127" column="37" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -482,6 +482,9 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1534533179784">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="5" />
@@ -642,6 +645,13 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1534532879920">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="46" column="1" />
+        <mark key="^" line="46" column="1" />
+        <mark key="." line="46" column="1" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
         <mark key="[" line="283" column="37" />
@@ -799,12 +809,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534455271097">
-        <mark key="'" line="21" column="16" />
-        <mark key="[" line="21" column="151" />
-        <mark key="]" line="21" column="151" />
-        <mark key="^" line="27" column="51" />
-        <mark key="." line="21" column="151" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534535306108">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1389,12 +1399,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1534455029477">
+      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1534534566684">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="18" />
-        <mark key="]" line="50" column="19" />
-        <mark key="^" line="50" column="18" />
-        <mark key="." line="50" column="19" />
+        <mark key="[" line="50" column="364" />
+        <mark key="]" line="50" column="364" />
+        <mark key="^" line="50" column="364" />
+        <mark key="." line="50" column="364" />
       </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryReducer.js" timestamp="1527187112630">
         <mark key="[" line="2" column="21" />
@@ -1559,6 +1569,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1534533837308" />
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/common/index.js" timestamp="1530250352719">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="6" column="26" />
@@ -1732,17 +1743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="90" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="640" column="22" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="675" column="49" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="707" column="49" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="946" column="36" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="160" column="36" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="264" column="36" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="548" column="63" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="636" column="35" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="46" column="8" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="50" column="8" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="55" column="8" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
@@ -1826,12 +1826,23 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/config/test.json" />
       <jump line="38" column="34" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="28" column="56" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="20" column="48" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="27" column="45" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="21" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="27" column="46" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="56" column="27" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="59" column="45" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="32" column="29" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="42" column="22" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="0" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="20" column="64" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="57" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
+      <jump line="19" column="15" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="117" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="124" column="22" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="128" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2361,128 +2372,60 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Veiw</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>Veiw</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
-        <text>Veiw</text>
+        <text>method</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICduczE6ZXhwaXJhdGlvbk1vbnRoJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6ICcxMicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>'
-                        },
-                        'ns1:billTo': {
-                            'ns1:firstName': {
-                                '#text': 'John'
-                            },
-                            'ns1:lastName': {
-                                '#text': 'Doe'
-                            },
-                            'ns1:street1': {
-                                '#text': '1295 Charleston Road'
-                            },
-                            'ns1:city': {
-                                '#text': 'Mountain Veiw'
-                            },
-                            'ns1:state': {
-                                '#text': 'CA'
-                            },
-                            'ns1:postalCode': {
-                                '#text': '94043'
-                            },
-                            'ns1:country': {
-                                '#text': 'US'
-                            },
-                            'ns1:email': {
-                                '#text': 'null@cybersource.com'
-                            },
-                            'ns1:ipAddress': {
-                                '#text': '10.7.111.111'
-                            }
-                        },
-                        'ns1:item': {
-                            '@id': '0',
-                            //'ns1:unitPrice':{
-                            //'#text': '12.34'
-                            // },
-                            // 'ns1:quantity':{
-                            // '#text': '2'
-                            // }
-                            'ns1:unitPrice': {
-                                '#text': '56.78'
-                            },
-                        },
-                        'ns1:purchaseTotals': {
-                            'ns1:currency': 'USD'
-                        },
-                        'ns1:card': {
-                            'ns1:accountNumber': {
-                                '#text': '4111111111111111'
-                            },
-                            'ns1:expirationMonth': {
-                                '#text': '12'
-                            },
-                            'ns1:expirationYear': {
-                                '#text': '2020'
-                            },
-                        },
-                        'ns1:AuthService': {
-                            '@run': 'rue'
-                        }
-                    }
-                }
-            }
-        }).end({ pretty: true });
-        return xml;
-    }
-};</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICduczE6YWNjb3VudE51bWJlcic6IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbnMxOmFjY291bnROdW1iZXInOiB7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTppdGVtJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyN0ZXh0JzoK</text>
+        <text encoding="base64">ICAgIGJlZm9yZSgoKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnd2VsbHNGYXJnby5tZXJjaGFudElkJykKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFtb3VudDogMTAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnd2VsbHNGYXJnby5tZXJjaGFudElkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6Cg==</text>
+        <text encoding="base64">OncK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTppdGVtJzogewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBmdW5jdGlvbiBjcmVhdGVTb2FwUmVxdWVzdChtZXRob2QsIHVybCkgewogICAgICAgICAgICBsZXQgeGhyID0gbmV3IFhNTEh0dHBSZXF1ZXN0KCk7CiAgICAgICAgICAgIGlmICgnd2l0aENyZWRlbnRpYWxzJyBpbiB4aHIpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd3aXRoQ3JlZGVudGlhbHMnKTsKICAgICAgICAgICAgICAgIHhoci5vcGVuKG1ldGhvZCwgdXJsLCBmYWxzZSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnbm8gY3JlZGVudGlhbHMsIGV4aXRpbmcgcmVxdWVzdCcpOwogICAgICAgICAgICAgICAgeGhyID0gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4geGhyOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Veiw</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>Veiw</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lastname</entry>
-        <entry>'</entry>
         <entry>GDPR</entry>
         <entry>logger</entry>
         <entry>console</entry>
@@ -2501,13 +2444,14 @@
         <entry>==</entry>
         <entry>View</entry>
         <entry>Veiw</entry>
+        <entry>fixtures</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
         <entry>114</entry>
         <entry>119</entry>
         <entry>75</entry>
-        <entry>sp</entry>
         <entry>cs</entry>
         <entry>274</entry>
         <entry>vsp</entry>
@@ -2522,6 +2466,7 @@
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>bp|bd #</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
