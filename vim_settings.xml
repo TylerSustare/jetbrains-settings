@@ -280,12 +280,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534527623477">
-        <mark key="'" line="27" column="46" />
-        <mark key="[" line="113" column="37" />
-        <mark key="]" line="113" column="40" />
-        <mark key="." line="113" column="40" />
-        <mark key="^" line="113" column="40" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534528913165">
+        <mark key="'" line="56" column="27" />
+        <mark key="[" line="69" column="50" />
+        <mark key="]" line="69" column="54" />
+        <mark key="." line="69" column="54" />
+        <mark key="^" line="69" column="54" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -1192,10 +1192,10 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/request.xml" timestamp="1534527135274">
-        <mark key="[" line="39" column="35" />
-        <mark key="]" line="39" column="35" />
-        <mark key="." line="39" column="35" />
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/request.xml" timestamp="1534528750123">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/.eslintrc" timestamp="1525980011025">
         <mark key="[" line="10" column="21" />
@@ -1732,7 +1732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="77" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="129" column="77" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="130" column="90" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="640" column="22" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
@@ -1832,6 +1831,7 @@
       <jump line="27" column="45" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="21" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="27" column="46" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="56" column="27" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2361,13 +2361,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>rue</text>
+        <text encoding="base64">IFZlaXc=</text>
       </register>
       <register name="-" type="4">
-        <text>rue</text>
+        <text encoding="base64">IFZlaXc=</text>
       </register>
       <register name="/" type="4">
-        <text>==</text>
+        <text>Veiw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICduczE6ZXhwaXJhdGlvbk1vbnRoJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6ICcxMicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
@@ -2473,16 +2473,14 @@
       </register>
     </registers>
     <search>
-      <last-search>==</last-search>
+      <last-search>Veiw</last-search>
       <last-offset />
-      <last-pattern>==</last-pattern>
+      <last-pattern>Veiw</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>courses\/with\/exams</entry>
-        <entry>fixture</entry>
         <entry>lastname</entry>
         <entry>'</entry>
         <entry>GDPR</entry>
@@ -2501,6 +2499,8 @@
         <entry>cache</entry>
         <entry>eval</entry>
         <entry>==</entry>
+        <entry>View</entry>
+        <entry>Veiw</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
