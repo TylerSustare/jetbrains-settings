@@ -280,12 +280,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534459087971">
-        <mark key="'" line="38" column="34" />
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="45" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534527623477">
+        <mark key="'" line="27" column="46" />
+        <mark key="[" line="113" column="37" />
+        <mark key="]" line="113" column="40" />
+        <mark key="." line="113" column="40" />
+        <mark key="^" line="113" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -754,7 +754,6 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" timestamp="1534453252041" />
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="53" column="30" />
@@ -1193,10 +1192,10 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/request.xml" timestamp="1534459079139">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/request.xml" timestamp="1534527135274">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/.eslintrc" timestamp="1525980011025">
         <mark key="[" line="10" column="21" />
@@ -1560,7 +1559,6 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/app.js" timestamp="1534438658815" />
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/common/index.js" timestamp="1530250352719">
         <mark key="[" line="5" column="26" />
         <mark key="]" line="6" column="26" />
@@ -1734,7 +1732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="70" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="128" column="77" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="129" column="77" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
       <jump line="130" column="90" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
@@ -1834,6 +1831,7 @@
       <jump line="20" column="48" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="27" column="45" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="21" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="27" column="46" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2363,46 +2361,112 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ns1:merchantReferenceCode</text>
+        <text>rue</text>
       </register>
       <register name="-" type="4">
-        <text>ns1:merchantReferenceCode</text>
+        <text>rue</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTptZXJjaGFudElEJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyN0ZXh0JzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnd2VsbHNGYXJnby5tZXJjaGFudElkJykKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICduczE6ZXhwaXJhdGlvbk1vbnRoJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6ICcxMicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTppdGVtJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyN0ZXh0JzoK</text>
+      <register name="1" type="4">
+        <text>'
+                        },
+                        'ns1:billTo': {
+                            'ns1:firstName': {
+                                '#text': 'John'
+                            },
+                            'ns1:lastName': {
+                                '#text': 'Doe'
+                            },
+                            'ns1:street1': {
+                                '#text': '1295 Charleston Road'
+                            },
+                            'ns1:city': {
+                                '#text': 'Mountain Veiw'
+                            },
+                            'ns1:state': {
+                                '#text': 'CA'
+                            },
+                            'ns1:postalCode': {
+                                '#text': '94043'
+                            },
+                            'ns1:country': {
+                                '#text': 'US'
+                            },
+                            'ns1:email': {
+                                '#text': 'null@cybersource.com'
+                            },
+                            'ns1:ipAddress': {
+                                '#text': '10.7.111.111'
+                            }
+                        },
+                        'ns1:item': {
+                            '@id': '0',
+                            //'ns1:unitPrice':{
+                            //'#text': '12.34'
+                            // },
+                            // 'ns1:quantity':{
+                            // '#text': '2'
+                            // }
+                            'ns1:unitPrice': {
+                                '#text': '56.78'
+                            },
+                        },
+                        'ns1:purchaseTotals': {
+                            'ns1:currency': 'USD'
+                        },
+                        'ns1:card': {
+                            'ns1:accountNumber': {
+                                '#text': '4111111111111111'
+                            },
+                            'ns1:expirationMonth': {
+                                '#text': '12'
+                            },
+                            'ns1:expirationYear': {
+                                '#text': '2020'
+                            },
+                        },
+                        'ns1:AuthService': {
+                            '@run': 'rue'
+                        }
+                    }
+                }
+            }
+        }).end({ pretty: true });
+        return xml;
+    }
+};</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnd2VsbHNGYXJnby5tZXJjaGFudElkJykKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICduczE6YWNjb3VudE51bWJlcic6IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnd2VsbHNGYXJnby5tZXJjaGFudElkJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbnMxOmFjY291bnROdW1iZXInOiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTppdGVtJzogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyN0ZXh0JzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTppdGVtJzogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnd2VsbHNGYXJnby5tZXJjaGFudElkJykKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmNvbmZpZy5nZXRQcm9wZXJ0eSgnd2VsbHNGYXJnby5tZXJjaGFudElkJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5jb25maWcuZ2V0UHJvcGVydHkoJ3dlbGxzRmFyZ28ubWVyY2hhbnRJZCcpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTppdGVtJzogewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ25zMTpiaWxsVG8nOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2413,7 +2477,7 @@
       <last-offset />
       <last-pattern>==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
