@@ -280,11 +280,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534551093548">
-        <mark key="'" line="148" column="20" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534552244726">
+        <mark key="'" line="144" column="19" />
+        <mark key="[" line="144" column="4" />
+        <mark key="]" line="144" column="19" />
+        <mark key="." line="144" column="19" />
+        <mark key="^" line="144" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -808,12 +809,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534551248315">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534552228433">
         <mark key="'" line="22" column="41" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="58" />
-        <mark key="." line="22" column="58" />
-        <mark key="^" line="22" column="58" />
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="46" />
+        <mark key="." line="20" column="46" />
+        <mark key="^" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1741,8 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="24" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="265" column="24" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="357" column="16" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="393" column="32" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="408" column="32" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
@@ -1841,6 +1840,8 @@
       <jump line="43" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="1" column="3" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="22" column="41" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="126" column="5" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="144" column="19" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2370,13 +2371,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>xtures.</text>
+        <text>send</text>
       </register>
       <register name="-" type="4">
-        <text>xtures.</text>
+        <text>send</text>
       </register>
       <register name="/" type="4">
-        <text>console.l</text>
+        <text>create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICcjdGV4dCc6ICdEYXJ3aW4gdHN1c3RhcmVcJ3MtQ29tcHV0ZXIgMTcuNy4wIERhcndpbiBLZXJuZWwgVmVyc2lvbiAxNy43LjA6IFRodSBKdW4gMjEgMjI6NTM6MTQgUERUIDIwMTg7IHJvb3Q6eG51LTQ1NzAuNzEuMn4xL1JFTEVBU0VfWDg2XzY0IHg4Nl82NCcK</text>
@@ -2416,15 +2417,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console.l</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>console.l</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>console</entry>
         <entry>'active</entry>
         <entry>exam</entry>
@@ -2444,6 +2444,7 @@
         <entry>fixtures</entry>
         <entry>method</entry>
         <entry>console.l</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
