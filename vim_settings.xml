@@ -280,9 +280,9 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534803082514">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534807559153">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="179" column="0" />
+        <mark key="[" line="181" column="20" />
         <mark key="]" line="181" column="45" />
         <mark key="." line="181" column="45" />
         <mark key="^" line="181" column="45" />
@@ -809,12 +809,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534803188098">
-        <mark key="'" line="0" column="3" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="69" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="50" column="68" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534807532589">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="47" column="68" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1742,7 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="89" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="777" column="26" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="881" column="38" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
       <jump line="80" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
@@ -1842,6 +1841,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="136" column="12" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="10" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2371,7 +2371,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2VbJ3NvYXA6RW52ZWxvcGUnXSkudG8ubm90LmJlLm51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -2383,34 +2383,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2VbJ3NvYXA6RW52ZWxvcGUnXSkudG8ubm90LmJlLm51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGJlZm9yZSgoKSA9PiB7CiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
