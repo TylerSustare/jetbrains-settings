@@ -280,12 +280,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534807559153">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534809274057">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="181" column="20" />
-        <mark key="]" line="181" column="45" />
-        <mark key="." line="181" column="45" />
-        <mark key="^" line="181" column="45" />
+        <mark key="[" line="97" column="42" />
+        <mark key="]" line="97" column="41" />
+        <mark key="." line="97" column="41" />
+        <mark key="^" line="97" column="41" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -645,12 +645,12 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1534799008098">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1534809310531">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="175" column="21" />
-        <mark key="]" line="176" column="22" />
-        <mark key="^" line="176" column="22" />
-        <mark key="." line="176" column="22" />
+        <mark key="[" line="186" column="30" />
+        <mark key="]" line="187" column="28" />
+        <mark key="^" line="187" column="28" />
+        <mark key="." line="187" column="28" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
@@ -2370,11 +2370,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4111111111111111</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>4111111111111111</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -2383,37 +2383,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2VbJ3NvYXA6RW52ZWxvcGUnXSkudG8ubm90LmJlLm51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX3BhcnNlWE1MKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSgoKSA9PiB7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICcjdGV4dCc6ICcyJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAnbnMxOnF1YW50aXR5Jzp7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vJ25zMTp1bml0UHJpY2UnOnsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vJyN0ZXh0JzogJzEyLjM0Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSgoKSA9PiB7CiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2454,19 +2454,19 @@
         <entry>cs</entry>
         <entry>274</entry>
         <entry>vsp</entry>
-        <entry>wq</entry>
         <entry>50</entry>
         <entry>v</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
-        <entry>vs</entry>
         <entry>bp</entry>
         <entry>bn</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
         <entry>bp|bd #</entry>
         <entry>sp</entry>
+        <entry>vs</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
