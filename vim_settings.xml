@@ -645,12 +645,12 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1534809310531">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1534826300262">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="186" column="30" />
-        <mark key="]" line="187" column="28" />
-        <mark key="^" line="187" column="28" />
-        <mark key="." line="187" column="28" />
+        <mark key="[" line="183" column="4" />
+        <mark key="]" line="183" column="9" />
+        <mark key="^" line="183" column="9" />
+        <mark key="." line="183" column="9" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
@@ -2371,10 +2371,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>4111111111111111</text>
+        <text>price</text>
       </register>
       <register name="-" type="4">
-        <text>4111111111111111</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -2413,7 +2413,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2465,8 +2465,8 @@
         <entry>bp|bd #</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
