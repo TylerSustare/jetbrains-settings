@@ -280,12 +280,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534827821649">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="101" column="41" />
-        <mark key="]" line="101" column="71" />
-        <mark key="^" line="101" column="71" />
-        <mark key="." line="101" column="71" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534829476927">
+        <mark key="'" line="160" column="8" />
+        <mark key="[" line="160" column="33" />
+        <mark key="]" line="135" column="30" />
+        <mark key="^" line="135" column="30" />
+        <mark key="." line="135" column="30" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -809,12 +809,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534827631642">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534829078814">
         <mark key="'" line="36" column="18" />
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="45" column="18" />
-        <mark key="^" line="45" column="18" />
-        <mark key="." line="45" column="18" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="30" column="36" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1742,10 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="30" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="645" column="33" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="795" column="18" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_courses.js" />
-      <jump line="1537" column="1" filename="$USER_HOME$/src/services/service-site-gateway/node/dev/index.js" />
       <jump line="1541" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/dev/index.js" />
       <jump line="1542" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/dev/index.js" />
       <jump line="0" column="17" filename="$USER_HOME$/src/services/service-site-gateway/node/dev/index.js" />
@@ -1801,7 +1797,6 @@
       <jump line="42" column="22" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="57" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="7" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
-      <jump line="19" column="15" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="120" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="117" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="124" column="22" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1820,7 +1815,6 @@
       <jump line="29" column="40" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="1" column="33" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="70" column="66" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
-      <jump line="160" column="15" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="14" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="165" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="19" column="22" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
@@ -1842,6 +1836,12 @@
       <jump line="39" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="65" column="45" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="21" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="134" column="29" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="174" column="57" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="19" column="27" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="116" column="8" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="135" column="30" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="160" column="8" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2370,63 +2370,61 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcgICAgICAgIDxuczE6aXBBZGRyZXNzPjEwLjcuMTExLjExMTwvbnMxOmlwQWRkcmVzcz5cbicgKwo=</text>
+      <register name="&quot;" type="4">
+        <text>XML response</text>
       </register>
       <register name="-" type="4">
-        <text>'2020'</text>
+        <text>XML response</text>
       </register>
       <register name="/" type="4">
-        <text>ipadd</text>
+        <text>returns</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGF5bWVudERhdGEgPSBjcmVkaXRDYXJkRGF0YTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICcgICAgICAgIDxuczE6aXBBZGRyZXNzPjEwLjcuMTExLjExMTwvbnMxOmlwQWRkcmVzcz5cbicgKwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY3JlZGl0Q2FyZERhdGEgPSBjcmVkaXRDYXJkRGF0YTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY3JlZGl0Q2FyZERhdGEgPSBjcmVkaXRDYXJkRGF0YTsK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY3JlZGl0Q2FyZERhdGEgPSBjcmVkaXRDYXJkRGF0YTsK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm5zIHsqfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY3JlZGl0Q2FyZERhdGEgPSBjcmVkaXRDYXJkRGF0YTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHBheW1lbnREYXRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlwQWRkcmVzczogJzEwLjcuMTExLjExMScsCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnI3RleHQnOiAnMTAuNy4xMTEuMTExJwo=</text>
+        <text encoding="base64">ICAgICAqIGJ1aWxkcyB4bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbnMxOmlwQWRkcmVzcyc6IHsK</text>
+        <text encoding="base64">ICAgICAgICAvKiBvbmx5IGxvZyB3aGF0IHdlIGhhdmUgdG8gKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiBvbmx5IGxvZyB3aGF0IHdlIGhhdmUgdG8gKi8KICAgICAgICB0aGlzLmxvZ2dlciA9IGxvZ2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ipadd</last-search>
+      <last-search>returns</last-search>
       <last-offset />
-      <last-pattern>ipadd</last-pattern>
+      <last-pattern>returns</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exam</entry>
-        <entry>it</entry>
         <entry>item</entry>
         <entry>exam_id</entry>
         <entry>i</entry>
@@ -2445,6 +2443,8 @@
         <entry>create</entry>
         <entry>paymentData</entry>
         <entry>ipadd</entry>
+        <entry>POST</entry>
+        <entry>returns</entry>
       </history-search>
       <history-cmd>
         <entry>63</entry>
