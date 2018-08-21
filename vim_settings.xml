@@ -278,12 +278,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534877641886">
-        <mark key="'" line="169" column="16" />
-        <mark key="[" line="184" column="34" />
-        <mark key="]" line="184" column="78" />
-        <mark key="." line="184" column="78" />
-        <mark key="^" line="184" column="78" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1534877873363">
+        <mark key="'" line="171" column="16" />
+        <mark key="[" line="154" column="65" />
+        <mark key="]" line="155" column="55" />
+        <mark key="." line="155" column="55" />
+        <mark key="^" line="155" column="55" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -2379,10 +2379,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>faultString</text>
+        <text>withCredentials</text>
       </register>
       <register name="-" type="4">
-        <text>faultString</text>
+        <text>withCredentials</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
