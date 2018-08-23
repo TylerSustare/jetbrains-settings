@@ -2445,7 +2445,7 @@
         <text encoding="base64">ICAgICJ3ZWxsc0ZhcmdvIjogewogICAgICAgICJ1c2VybmFtZSI6ICJldmFsY2J0IiwKICAgICAgICAibWVyY2hhbnRJZCI6ICJldmFsY2J0IiwKICAgICAgICAiYXBpS2V5IjogIiRrZXlzLndlbGxzRmFyZ28ucWEuc2VjcmV0IiwKICAgICAgICAiZW5kcG9pbnQiOiAiJGtleXMud2VsbHNGYXJnby5xYS5ob3N0IgogICAgfQogICAg</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>256</text>
       </register>
     </registers>
     <search>
@@ -2479,7 +2479,6 @@
         <entry>authnet</entry>
       </history-search>
       <history-cmd>
-        <entry>119</entry>
         <entry>75</entry>
         <entry>cs</entry>
         <entry>274</entry>
@@ -2499,6 +2498,7 @@
         <entry>split</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>256</entry>
       </history-cmd>
       <history-expr />
       <history-input />
