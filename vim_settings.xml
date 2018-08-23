@@ -278,12 +278,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535041199340">
-        <mark key="'" line="26" column="98" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="27" column="27" />
-        <mark key="." line="7" column="83" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535046437878">
+        <mark key="'" line="106" column="36" />
+        <mark key="[" line="200" column="25" />
+        <mark key="]" line="200" column="80" />
+        <mark key="." line="200" column="80" />
+        <mark key="^" line="200" column="80" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -490,8 +490,8 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1534533179784">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1535047099290">
+        <mark key="'" line="75" column="4" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -816,12 +816,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1534983119205">
-        <mark key="'" line="16" column="59" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="18" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535047616063">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="68" column="36" />
+        <mark key="." line="68" column="36" />
+        <mark key="^" line="68" column="36" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1389,6 +1389,7 @@
         <mark key="^" line="24" column="67" />
         <mark key="." line="24" column="67" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile-paypal-return.js" timestamp="1535047583939" />
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="5" />
@@ -1760,11 +1761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="40" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="44" column="68" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="25" column="10" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="64" column="40" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="65" column="29" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="63" column="28" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="54" column="69" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
@@ -1860,6 +1856,11 @@
       <jump line="224" column="98" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="30" column="98" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="16" column="59" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="40" column="65" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="106" column="36" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="8" column="45" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="75" column="4" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2388,62 +2389,61 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>paypal</text>
       </register>
       <register name="-" type="4">
-        <text>secret</text>
+        <text>paypal</text>
       </register>
       <register name="/" type="4">
-        <text>this.learner</text>
+        <text>sinon</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGF5U3Vic2NyaXB0aW9uQ3JlYXRlU2VydmljZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2UucHJvZmlsZUlkKS50by5iZS5hKCdzdHJpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVxdWVzdCA9IG5ldyBXZWxsc0ZhcmdvUmVxdWVzdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Jzw/eG1sIHZlcnNpb249IjEuMCI/PlxuJyArCiAgICAnPFNPQVAtRU5WOkVudmVsb3BlIHhtbG5zOlNPQVAtRU5WPSJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy9zb2FwL2VudmVsb3BlLyIgeG1sbnM6bnMxPSJ1cm46c2NoZW1hcy1jeWJlcnNvdXJjZS1jb206dHJhbnNhY3Rpb24tZGF0YS0xLjE0OCI+XG4nICsKICAgICcgIDxTT0FQLUVOVjpIZWFkZXIgeG1sbnM6d3NzZT0iaHR0cDovL2RvY3Mub2FzaXMtb3Blbi5vcmcvd3NzLzIwMDQvMDEvb2FzaXMtMjAwNDAxLXdzcy13c3NlY3VyaXR5LXNlY2V4dC0xLjAueHNkIj5cbicgKwogICAgJyAgICA8d3NzZTpTZWN1cml0eSBTT0FQLUVOVjptdXN0VW5kZXJzdGFuZD0iMSI+XG4nICsKICAgICcgICAgICA8d3NzZTpVc2VybmFtZVRva2VuPlxuJyArCiAgICAnICAgICAgICA8d3NzZTpVc2VybmFtZT5ldmFsY2J0PC93c3NlOlVzZXJuYW1lPlxuJyArCiAgICAnICAgICAgICA8d3NzZTpQYXNzd29yZCBUeXBlPSJodHRwOi8vZG9jcy5vYXNpcy1vcGVuLm9yZy93c3MvMjAwNC8wMS9vYXNpcy0yMDA0MDEtd3NzLXVzZXJuYW1lLXRva2VuLXByb2ZpbGUtMS4wI1Bhc3N3b3JkVGV4dCI+eEdDR1VMY1FVeEhiSUFrTWhtMkFmQlU3MFFaanpGVWNzWlhjSk9neXdnR2JockthTUlRdnlJOHBZVW5xeEdDcXJ1QlNuMmtySlIrWU52aEdnajBFRXNycjdGQ25rM1kvSXVGa1dNNFpZdWlXQkhmUEU0WnlXZDRWK3FOTFNZcm1uVnF3V256dHhoRUZ2YzZheFA5aGMxL3UxQWdxNEtUN2lIa040K1E4ZW5tS2VTeTZ1cEhkUWRBVUpJNi8vRk93THFoOVBpenpOcHBhQTNFL084RjlKVHdITEtkZkg4VmlIUnNFdk4vZENFV05WbHBQTTlkR0RQWnc4RUFpUy9VZExlK09yWm1NaU9MOVRwK0hNbEhjb3FSL3N1YjExblhsazBZOXFTeGFEdG1PMUZLQjd3aG1Oa3NyaFprbUpSS0JGQnI2SC94aE9HNUdnanZyVWo5TDNRPT08L3dzc2U6UGFzc3dvcmQ+XG4nICsKICAgICcgICAgICA8L3dzc2U6VXNlcm5hbWVUb2tlbj5cbicgKwogICAgJyAgICA8L3dzc2U6U2VjdXJpdHk+XG4nICsKICAgICcgIDwvU09BUC1FTlY6SGVhZGVyPlxuJyArCiAgICAnICA8U09BUC1FTlY6Qm9keT5cbicgKwogICAgJyAgICA8bnMxOnJlcXVlc3RNZXNzYWdlPlxuJyArCiAgICAnICAgICAgPG5zMTptZXJjaGFudElEPmV2YWxjYnQ8L25zMTptZXJjaGFudElEPlxuJyArCiAgICAnICAgICAgPG5zMTptZXJjaGFudFJlZmVyZW5jZUNvZGU+ZXZhbGNidDwvbnMxOm1lcmNoYW50UmVmZXJlbmNlQ29kZT5cbicgKwogICAgJyAgICAgIDxuczE6Y2xpZW50TGlicmFyeT5QSFA8L25zMTpjbGllbnRMaWJyYXJ5PlxuJyArCiAgICAnICAgICAgPG5zMTpjbGllbnRMaWJyYXJ5VmVyc2lvbj43LjEuMTY8L25zMTpjbGllbnRMaWJyYXJ5VmVyc2lvbj5cbicgKwogICAgJyAgICAgIDxuczE6YmlsbFRvPlxuJyArCiAgICAnICAgICAgICA8bnMxOmZpcnN0TmFtZT5Kb2huPC9uczE6Zmlyc3ROYW1lPlxuJyArCiAgICAnICAgICAgICA8bnMxOmxhc3ROYW1lPkRvZTwvbnMxOmxhc3ROYW1lPlxuJyArCiAgICAnICAgICAgICA8bnMxOnN0cmVldDE+MTI5NSBDaGFybGVzdG9uIFJvYWQ8L25zMTpzdHJlZXQxPlxuJyArCiAgICAnICAgICAgICA8bnMxOmNpdHk+TW91bnRhaW4gVmlldzwvbnMxOmNpdHk+XG4nICsKICAgICcgICAgICAgIDxuczE6c3RhdGU+Q0E8L25zMTpzdGF0ZT5cbicgKwogICAgJyAgICAgICAgPG5zMTpwb3N0YWxDb2RlPjk0MDQzPC9uczE6cG9zdGFsQ29kZT5cbicgKwogICAgJyAgICAgICAgPG5zMTpjb3VudHJ5PlVTPC9uczE6Y291bnRyeT5cbicgKwogICAgJyAgICAgICAgPG5zMTplbWFpbD5udWxsQGN5YmVyc291cmNlLmNvbTwvbnMxOmVtYWlsPlxuJyArCiAgICAnICAgICAgPC9uczE6YmlsbFRvPlxuJyArCiAgICAnICAgICAgPG5zMTppdGVtIGlkPSIwIj5cbicgKwogICAgJyAgICAgICAgPG5zMTp1bml0UHJpY2U+NTYuNzg8L25zMTp1bml0UHJpY2U+XG4nICsKICAgICcgICAgICA8L25zMTppdGVtPlxuJyArCiAgICAnICAgICAgPG5zMTpwdXJjaGFzZVRvdGFscz5cbicgKwogICAgJyAgICAgICAgPG5zMTpjdXJyZW5jeT5VU0Q8L25zMTpjdXJyZW5jeT5cbicgKwogICAgJyAgICAgIDwvbnMxOnB1cmNoYXNlVG90YWxzPlxuJyArCiAgICAnICAgICAgPG5zMTpjYXJkPlxuJyArCiAgICAnICAgICAgICA8bnMxOmFjY291bnROdW1iZXI+NDExMTExMTExMTExMTExMTwvbnMxOmFjY291bnROdW1iZXI+XG4nICsKICAgICcgICAgICAgIDxuczE6ZXhwaXJhdGlvbk1vbnRoPjEyPC9uczE6ZXhwaXJhdGlvbk1vbnRoPlxuJyArCiAgICAnICAgICAgICA8bnMxOmV4cGlyYXRpb25ZZWFyPjIwMjA8L25zMTpleHBpcmF0aW9uWWVhcj5cbicgKwogICAgJyAgICAgIDwvbnMxOmNhcmQ+XG4nICsKICAgICcgICAgICA8bnMxOmNjQXV0aFNlcnZpY2UgcnVuPSJ0cnVlIi8+XG4nICsKICAgICcgICAgPC9uczE6cmVxdWVzdE1lc3NhZ2U+XG4nICsKICAgICcgIDwvU09BUC1FTlY6Qm9keT5cbicgKwogICAgJzwvU09BUC1FTlY6RW52ZWxvcGU+Jzs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIGNvbnN0IHJlcXVlc3QgPSBuZXcgV2VsbHNGYXJnb1JlcXVlc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiYXBpS2V5IjogIiRrZXlzLndlbGxzRmFyZ28ucWEuc2VjcmV0IiwKICAgICAgICAiZW5kcG9pbnQiOiAiJGtleXMud2VsbHNGYXJnby5xYS5ob3N0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhvc3QiOiAiaHR0cHM6Ly9pY3Myd3N0ZXN0LmljMy5jb206NDQzL2NvbW1lcmNlLzEueC90cmFuc2FjdGlvblByb2Nlc3NvciIsCiAgICAgICAgICAgICJzZWNyZXQiOiAieEdDR1VMY1FVeEhiSUFrTWhtMkFmQlU3MFFaanpGVWNzWlhjSk9neXdnR2JockthTUlRdnlJOHBZVW5xeEdDcXJ1QlNuMmtySlIrWU52aEdnajBFRXNycjdGQ25rM1kvSXVGa1dNNFpZdWlXQkhmUEU0WnlXZDRWK3FOTFNZcm1uVnF3V256dHhoRUZ2YzZheFA5aGMxL3UxQWdxNEtUN2lIa040K1E4ZW5tS2VTeTZ1cEhkUWRBVUpJNi8vRk93THFoOVBpenpOcHBhQTNFL084RjlKVHdITEtkZkg4VmlIUnNFdk4vZENFV05WbHBQTTlkR0RQWnc4RUFpUy9VZExlK09yWm1NaU9MOVRwK0hNbEhjb3FSL3N1YjExblhsazBZOXFTeGFEdG1PMUZLQjd3aG1Oa3NyaFprbUpSS0JGQnI2SC94aE9HNUdnanZyVWo5TDNRPT0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhyZWFzb25Db2RlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHhtbCkudG8uZXFsKHhtbFJlcXVlc3RTdHJpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2UpLnRvLmVxbCh7IGRlY2lzaW9uOiAnQUNDRVBUJyB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcHJvZmlsZUlkID0gXy5nZXQocmVzcG9uc2VPYmplY3QsICdzb2FwOkVudmVsb3BlW3NvYXA6Qm9keV1bMF1bYzpyZXBseU1lc3NhZ2VdWzBdW2M6cGF5U3Vic2NyaXB0aW9uQ3JlYXRlUmVwbHldWzBdW2M6c3Vic2NyaXB0aW9uSURdWzBdJywgbnVsbCk7CiAgICAgICAgICAgIHJldHVybiByZXNvbHZlKHsgZGVjaXNpb24gfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIGJ1aWxkcyB4bWwgc3RyaW5nIGZvciBTT0FQIHJlcXVlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KF8uZ2V0KHBhcnNlZFJlc3VsdCwgJ3NvYXA6RW52ZWxvcGVbc29hcDpCb2R5XVswXVtjOnJlcGx5TWVzc2FnZV1bMF1bYzpyZWFzb25Db2RlXVswXScsIG51bGwpKS50by5lcWwoJzEwMCcpOwogICAgICAgICAgICBleHBlY3QoXy5nZXQocGFyc2VkUmVzdWx0LCAnJywgbnVsbCkpLnRvLmJlLmEoJ3N0cmluZycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.learner</last-search>
+      <last-search>sinon</last-search>
       <last-offset />
-      <last-pattern>this.learner</last-pattern>
+      <last-pattern>sinon</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>object</entry>
         <entry>\\n</entry>
         <entry>\'</entry>
         <entry>\+</entry>
@@ -2457,16 +2457,15 @@
         <entry>exams</entry>
         <entry>temp</entry>
         <entry>exam</entry>
-        <entry>only</entry>
         <entry>card</entry>
         <entry>cardName</entry>
         <entry>this.</entry>
         <entry>this.xml</entry>
         <entry>this.learner</entry>
+        <entry>only</entry>
+        <entry>sinon</entry>
       </history-search>
       <history-cmd>
-        <entry>63</entry>
-        <entry>114</entry>
         <entry>119</entry>
         <entry>75</entry>
         <entry>cs</entry>
@@ -2482,8 +2481,10 @@
         <entry>bp|bd #</entry>
         <entry>sp</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>e</entry>
+        <entry>split</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
