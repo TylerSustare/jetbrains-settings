@@ -656,12 +656,12 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1535144717291">
-        <mark key="'" line="215" column="4" />
-        <mark key="[" line="218" column="9" />
-        <mark key="]" line="218" column="10" />
-        <mark key="." line="218" column="10" />
-        <mark key="^" line="218" column="8" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1535145470317">
+        <mark key="'" line="95" column="22" />
+        <mark key="[" line="236" column="32" />
+        <mark key="]" line="236" column="32" />
+        <mark key="." line="236" column="32" />
+        <mark key="^" line="236" column="32" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
@@ -820,12 +820,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535144735653">
-        <mark key="'" line="67" column="48" />
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535145404838">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="107" column="14" />
+        <mark key="]" line="107" column="18" />
+        <mark key="." line="107" column="18" />
+        <mark key="^" line="107" column="18" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1780,10 +1780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="20" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="215" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="221" column="40" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="223" column="63" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="8" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="9" column="11" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="10" column="9" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1875,11 +1871,15 @@
       <jump line="24" column="43" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="107" column="54" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="1" column="72" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="18" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="58" column="63" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="83" column="464" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="215" column="4" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="67" column="48" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="17" column="10" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="94" column="48" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="95" column="22" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2408,8 +2408,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2418,58 +2418,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>createProfile</text>
+        <text>isLive</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLnJlcXVlc3RJZCkudG8uYmUuYSgnc3RyaW5nJyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW52YWxpZENyZWF0ZVByb2ZpbGVSZXNwb25zZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHhtbFJlc3BvbnNlU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRYbWwsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRYbWwsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIGNoYXJnZVhtbFJlcXVlc3RTdHJpbmcsCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGludmFsaWRDcmVhdGVQcm9maWxlUmVzcG9uc2UsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGludmFsaWRDcmVhdGVwcm9maWxlUmVzcG9uc2UsCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVByb2ZpbGVSZXNwb25zZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVByb2ZpbGVYbWxSZXF1ZXN0U3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlzTGl2ZSA9IHByb2Nlc3MuZW52LkxJVkVfV0VMTFNfRkFSR08gfHwgZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRYbWwsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdcblxuXG4nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHhtbFJlc3BvbnNlU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdcblxuXG4nKTsKICAgIGNvbnNvbGUubG9nKGlzTGl2ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVByb2ZpbGVSZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaXNMaXZlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>createProfile</last-search>
+      <last-search>isLive</last-search>
       <last-offset />
-      <last-pattern>createProfile</last-pattern>
+      <last-pattern>isLive</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cardName</entry>
         <entry>this.</entry>
         <entry>this.xml</entry>
         <entry>this.learner</entry>
@@ -2489,6 +2488,7 @@
         <entry>xmlRequest</entry>
         <entry>only</entry>
         <entry>createProfile</entry>
+        <entry>isLive</entry>
       </history-search>
       <history-cmd>
         <entry>75</entry>
