@@ -820,11 +820,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535149351527">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535153081485">
         <mark key="'" line="5" column="33" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="14" />
+        <mark key="." line="50" column="14" />
+        <mark key="^" line="50" column="18" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1439,11 +1440,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1535148232563">
-        <mark key="[" line="37" column="43" />
-        <mark key="]" line="37" column="48" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1535153051909">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
       </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryReducer.js" timestamp="1527187112630">
         <mark key="[" line="2" column="21" />
@@ -1658,7 +1659,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1534972473639">
+      <file name="/JavaScript Console" timestamp="1535152698235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -2407,8 +2408,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9uZShwKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2417,7 +2418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>xGCGULcQUxHbIAkMhm2AfBU70QZjzFUcsZXcJOgywgGbhrKaMIQvyI8pYUnqxGCqruBSn2krJR+YNvhGgj0EEsrr7FCnk3Y/IuFkWM4ZYuiWBHfPE4ZyWd4V+qNLSYrmnVqwWnztxhEFvc6axP9hc1/u1Agq4KT7iHkN4+Q8enmKeSy6upHdQdAUJI6//FOwLqh9PizzNppaA3E/O8F9JTwHLKdfH8ViHRsEvN/dCEWNVlpPM9dGDPZw8EAiS/UdLe+OrZmMiOL9Tp+HMlHcoqR/sub11nXlk0Y9qSxaDtmO1FKB7whmNksrhZkmJRKBFBr6H/xhOG5GgjvrUj9L3Q==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>describe</text>
@@ -2464,7 +2465,7 @@
       <last-offset />
       <last-pattern>describe</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
