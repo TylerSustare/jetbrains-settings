@@ -284,12 +284,11 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535130990379">
-        <mark key="'" line="25" column="29" />
-        <mark key="[" line="42" column="81" />
-        <mark key="]" line="42" column="102" />
-        <mark key="." line="42" column="102" />
-        <mark key="^" line="42" column="102" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535134250160">
+        <mark key="'" line="88" column="33" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="329" column="0" />
+        <mark key="." line="329" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -656,12 +655,12 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1535055133238">
-        <mark key="'" line="189" column="24" />
-        <mark key="[" line="220" column="12" />
-        <mark key="]" line="220" column="12" />
-        <mark key="." line="220" column="12" />
-        <mark key="^" line="219" column="16" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1535133351250">
+        <mark key="'" line="245" column="17" />
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="75" column="24" />
+        <mark key="." line="75" column="24" />
+        <mark key="^" line="75" column="24" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/fixtures/token_fixtures.js" timestamp="1525373353544">
         <mark key="'" line="251" column="27" />
@@ -820,12 +819,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535056207016">
-        <mark key="'" line="66" column="75" />
-        <mark key="[" line="69" column="39" />
-        <mark key="]" line="69" column="40" />
-        <mark key="^" line="69" column="70" />
-        <mark key="." line="69" column="39" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535134479051">
+        <mark key="'" line="18" column="16" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="119" column="48" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -909,8 +908,8 @@
         <mark key="." line="1" column="42" />
         <mark key="^" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/config/schema.json" timestamp="1535057609519">
-        <mark key="'" line="18" column="27" />
+      <file name="$USER_HOME$/src/services/service-payment/node/config/schema.json" timestamp="1535131815948">
+        <mark key="'" line="78" column="46" />
         <mark key="[" line="127" column="17" />
         <mark key="]" line="127" column="26" />
         <mark key="." line="127" column="26" />
@@ -1239,7 +1238,7 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/request.xml" timestamp="1534980833882">
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/request.xml" timestamp="1535132061055">
         <mark key="[" line="44" column="17" />
         <mark key="]" line="44" column="45" />
         <mark key="." line="36" column="0" />
@@ -1375,6 +1374,13 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
         <mark key="^" line="37" column="82" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/cli-sample-charge-profile.php" timestamp="1535131662408">
+        <mark key="'" line="59" column="36" />
+        <mark key="[" line="89" column="50" />
+        <mark key="]" line="89" column="50" />
+        <mark key="." line="89" column="50" />
+        <mark key="^" line="89" column="50" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/dev/backfill/backfill_questions.js" timestamp="1505412911956">
         <mark key="[" line="48" column="47" />
@@ -1773,18 +1779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="47" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="154" column="39" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="157" column="49" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="166" column="80" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="161" column="47" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="162" column="48" filename="$USER_HOME$/src/services/service-app-gateway/node/routes/api_collection.js" />
-      <jump line="100" column="22" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
-      <jump line="155" column="63" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
-      <jump line="35" column="41" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
-      <jump line="41" column="99" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
-      <jump line="42" column="86" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
-      <jump line="108" column="34" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
       <jump line="197" column="22" filename="$USER_HOME$/src/services/service-app-gateway/node/test/collection_test.js" />
       <jump line="16" column="10" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="174" column="48" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1796,7 +1790,6 @@
       <jump line="8" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="9" column="11" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="10" column="9" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="33" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="125" column="82" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="217" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1843,13 +1836,11 @@
       <jump line="203" column="5" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="204" column="13" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="206" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
-      <jump line="21" column="63" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="38" column="63" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="56" column="70" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="80" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="78" column="59" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="81" column="57" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="1" column="99" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="235" column="12" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="234" column="83" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="230" column="79" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1872,7 +1863,22 @@
       <jump line="297" column="113" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="301" column="146" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="305" column="119" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="25" column="29" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="19" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/cli-sample-charge-profile.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/cli-sample-charge-profile.php" />
+      <jump line="59" column="36" filename="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/cli-sample-charge-profile.php" />
+      <jump line="78" column="46" filename="$USER_HOME$/src/services/service-payment/node/config/schema.json" />
+      <jump line="108" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="76" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="25" column="50" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="80" column="33" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="0" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="245" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
+      <jump line="21" column="56" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="24" column="43" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="107" column="54" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="1" column="72" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="18" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2401,64 +2407,67 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>{}`,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>{}`,</text>
+        <text>profileId</text>
       </register>
       <register name="/" type="4">
-        <text>learnerEmail</text>
+        <text>only</text>
       </register>
       <register name="0" type="4">
-        <text>_buildCustomerProfileXml</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLmRlY2lzaW9uKS50by5lcWwoJ0FDQ0VQVCcpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2UucmVhc29uQ29kZSkudG8uZXFsKCcxMDAnKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLnByb2ZpbGVJZCkudG8uYmUuYSgnc3RyaW5nJyk7CiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxlYXJuZXJFbWFpbCA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFwaUtleSI6ICIka2V5cy53ZWxsc0ZhcmdvLnFhLnNlY3JldCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLmRlY2lzaW9uKS50by5lcWwoJ0FDQ0VQVCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhvc3QiOiAiIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFwaUtleSI6ICIka2V5cy53ZWxsc0ZhcmdvLnFhLnNlY3JldCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhvc3QiOiAiaHR0cHM6Ly9pY3Myd3N0ZXN0LmljMy5jb206NDQzL2NvbW1lcmNlLzEueC90cmFuc2FjdGlvblByb2Nlc3NvciIsCiAgICAgICAgICAgICJzZWNyZXQiOiAieEdDR1VMY1FVeEhiSUFrTWhtMkFmQlU3MFFaanpGVWNzWlhjSk9neXdnR2JockthTUlRdnlJOHBZVW5xeEdDcXJ1QlNuMmtySlIrWU52aEdnajBFRXNycjdGQ25rM1kvSXVGa1dNNFpZdWlXQkhmUEU0WnlXZDRWK3FOTFNZcm1uVnF3V256dHhoRUZ2YzZheFA5aGMxL3UxQWdxNEtUN2lIa040K1E4ZW5tS2VTeTZ1cEhkUWRBVUpJNi8vRk93THFoOVBpenpOcHBhQTNFL084RjlKVHdITEtkZkg4VmlIUnNFdk4vZENFV05WbHBQTTlkR0RQWnc4RUFpUy9VZExlK09yWm1NaU9MOVRwK0hNbEhjb3FSL3N1YjExblhsazBZOXFTeGFEdG1PMUZLQjd3aG1Oa3NyaFprbUpSS0JGQnI2SC94aE9HNUdnanZyVWo5TDNRPT0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJInNlY3JldCI6IiRrZXlzLmF1dGhuZXQucWEuc2VjcmV0IgoJCX0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiYXV0aG5ldCI6IHsKCQkJImhvc3QiOiIka2V5cy5hdXRobmV0LnFhLmhvc3QiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gcmVzcG9uc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiYXV0aG5ldCI6IHsKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbmFsbHkoKCkgPT4geyB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhvc3QiOiAiJGtleXMuYXV0aG5ldC5xYS5ob3N0IiwKICAgICAgICAgICAgInNlY3JldCI6ICIka2V5cy5hdXRobmV0LnFhLnNlY3JldCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvZmlsZUlkZW50aWZpZXIgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>learnerEmail</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern>learnerEmail</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>exams</entry>
-        <entry>temp</entry>
-        <entry>exam</entry>
         <entry>card</entry>
         <entry>cardName</entry>
         <entry>this.</entry>
@@ -2469,13 +2478,16 @@
         <entry>xml</entry>
         <entry>visa</entry>
         <entry>creditcard</entry>
-        <entry>only</entry>
         <entry>TED</entry>
         <entry>build</entry>
         <entry>wellsfargo.</entry>
         <entry>wellsFargo\.</entry>
-        <entry>authnet</entry>
         <entry>learnerEmail</entry>
+        <entry>id</entry>
+        <entry>authnet</entry>
+        <entry>item</entry>
+        <entry>xmlRequest</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>75</entry>
@@ -2492,11 +2504,11 @@
         <entry>bp|bd #</entry>
         <entry>sp</entry>
         <entry>wq</entry>
-        <entry>vs</entry>
         <entry>e</entry>
         <entry>split</entry>
         <entry>q</entry>
         <entry>256</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
