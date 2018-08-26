@@ -820,11 +820,11 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535259452900">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535260899299">
         <mark key="'" line="87" column="50" />
-        <mark key="[" line="158" column="40" />
-        <mark key="]" line="158" column="62" />
-        <mark key="." line="158" column="40" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
         <mark key="^" line="87" column="64" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
@@ -2409,7 +2409,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>5350602286596071803012</text>
+        <text>only</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2418,7 +2418,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5350602286596071803012</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
         <text>profileId</text>
