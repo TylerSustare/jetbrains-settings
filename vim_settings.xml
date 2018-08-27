@@ -40,6 +40,7 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/errors/payment_profile_error.js" timestamp="1535390921719" />
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1534874054381">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -821,11 +822,11 @@
         <mark key="^" line="8" column="55" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535260899299">
-        <mark key="'" line="87" column="50" />
+        <mark key="'" line="85" column="50" />
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="12" />
         <mark key="." line="31" column="12" />
-        <mark key="^" line="87" column="64" />
+        <mark key="^" line="85" column="64" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -2465,7 +2466,7 @@
       <last-offset />
       <last-pattern>profileId</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
