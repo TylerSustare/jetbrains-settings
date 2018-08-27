@@ -1441,11 +1441,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1535153051909">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="27" />
-        <mark key="^" line="37" column="27" />
-        <mark key="." line="37" column="27" />
+      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1535407415261">
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryReducer.js" timestamp="1527187112630">
         <mark key="[" line="2" column="21" />
@@ -2409,8 +2409,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaG9zdCI6ICJodHRwczovL2FjY291bnRzLmNidG51Z2dldHMuY29tIiwK</text>
+      <register name="&quot;" type="4">
+        <text>wellsFargo</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2419,7 +2419,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qa</text>
+        <text>wellsFargo</text>
       </register>
       <register name="/" type="4">
         <text>profileId</text>
