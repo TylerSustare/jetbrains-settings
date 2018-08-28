@@ -40,7 +40,6 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/node_modules/lib-express-app-core-nodejs/lib/core.js" timestamp="1535432347187" />
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1534874054381">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -79,7 +78,6 @@
         <mark key="." line="41" column="8" />
         <mark key="^" line="41" column="8" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/node_modules/mongoose/lib/error/validation.js" timestamp="1535434307290" />
       <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/models/user.js" timestamp="1513196668171">
         <mark key="[" line="505" column="42" />
         <mark key="]" line="506" column="15" />
@@ -535,11 +533,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1535434952289">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1535471767143">
         <mark key="[" line="99" column="23" />
-        <mark key="]" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-        <mark key="^" line="99" column="26" />
+        <mark key="]" line="99" column="28" />
+        <mark key="." line="99" column="28" />
+        <mark key="^" line="99" column="28" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/static/js/site.js" timestamp="1525122156343">
         <mark key="'" line="0" column="0" />
@@ -1664,10 +1662,10 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1535434965275">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="34" />
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1535471784753">
+        <mark key="[" line="43" column="19" />
+        <mark key="]" line="43" column="19" />
+        <mark key="." line="43" column="19" />
         <mark key="^" line="43" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
@@ -2434,7 +2432,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>paypal</text>
+        <text>'paypal', 'wfpg'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2443,7 +2441,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>paypal</text>
+        <text>'paypal', 'wfpg'</text>
       </register>
       <register name="/" type="4">
         <text>authnet</text>
@@ -2482,7 +2480,7 @@
         <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -2534,8 +2532,8 @@
         <entry>split</entry>
         <entry>q</entry>
         <entry>256</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
