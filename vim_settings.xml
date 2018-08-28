@@ -364,11 +364,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1535486038154">
-        <mark key="[" line="108" column="82" />
-        <mark key="]" line="108" column="93" />
-        <mark key="^" line="108" column="93" />
-        <mark key="." line="108" column="93" />
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1535489603680">
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="19" />
+        <mark key="^" line="54" column="72" />
+        <mark key="." line="62" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
@@ -954,11 +954,11 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/dbDataBuilder.js" timestamp="1535488087552">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="28" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="28" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/dbDataBuilder.js" timestamp="1535489147553">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/keys_test.js" timestamp="1530632899560">
         <mark key="[" line="35" column="0" />
@@ -1116,11 +1116,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1535479840510">
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="^" line="220" column="11" />
-        <mark key="." line="298" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1535489824318">
+        <mark key="[" line="165" column="23" />
+        <mark key="]" line="166" column="63" />
+        <mark key="^" line="166" column="63" />
+        <mark key="." line="166" column="63" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
@@ -1770,8 +1770,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>buildPaypalDBData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogJ3BheWVySWQxMTExMScK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1780,7 +1780,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buildPaypalDBData</text>
+        <text>paypal_payer_id</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
@@ -1789,34 +1789,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QocGF5bWVudFByb2ZpbGVbcHJvcGVydHldKS50by5oYXZlLnByb3BlcnR5KCdiaWxsaW5nX2lkJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJzaW9uOiAyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogJ3BheWVySWQxMTExMScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheXBhbF9iaWxsaW5nX2lkOiAnYmlsbGluZ0lkMTExMTExMScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJEYXRhID0gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICogT3RoZXIgaW5mb3JtYXRpb24gd291bGQgYmUgaGlkZGVuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAgICAgICAgICAgICAqIG9ubHkgdGhlIHByb2ZpbGVfaWQgd2lsbCBiZSBzZW5kay4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXllcl9pZDogYm9keS5wYXlwYWxfcGF5ZXJfaWQK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHBheXBhbDogewogICAgICAgICAgICBiaWxsaW5nX2lkOiBib2R5LnBheXBhbF9iaWxsaW5nX2lkLAogICAgICAgICAgICBwYXllcl9pZDogYm9keS5wYXlwYWxfcGF5ZXJfaWQKICAgICAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG93bmVyOiBib2R5Lm93bmVyX2lkLAogICAgICAgICAgICAgICAgICAgIGJpbGxpbmdfaWQ6IGJvZHkucGF5cGFsX2JpbGxpbmdfaWQsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBwYXlwYWw6IHsKICAgICAgICAgICAgYmlsbGluZ19pZDogYm9keS5wYXlwYWxfYmlsbGluZ19pZCwKICAgICAgICAgICAgcGF5ZXJfaWQ6IGJvZHkucGF5cGFsX3BheWVyX2lkCiAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3ZpZGVyOiBib2R5LnByb3ZpZGVyLAogICAgICAgICAgICAgICAgcGF5cGFsOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJzaW9uOiAyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
