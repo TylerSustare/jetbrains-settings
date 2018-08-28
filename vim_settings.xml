@@ -499,6 +499,11 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1535477138899">
+        <mark key="[" line="58" column="68" />
+        <mark key="]" line="58" column="68" />
+        <mark key="." line="58" column="68" />
+      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="5" />
@@ -533,11 +538,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1535475406236">
-        <mark key="'" line="18" column="62" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1535477124740">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
         <mark key="^" line="112" column="9" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/static/js/site.js" timestamp="1525122156343">
@@ -1669,12 +1674,12 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1535475567398">
-        <mark key="'" line="69" column="30" />
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="26" />
-        <mark key="^" line="42" column="26" />
-        <mark key="." line="42" column="26" />
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1535476846021">
+        <mark key="'" line="61" column="30" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
@@ -1811,7 +1816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="5" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="204" column="13" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="206" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
       <jump line="38" column="63" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
@@ -1911,6 +1915,7 @@
       <jump line="10" column="22" filename="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" />
       <jump line="14" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" />
       <jump line="18" column="62" filename="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" />
+      <jump line="16" column="9" filename="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2439,8 +2444,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cnlNb2RlbCwg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2449,7 +2454,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'somebody'</text>
+        <text encoding="base64">cnlNb2RlbCwg</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
@@ -2458,55 +2463,34 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5zYXZlV2l0aEhpc3RvcnkobmV3UmVjb3JkLCAnc29tZWJvZHknKTsgLy8gU2hvdWxkbid0IHRoaXMgYmUgYSB1c2VyX2lkPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGF5bWVudFByb2ZpbGVIaXN0b3J5OiBQYXltZW50UHJvZmlsZUhpc3RvcnlNb2RlbCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgSGlzdG9yeSA9IHJlcXVpcmUoJ2xpYi1tb25nb2RiLWhpc3RvcnktbG9nZ2VyLW5vZGVqcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChKU09OLnN0cmluZ2lmeShwcm9maWxlLmhpc3RvcnlbMF0uY2hhbmdlc1swXSkpLnRvLmVxdWFsKGB7ImZpZWxkIjoicGF5cGFsIiwib2xkIjpbeyJwYXllcl9pZCI6InBheWVySWQyMjIyMiIsImJpbGxpbmdfaWQiOiJiaWxsaW5nSWQyMjIyMiJ9XSwibmV3IjpbeyJwYXllcl9pZCI6InBheWVySWRORVciLCJiaWxsaW5nX2lkIjoiYmlsbGluZ0lkTkVXIn1dLCJfaWQiOiIke3RoaXNJZH0ifWApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gdGhpcy5zYXZlV2l0aEhpc3RvcnkobmV3UmVjb3JkLCAnc29tZWJvZHknKTsgLy8gU2hvdWxkbid0IHRoaXMgYmUgYSB1c2VyX2lkPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHRoaXNJZCA9IHByb2ZpbGUuaGlzdG9yeVswXS5jaGFuZ2VzWzBdLl9pZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEhpc3RvcnkuZW5hYmxlKFBheW1lbnRQcm9maWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwcm9maWxlLmhpc3RvcnkpLnRvLmJlLmVtcHR5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5OiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChwcm9maWxlLmhpc3RvcnkpLnRvLmJlLmVtcHR5Owo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-            change_at: {
-                type: Date,
-                default: Date.now
-            },
-            change_by: {
-                type: String,
-                required: true
-            },
-            changes: [{
-                field: {
-                    type: String,
-                    required: true
-                },
-                old: {
-                    type: mongoose.Schema.Types.Mixed
-                },
-                new: {
-                    type: mongoose.Schema.Types.Mixed
-                }
-            }]
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxldCBQYXltZW50UHJvZmlsZUhpc3RvcnlNb2RlbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgSGlzdG9yeSA9IHJlcXVpcmUoJ2xpYi1tb25nb2RiLWhpc3RvcnktbG9nZ2VyLW5vZGVqcycpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBQYXltZW50UHJvZmlsZUhpc3RvcnlNb2RlbDsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJsaWItbW9uZ29kYi1oaXN0b3J5LWxvZ2dlci1ub2RlanMiOiAiXjIuMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgICAoeyBQYXltZW50UHJvZmlsZUhpc3RvcnlNb2RlbCB9ID0gdGVzdC5nZXRDb250ZXh0KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">ICAgICAgICB3ZnBnOiBXZWxsc0ZhcmdvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2548,7 +2532,6 @@
         <entry>274</entry>
         <entry>vsp</entry>
         <entry>50</entry>
-        <entry>v</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
         <entry>bp</entry>
@@ -2561,6 +2544,7 @@
         <entry>split</entry>
         <entry>q</entry>
         <entry>256</entry>
+        <entry>v</entry>
         <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
