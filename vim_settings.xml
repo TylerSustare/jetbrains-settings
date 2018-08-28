@@ -40,6 +40,7 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/node_modules/lib-express-app-core-nodejs/lib/core.js" timestamp="1535432347187" />
       <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1534874054381">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -78,6 +79,7 @@
         <mark key="." line="41" column="8" />
         <mark key="^" line="41" column="8" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/node_modules/mongoose/lib/error/validation.js" timestamp="1535434307290" />
       <file name="$USER_HOME$/src/libs/lib-auth-models-mongodb-nodejs/models/user.js" timestamp="1513196668171">
         <mark key="[" line="505" column="42" />
         <mark key="]" line="506" column="15" />
@@ -242,10 +244,10 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-qa.json" timestamp="1535412345050">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update-courses-with-existing-exams.js" timestamp="1521824868652">
         <mark key="[" line="138" column="104" />
@@ -499,9 +501,6 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1535047099290">
-        <mark key="'" line="75" column="4" />
-      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="5" />
@@ -535,6 +534,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1535434952289">
+        <mark key="[" line="99" column="23" />
+        <mark key="]" line="99" column="26" />
+        <mark key="." line="99" column="26" />
+        <mark key="^" line="99" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/static/js/site.js" timestamp="1525122156343">
         <mark key="'" line="0" column="0" />
@@ -662,7 +667,7 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1535148299994">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" timestamp="1535432190154">
         <mark key="'" line="103" column="1513" />
         <mark key="[" line="54" column="131" />
         <mark key="]" line="54" column="135" />
@@ -732,6 +737,12 @@
         <mark key="]" line="10" column="26" />
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/package.json" timestamp="1535433265783">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/keys.json" timestamp="1526332954440">
         <mark key="[" line="12" column="0" />
@@ -1224,10 +1235,10 @@
         <mark key="^" line="8" column="46" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-prod.json" timestamp="1535412354859">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
-        <mark key="^" line="21" column="12" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/local.json" timestamp="1524257714017">
         <mark key="[" line="32" column="18" />
@@ -1353,6 +1364,9 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="9" />
+      </file>
+      <file name="/fragment.js" timestamp="1535434379945">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/qa.js" timestamp="1524002130811">
         <mark key="[" line="11" column="0" />
@@ -1650,11 +1664,11 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1535430891224">
-        <mark key="[" line="107" column="107" />
-        <mark key="]" line="78" column="49" />
-        <mark key="." line="78" column="49" />
-        <mark key="^" line="78" column="49" />
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1535434965275">
+        <mark key="[" line="43" column="36" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+        <mark key="^" line="43" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
@@ -1663,7 +1677,7 @@
         <mark key="." line="49" column="29" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="/JavaScript Console" timestamp="1535152698235">
+      <file name="/JavaScript Console" timestamp="1535434829573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -2419,8 +2433,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0eQo=</text>
+      <register name="&quot;" type="4">
+        <text>paypal</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2429,43 +2443,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>autheneturl</text>
+        <text>paypal</text>
       </register>
       <register name="/" type="4">
         <text>authnet</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiaG9zdCI6ICJodHRwczovL2FjY291bnRzLmNidG51Z2dldHMuY29tIiwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGl0KCdTaG91bGQgY3JlYXRlIGEgbmV3IHBheW1lbnQgcHJvZmlsZSB3aXRob3V0IGlkIHBhc3NlZCBpbi4nLCBkb25lID0+IHsKICAgICAgICBjb25zdCB0ZXN0UGF5bWVudFByb2ZpbGUgPSB7CiAgICAgICAgICAgIHZlcnNpb246IDEsCiAgICAgICAgICAgIG93bmVyOiAnbnJuOnVzZXI6MjIyMjInLAogICAgICAgICAgICBwcm92aWRlcjogJ3BheXBhbGwnLAogICAgICAgICAgICBjcmVhdGVkX2F0OiBJU09EYXRlKCcyMDE1LTA1LTEzVDE5OjE5OjA5LjE4NVonKSwKICAgICAgICAgICAgdXBkYXRlZF9hdDogSVNPRGF0ZSgnMjAxNS0wNS0xM1QxOToxOTowOS4xODVaJyksCiAgICAgICAgICAgIHVwZGF0ZWRfYnk6ICcxMjM0NScsCiAgICAgICAgICAgIHBheXBhbDogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGJpbGxpbmdfaWQ6ICdiaWxsaW5nSWQyMjIyMicsCiAgICAgICAgICAgICAgICAgICAgcGF5ZXJfaWQ6ICdwYXllcklkMjIyMjInCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0KICAgICAgICB9OwogICAgICAgIFBheW1lbnRQcm9maWxlTW9kZWwuY3JlYXRlUGF5bWVudFByb2ZpbGUodGVzdFBheW1lbnRQcm9maWxlKQogICAgICAgICAgICAudGhlbihwcm9maWxlID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChwcm9maWxlLnByb2ZpbGVfaWQpLnRvLmVxdWFsKHRlc3RQYXltZW50UHJvZmlsZS5wcm9maWxlX2lkKTsKICAgICAgICAgICAgICAgIGV4cGVjdChwcm9maWxlLmhpc3RvcnkpLnRvLmJlLmVtcHR5OwogICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICB9KQogICAgICAgICAgICAuY2F0Y2goZG9uZSk7CiAgICB9KTsKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiaG9zdCI6ICJodHRwczovL2FjY291bnRzLmNidG51Z2dldHMuY29tIiwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZW51bTogWydwYXlwYWwnLCAnd2ZwZyddLAogICAgICAgICAgICByZXF1aXJlZDogdHJ1ZQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiaG9zdCI6ICJodHRwczovL3FhLWFjY291bnRzLmNidG51Z2dldHMuY29tIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLnByb2ZpbGVJZCkudG8ubm90LmJlLmVtcHR5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLnByb2ZpbGVJZCkudG8uZXFsKCcnKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLmRlY2lzaW9uKS50by5lcWwoJ0FDQ0VQVCcpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2UucmVhc29uQ29kZSkudG8uZXFsKCcxMDAnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW51bTogWydwYXlwYWwnLCAnd2ZwZyddLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlKS50by5iZS5hbignb2JqZWN0Jyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5kZWNpc2lvbikudG8uZXFsKCdBQ0NFUFQnKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3BvbnNlLnJlYXNvbkNvZGUpLnRvLmVxbCgnMTAwJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChyZXNwb25zZS5wcm9maWxlSWQpLnRvLmVxbCgnNTM1MTQ0MzY5MDM4NjUyOTEwMzAwOScpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzcG9uc2UucHJvZmlsZUlkKS50by5ub3QuYmUuZW1wdHk7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8uZXFsKCdBQ0NFUFQnKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludmFsaWRDcmVhdGVQcm9maWxlUmVzcG9uc2UsCg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2565,6 +2579,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
