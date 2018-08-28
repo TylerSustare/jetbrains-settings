@@ -364,11 +364,11 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1535479607047">
-        <mark key="[" line="92" column="71" />
-        <mark key="]" line="92" column="78" />
-        <mark key="^" line="92" column="78" />
-        <mark key="." line="92" column="78" />
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1535483899312">
+        <mark key="[" line="108" column="82" />
+        <mark key="]" line="108" column="93" />
+        <mark key="^" line="108" column="93" />
+        <mark key="." line="108" column="93" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
@@ -883,6 +883,11 @@
         <mark key="]" line="48" column="47" />
         <mark key="^" line="48" column="47" />
         <mark key="." line="48" column="47" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile-paypal-return.js" timestamp="1535483961876">
+        <mark key="[" line="87" column="33" />
+        <mark key="]" line="87" column="34" />
+        <mark key="." line="87" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.eslintrc" timestamp="1505407369530">
         <mark key="[" line="8" column="5" />
@@ -1759,8 +1764,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfX3Y6IDAK</text>
+      <register name="&quot;" type="4">
+        <text>Bad Profile Type</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1769,7 +1774,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yd</text>
+        <text>Bad Profile Type</text>
       </register>
       <register name="/" type="4">
         <text>history</text>
@@ -1808,7 +1813,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgXy5mb3JFYWNoKHJlcy5ib2R5Lml0ZW1zLCAocGF5bWVudFByb2ZpbGUpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChwYXltZW50UHJvZmlsZSkudG8uaGF2ZS5wcm9wZXJ0eShwcm9wZXJ0eSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocHJvcGVydHkgPT09IG5yblVzZXIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QocGF5bWVudFByb2ZpbGUubnJuKS50by5iZShucm5Vc2VyKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAocHJvcGVydHkgPT09ICdwYXlwYWwnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHBheW1lbnRQcm9maWxlW3Byb3BlcnR5XSkudG8ubm90LmJlLmVtcHR5OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8uZm9yRWFjaChwYXltZW50UHJvZmlsZVtwcm9wZXJ0eV0sIChwYXlwYWxQcm9maWxlKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChwYXlwYWxQcm9maWxlKS50by5oYXZlLnByb3BlcnR5KCdiaWxsaW5nX2lkJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChwYXlwYWxQcm9maWxlKS50by5oYXZlLnByb3BlcnR5KCdwYXllcl9pZCcpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHBheW1lbnRQcm9maWxlKS5ub3QudG8uaGF2ZS5wcm9wZXJ0eSgiX192Iik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QocGF5bWVudFByb2ZpbGUpLm5vdC50by5oYXZlLnByb3BlcnR5KCJfaWQiKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1854,7 +1859,6 @@
         <entry>vsplit</entry>
         <entry>bp|bd #</entry>
         <entry>sp</entry>
-        <entry>wq</entry>
         <entry>e</entry>
         <entry>split</entry>
         <entry>q</entry>
@@ -1862,6 +1866,7 @@
         <entry>v</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
