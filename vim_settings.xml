@@ -10,6 +10,12 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/wf-keys.json" timestamp="1535581458677">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/eslint-config-cbtnuggets/rules/node-es6.js" timestamp="1511290384929">
         <mark key="[" line="38" column="31" />
         <mark key="]" line="38" column="32" />
@@ -290,9 +296,9 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535572890059">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535581903823">
         <mark key="'" line="185" column="41" />
-        <mark key="[" line="210" column="67" />
+        <mark key="[" line="61" column="0" />
         <mark key="]" line="210" column="71" />
         <mark key="^" line="210" column="71" />
         <mark key="." line="210" column="71" />
@@ -325,6 +331,11 @@
         <mark key="]" line="95" column="6" />
         <mark key="^" line="95" column="10" />
         <mark key="." line="95" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/.gitignore" timestamp="1535581661046">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/default.json" timestamp="1535412334178">
         <mark key="[" line="29" column="9" />
@@ -866,12 +877,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535500227298">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535582315205">
         <mark key="'" line="85" column="50" />
-        <mark key="[" line="115" column="36" />
-        <mark key="]" line="115" column="53" />
-        <mark key="." line="115" column="53" />
-        <mark key="^" line="115" column="53" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="45" />
+        <mark key="." line="182" column="45" />
+        <mark key="^" line="182" column="45" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1507,11 +1518,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1535407415261">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="33" column="12" />
-        <mark key="." line="33" column="12" />
+      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1535581464901">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="366" />
+        <mark key="^" line="37" column="366" />
+        <mark key="." line="37" column="366" />
       </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryReducer.js" timestamp="1527187112630">
         <mark key="[" line="2" column="21" />
@@ -2511,8 +2522,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>somebody</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2521,7 +2532,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>somebody</text>
+        <text>xGCGULcQUxHbIAkMhm2AfBU70QZjzFUcsZXcJOgywgGbhrKaMIQvyI8pYUnqxGCqruBSn2krJR+YNvhGgj0EEsrr7FCnk3Y/IuFkWM4ZYuiWBHfPE4ZyWd4V+qNLSYrmnVqwWnztxhEFvc6axP9hc1/u1Agq4KT7iHkN4+Q8enmKeSy6upHdQdAUJI6//FOwLqh9PizzNppaA3E/O8F9JTwHLKdfH8ViHRsEvN/dCEWNVlpPM9dGDPZw8EAiS/UdLe+OrZmMiOL9Tp+HMlHcoqR/sub11nXlk0Y9qSxaDtmO1FKB7whmNksrhZkmJRKBFBr6H/xhOG5GgjvrUj9L3Q==</text>
       </register>
       <register name="/" type="4">
         <text>post_profile</text>
@@ -2530,34 +2541,34 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobmV3IFBheW1lbnRQcm9maWxlRXJyb3IoJ0lOVkFMSURfUFJPVklERVJfTkFNRScpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShib2R5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShib2R5LCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVzcG9uc2UsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVzcG9uc2UsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW1haWwgICAgICAgICAgICAgICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgRW1haWwKY3JlZGl0X2NhcmRfbnVtYmVyICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgQ3JlZGl0IGNhcmQgbnVtYmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKionKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cG9zdGFsX2NvZGUgICAgICAgICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgUG9zdGFsIGNvZGUgZm9yIENDCnBob25lX251bWJlciAgICAgICAgICAgIHwgU3RyaW5nIHwgYm9keSB8IHRydWUgICAgICB8IFBob25lIG51bWJlciBmb3IgQ0MK</text>
+        <text encoding="base64">ZW1haWwgICAgICAgICAgICAgICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgRW1haWwKY3JlZGl0X2NhcmRfbnVtYmVyICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgQ3JlZGl0IGNhcmQgbnVtYmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdGUgICAgICAgICAgICAgICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgU3RhdGUgZm9yIGNyZWRpdCBjYXJkCmNvdW50cnlfY29kZSAgICAgICAgICAgIHwgU3RyaW5nIHwgYm9keSB8IHRydWUgICAgICB8IFR3byBkaWdpdCBJU08gY291bnRyeSBjb2RlIGZvciBDQwo=</text>
+        <text encoding="base64">cG9zdGFsX2NvZGUgICAgICAgICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgUG9zdGFsIGNvZGUgZm9yIENDCnBob25lX251bWJlciAgICAgICAgICAgIHwgU3RyaW5nIHwgYm9keSB8IHRydWUgICAgICB8IFBob25lIG51bWJlciBmb3IgQ0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RyZWV0ICAgICAgICAgICAgICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgU3RyZWV0IGFkZHJlc3MgZm9yIGNyZWRpdCBjYXJkCmNpdHkgICAgICAgICAgICAgICAgICAgIHwgU3RyaW5nIHwgYm9keSB8IHRydWUgICAgICB8IENpdHkgZm9yIGNyZWRpdCBjYXJkCg==</text>
+        <text encoding="base64">c3RhdGUgICAgICAgICAgICAgICAgICAgfCBTdHJpbmcgfCBib2R5IHwgdHJ1ZSAgICAgIHwgU3RhdGUgZm9yIGNyZWRpdCBjYXJkCmNvdW50cnlfY29kZSAgICAgICAgICAgIHwgU3RyaW5nIHwgYm9keSB8IHRydWUgICAgICB8IFR3byBkaWdpdCBJU08gY291bnRyeSBjb2RlIGZvciBDQwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
