@@ -1597,12 +1597,12 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/dbDataBuilder.js" timestamp="1535498199020">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/dbDataBuilder.js" timestamp="1535753004187">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="5" />
-        <mark key="^" line="36" column="5" />
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="41" />
       </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryList.json" timestamp="1527187054724">
         <mark key="'" line="0" column="0" />
@@ -2532,7 +2532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>any</text>
+        <text>fider</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2541,13 +2541,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>fider</text>
       </register>
       <register name="/" type="4">
         <text>XXX</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh2YWxpZEdldFByb2ZpbGVSZXNwb25zZS5pbmNsdWRlcygnPGM6Y2FyZFR5cGU+MDAzPC9jOmNhcmRUeXBlPicpKS50by5iZS50cnVlOwo=</text>
+      <register name="0" type="4">
+        <text>customer_profile_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdCh4bWwuaW5jbHVkZXMoJzM3ODI4MlhYWFhYMDAwNScpKS50by5iZS5mYWxzZTsK</text>
