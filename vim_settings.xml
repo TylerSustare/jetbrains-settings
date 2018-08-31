@@ -306,12 +306,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535743701341">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535747286745">
         <mark key="'" line="442" column="32" />
-        <mark key="[" line="520" column="4" />
-        <mark key="]" line="520" column="31" />
-        <mark key="^" line="515" column="54" />
-        <mark key="." line="515" column="54" />
+        <mark key="[" line="106" column="25" />
+        <mark key="]" line="106" column="30" />
+        <mark key="^" line="106" column="30" />
+        <mark key="." line="106" column="30" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -2532,7 +2532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>any</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2541,7 +2541,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
         <text>XXX</text>
