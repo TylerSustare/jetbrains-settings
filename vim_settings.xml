@@ -886,11 +886,11 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535671633284">
-        <mark key="'" line="195" column="65" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1535673555260">
+        <mark key="'" line="142" column="64" />
+        <mark key="[" line="201" column="44" />
+        <mark key="]" line="201" column="44" />
+        <mark key="." line="201" column="44" />
         <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
@@ -1897,9 +1897,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="63" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="103" column="1513" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
-      <jump line="142" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="6" column="30" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="126" column="103" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="132" column="8" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
@@ -1997,6 +1995,8 @@
       <jump line="9" column="39" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="67" column="22" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="368" column="58" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="142" column="64" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2526,7 +2526,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CHARGE</text>
+        <text>not.be.null;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2535,10 +2535,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CHARGE</text>
+        <text>not.be.null;</text>
       </register>
       <register name="/" type="4">
-        <text>GET</text>
+        <text>string</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -2578,15 +2578,14 @@
       </register>
     </registers>
     <search>
-      <last-search>GET</last-search>
+      <last-search>string</last-search>
       <last-offset />
-      <last-pattern>GET</last-pattern>
+      <last-pattern>string</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>wellsFargo</entry>
         <entry>wfpg</entry>
         <entry>paymentSystems.wfpg</entry>
         <entry>paymentService.w</entry>
@@ -2606,6 +2605,7 @@
         <entry>50</entry>
         <entry>buildCust</entry>
         <entry>GET</entry>
+        <entry>string</entry>
       </history-search>
       <history-cmd>
         <entry>cs</entry>
