@@ -306,7 +306,7 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535747286745">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1535757452541">
         <mark key="'" line="442" column="32" />
         <mark key="[" line="106" column="25" />
         <mark key="]" line="106" column="30" />
@@ -451,6 +451,7 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/node-soap-test.js" timestamp="1535757500175" />
       <file name="$USER_HOME$/src/services/service-quiz/node/routes/api.js" timestamp="1513966290977">
         <mark key="'" line="1012" column="26" />
         <mark key="[" line="954" column="103" />
@@ -559,13 +560,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1535575090924">
-        <mark key="'" line="62" column="15" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="71" column="62" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
@@ -1875,13 +1869,6 @@
         <mark key="]" line="23" column="20" />
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1535755890140">
-        <mark key="'" line="204" column="65" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="^" line="229" column="11" />
-        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
