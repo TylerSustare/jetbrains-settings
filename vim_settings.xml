@@ -783,10 +783,11 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/package.json" timestamp="1536166962277">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/package.json" timestamp="1536188461628">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="54" column="25" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/keys.json" timestamp="1526332954440">
         <mark key="[" line="12" column="0" />
@@ -887,12 +888,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1536186779190">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1536188337623">
         <mark key="'" line="34" column="13" />
-        <mark key="[" line="281" column="48" />
-        <mark key="]" line="281" column="49" />
-        <mark key="." line="281" column="49" />
-        <mark key="^" line="280" column="32" />
+        <mark key="[" line="244" column="16" />
+        <mark key="]" line="244" column="20" />
+        <mark key="." line="244" column="20" />
+        <mark key="^" line="244" column="20" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -2517,7 +2518,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>+${randomValue}</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2526,7 +2527,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+${randomValue}</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>sandbox</text>
