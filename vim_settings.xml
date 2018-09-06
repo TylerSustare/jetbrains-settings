@@ -262,11 +262,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-qa.json" timestamp="1535651408092">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="25" column="51" />
-        <mark key="." line="25" column="25" />
+      <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-qa.json" timestamp="1536262262497">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="55" />
+        <mark key="^" line="25" column="55" />
+        <mark key="." line="25" column="55" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/dev/update-courses-with-existing-exams.js" timestamp="1521824868652">
         <mark key="[" line="138" column="104" />
@@ -317,6 +317,12 @@
         <mark key="]" line="35" column="1" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/Home.js" timestamp="1536267632480">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/.eslintignore" timestamp="1518729972160">
         <mark key="[" line="1" column="0" />
@@ -916,6 +922,12 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="64" />
       </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" timestamp="1536268136951">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+        <mark key="^" line="56" column="36" />
+      </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530807054472">
         <mark key="'" line="445" column="29" />
         <mark key="[" line="237" column="0" />
@@ -1298,9 +1310,6 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/request.xml" timestamp="1536103465028">
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/node/.eslintrc" timestamp="1525980011025">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -1541,6 +1550,12 @@
         <mark key="]" line="36" column="32" />
         <mark key="." line="36" column="32" />
         <mark key="^" line="36" column="32" />
+      </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.css" timestamp="1536268166561">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/routes/api_payment.js" timestamp="1512603999211">
         <mark key="'" line="20" column="17" />
@@ -2509,7 +2524,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>in_progress</text>
+        <text>between</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2518,7 +2533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>in_progress</text>
+        <text>between</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">R0VUIA==</text>
@@ -2533,30 +2548,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-
-                    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInBheW1lbnRQcm9maWxlUmVxdWlyZWRGaWVsZHMiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAicHJvdmlkZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm93bmVyX2lkIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJwYXlwYWxfYmlsbGluZ19pZCIKICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgInBheW1lbnRQcm9maWxlT3B0aW9uYWxGaWVsZHMiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAicHJvZmlsZV9pZCIKICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgInBheW1lbnRQcm9maWxlRmxvd1R5cGUiOiAicmVkaXJlY3QiLAogICAgICAgICAgICAgICAgICAgICAgICAicGF5bWVudFByb2ZpbGVSZWRpcmVjdFVSTCI6ICJodHRwczovL3d3dy5zYW5kYm94LnBheXBhbC5jb20iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwvdWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVsPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAicGF5cGFsIjogWwogICAgICAgICAgICAicHJvZmlsZV9pZCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJwYXltZW50UHJvZmlsZVJlZGlyZWN0VVJMIjogImh0dHBzOi8vd3d3LnNhbmRib3gucGF5cGFsLmNvbSIK</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2567,7 +2580,7 @@
       <last-offset />
       <last-pattern encoding="base64">R0VUIA==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
