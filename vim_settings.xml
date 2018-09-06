@@ -35,11 +35,6 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/index" timestamp="1531934426332">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-member/node/test/base.js" timestamp="1525991176745">
         <mark key="[" line="70" column="26" />
         <mark key="]" line="70" column="26" />
@@ -144,11 +139,6 @@
         <mark key="^" line="194" column="16" />
         <mark key="." line="194" column="16" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/src/actions/types.js" timestamp="1528930090594">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/.eslintrc" timestamp="1527748059404">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="38" />
@@ -205,6 +195,12 @@
         <mark key="^" line="6" column="84" />
         <mark key="." line="6" column="84" />
       </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/index.js" timestamp="1536270843138">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/lib/tokens.js" timestamp="1531869054665">
         <mark key="'" line="46" column="7" />
         <mark key="[" line="0" column="0" />
@@ -256,11 +252,6 @@
         <mark key="]" line="585" column="125" />
         <mark key="^" line="558" column="85" />
         <mark key="." line="585" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/deploy.sh" timestamp="1531896468332">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-qa.json" timestamp="1536262262497">
         <mark key="[" line="25" column="52" />
@@ -336,21 +327,11 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="22" column="59" />
       </file>
-      <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/metadata.yaml" timestamp="1526517860490">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedules.js" timestamp="1525892011821">
         <mark key="[" line="95" column="6" />
         <mark key="]" line="95" column="6" />
         <mark key="^" line="95" column="10" />
         <mark key="." line="95" column="6" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/.gitignore" timestamp="1535581661046">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton" timestamp="1515448277773">
         <mark key="[" line="20" column="26" />
@@ -395,21 +376,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/api/schedule_disable.js" timestamp="1526322477126">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-      </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/src/screens/SignIn.js" timestamp="1529045335039">
         <mark key="[" line="8" column="95" />
         <mark key="]" line="8" column="18" />
         <mark key="." line="8" column="18" />
         <mark key="^" line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/lib/tokens/token.js" timestamp="1526052949393">
-        <mark key="[" line="169" column="63" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/errors/index.js" timestamp="1511291773443">
         <mark key="[" line="5" column="0" />
@@ -483,11 +454,6 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/temp.txt" timestamp="1534870089294">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
       <file name="$USER_HOME$/src/libs/lib-notification-service-client-nodejs/.nvmrc" timestamp="1524161793766">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -526,11 +492,6 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1536168171640">
-        <mark key="[" line="58" column="68" />
-        <mark key="]" line="58" column="68" />
-        <mark key="." line="58" column="68" />
-      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="5" />
@@ -543,11 +504,6 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/src/services/service-app-gateway/node/config/keys.json" timestamp="1531945882984">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
-      </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/.nvmrc" timestamp="1515197118447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -559,11 +515,6 @@
         <mark key="]" line="58" column="66" />
         <mark key="^" line="58" column="64" />
         <mark key="." line="58" column="66" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_exams.js" timestamp="1531974570349">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1535559740014">
         <mark key="'" line="16" column="9" />
@@ -579,11 +530,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests-app/__tests__/App.test.js" timestamp="1527747755333">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-leaderboard/node/lib/rebuild.js" timestamp="1507320674244">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="25" />
@@ -596,11 +542,6 @@
         <mark key="]" line="131" column="10" />
         <mark key="." line="131" column="10" />
         <mark key="^" line="132" column="15" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/charge.js" timestamp="1535479985483">
-        <mark key="[" line="46" column="71" />
-        <mark key="]" line="46" column="71" />
-        <mark key="." line="46" column="71" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524785191921">
         <mark key="'" line="183" column="11" />
@@ -640,16 +581,6 @@
         <mark key="]" line="128" column="76" />
         <mark key="^" line="128" column="71" />
         <mark key="." line="128" column="76" />
-      </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/constants.js" timestamp="1530252524344">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1534874054381">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/app.js" timestamp="1511298932825">
         <mark key="'" line="182" column="24" />
@@ -784,11 +715,6 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="54" column="25" />
       </file>
-      <file name="$USER_HOME$/src/services/service-auth/node/config/keys.json" timestamp="1526332954440">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/prod.json" timestamp="1517266506222">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -922,11 +848,11 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" timestamp="1536268136951">
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="56" column="36" />
-        <mark key="." line="56" column="36" />
-        <mark key="^" line="56" column="36" />
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" timestamp="1536272001280">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="18" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530807054472">
         <mark key="'" line="445" column="29" />
@@ -954,11 +880,6 @@
         <mark key="]" line="26" column="69" />
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
-      </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/src/reducers/AuthReducer.js" timestamp="1528930130695">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-activeTokens-dynamo-stream-update-redis/test/fixtures/remove.js" timestamp="1515091189948">
         <mark key="'" line="61" column="0" />
@@ -1005,22 +926,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/provider.js" timestamp="1536105569321">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
         <mark key="[" line="797" column="49" />
         <mark key="]" line="797" column="49" />
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/package.json" timestamp="1533066587580">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1526547277109">
         <mark key="'" line="40" column="8" />
@@ -1063,11 +974,6 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/keys.json" timestamp="1534455246539">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-      </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/lib/response.js" timestamp="1507927845047">
         <mark key="[" line="49" column="50" />
         <mark key="]" line="49" column="58" />
@@ -1087,11 +993,6 @@
         <mark key="]" line="712" column="12" />
         <mark key="^" line="12" column="85" />
         <mark key="." line="712" column="12" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todo_factory.js" timestamp="1526540635124">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/components/actions/index.js" timestamp="1527227546544">
         <mark key="[" line="2" column="30" />
@@ -1136,11 +1037,6 @@
         <mark key="]" line="562" column="54" />
         <mark key="^" line="562" column="54" />
         <mark key="." line="562" column="54" />
-      </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/App.js" timestamp="1528929262970">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/mocks/token_mock.js" timestamp="1524588499043">
         <mark key="[" line="26" column="2" />
@@ -1316,11 +1212,6 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile_paypal_return.js" timestamp="1535497998291">
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="65" column="24" />
-        <mark key="." line="65" column="29" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/app_test.js" timestamp="1525466221412">
         <mark key="[" line="20" column="31" />
         <mark key="]" line="20" column="31" />
@@ -1481,11 +1372,6 @@
         <mark key="^" line="24" column="67" />
         <mark key="." line="24" column="67" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile-paypal-return.js" timestamp="1535483961876">
-        <mark key="[" line="87" column="33" />
-        <mark key="]" line="87" column="34" />
-        <mark key="." line="87" column="34" />
-      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/lib/paginator.js" timestamp="1536261270741">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="66" />
@@ -1514,11 +1400,6 @@
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/projects/tech-stack/.eslintrc" timestamp="1527186874430">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1536250171879">
         <mark key="[" line="37" column="23" />
@@ -1589,6 +1470,9 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/Nav.js" timestamp="1536271761886">
+        <mark key="'" line="35" column="1" />
+      </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" timestamp="1527750854464">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="4" column="31" />
@@ -1609,11 +1493,6 @@
         <mark key="]" line="46" column="1" />
         <mark key="." line="46" column="1" />
         <mark key="^" line="46" column="1" />
-      </file>
-      <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/keys_test.js" timestamp="1530632899560">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/app.json" timestamp="1531628069321">
         <mark key="[" line="10" column="26" />
@@ -1638,11 +1517,6 @@
         <mark key="]" line="22" column="24" />
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
-      </file>
-      <file name="$USER_HOME$/src/tasks/task-data-delete-user/node/config/keys.json" timestamp="1531865382170">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_notification.js" timestamp="1524160384505">
         <mark key="'" line="1" column="6" />
@@ -1774,17 +1648,18 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/src/projects/requests-app/requests/src/reducers/index.js" timestamp="1527754144176">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
         <mark key="'" line="353" column="0" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="57" column="27" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/__test__/.eslintrc" timestamp="1536270894030">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/test.json" timestamp="1525365308713">
         <mark key="'" line="28" column="33" />
@@ -1810,11 +1685,6 @@
         <mark key="]" line="9" column="27" />
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/components/common/BannerAd.js" timestamp="1530418581552">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/routes/api.js" timestamp="1525990882302">
         <mark key="'" line="48" column="33" />
@@ -1895,16 +1765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="387" column="60" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="441" column="42" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="1" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/constants.json" />
-      <jump line="9" column="39" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="368" column="58" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="142" column="64" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="443" column="136" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="438" column="36" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="12" column="4" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="205" column="23" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="177" column="23" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
@@ -1995,6 +1855,16 @@
       <jump line="179" column="0" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="263" column="4" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="264" column="4" filename="$USER_HOME$/src/services/service-payment/README.md" />
+      <jump line="65" column="4" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="20" column="34" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="69" column="8" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
+      <jump line="36" column="1" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/Nav.js" />
+      <jump line="58" column="13" filename="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2523,8 +2393,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>between</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8TmF2Lz4K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2533,7 +2403,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>between</text>
+        <text>Home</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">R0VUIA==</text>
@@ -2542,34 +2412,34 @@
         <text encoding="base64">LS0tCjxhIG5hbWU9ImdldF90cmFuc2FjdGlvbnNfZm9yX3Byb2ZpbGUiPjwvYT4KW0JhY2sgdG8gTWVudV0oI3JvdXRlc19tZW51KQojIyMgR0VUIC90cmFuc2FjdGlvbnMvZm9yL3Byb2ZpbGUvOnByb2ZpbGVfaWQKIVtJbiBQcm9ncmVzc10oc3RhdGljcy9pbl9wcm9ncmVzcy5wbmcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8TmF2Lz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC91bD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVsPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvdWw+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVsPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">PExpbmsgdG89Ii9hYm91dCI+QWJvdXQ8L0xpbms+CjxMaW5rIHRvPSIvdG9waWNzIj5Ub3BpY3M8L0xpbms+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PFJvdXRlcj4KPExpbmsgdG89Ii8iPkhvbWU8L0xpbms+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii90b3BpY3MiIGNvbXBvbmVudD17VG9waWNzfSAvPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii90b3BpY3MiIGNvbXBvbmVudD17VG9waWNzfSAvPgogICAgKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIGV4YWN0IHBhdGg9Ii8iIGNvbXBvbmVudD17SG9tZX0gLz4KICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hYm91dCIgY29tcG9uZW50PXtBYm91dH0gLz4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">ICAgICAgICA8Um91dGVyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
