@@ -523,6 +523,12 @@
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="5" />
       </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/About.js" timestamp="1536273517519">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/static/js/site.js" timestamp="1525122156343">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="31" column="4" />
@@ -848,11 +854,11 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" timestamp="1536272001280">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="18" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/App.js" timestamp="1536273723908">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530807054472">
         <mark key="'" line="445" column="29" />
@@ -1470,8 +1476,8 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/Nav.js" timestamp="1536271761886">
-        <mark key="'" line="35" column="1" />
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/Nav.js" timestamp="1536273660546">
+        <mark key="'" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" timestamp="1527750854464">
         <mark key="'" line="4" column="17" />
@@ -1756,6 +1762,11 @@
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/Topics.js" timestamp="1536273591275">
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="21" />
+        <mark key="." line="30" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/provider.js" timestamp="1536261456061">
         <mark key="[" line="28" column="113" />
@@ -2393,8 +2404,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2Lz4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCB7IENvbXBvbmVudCB9IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2403,16 +2414,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Home</text>
+        <text encoding="base64">LCB7IENvbXBvbmVudCB9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">R0VUIA==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LS0tCjxhIG5hbWU9ImdldF90cmFuc2FjdGlvbnNfZm9yX3Byb2ZpbGUiPjwvYT4KW0JhY2sgdG8gTWVudV0oI3JvdXRlc19tZW51KQojIyMgR0VUIC90cmFuc2FjdGlvbnMvZm9yL3Byb2ZpbGUvOnByb2ZpbGVfaWQKIVtJbiBQcm9ncmVzc10oc3RhdGljcy9pbl9wcm9ncmVzcy5wbmcpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnLi9jb21wb25lbnRzL0hvbWUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2421,25 +2432,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PExpbmsgdG89Ii9hYm91dCI+QWJvdXQ8L0xpbms+CjxMaW5rIHRvPSIvdG9waWNzIj5Ub3BpY3M8L0xpbms+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PFJvdXRlcj4KPExpbmsgdG89Ii8iPkhvbWU8L0xpbms+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii90b3BpY3MiIGNvbXBvbmVudD17VG9waWNzfSAvPgo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii90b3BpY3MiIGNvbXBvbmVudD17VG9waWNzfSAvPgogICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICA8aDI+QWJvdXQ8L2gyPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIGV4YWN0IHBhdGg9Ii8iIGNvbXBvbmVudD17SG9tZX0gLz4KICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hYm91dCIgY29tcG9uZW50PXtBYm91dH0gLz4K</text>
+        <text encoding="base64">Y29uc3QgQWJvdXQgPSAoKSA9PiAoCiAgICA8ZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGVyPgo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
