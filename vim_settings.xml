@@ -492,6 +492,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1536695327405">
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="48" />
+        <mark key="^" line="51" column="48" />
+        <mark key="." line="51" column="48" />
+      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="5" />
@@ -1009,6 +1015,7 @@
         <mark key="^" line="12" column="85" />
         <mark key="." line="712" column="12" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/datastores/transactions.js" timestamp="1536694775317" />
       <file name="$USER_HOME$/src/projects/tech-stack/src/components/actions/index.js" timestamp="1527227546544">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="30" />
@@ -2435,8 +2442,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>records</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2445,7 +2452,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>records</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">R0VUIA==</text>
