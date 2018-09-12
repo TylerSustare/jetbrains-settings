@@ -327,10 +327,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" timestamp="1536791611540">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" timestamp="1536792753086">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
         <mark key="[" line="16" column="6" />
@@ -796,6 +797,7 @@
         <mark key="^" line="54" column="33" />
         <mark key="." line="53" column="30" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/training/state/actions/submitTraining.js" timestamp="1536792789731" />
       <file name="$USER_HOME$/src/libs/lib-notification-schedule-service-client-nodejs/package.json" timestamp="1519065830694">
         <mark key="'" line="17" column="20" />
         <mark key="[" line="26" column="38" />
@@ -1459,11 +1461,11 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536791896072">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="27" column="59" />
-        <mark key="." line="27" column="59" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536792809803">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="58" />
+        <mark key="." line="27" column="58" />
         <mark key="^" line="27" column="59" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
@@ -2473,8 +2475,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHtpZiB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2483,7 +2485,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">R0VUIA==</text>
