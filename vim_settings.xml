@@ -1467,12 +1467,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536861578130">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536868031296">
         <mark key="'" line="3" column="9" />
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="27" column="47" />
-        <mark key="." line="27" column="47" />
-        <mark key="^" line="27" column="47" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="30" column="13" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -2482,7 +2482,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2491,7 +2491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -2500,34 +2500,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcnM6ICd0aXRsZTplcTpcJ01pY3Jvc29mdCBBenVyZTogQXJjaGl0ZWN0aW5nIFNvbHV0aW9ucyAoNzAtNTM1KVwnJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7IGUuX2lkLCBlLnByYWN0aWNlX2V4YW1zCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZS5wcmFjdGljZV9leGFtc30KICAgICAgICAgICAgICAgIDwvZGl2Pik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoPGRpdj4KICAgICAgICAgICAgICAgICAgICB7ZS5faWR9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7IGUuX2lkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xnbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB7IGUuX2lkLCBlLnByYWN0aWNlX2V4YW1zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZS5wcmFjdGljZV9leGFtc30KICAgICAgICAgICAgICAgIDwvZGl2Pik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
