@@ -1467,12 +1467,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536869500357">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536871160582">
         <mark key="'" line="31" column="39" />
-        <mark key="[" line="32" column="63" />
-        <mark key="]" line="32" column="69" />
-        <mark key="." line="32" column="69" />
-        <mark key="^" line="32" column="69" />
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="41" />
+        <mark key="." line="50" column="41" />
+        <mark key="^" line="50" column="39" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -2482,7 +2482,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_id</text>
+        <text>]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2491,7 +2491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_id</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>_id</text>
