@@ -145,11 +145,11 @@
         <mark key="^" line="194" column="16" />
         <mark key="." line="194" column="16" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" timestamp="1536795017301">
-        <mark key="[" line="25" column="93" />
-        <mark key="]" line="25" column="103" />
-        <mark key="." line="25" column="103" />
-        <mark key="^" line="25" column="103" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" timestamp="1536860748217">
+        <mark key="[" line="25" column="113" />
+        <mark key="]" line="25" column="118" />
+        <mark key="." line="25" column="118" />
+        <mark key="^" line="25" column="118" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/.eslintrc" timestamp="1527748059404">
         <mark key="[" line="1" column="40" />
@@ -1467,12 +1467,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536858529779">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536861476225">
         <mark key="'" line="3" column="9" />
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="36" column="44" />
-        <mark key="." line="36" column="44" />
-        <mark key="^" line="36" column="44" />
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="44" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -2481,8 +2481,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>title:eq:\'Microsoft Azure: Architecting Solutions (70-535)\'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2xnbwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2491,7 +2491,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>title:eq:\'Microsoft Azure: Architecting Solutions (70-535)\'</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
@@ -2500,34 +2500,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcnM6ICd0aXRsZTplcTpcJ01pY3Jvc29mdCBBenVyZTogQXJjaGl0ZWN0aW5nIFNvbHV0aW9ucyAoNzAtNTM1KVwnJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xnbwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGlzcGF0Y2goeyB0eXBlOiBGRVRDSF9TT01FVEhJTkdfU1VDQ0VTUyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghaWQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaFdpdGhBdXRoKHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaXNwYXRjaCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGlzcGF0Y2goeyB0eXBlOiBGRVRDSF9TT01FVEhJTkdfU1VDQ0VTUyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
