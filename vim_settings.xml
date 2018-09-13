@@ -333,11 +333,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" timestamp="1536826555184">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" timestamp="1536858575108">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/test/api/delete_flags.js" timestamp="1507929279179">
         <mark key="[" line="16" column="6" />
@@ -1467,12 +1467,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536826632187">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1536858529779">
         <mark key="'" line="3" column="9" />
-        <mark key="[" line="52" column="84" />
-        <mark key="]" line="52" column="89" />
-        <mark key="." line="52" column="89" />
-        <mark key="^" line="52" column="89" />
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="44" />
+        <mark key="^" line="36" column="44" />
       </file>
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/SoundButton.js" timestamp="1515448608017">
         <mark key="[" line="6" column="76" />
@@ -2482,7 +2482,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>InputGroupButton</text>
+        <text>title:eq:\'Microsoft Azure: Architecting Solutions (70-535)\'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2491,13 +2491,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InputGroupButton</text>
+        <text>title:eq:\'Microsoft Azure: Architecting Solutions (70-535)\'</text>
       </register>
       <register name="/" type="4">
         <text>button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW5wdXRHcm91cEFkZG9uIGFkZG9uVHlwZT0icHJlcGVuZCI+Q29sbGVjdGlvbiBJZDwvSW5wdXRHcm91cEFkZG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcnM6ICd0aXRsZTplcTpcJ01pY3Jvc29mdCBBenVyZTogQXJjaGl0ZWN0aW5nIFNvbHV0aW9ucyAoNzAtNTM1KVwnJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
