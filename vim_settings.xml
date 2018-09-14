@@ -29,6 +29,7 @@
         <mark key="^" line="37" column="130" />
         <mark key="." line="37" column="132" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/providers.js" timestamp="1536962041355" />
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/qa.js" timestamp="1516987818332">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="11" />
@@ -441,6 +442,7 @@
         <mark key="." line="91" column="46" />
         <mark key="^" line="91" column="46" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/routes/catalog.js" timestamp="1536962242859" />
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/test/api/index.js" timestamp="1510337970577">
         <mark key="[" line="40" column="60" />
         <mark key="]" line="40" column="78" />
@@ -1448,6 +1450,7 @@
         <mark key="^" line="37" column="27" />
         <mark key="." line="37" column="27" />
       </file>
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/lib/catalog_operations.js" timestamp="1536962257838" />
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryReducer.js" timestamp="1527187112630">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="24" />
@@ -1706,7 +1709,7 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1522258656017">
+      <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1536962402682">
         <mark key="'" line="353" column="0" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -2525,7 +2528,7 @@
       <last-offset />
       <last-pattern>exam</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
