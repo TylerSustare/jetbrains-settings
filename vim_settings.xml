@@ -575,7 +575,7 @@
         <mark key="." line="251" column="0" />
         <mark key="^" line="252" column="35" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/.eslintrc" timestamp="1536166757945">
+      <file name="$USER_HOME$/src/services/service-payment/node/.eslintrc" timestamp="1537385141387">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
@@ -600,10 +600,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" timestamp="1537384325025">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" timestamp="1537385675568">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
@@ -970,6 +970,12 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/.eslintrc" timestamp="1537385147213">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests-app/App.js" timestamp="1527746106896">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="9" column="41" />
@@ -977,11 +983,12 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537384123647">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="12" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537385280221">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
@@ -995,11 +1002,6 @@
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="19" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537206908759">
-        <mark key="[" line="23" column="71" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Home.js" timestamp="1530251881895">
         <mark key="'" line="2" column="0" />
@@ -1853,7 +1855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="25" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="241" column="63" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="352" column="63" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="20" column="18" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1953,6 +1954,7 @@
       <jump line="14" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
       <jump line="16" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
       <jump line="13" column="8" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2482,7 +2484,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCByb3V0ZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2500,34 +2502,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdQQVlQQUwgUkVTUE9OU0UnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCByb3V0ZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCByb3V0ZXM7Cg==</text>
+        <text encoding="base64">Y29uc3QgZWdncwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZWdncyA9ICdlZ2cnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoeyByb3V0ZXMgfSA9IHRlc3QuZ2V0Q29udGV4dCgpKTsK</text>
+        <text encoding="base64">ICAgIGxldCByb3V0ZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBhcHA7Cg==</text>
+        <text encoding="base64">ICAgIGxldCByb3V0ZXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBheXBhbEF1dGggPSBwYXlwYWxBdXRoOwo=</text>
+        <text encoding="base64">ICAgICAgICAoeyByb3V0ZXMgfSA9IHRlc3QuZ2V0Q29udGV4dCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4nKTsK</text>
+        <text encoding="base64">ICAgIGxldCBhcHA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2572,7 +2574,6 @@
         <entry>bp|bd #</entry>
         <entry>sp</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>256</entry>
         <entry>v</entry>
         <entry encoding="base64">JzwsJz4hcGJjb3B5</entry>
@@ -2583,6 +2584,7 @@
         <entry>W</entry>
         <entry>split</entry>
         <entry>8</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
