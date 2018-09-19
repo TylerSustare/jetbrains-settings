@@ -561,12 +561,11 @@
         <mark key="." line="131" column="10" />
         <mark key="^" line="132" column="15" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/charge.js" timestamp="1536774329261">
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/charge.js" timestamp="1537387167777">
         <mark key="'" line="43" column="60" />
-        <mark key="[" line="65" column="81" />
-        <mark key="]" line="65" column="80" />
-        <mark key="." line="65" column="80" />
-        <mark key="^" line="65" column="80" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524785191921">
         <mark key="'" line="183" column="11" />
@@ -956,6 +955,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/provider.js" timestamp="1537387674892">
+        <mark key="[" line="91" column="105" />
+        <mark key="]" line="91" column="105" />
+        <mark key="." line="91" column="105" />
+        <mark key="^" line="91" column="105" />
+      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
         <mark key="[" line="797" column="49" />
@@ -1255,11 +1260,10 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile_paypal_return.js" timestamp="1536279027479">
-        <mark key="[" line="81" column="44" />
-        <mark key="]" line="81" column="65" />
-        <mark key="^" line="81" column="65" />
-        <mark key="." line="81" column="65" />
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile_paypal_return.js" timestamp="1537387144552">
+        <mark key="[" line="86" column="37" />
+        <mark key="]" line="86" column="37" />
+        <mark key="." line="86" column="37" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/app_test.js" timestamp="1525466221412">
         <mark key="[" line="20" column="31" />
@@ -1855,11 +1859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="63" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="352" column="63" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="20" column="18" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="203" column="46" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="274" column="46" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="202" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="267" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1955,6 +1954,11 @@
       <jump line="16" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
       <jump line="13" column="8" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
       <jump line="8" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="80" column="39" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
+      <jump line="73" column="2" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
+      <jump line="74" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
+      <jump line="75" column="28" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
+      <jump line="76" column="32" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2483,8 +2487,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dHJhbnNhY3Rpb25SZXNwb25zIA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2493,59 +2497,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dHJhbnNhY3Rpb25SZXNwb25zIA==</text>
       </register>
       <register name="/" type="4">
-        <text>routes</text>
+        <text>body</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdQQVlQQUwgUkVTUE9OU0UnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGNoYXJnZUFtb3VudCA9IGJvZHkuYW1vdW50OwogICAgLy8gY29uc3QgY2J0VHJhbnNhY3Rpb25JZCA9IGJvZHkudHJhbnNhY3Rpb25faWQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZWdncwo=</text>
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbl9pZDogY2J0VHJhbnNhY3Rpb25JZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZWdncyA9ICdlZ2cnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3IsIGxvZ0NhdGVnb3J5KTsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoZXJyb3Iuc3RhY2ssIGxvZ0NhdGVnb3J5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCByb3V0ZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLnNlbmQocmVzcG9uc2UuU2VydmVyRXJyb3IoZXJyb3IpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCByb3V0ZXM7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGVycm9yLCBsb2dDYXRlZ29yeSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcihlcnJvci5zdGFjaywgbG9nQ2F0ZWdvcnkpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoZXJyb3Iuc3RhdHVzIHx8IGVycm9yLmNvZGUgPT09IDUwMikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoNTAyKS5zZW5kKHJlc3BvbnNlLkJhZEdhdGV3YXkoZXJyb3IpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzLnN0YXR1cyg1MDApLnNlbmQocmVzcG9uc2UuU2VydmVyRXJyb3IoZXJyb3IpKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoeyByb3V0ZXMgfSA9IHRlc3QuZ2V0Q29udGV4dCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBhcHA7Cg==</text>
+        <text encoding="base64">Y29uc3QgZWdncwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgUSA9IHJlcXVpcmUoJ3EnKTsK</text>
+        <text encoding="base64">Y29uc3QgZWdncyA9ICdlZ2cnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>routes</last-search>
+      <last-search>body</last-search>
       <last-offset />
-      <last-pattern>routes</last-pattern>
+      <last-pattern>body</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>subscriptionId</entry>
-        <entry>sandbox</entry>
         <entry>password</entry>
         <entry>passwordtext</entry>
         <entry>invalid</entry>
@@ -2564,6 +2566,8 @@
         <entry>exam</entry>
         <entry>app</entry>
         <entry>routes</entry>
+        <entry>aa</entry>
+        <entry>body</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
