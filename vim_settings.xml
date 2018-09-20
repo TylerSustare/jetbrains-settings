@@ -177,9 +177,9 @@
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537459811762">
         <mark key="'" line="363" column="0" />
-        <mark key="[" line="360" column="0" />
-        <mark key="]" line="360" column="0" />
-        <mark key="." line="360" column="0" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" timestamp="1530649940773">
         <mark key="'" line="10" column="20" />
@@ -561,13 +561,6 @@
         <mark key="." line="131" column="10" />
         <mark key="^" line="132" column="15" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/charge.js" timestamp="1537459019198">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="10" />
-        <mark key="." line="74" column="10" />
-        <mark key="^" line="74" column="10" />
-      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524785191921">
         <mark key="'" line="183" column="11" />
         <mark key="[" line="251" column="0" />
@@ -746,10 +739,10 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/package.json" timestamp="1537392750872">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/package.json" timestamp="1537460528906">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="54" column="25" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/config/prod.json" timestamp="1517266506222">
@@ -2499,7 +2492,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuYm9keS50cmFuc2FjdGlvbl9pZCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuNDQiLAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2517,34 +2510,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuYm9keS50cmFuc2FjdGlvbl9pZCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuNDQiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuNDQtUEFZLTY1LXR5bGVyc3VzdGFyZSIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdC5vbmx5KCdzaG91bGQgcmV0dXJuIGEgNTAwIGlmIHNvbWV0aGluZyBnb2VzIGhvcnJpYmx5IHdyb25nJywgZG9uZSA9PiB7Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXJsID0gcm91dGVzLkFQSV9HRVRfUFJFUEFSRV9DSEFSR0U7CgogICAgICAgICAgICBzaW5vblNhbmRib3guc3R1Yih1dWlkdjQuY29uc3RydWN0b3IpLmNhbGxzRmFrZSgoKSA9PiBRLnJlamVjdCh7fSkpOwogICAgICAgICAgICB0ZXN0LmNyZWF0ZVZhbGlkQ2xpZW50VG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogdXNlcklkIH0pOwogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAuZ2V0KHVybCkKICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgICAgIC5leHBlY3QoNTAwKQogICAgICAgICAgICAgICAgLnRoZW4oZG9uZSkKICAgICAgICAgICAgICAgIC5jYXRjaChlID0+IHsKICAgICAgICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoZSkudG8ubm90LmJlLm51bGw7CiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">cmVzID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKHJlcyk7CiAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkudHJhbnNhY3Rpb25faWQpLnRvLmJlLmEudXVpZCgndjQnKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuYm9keS50cmFuc2FjdGlvbl9pZCwgbnVsbCwgMikpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpdC5vbmx5KCdzaG91bGQgcmV0dXJuIGEgNTAwIGlmIHNvbWV0aGluZyBnb2VzIGhvcnJpYmx5IHdyb25nJywgZG9uZSA9PiB7Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXJsID0gcm91dGVzLkFQSV9HRVRfUFJFUEFSRV9DSEFSR0U7CgogICAgICAgICAgICBzaW5vblNhbmRib3guc3R1Yih1dWlkdjQuY29uc3RydWN0b3IpLmNhbGxzRmFrZSgoKSA9PiBRLnJlamVjdCh7fSkpOwogICAgICAgICAgICB0ZXN0LmNyZWF0ZVZhbGlkQ2xpZW50VG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogdXNlcklkIH0pOwogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAuZ2V0KHVybCkKICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgICAgIC5leHBlY3QoNTAwKQogICAgICAgICAgICAgICAgLnRoZW4oZG9uZSkKICAgICAgICAgICAgICAgIC5jYXRjaChlID0+IHsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoZSkudG8ubm90LmJlLm51bGw7CiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">cmVzID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKHJlcyk7CiAgICAgICAgICAgICAgICB9</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcHJveHlxdWlyZSA9IHJlcXVpcmUoJ3Byb3h5cXVpcmUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkudHJhbnNhY3Rpb25faWQpLnRvLmJlLmEudXVpZCgndjQnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
