@@ -808,12 +808,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/README.md" timestamp="1536261992736">
-        <mark key="'" line="288" column="4" />
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="48" column="19" />
+      <file name="$USER_HOME$/src/services/service-payment/README.md" timestamp="1537461249318">
+        <mark key="[" line="372" column="36" />
+        <mark key="]" line="372" column="38" />
+        <mark key="^" line="372" column="38" />
+        <mark key="." line="372" column="38" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/internal_users_by_ids.js" timestamp="1519422000873">
         <mark key="[" line="9" column="16" />
@@ -1863,14 +1862,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="33" column="44" filename="$USER_HOME$/src/services/service-payment/node/routes/provider.js" />
       <jump line="30" column="8" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="32" column="43" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="33" column="43" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="34" column="43" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="36" column="43" filename="$USER_HOME$/src/services/service-payment/README.md" />
-      <jump line="39" column="43" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="40" column="43" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="41" column="43" filename="$USER_HOME$/src/services/service-payment/README.md" />
       <jump line="47" column="4" filename="$USER_HOME$/src/services/service-payment/README.md" />
@@ -1963,6 +1959,9 @@
       <jump line="11" column="0" filename="$USER_HOME$/src/services/service-payment/node/routes/charge.js" />
       <jump line="368" column="50" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="364" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="38" column="64" filename="$USER_HOME$/src/services/service-payment/README.md" />
+      <jump line="39" column="58" filename="$USER_HOME$/src/services/service-payment/README.md" />
+      <jump line="372" column="0" filename="$USER_HOME$/src/services/service-payment/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2492,7 +2491,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuNDQiLAo=</text>
+        <text encoding="base64">ICAgICJ2ZXJzaW9uIjoxLAogICAgInR5cGUiOiJwdXJjaGFzZSIsCiAgICAiY2J0X3RyYW5zYWN0aW9uX2lkIjoiMS1hM2FkNmZkOGM0NmU4OGRhZGFkYyIsCiAgICAiY2J0X29yaWdpbmFsX3RyYW5zYWN0aW9uX2lkIjpudWxsLAogICAgInByb3ZpZGVyX3RyYW5zYWN0aW9uX2lkIjpudWxsLAogICAgImludm9pY2VfaWQiOiJpbnZvaWNlMzgzMjQiLAogICAgInByb3ZpZGVyIjoicGF5cGFsIiwKICAgICJwYXltZW50X3Byb2ZpbGVfaWQiOiJwYXltZW50UHJvZmlsZUNvbGxlY3Rpb25JZDExMSIsCiAgICAiY3JlYXRlZF9hdCI6IjIwMTUtMDUtMTNUMTk6MTk6MDkuMTg1WiIsCiAgICAidXBkYXRlZF9hdCI6IjIwMTUtMDUtMTNUMTk6MTk6MDkuMTg1WiIsCiAgICAiYW1vdW50IjoxLAogICAgInN0YXRlIjoiUkVBRFkiLAogICAgInByb3ZpZGVyX3Jlc3BvbnNlIjpudWxsCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2501,58 +2500,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'constructor'</text>
+        <text>charge</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>post_charge</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMsIG51bGwsIDIpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">LQo8YSBuYW1lPSJwb3N0X2NoYXJnZSI+PC9hPgpbQmFjayB0byBNZW51XSgjcm91dGVzX21lbnUpCiMjIyBQT1NUIC9jaGFyZ2UKIVtJbiBQcm9ncmVzc10oc3RhdGljcy9pbl9wcm9ncmVzcy5wbmcpCgotIENoYXJnZSBhIHBheW1lbnQgcHJvZmlsZQoKLSBVU0UgQ0FTRTogQ2FsbCBieSB3b3JrZXIgdG8gY2hhcmdlIG1vbnRobHkKCioqKkJhc2ljIFBhcmFtZXRlcnMqKioKClBhcmFtICAgICAgICAgICB8IFR5cGUgICAgIHwgSW4gICAgIHwgUmVxdWlyZWQ/IHwgRGVzY3JpcHRpb24KLS0tICAgICAgICAgICAgIHwgLS0tICAgICAgfCAtLS0gICAgfCAtLS0gICAgICAgfCAtLS0KdHJhbnNhY3Rpb25faWQgIHwgU3RyaW5nICAgfCBib2R5ICAgfCB0cnVlICAgICAgfCBUcmFuc2FjdGlvbiBpZCBvZmZlcmVkIGJ5IGNidApwcm9maWxlX2lkICAgICAgfCBTdHJpbmcgICB8IGJvZHkgICB8IHRydWUgICAgICB8IFRoZSBwYXltZW50IHByb2ZpbGUgdG8gY2hhcmdlCmludm9pY2VfaWQgICAgICB8IFN0cmluZyAgIHwgYm9keSAgIHwgdHJ1ZSAgICAgIHwgSW52b2ljZSBJZCBvZmZlcmVkIGJ5IGNidAphbW91bnQgICAgICAgICAgfCBOdW1iZXIgICB8IGJvZHkgICB8IHRydWUgICAgICB8IERvbGxhciBhbW91bnQgdG8gY2hhcmdlCgoKKioqU2FtcGxlIFJlcXVlc3Q6KioqCmBgYGpzb24KUE9TVCBodHRwczovL2FwaS5jYnRudWdnZXRzLmNvbS9wYXltZW50L3YxL2NoYXJnZQp7CiAgICAgInRyYW5zYWN0aW9uX2lkIjoiMS1hM2FkNmZkOGM0NmU4OGRhZGFkYyIsCiAgICAgInByb2ZpbGVfaWQiOiJwYXltZW50UHJvZmlsZUNvbGxlY3Rpb25JZDExMSIsCiAgICAgImludm9pY2VfaWQiOiJpbnZvaWNlMzgzMjQiLAogICAgICJhbW91bnQiOjEuMDAKCn0KYGBgCgoqKipTYW1wbGUgUmVzcG9uc2U6KioqCmBgYGpzb24KU3RhdHVzIENvZGU6IDIwMAp7CiAgICAidmVyc2lvbiI6MSwKICAgICJ0eXBlIjoicHVyY2hhc2UiLAogICAgImNidF90cmFuc2FjdGlvbl9pZCI6IjEtYTNhZDZmZDhjNDZlODhkYWRhZGMiLAogICAgImNidF9vcmlnaW5hbF90cmFuc2FjdGlvbl9pZCI6bnVsbCwKICAgICJwcm92aWRlcl90cmFuc2FjdGlvbl9pZCI6bnVsbCwKICAgICJpbnZvaWNlX2lkIjoiaW52b2ljZTM4MzI0IiwKICAgICJwcm92aWRlciI6InBheXBhbCIsCiAgICAicGF5bWVudF9wcm9maWxlX2lkIjoicGF5bWVudFByb2ZpbGVDb2xsZWN0aW9uSWQxMTEiLAogICAgImNyZWF0ZWRfYXQiOiIyMDE1LTA1LTEzVDE5OjE5OjA5LjE4NVoiLAogICAgInVwZGF0ZWRfYXQiOiIyMDE1LTA1LTEzVDE5OjE5OjA5LjE4NVoiLAogICAgImFtb3VudCI6MSwKICAgICJzdGF0ZSI6IlJFQURZIiwKICAgICJwcm92aWRlcl9yZXNwb25zZSI6bnVsbAp9CmBgYAoKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuNDQiLAo=</text>
+        <text encoding="base64">ICAgICJ2ZXJzaW9uIjoxLAogICAgInR5cGUiOiJwdXJjaGFzZSIsCiAgICAiY2J0X3RyYW5zYWN0aW9uX2lkIjoiMS1hM2FkNmZkOGM0NmU4OGRhZGFkYyIsCiAgICAiY2J0X29yaWdpbmFsX3RyYW5zYWN0aW9uX2lkIjpudWxsLAogICAgInByb3ZpZGVyX3RyYW5zYWN0aW9uX2lkIjpudWxsLAogICAgImludm9pY2VfaWQiOiJpbnZvaWNlMzgzMjQiLAogICAgInByb3ZpZGVyIjoicGF5cGFsIiwKICAgICJwYXltZW50X3Byb2ZpbGVfaWQiOiJwYXltZW50UHJvZmlsZUNvbGxlY3Rpb25JZDExMSIsCiAgICAiY3JlYXRlZF9hdCI6IjIwMTUtMDUtMTNUMTk6MTk6MDkuMTg1WiIsCiAgICAidXBkYXRlZF9hdCI6IjIwMTUtMDUtMTNUMTk6MTk6MDkuMTg1WiIsCiAgICAiYW1vdW50IjoxLAogICAgInN0YXRlIjoiUkVBRFkiLAogICAgInByb3ZpZGVyX3Jlc3BvbnNlIjpudWxsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjAuNDQtUEFZLTY1LXR5bGVyc3VzdGFyZSIsCg==</text>
+        <text encoding="base64">ewp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuYm9keS50cmFuc2FjdGlvbl9pZCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAidHJhbnNhY3Rpb25faWQiOiIxLWEzYWQ2ZmQ4YzQ2ZTg4ZGFkYWRjIiwKICAgICAicHJvZmlsZV9pZCI6InBheW1lbnRQcm9maWxlQ29sbGVjdGlvbklkMTExIiwKICAgICAiaW52b2ljZV9pZCI6Imludm9pY2UzODMyNCIsCiAgICAgImFtb3VudCI6MS4wMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdC5vbmx5KCdzaG91bGQgcmV0dXJuIGEgNTAwIGlmIHNvbWV0aGluZyBnb2VzIGhvcnJpYmx5IHdyb25nJywgZG9uZSA9PiB7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXJsID0gcm91dGVzLkFQSV9HRVRfUFJFUEFSRV9DSEFSR0U7CgogICAgICAgICAgICBzaW5vblNhbmRib3guc3R1Yih1dWlkdjQuY29uc3RydWN0b3IpLmNhbGxzRmFrZSgoKSA9PiBRLnJlamVjdCh7fSkpOwogICAgICAgICAgICB0ZXN0LmNyZWF0ZVZhbGlkQ2xpZW50VG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogdXNlcklkIH0pOwogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAuZ2V0KHVybCkKICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgICAgIC5leHBlY3QoNTAwKQogICAgICAgICAgICAgICAgLnRoZW4oZG9uZSkKICAgICAgICAgICAgICAgIC5jYXRjaChlID0+IHsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoZSkudG8ubm90LmJlLm51bGw7CiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">aW52b2ljZV9pZCAgICAgIHwgU3RyaW5nICAgfCBib2R5ICAgfCB0cnVlICAgICAgfCBJbnZvaWNlIElkIG9mZmVyZWQgYnkgY2J0CmFtb3VudCAgICAgICAgICB8IE51bWJlciAgIHwgYm9keSAgIHwgdHJ1ZSAgICAgIHwgRG9sbGFyIGFtb3VudCB0byBjaGFyZ2UK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVzID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKHJlcyk7CiAgICAgICAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">dHJhbnNhY3Rpb25faWQgIHwgU3RyaW5nICAgfCBib2R5ICAgfCB0cnVlICAgICAgfCBUcmFuc2FjdGlvbiBpZCBvZmZlcmVkIGJ5IGNidApwcm9maWxlX2lkICAgICAgfCBTdHJpbmcgICB8IGJvZHkgICB8IHRydWUgICAgICB8IFRoZSBwYXltZW50IHByb2ZpbGUgdG8gY2hhcmdlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLmJvZHkudHJhbnNhY3Rpb25faWQpLnRvLmJlLmEudXVpZCgndjQnKTsK</text>
+        <text encoding="base64">UGFyYW0gICAgICAgICAgIHwgVHlwZSAgICAgfCBJbiAgICAgfCBSZXF1aXJlZD8gfCBEZXNjcmlwdGlvbgotLS0gICAgICAgICAgICAgfCAtLS0gICAgICB8IC0tLSAgICB8IC0tLSAgICAgICB8IC0tLQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>post_charge</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>post_charge</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>course</entry>
         <entry>handle</entry>
         <entry>bind</entry>
@@ -2572,6 +2570,7 @@
         <entry>only</entry>
         <entry>stub</entry>
         <entry>console.log</entry>
+        <entry>post_charge</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
