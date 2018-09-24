@@ -232,12 +232,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1537820333145">
-        <mark key="'" line="164" column="20" />
-        <mark key="[" line="158" column="10" />
-        <mark key="]" line="158" column="14" />
-        <mark key="^" line="158" column="14" />
-        <mark key="." line="158" column="14" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1537827056211">
+        <mark key="'" line="29" column="25" />
+        <mark key="[" line="173" column="10" />
+        <mark key="]" line="173" column="14" />
+        <mark key="^" line="173" column="14" />
+        <mark key="." line="173" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -652,12 +652,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/constants.json" timestamp="1536337638916">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/constants.json" timestamp="1537825700998">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="25" column="22" />
+        <mark key="." line="25" column="22" />
+        <mark key="^" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/.eslintignore" timestamp="1520283273735">
         <mark key="[" line="0" column="0" />
@@ -816,7 +816,8 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" timestamp="1537823546166">
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" timestamp="1537825664144">
+        <mark key="'" line="11" column="12" />
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="34" />
       </file>
@@ -1020,12 +1021,11 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537824102460">
-        <mark key="'" line="266" column="18" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="^" line="205" column="10" />
-        <mark key="." line="217" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537827379385">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="256" column="97" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
@@ -1040,12 +1040,12 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537824009443">
-        <mark key="'" line="112" column="20" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="112" column="67" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537827098671">
+        <mark key="'" line="104" column="20" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="25" />
+        <mark key="^" line="50" column="15" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Home.js" timestamp="1530251881895">
         <mark key="'" line="2" column="0" />
@@ -1902,19 +1902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="73" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="271" column="56" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="287" column="27" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="278" column="49" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="284" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="297" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="316" column="33" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="317" column="49" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="329" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="341" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="359" column="33" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="361" column="28" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="372" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="389" column="36" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="52" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="67" column="43" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
@@ -2002,6 +1989,19 @@
       <jump line="112" column="20" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
       <jump line="207" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
       <jump line="273" column="18" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" />
+      <jump line="54" column="12" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" />
+      <jump line="60" column="12" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" />
+      <jump line="11" column="12" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/constants.json" />
+      <jump line="25" column="49" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="182" column="18" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="7" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="229" column="36" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="173" column="47" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
+      <jump line="29" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2531,7 +2531,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2540,62 +2540,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>saction</text>
       </register>
       <register name="/" type="4">
-        <text>stateobject</text>
+        <text>close()</text>
       </register>
-      <register name="0" type="4">
-        <text>cbt_original_transaction_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLnRyYW5zYWN0aW9uTW9kZWwudXBkYXRlVHJhbnNhY3Rpb24odHJhbnNhY3Rpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKioKICAgICAgICAgICAgICAgICAgICAgKiBzYW1wbGUgcmVzcG9uc2Ugb2YgcGF5cGFsIHJlZnVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocmVmdW5kT2JqZWN0LCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKiAgICAgIlRPVEFMUkVGVU5ERURBTU9VTlQiOiAiMS4wMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKiAgICAgIkZFRVJFRlVOREFNVCI6ICIwLjAzIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKiAgICAgIkdST1NTUkVGVU5EQU1UIjogIjEuMDAiLAogICAgICAgICAgICAgICAgICAgICAqICAgICAiTkVUUkVGVU5EQU1UIjogIjAuOTciLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIE9ubHkgd2hlbiBpdCdzIHBlbmRpbmcgdGhhdCBwYXlwYWwgd2lsbCBnaXZlIHVzIGEgcGVuZGluZyByZWFzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlZnVuZE9iamVjdCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3ZpZGVyX3Jlc3BvbnNlOiB7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZ1bmRTdGF0dXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stateobject</last-search>
+      <last-search>close()</last-search>
       <last-offset />
-      <last-pattern>stateobject</last-pattern>
+      <last-pattern>close()</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry>post_charge</entry>
-        <entry>deferr</entry>
-        <entry>Promise</entry>
-        <entry>ID</entry>
         <entry>transaction</entry>
         <entry>model</entry>
         <entry>request</entry>
@@ -2607,10 +2602,15 @@
         <entry>only</entry>
         <entry>502</entry>
         <entry>failureMethods</entry>
-        <entry>refund</entry>
         <entry>_create</entry>
         <entry>provider_response</entry>
         <entry>stateobject</entry>
+        <entry>status</entry>
+        <entry>type</entry>
+        <entry>refund</entry>
+        <entry>REFUND</entry>
+        <entry>update</entry>
+        <entry>close()</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
