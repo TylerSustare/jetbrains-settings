@@ -180,12 +180,12 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537820412799">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537821680374">
         <mark key="'" line="114" column="25" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="279" column="26" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="272" column="37" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" timestamp="1530649940773">
         <mark key="'" line="10" column="20" />
@@ -1013,12 +1013,12 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537813800567">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537821943130">
         <mark key="'" line="37" column="50" />
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="41" />
-        <mark key="." line="53" column="41" />
-        <mark key="^" line="53" column="41" />
+        <mark key="[" line="53" column="62" />
+        <mark key="]" line="53" column="79" />
+        <mark key="." line="53" column="79" />
+        <mark key="^" line="53" column="79" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
@@ -1033,7 +1033,7 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537820127039">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537821813338">
         <mark key="'" line="69" column="15" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -1567,7 +1567,7 @@
         <mark key="." line="26" column="122" />
         <mark key="^" line="26" column="129" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/errors/paypal_response_error.js" timestamp="1537820194401" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/errors/paypal_response_error.js" timestamp="1537821915950" />
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/button.js" timestamp="1515198911104">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="0" column="23" />
@@ -2524,7 +2524,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>failureMeaawwhods</text>
+        <text>err</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2533,7 +2533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>failureMeaawwhods</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
         <text>failureMethods</text>
@@ -2542,34 +2542,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRLm5mY2FsbChjcmVhdGVBdXRoU2VydmljZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWZlcnJlZCA9IFEuZGVmZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhOiAnJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">LgogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAucG9zdCh1cmwpCiAgICAgICAgICAgICAgICAuc2VuZChib2R5KQogICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgLmV4cGVjdCg1MDIpCiAgICAgICAgICAgICAgICAudGhlbihyZXMgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uZXFsKHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiA1MDIsCiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvZGU6ICdQQVlQQUxfQkFEX0dBVEVXQVknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1czogNTAyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICdQYXlwYWxSZXNwb25zZUVycm9yJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlOiAnJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgY29kZTogJ0VSUl9CQURfR0FURVdBWScKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICB9KTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmZXJyZWQucmVzb2x2ZShzZXJ2ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWZlcnJlZCA9IFEuZGVmZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlwYWxUZXN0U2VydmVyLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5cGFsVGVzdFNlcnZlci5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmZXJyZWQucmVzb2x2ZShzZXJ2ZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXlwYWxUZXN0U2VydmVyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF5cGFsVGVzdFNlcnZlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLnN0YXR1cykudG8uZXFsKDUwMik7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
