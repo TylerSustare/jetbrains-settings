@@ -180,7 +180,7 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537818106860">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537820412799">
         <mark key="'" line="114" column="25" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -232,12 +232,12 @@
         <mark key="^" line="481" column="4" />
         <mark key="." line="481" column="4" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1537813860580">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1537820333145">
         <mark key="'" line="164" column="20" />
-        <mark key="[" line="149" column="10" />
-        <mark key="]" line="149" column="10" />
-        <mark key="^" line="179" column="56" />
-        <mark key="." line="149" column="10" />
+        <mark key="[" line="158" column="10" />
+        <mark key="]" line="158" column="14" />
+        <mark key="^" line="158" column="14" />
+        <mark key="." line="158" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -522,13 +522,6 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1537818416998">
-        <mark key="'" line="142" column="32" />
-        <mark key="[" line="95" column="33" />
-        <mark key="]" line="95" column="36" />
-        <mark key="." line="95" column="36" />
-        <mark key="^" line="95" column="36" />
-      </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="5" />
@@ -547,7 +540,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1537596597940" />
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1537820279121" />
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
         <mark key="]" line="58" column="66" />
@@ -1040,7 +1033,7 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537814073145">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537820127039">
         <mark key="'" line="69" column="15" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -1306,7 +1299,7 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile_paypal_return.js" timestamp="1537387144552">
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile_paypal_return.js" timestamp="1537819847785">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="37" />
         <mark key="." line="86" column="37" />
@@ -1574,6 +1567,7 @@
         <mark key="." line="26" column="122" />
         <mark key="^" line="26" column="129" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/errors/paypal_response_error.js" timestamp="1537820194401" />
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/button.js" timestamp="1515198911104">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="0" column="23" />
