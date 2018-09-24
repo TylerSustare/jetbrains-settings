@@ -180,11 +180,11 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537814007202">
-        <mark key="'" line="265" column="35" />
-        <mark key="[" line="248" column="10" />
-        <mark key="]" line="248" column="10" />
-        <mark key="." line="248" column="10" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537818106860">
+        <mark key="'" line="114" column="25" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="279" column="26" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" timestamp="1530649940773">
@@ -522,11 +522,12 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1537813405987">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1537818416998">
+        <mark key="'" line="142" column="32" />
+        <mark key="[" line="95" column="33" />
+        <mark key="]" line="95" column="36" />
+        <mark key="." line="95" column="36" />
+        <mark key="^" line="95" column="36" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -1900,11 +1901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="366" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="379" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="367" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/src/services/service-payment/node/routes/charge.js" />
       <jump line="368" column="50" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="364" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="38" column="64" filename="$USER_HOME$/src/services/service-payment/README.md" />
@@ -2000,6 +1996,11 @@
       <jump line="225" column="12" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="228" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="265" column="35" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="114" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="95" column="42" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
+      <jump line="118" column="32" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
+      <jump line="127" column="32" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
+      <jump line="136" column="32" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2528,8 +2529,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>failureMeaawwhods</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2538,65 +2539,63 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>failureMeaawwhods</text>
       </register>
       <register name="/" type="4">
-        <text>only</text>
+        <text>failureMethods</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5cGFsVGVzdFNlcnZlci5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRLm5mY2FsbChjcmVhdGVBdXRoU2VydmljZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWZlcnJlZCA9IFEuZGVmZXIoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLnN0YXR1cykudG8uZXFsKDUwMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmZXJyZWQucmVzb2x2ZShzZXJ2ZXIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXlwYWxUZXN0U2VydmVyLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF5cGFsVGVzdFNlcnZlci5jbG9zZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlcnIsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLnRoZW4oZG9uZSkKICAgICAgICAgICAgLy8gLmNhdGNoKGVyciA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QocmVzLnN0YXR1cykudG8uZXFsKDUwMik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb25lKHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>only</last-search>
+      <last-search>failureMethods</last-search>
       <last-offset />
-      <last-pattern>only</last-pattern>
+      <last-pattern>failureMethods</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>chargecustomerprofile</entry>
         <entry>sinonSand</entry>
         <entry>expect</entry>
         <entry>sinon</entry>
         <entry>stub</entry>
         <entry>console.log</entry>
         <entry>post_charge</entry>
-        <entry>502</entry>
         <entry>deferr</entry>
         <entry>Promise</entry>
         <entry>ID</entry>
@@ -2609,6 +2608,8 @@
         <entry>err</entry>
         <entry>paypalTestserver</entry>
         <entry>only</entry>
+        <entry>502</entry>
+        <entry>failureMethods</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
