@@ -816,6 +816,10 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" timestamp="1537823546166">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="53" column="30" />
@@ -1016,12 +1020,12 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537821943130">
-        <mark key="'" line="37" column="50" />
-        <mark key="[" line="53" column="62" />
-        <mark key="]" line="53" column="79" />
-        <mark key="." line="53" column="79" />
-        <mark key="^" line="53" column="79" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537824102460">
+        <mark key="'" line="266" column="18" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="^" line="205" column="10" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
@@ -1036,12 +1040,12 @@
         <mark key="." line="37" column="16" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537821813338">
-        <mark key="'" line="69" column="15" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="142" column="26" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537824009443">
+        <mark key="'" line="112" column="20" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="112" column="67" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Home.js" timestamp="1530251881895">
         <mark key="'" line="2" column="0" />
@@ -1898,35 +1902,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="50" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="364" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="38" column="64" filename="$USER_HOME$/src/services/service-payment/README.md" />
-      <jump line="39" column="58" filename="$USER_HOME$/src/services/service-payment/README.md" />
-      <jump line="372" column="0" filename="$USER_HOME$/src/services/service-payment/README.md" />
-      <jump line="29" column="85" filename="$USER_HOME$/src/services/service-payment/node/routes/transactions.js" />
-      <jump line="50" column="36" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="56" column="34" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="6" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="34" column="18" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="37" column="18" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="56" column="11" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="97" column="19" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="128" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="129" column="15" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="94" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="83" column="5" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="126" column="1" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="68" column="15" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
       <jump line="272" column="73" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="267" column="55" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
       <jump line="271" column="56" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
       <jump line="287" column="27" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
       <jump line="278" column="49" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
@@ -1998,6 +1974,34 @@
       <jump line="118" column="32" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
       <jump line="127" column="32" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
       <jump line="136" column="32" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
+      <jump line="243" column="70" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="267" column="60" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="5" column="71" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="39" column="122" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="184" column="59" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="187" column="61" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="189" column="5" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="190" column="14" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="191" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="196" column="41" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="200" column="66" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="201" column="68" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="205" column="33" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="206" column="38" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="210" column="27" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="218" column="49" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="219" column="33" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="220" column="31" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="221" column="31" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="222" column="33" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="224" column="48" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="226" column="37" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="231" column="48" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="236" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="97" column="23" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
+      <jump line="112" column="20" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
+      <jump line="207" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="273" column="18" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2526,8 +2530,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>err</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2536,61 +2540,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>failureMethods</text>
+        <text>stateobject</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBRLm5mY2FsbChjcmVhdGVBdXRoU2VydmljZSkK</text>
+      <register name="0" type="4">
+        <text>cbt_original_transaction_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhOiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAucG9zdCh1cmwpCiAgICAgICAgICAgICAgICAuc2VuZChib2R5KQogICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgLmV4cGVjdCg1MDIpCiAgICAgICAgICAgICAgICAudGhlbihyZXMgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uZXFsKHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiA1MDIsCiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvZGU6ICdQQVlQQUxfQkFEX0dBVEVXQVknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXR1czogNTAyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICdQYXlwYWxSZXNwb25zZUVycm9yJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZXNzYWdlOiAnJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgY29kZTogJ0VSUl9CQURfR0FURVdBWScKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICB9KTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvKioKICAgICAgICAgICAgICAgICAgICAgKiBzYW1wbGUgcmVzcG9uc2Ugb2YgcGF5cGFsIHJlZnVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWZlcnJlZCA9IFEuZGVmZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKiAgICAgIlRPVEFMUkVGVU5ERURBTU9VTlQiOiAiMS4wMCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmZXJyZWQucHJvbWlzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKiAgICAgIkZFRVJFRlVOREFNVCI6ICIwLjAzIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmZXJyZWQucmVzb2x2ZShzZXJ2ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgKiAgICAgIkdST1NTUkVGVU5EQU1UIjogIjEuMDAiLAogICAgICAgICAgICAgICAgICAgICAqICAgICAiTkVUUkVGVU5EQU1UIjogIjAuOTciLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlwYWxUZXN0U2VydmVyLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5cGFsVGVzdFNlcnZlci5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIE9ubHkgd2hlbiBpdCdzIHBlbmRpbmcgdGhhdCBwYXlwYWwgd2lsbCBnaXZlIHVzIGEgcGVuZGluZyByZWFzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3ZpZGVyX3Jlc3BvbnNlOiB7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZ1bmRTdGF0dXMsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>failureMethods</last-search>
+      <last-search>stateobject</last-search>
       <last-offset />
-      <last-pattern>failureMethods</last-pattern>
+      <last-pattern>stateobject</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sinonSand</entry>
-        <entry>expect</entry>
-        <entry>sinon</entry>
-        <entry>stub</entry>
         <entry>console.log</entry>
         <entry>post_charge</entry>
         <entry>deferr</entry>
@@ -2607,6 +2607,10 @@
         <entry>only</entry>
         <entry>502</entry>
         <entry>failureMethods</entry>
+        <entry>refund</entry>
+        <entry>_create</entry>
+        <entry>provider_response</entry>
+        <entry>stateobject</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
