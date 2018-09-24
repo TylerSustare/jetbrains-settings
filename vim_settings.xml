@@ -180,11 +180,12 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537805437046">
-        <mark key="'" line="366" column="0" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1537808624138">
+        <mark key="'" line="19" column="35" />
+        <mark key="[" line="202" column="10" />
+        <mark key="]" line="202" column="14" />
+        <mark key="." line="202" column="14" />
+        <mark key="^" line="202" column="14" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/test/config_test.js" timestamp="1530649940773">
         <mark key="'" line="10" column="20" />
@@ -381,6 +382,11 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="15" column="40" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/test/models/transactions.js" timestamp="1537807526264">
+        <mark key="'" line="189" column="37" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="60" />
+      </file>
       <file name="$USER_HOME$/src/services/service-app-gateway/node/.eslintignore" timestamp="1505496493511">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -515,12 +521,6 @@
         <mark key="]" line="110" column="26" />
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1537458035412">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -726,6 +726,7 @@
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="50" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/node_modules/chai-uuid/index.js" timestamp="1537807789465" />
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/.eslintrc" timestamp="1510269022888">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
@@ -1585,12 +1586,6 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/components/Nav.js" timestamp="1536619366945">
-        <mark key="'" line="34" column="1" />
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-      </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" timestamp="1527750854464">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="4" column="31" />
@@ -1899,43 +1894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="2" column="15" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/index.js" />
-      <jump line="21" column="2" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="17" column="56" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="37" column="29" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="27" column="37" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="51" column="18" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="43" column="17" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="45" column="18" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="46" column="17" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="47" column="21" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="48" column="71" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="44" column="53" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="52" column="84" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="3" column="9" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="28" column="53" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="31" column="39" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="103" column="50" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="104" column="35" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="107" column="57" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="4" column="26" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="41" column="47" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="42" column="49" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="140" column="60" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
-      <jump line="12" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
-      <jump line="17" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
-      <jump line="16" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
-      <jump line="13" column="8" filename="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="80" column="39" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="73" column="2" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="74" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="75" column="28" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="76" column="32" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="81" column="31" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
@@ -1966,7 +1924,6 @@
       <jump line="366" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="379" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="367" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="11" column="0" filename="$USER_HOME$/src/services/service-payment/node/routes/charge.js" />
       <jump line="368" column="50" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
       <jump line="364" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
@@ -1999,6 +1956,44 @@
       <jump line="267" column="55" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
       <jump line="271" column="56" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
       <jump line="287" column="27" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
+      <jump line="278" column="49" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="284" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="297" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="316" column="33" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="317" column="49" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="329" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="341" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="359" column="33" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="361" column="28" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="372" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="389" column="36" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="25" column="36" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="52" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="67" column="43" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="89" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="107" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="125" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="146" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="166" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="186" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="201" column="72" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="205" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="224" column="60" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="227" column="56" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="238" column="42" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="240" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="247" column="46" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="257" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="260" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="276" column="33" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="189" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/models/transactions.js" />
+      <jump line="304" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="18" column="35" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="249" column="48" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="394" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="15" column="19" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
+      <jump line="19" column="35" filename="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2528,7 +2523,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvdmlkZXJfcmVzcG9uc2U6IHsgcGVuZGluZ1JlYXNvbjogJ2F1dGhvcml6YXRpb24nLCBwYXltZW50U3RhdHVzOiAnUGVuZGluZycgfSwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2537,59 +2532,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>502</text>
+        <text>only</text>
       </register>
       <register name="/" type="4">
-        <text>ID</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcy5ib2R5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vZGVsKS50by5ub3QuYmUubnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvdmlkZXJfcmVzcG9uc2U6IHsgcGVuZGluZ1JlYXNvbjogJ2F1dGhvcml6YXRpb24nLCBwYXltZW50U3RhdHVzOiAnUGVuZGluZycgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcy5ib2R5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRvbmUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcy5ib2R5LCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vZGVsLnBheW1lbnRfcHJvZmlsZV9pZCkudG8uZXFsKGJvZHkucHJvZmlsZV9pZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobW9kZWwsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vZGVsKS50by5ub3QuYmUubnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobW9kZWwsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTF9TRVZFUklUWUNPREUxIjogIkVycm9yIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTF9TRVZFUklUWUNPREUwIjogIkVycm9yIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTF9MT05HTUVTU0FHRTEiOiAiVGhpcyB0cmFuc2FjdGlvbiBjYW5ub3QgYmUgcHJvY2Vzc2VkLiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkxfTE9OR01FU1NBR0UwIjogIlBheW1lbnRBY3Rpb24gdGFnIGlzIG1pc3NpbmcuIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTF9TSE9SVE1FU1NBR0UxIjogIkludmFsaWQgRGF0YSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkxfU0hPUlRNRVNTQUdFMCI6ICJUcmFuc2FjdGlvbiByZWZ1c2VkIGJlY2F1c2Ugb2YgYW4gaW52YWxpZCBhcmd1bWVudC4gU2VlIGFkZGl0aW9uYWwgZXJyb3IgbWVzc2FnZXMgZm9yIGRldGFpbHMuIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTF9FUlJPUkNPREUxIjogIjEwMDA0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiTF9FUlJPUkNPREUwIjogIjEwNDIwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQlVJTEQiOiAiNDY0NTc1NTgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJWRVJTSU9OIjogIjg2IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiQUNLIjogIkZhaWx1cmUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJDT1JSRUxBVElPTklEIjogImJhNzBiZjIwYzExOGMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJUSU1FU1RBTVAiOiAiMjAxOC0wOC0wOVQxNjo1Njo0OVoiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ID</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>ID</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prepend</entry>
-        <entry>button</entry>
         <entry>_id</entry>
         <entry>exam</entry>
         <entry>app</entry>
@@ -2608,6 +2601,8 @@
         <entry>deferr</entry>
         <entry>Promise</entry>
         <entry>ID</entry>
+        <entry>transaction</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
