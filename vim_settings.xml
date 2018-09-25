@@ -48,11 +48,6 @@
         <mark key="^" line="14" column="44" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/errors/payment_profile_error.js" timestamp="1537595694500">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/token.js" timestamp="1513360662616">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="12" column="27" />
@@ -234,10 +229,9 @@
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1537830490382">
         <mark key="'" line="141" column="29" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="^" line="225" column="14" />
-        <mark key="." line="237" column="0" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz-report/node/.nvmrc" timestamp="1505331316202">
         <mark key="[" line="0" column="0" />
@@ -543,7 +537,6 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1537820279121" />
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
         <mark key="]" line="58" column="66" />
@@ -619,11 +612,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/paypal.js" timestamp="1537385675568">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/config.json" timestamp="1510640261918">
         <mark key="'" line="127" column="5" />
@@ -729,7 +717,6 @@
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/node_modules/chai-uuid/index.js" timestamp="1537807789465" />
       <file name="$USER_HOME$/src/libs/lib-report-delivery-service-client-nodejs/.eslintrc" timestamp="1510269022888">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
@@ -910,11 +897,6 @@
         <mark key="^" line="28" column="64" />
         <mark key="." line="28" column="64" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/init_redirect_validator.js" timestamp="1536337500755">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530807054472">
         <mark key="'" line="445" column="29" />
         <mark key="[" line="237" column="0" />
@@ -1042,10 +1024,6 @@
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1537830410251">
         <mark key="'" line="24" column="41" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="36" column="38" />
-        <mark key="^" line="36" column="53" />
-        <mark key="." line="36" column="38" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/score-redux/src/screens/Home.js" timestamp="1530251881895">
         <mark key="'" line="2" column="0" />
@@ -1493,11 +1471,6 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/reducers/ScoreReducer.js" timestamp="1536619938780">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/schema.json" timestamp="1526056125315">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="353" column="9" />
@@ -1575,7 +1548,6 @@
         <mark key="." line="26" column="122" />
         <mark key="^" line="26" column="129" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/errors/paypal_response_error.js" timestamp="1537821915950" />
       <file name="$USER_HOME$/src/projects/react-native-music/react-native-music/components/button.js" timestamp="1515198911104">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="0" column="23" />
@@ -1777,11 +1749,6 @@
         <mark key="^" line="74" column="27" />
         <mark key="." line="74" column="27" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/dev/paypal/paypal.js" timestamp="1536688823509">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/src/projects/cloud-dev-class/teaching-cloud-dev/src/__test__/.eslintrc" timestamp="1536270894030">
         <mark key="[" line="1" column="39" />
         <mark key="]" line="3" column="19" />
@@ -1872,10 +1839,10 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537597348718">
-        <mark key="[" line="369" column="0" />
-        <mark key="]" line="369" column="0" />
-        <mark key="." line="369" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537890603023">
+        <mark key="[" line="366" column="32" />
+        <mark key="]" line="366" column="32" />
+        <mark key="." line="366" column="32" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
@@ -2531,8 +2498,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5cGFsVGVzdFNlcnZlci5jbG9zZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>201</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2541,7 +2508,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>only</text>
+        <text>201</text>
       </register>
       <register name="/" type="4">
         <text>400</text>
@@ -2588,7 +2555,7 @@
       <last-offset />
       <last-pattern>400</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
