@@ -538,7 +538,13 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1537982203579" />
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1537983580274">
+        <mark key="'" line="39" column="56" />
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="32" column="77" />
+        <mark key="^" line="32" column="77" />
+        <mark key="." line="32" column="77" />
+      </file>
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
         <mark key="]" line="58" column="66" />
@@ -577,11 +583,6 @@
         <mark key="]" line="131" column="10" />
         <mark key="." line="131" column="10" />
         <mark key="^" line="132" column="15" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/charge.js" timestamp="1537596935845">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524785191921">
         <mark key="'" line="183" column="11" />
@@ -1005,9 +1006,10 @@
         <mark key="^" line="9" column="48" />
         <mark key="." line="9" column="48" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537936689011">
-        <mark key="[" line="180" column="47" />
-        <mark key="]" line="180" column="50" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1537984200339">
+        <mark key="'" line="5" column="31" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="46" />
         <mark key="." line="180" column="50" />
         <mark key="^" line="180" column="50" />
       </file>
@@ -1286,7 +1288,7 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile_paypal_return.js" timestamp="1537819847785">
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile_paypal_return.js" timestamp="1537982801450">
         <mark key="[" line="86" column="37" />
         <mark key="]" line="86" column="37" />
         <mark key="." line="86" column="37" />
@@ -1725,12 +1727,12 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" timestamp="1535755725738">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="64" column="59" />
-        <mark key="]" line="64" column="67" />
-        <mark key="^" line="64" column="67" />
-        <mark key="." line="64" column="67" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" timestamp="1537985396708">
+        <mark key="'" line="93" column="49" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="32" />
+        <mark key="^" line="96" column="32" />
+        <mark key="." line="96" column="32" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
@@ -1875,10 +1877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="55" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="17" column="53" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="157" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="161" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="95" column="4" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
       <jump line="112" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="467" column="61" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1975,6 +1973,10 @@
       <jump line="310" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="27" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="343" column="87" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="3" column="66" filename="$USER_HOME$/src/services/service-payment/node/routes/profile.js" />
+      <jump line="39" column="56" filename="$USER_HOME$/src/services/service-payment/node/routes/profile.js" />
+      <jump line="93" column="49" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" />
+      <jump line="5" column="31" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2503,8 +2505,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>historyCount++</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudmFsaWRhdGVDb3VudHJ5Q29kZSh0aGlzLmRhdGFbZmllbGRdKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2513,59 +2515,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>historyCount++</text>
+        <text>ode</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>countries</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkTW9kZWwub3duZXIpLnRvLmVxbCgnbnJuOnVzZXI6LTEwMDEnKTsK</text>
+        <text encoding="base64">Y29uc3QgeyBjb3VudHJpZXMgfSA9IHJlcXVpcmUoJ2NvdW50cnktZGF0YScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkobW9kZWwsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudmFsaWRhdGVDb3VudHJ5Q29kZSh0aGlzLmRhdGFbZmllbGRdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vZGVsLm93bmVyKS50by5ub3QuZXFsKCducm46dXNlcjotMTAwMScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHVybCA9IHJvdXRlcy5BUElfUE9TVF9QUk9GSUxFOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlQ291bnRyeUNvZGUoY29kZSkgewogICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVwZGF0ZWRtb2RlbCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVwZGF0ZWRNb2RlbCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdCgpCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnRyaWVzW2NvZGVdKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>countries</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>countries</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>desc</entry>
-        <entry>only</entry>
         <entry>valid</entry>
         <entry>omit</entry>
         <entry>isempty</entry>
@@ -2584,6 +2584,8 @@
         <entry>profile_id</entry>
         <entry>profile</entry>
         <entry>delete</entry>
+        <entry>validator</entry>
+        <entry>countries</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
