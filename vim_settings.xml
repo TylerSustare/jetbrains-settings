@@ -1727,12 +1727,12 @@
         <mark key="." line="30" column="26" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" timestamp="1537985396708">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" timestamp="1537987028348">
         <mark key="'" line="93" column="49" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="32" />
-        <mark key="^" line="96" column="32" />
-        <mark key="." line="96" column="32" />
+        <mark key="[" line="96" column="40" />
+        <mark key="]" line="96" column="40" />
+        <mark key="^" line="96" column="40" />
+        <mark key="." line="96" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
@@ -1844,12 +1844,12 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537981977648">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537986757276">
         <mark key="'" line="343" column="87" />
-        <mark key="[" line="343" column="86" />
-        <mark key="]" line="343" column="99" />
-        <mark key="." line="343" column="99" />
-        <mark key="^" line="343" column="99" />
+        <mark key="[" line="327" column="50" />
+        <mark key="]" line="327" column="51" />
+        <mark key="." line="327" column="51" />
+        <mark key="^" line="327" column="50" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
@@ -2505,8 +2505,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudmFsaWRhdGVDb3VudHJ5Q29kZSh0aGlzLmRhdGFbZmllbGRdKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2515,58 +2515,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ode</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>countries</text>
+        <text>salmon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBjb3VudHJpZXMgfSA9IHJlcXVpcmUoJ2NvdW50cnktZGF0YScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGAqKioqICR7aGFzRmllbGR9ICoqKioqKmApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudmFsaWRhdGVDb3VudHJ5Q29kZSh0aGlzLmRhdGFbZmllbGRdKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqIHNwb29uICoqKioqKioqKionKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzcXVpZ2dseSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlQ291bnRyeUNvZGUoY29kZSkgewogICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHRoaXMuZXJyb3JzLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5lcnJvcnMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISh0aGlzLnZhbGlkYXRlUHJvdmlkZXIoKSAmJiB0aGlzLnZhbGlkYXRlT3duZXJJZCgpKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnRyaWVzW2NvZGVdKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>countries</last-search>
+      <last-search>salmon</last-search>
       <last-offset />
-      <last-pattern>countries</last-pattern>
+      <last-pattern>salmon</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>valid</entry>
         <entry>omit</entry>
         <entry>isempty</entry>
         <entry>502</entry>
@@ -2586,6 +2585,7 @@
         <entry>delete</entry>
         <entry>validator</entry>
         <entry>countries</entry>
+        <entry>salmon</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
