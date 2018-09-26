@@ -419,11 +419,11 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/datastores/payment_profiles.js" timestamp="1537992175208">
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="18" />
-        <mark key="." line="45" column="18" />
-        <mark key="^" line="54" column="5" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/datastores/payment_profiles.js" timestamp="1538005229279">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="44" column="56" />
+        <mark key="." line="44" column="56" />
+        <mark key="^" line="44" column="56" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/errors/firehose_error.js" timestamp="1524776113467">
         <mark key="'" line="18" column="0" />
@@ -540,12 +540,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1537990197747">
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1538004914384">
         <mark key="'" line="39" column="56" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="57" column="64" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="50" />
+        <mark key="." line="45" column="50" />
+        <mark key="^" line="45" column="50" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
@@ -875,12 +875,11 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1538001464619">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1538001895621">
         <mark key="'" line="26" column="37" />
-        <mark key="[" line="349" column="36" />
-        <mark key="]" line="349" column="37" />
-        <mark key="." line="349" column="37" />
-        <mark key="^" line="349" column="54" />
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="354" column="0" />
+        <mark key="." line="354" column="0" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -985,12 +984,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/provider.js" timestamp="1537994788170">
-        <mark key="'" line="88" column="16" />
-        <mark key="[" line="180" column="17" />
-        <mark key="]" line="180" column="17" />
-        <mark key="." line="180" column="17" />
-        <mark key="^" line="75" column="21" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/provider.js" timestamp="1538004792511">
+        <mark key="'" line="77" column="32" />
+        <mark key="[" line="83" column="49" />
+        <mark key="]" line="83" column="54" />
+        <mark key="." line="83" column="54" />
+        <mark key="^" line="83" column="54" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
@@ -1495,10 +1494,11 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1538001339370">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/config/test.json" timestamp="1538004395327">
+        <mark key="[" line="42" column="23" />
+        <mark key="]" line="42" column="366" />
+        <mark key="." line="42" column="366" />
+        <mark key="^" line="42" column="366" />
       </file>
       <file name="$USER_HOME$/src/projects/tech-stack/src/reducers/LibraryReducer.js" timestamp="1527187112630">
         <mark key="[" line="2" column="21" />
@@ -1660,10 +1660,10 @@
         <mark key="^" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profiles_for_owner_nrn.js" timestamp="1537991734564">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profiles_for_owner_nrn.js" timestamp="1538003604802">
         <mark key="'" line="100" column="22" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="28" />
         <mark key="^" line="108" column="22" />
         <mark key="." line="34" column="0" />
       </file>
@@ -1849,12 +1849,12 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1538001409366">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="335" column="22" />
-        <mark key="]" line="335" column="22" />
-        <mark key="." line="335" column="22" />
-        <mark key="^" line="335" column="22" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1538005244839">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="340" column="66" />
+        <mark key="]" line="340" column="101" />
+        <mark key="." line="340" column="101" />
+        <mark key="^" line="340" column="101" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
@@ -1882,18 +1882,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="204" column="41" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="669" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="11" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="72" column="29" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="107" column="7" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="113" column="22" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="114" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="141" column="5" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="55" column="20" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="77" column="52" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="79" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="89" column="44" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="115" column="46" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
@@ -1979,9 +1973,15 @@
       <jump line="309" column="84" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="75" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="88" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="191" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
       <jump line="117" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="370" column="40" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="383" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="387" column="35" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="5" column="55" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="17" column="53" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="77" column="32" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2510,8 +2510,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>975261ae-8834-4e58-a0cb-f90ca58623be</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2520,59 +2520,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>975261ae-8834-4e58-a0cb-f90ca58623be</text>
       </register>
       <register name="/" type="4">
-        <text>console.</text>
+        <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXJsID0gcm91dGVzLkFQSV9HRVRfU0hJUFBJTkdfQUREUkVTU19GT1JfUFJPRklMRS5yZXBsYWNlKC86cHJvZmlsZV9pZC8sIHByb2ZpbGVUb0xvb2tGb3IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QuY3JlYXRlVmFsaWRDbGllbnRUb2tlbihhY2Nlc3NUb2tlbiwgeyB1c2VyX2lkOiB1c2VySWQgfSk7CiAgICAgICAgICAgICAgICBsZXQgaGlzdG9yeUNvdW50OwoKICAgICAgICAgICAgICAgIHJldHVybiBQYXltZW50UHJvZmlsZU1vZGVsLmZpbmRPbmUoeyBwcm92aWRlcjogJ3dmcGcnIH0pLmxlYW4oKS5leGVjKCkKICAgICAgICAgICAgICAgICAgICAudGhlbihtb2RlbCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChtb2RlbC5vd25lcikudG8ubm90LmVxbCgnbnJuOnVzZXI6OTk5OTk5Jyk7CgogICAgICAgICAgICAgICAgICAgICAgICBoaXN0b3J5Q291bnQgPSBtb2RlbC5oaXN0b3J5Lmxlbmd0aDsKCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHsgcHJvdmlkZXIsIHByb2ZpbGVfaWQgfSA9IG1vZGVsOwogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBib2R5ID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgb3duZXJfaWQ6ICducm46dXNlcjo5OTk5OTknLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvdmlkZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9maWxlX2lkLAogICAgICAgICAgICAgICAgICAgICAgICB9OwoKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgdXJsID0gcm91dGVzLkFQSV9QT1NUX1BST0ZJTEU7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXF1ZXN0KGFwcCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wb3N0KHVybCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZW5kKGJvZHkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZXhwZWN0KDIwMikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gUGF5bWVudFByb2ZpbGVNb2RlbC5maW5kT25lKHsgcHJvZmlsZV9pZDogcmVzcG9uc2UuYm9keS5wcm9maWxlX2lkIH0pLmxlYW4oKS5leGVjKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAudGhlbih1cGRhdGVkTW9kZWwgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdCh1cGRhdGVkTW9kZWwub3duZXIpLnRvLmVxbCgnbnJuOnVzZXI6OTk5OTk5Jyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHVwZGF0ZWRNb2RlbC5oaXN0b3J5KS50by5oYXZlLmxlbmd0aE9mKCsraGlzdG9yeUNvdW50KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KG1vZGVsLm93bmVyKS50by5ub3QuZXFsKCducm46dXNlcjo5OTk5OTknKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGhpc3RvcnlDb3VudCA9IG1vZGVsLmhpc3RvcnkubGVuZ3RoOwoKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgeyBwcm92aWRlciwgcHJvZmlsZV9pZCB9ID0gbW9kZWw7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IGJvZHkgPSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvd25lcl9pZDogJ25ybjp1c2VyOjk5OTk5OScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm92aWRlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2ZpbGVfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCB1cmwgPSByb3V0ZXMuQVBJX1BPU1RfUFJPRklMRTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlcXVlc3QoYXBwKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnBvc3QodXJsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNlbmQoYm9keSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5leHBlY3QoMjAyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBQYXltZW50UHJvZmlsZU1vZGVsLmZpbmRPbmUoeyBwcm9maWxlX2lkOiByZXNwb25zZS5ib2R5LnByb2ZpbGVfaWQgfSkubGVhbigpLmV4ZWMoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50aGVuKHVwZGF0ZWRNb2RlbCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHVwZGF0ZWRNb2RlbC5vd25lcikudG8uZXFsKCducm46dXNlcjo5OTk5OTknKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QodXBkYXRlZE1vZGVsLmhpc3RvcnkpLnRvLmhhdmUubGVuZ3RoT2YoKytoaXN0b3J5Q291bnQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlJlYWxhcGlLZXkiOiAieEdDR1VMY1FVeEhiSUFrTWhtMkFmQlU3MFFaanpGVWNzWlhjSk9neXdnR2JockthTUlRdnlJOHBZVW5xeEdDcXJ1aVdCSGZQRTRaeVdkNFYrcU5MU1lybW5WcXdXbnp0eGhFRnZjNmF4UDloYzEvdTFBZ3E0S1Q3aUhrTjQrUThlbm1LZVN5NnVwSGRRZEFVSkk2Ly9GT3dMcWg5UGl6ek5wcGFBM0UvTzhGOUpUd0hMS2RmSDhWaUhSc0V2Ti9kQ0VXTlZscFBNOWRHRFBadzhFQWlTL1VkTGUrT3JabU1pT0w5VHArSE1sSGNvcVIvc3ViMTFuWGxrMFk5cVN4YUR0bU8xRktCN3dobU5rc3JoWmttSlJLQkZCcjZIL3hoT0c1R2dqdnJVajlMM1E9PSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyLmNvZGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2Vycm9yQGNvbnRleHQnOiB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzaGlwcGluZ1VybCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdCBwcm9jZXNzLl90aWNrRG9tYWluQ2FsbGJhY2sgW2FzIF90aWNrQ2FsbGJhY2tdIChpbnRlcm5hbC9wcm9jZXNzL25leHRfdGljay5qczoxMjI6OSlgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSgsIG51bGwsIDIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.</last-search>
+      <last-search>body</last-search>
       <last-offset />
-      <last-pattern>console.</last-pattern>
+      <last-pattern>body</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>first_name</entry>
-        <entry>get</entry>
         <entry>createprofile</entry>
         <entry>wfpgprofileId</entry>
         <entry>update</entry>
@@ -2591,6 +2589,8 @@
         <entry>only</entry>
         <entry>conso</entry>
         <entry>console.</entry>
+        <entry>get</entry>
+        <entry>body</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
