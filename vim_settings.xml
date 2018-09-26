@@ -875,12 +875,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1537998786451">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1537999172311">
         <mark key="'" line="26" column="37" />
-        <mark key="[" line="324" column="43" />
-        <mark key="]" line="324" column="43" />
-        <mark key="." line="324" column="43" />
-        <mark key="^" line="265" column="11" />
+        <mark key="[" line="324" column="70" />
+        <mark key="]" line="324" column="83" />
+        <mark key="." line="324" column="83" />
+        <mark key="^" line="324" column="83" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -2512,7 +2512,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getPaymentProfilesByOwner('nrn:user:3000000000003')</text>
+        <text>]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2521,7 +2521,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getPaymentProfilesByOwner('nrn:user:3000000000003')</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>console.</text>
@@ -2568,7 +2568,7 @@
       <last-offset />
       <last-pattern>console.</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
