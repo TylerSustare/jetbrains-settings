@@ -309,12 +309,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1537991144228">
-        <mark key="'" line="408" column="12" />
-        <mark key="[" line="460" column="20" />
-        <mark key="]" line="460" column="20" />
-        <mark key="." line="460" column="20" />
-        <mark key="^" line="460" column="20" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1537998555467">
+        <mark key="'" line="117" column="4" />
+        <mark key="[" line="124" column="51" />
+        <mark key="]" line="124" column="51" />
+        <mark key="^" line="126" column="76" />
+        <mark key="." line="124" column="51" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -516,11 +516,11 @@
         <mark key="." line="110" column="26" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1537992602201">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="^" line="199" column="56" />
-        <mark key="." line="191" column="0" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/common.js" timestamp="1537998076260">
+        <mark key="'" line="191" column="0" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/src/tasks/task-notification-schedule-migration/metadata.config" timestamp="1522344015367">
         <mark key="[" line="4" column="6" />
@@ -875,12 +875,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1537992590520">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1537998786451">
         <mark key="'" line="26" column="37" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
-        <mark key="^" line="273" column="68" />
+        <mark key="[" line="324" column="43" />
+        <mark key="]" line="324" column="43" />
+        <mark key="." line="324" column="43" />
+        <mark key="^" line="265" column="11" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1727,7 +1727,7 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1537992409793">
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1537998469342">
         <mark key="'" line="22" column="17" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -1850,11 +1850,11 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537991971659">
-        <mark key="'" line="309" column="84" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="67" />
-        <mark key="." line="262" column="14" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537997998798">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="332" column="51" />
+        <mark key="]" line="332" column="51" />
+        <mark key="." line="332" column="51" />
         <mark key="^" line="292" column="30" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
@@ -1883,9 +1883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="38" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="256" column="38" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="146" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="176" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="204" column="41" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
@@ -1983,6 +1980,9 @@
       <jump line="309" column="84" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="75" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="88" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
+      <jump line="191" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
+      <jump line="117" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2512,7 +2512,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Flow</text>
+        <text>getPaymentProfilesByOwner('nrn:user:3000000000003')</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2521,61 +2521,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Flow</text>
+        <text>getPaymentProfilesByOwner('nrn:user:3000000000003')</text>
       </register>
       <register name="/" type="4">
-        <text>flow</text>
+        <text>console.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoeyBhcHAsIHJvdXRlcywgUGF5bWVudFByb2ZpbGVNb2RlbCB9ID0gdGVzdC5nZXRDb250ZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICBjb25zb2xlLmxvZygnbG9hZGluZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpbm9uU2FuZGJveC5zdHViKHJlcXVlc3QsICdfc2VuZFNvYXBSZXF1ZXN0JykuY2FsbHNGYWtlKCgpID0+IFByb21pc2UucmVzb2x2ZSh1cGRhdGVQcm9maWxlUmVzcG9uc2UpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KG1vZGVsLCBudWxsLCAyKSk7awo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHJlcXVlc3QgPSBuZXcgV2VsbHNGYXJnb1JlcXVlc3QoKTsKCiAgICAgICAgICAgICAgICBzaW5vblNhbmRib3guc3R1YihyZXF1ZXN0LCAnX3NlbmRTb2FwUmVxdWVzdCcpLmNhbGxzRmFrZSgoKSA9PiBQcm9taXNlLnJlc29sdmUodXBkYXRlUHJvZmlsZVJlc3BvbnNlKSk7CgogICAgICAgICAgICAgICAgcmV0dXJuIFBheW1lbnRQcm9maWxlTW9kZWwuZ2V0UGF5bWVudFByb2ZpbGVzQnlPd25lcignbnJuOnVzZXI6MzAwMDAwMDAwMDAwMycpCiAgICAgICAgICAgICAgICAgICAgLnRoZW4obW9kZWwgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCB1cGRhdGVEYXRhID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZV9pZDogbW9kZWxbMF0ucHJvZmlsZV9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNpdHk6ICdCT1JJTkcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGU6ICdPUicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3N0YWxfY29kZTogJzk3NzAyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50cnlfY29kZTogJ1VTJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmVldDogJzM5NSBTVyBCbHVmZiBEcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWFpbDogJ251bGxAY3liZXJzb3VyY2UuY29tJywKICAgICAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdC51cGRhdGVDdXN0b21lclByb2ZpbGUodXBkYXRlRGF0YSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50aGVuKHJlc3VsdCA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KHJlc3VsdCkudG8uZXFsKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVjaXNpb246ICdBQ0NFUFQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWFzb25Db2RlOiAnMTAwJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWVzdElkOiAnNTM2MTkwMzQxMjc5NjMwNDgwNDAxMicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHdmcGdQcm9maWxlSWQ6ICdpbnZhbGlkX2N1c3RvbWVyX2lkJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHdmcGdQcm9maWxlSWQ6IHZhbGlkUHJvZmlsZUlkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHNvYXBSZXF1ZXN0LCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>flow</last-search>
+      <last-search>console.</last-search>
       <last-offset />
-      <last-pattern>flow</last-pattern>
+      <last-pattern>console.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isempty</entry>
-        <entry>502</entry>
-        <entry>400</entry>
-        <entry>0</entry>
         <entry>first_name</entry>
         <entry>get</entry>
         <entry>createprofile</entry>
@@ -2592,6 +2588,10 @@
         <entry>countries</entry>
         <entry>salmon</entry>
         <entry>flow</entry>
+        <entry>console</entry>
+        <entry>only</entry>
+        <entry>conso</entry>
+        <entry>console.</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
