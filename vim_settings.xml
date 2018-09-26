@@ -309,12 +309,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1537939754886">
-        <mark key="'" line="433" column="40" />
-        <mark key="[" line="445" column="41" />
-        <mark key="]" line="445" column="50" />
-        <mark key="." line="445" column="50" />
-        <mark key="^" line="445" column="50" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1537976415908">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="461" column="44" />
+        <mark key="]" line="461" column="74" />
+        <mark key="." line="461" column="44" />
+        <mark key="^" line="461" column="43" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -804,10 +804,10 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" timestamp="1537825664144">
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/transaction.js" timestamp="1537941205291">
         <mark key="'" line="11" column="12" />
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="34" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
@@ -860,12 +860,12 @@
         <mark key="." line="8" column="55" />
         <mark key="^" line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1537935704642">
-        <mark key="'" line="176" column="20" />
-        <mark key="[" line="256" column="20" />
-        <mark key="]" line="256" column="20" />
-        <mark key="." line="256" column="24" />
-        <mark key="^" line="275" column="38" />
+      <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1537975665983">
+        <mark key="'" line="20" column="11" />
+        <mark key="[" line="288" column="14" />
+        <mark key="]" line="288" column="18" />
+        <mark key="." line="288" column="18" />
+        <mark key="^" line="288" column="18" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/dev/index.js" timestamp="1530811429471">
         <mark key="[" line="17" column="53" />
@@ -1717,12 +1717,12 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1537935099943">
-        <mark key="'" line="95" column="4" />
-        <mark key="[" line="109" column="96" />
-        <mark key="]" line="109" column="96" />
-        <mark key="." line="109" column="96" />
-        <mark key="^" line="109" column="96" />
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1537941289037">
+        <mark key="'" line="116" column="12" />
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="26" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" timestamp="1535755725738">
         <mark key="'" line="2" column="0" />
@@ -1841,12 +1841,12 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537935603856">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1537940245971">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="305" column="15" />
-        <mark key="]" line="305" column="18" />
-        <mark key="." line="305" column="18" />
-        <mark key="^" line="305" column="18" />
+        <mark key="[" line="335" column="14" />
+        <mark key="]" line="335" column="18" />
+        <mark key="." line="335" column="18" />
+        <mark key="^" line="335" column="18" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
@@ -1874,43 +1874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
-      <jump line="141" column="29" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
-      <jump line="84" column="13" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="24" column="41" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_init_redirect_provider.js" />
-      <jump line="61" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_init_redirect_provider.js" />
-      <jump line="69" column="22" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_init_redirect_provider.js" />
-      <jump line="82" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_init_redirect_provider.js" />
-      <jump line="89" column="22" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_init_redirect_provider.js" />
-      <jump line="101" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_init_redirect_provider.js" />
-      <jump line="237" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
-      <jump line="198" column="46" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
-      <jump line="244" column="29" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="238" column="51" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="306" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="185" column="27" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="199" column="53" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="211" column="27" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="198" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="261" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="263" column="57" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="275" column="31" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="302" column="55" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="181" column="54" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="241" column="58" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="245" column="31" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="259" column="57" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="271" column="31" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="298" column="55" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="266" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="274" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="308" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="411" column="24" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="328" column="20" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="332" column="31" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="339" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="343" column="35" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="346" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
@@ -1974,6 +1937,43 @@
       <jump line="416" column="38" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="432" column="51" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="433" column="40" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="414" column="6" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="64" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="239" column="5" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="103" column="44" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
+      <jump line="30" column="26" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
+      <jump line="88" column="36" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
+      <jump line="89" column="27" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
+      <jump line="98" column="54" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
+      <jump line="104" column="83" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
+      <jump line="116" column="12" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
+      <jump line="125" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="268" column="27" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="44" column="51" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="46" column="49" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="61" column="106" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="63" column="51" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="76" column="61" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="79" column="106" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="81" column="55" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="2" column="10" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="3" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="4" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="6" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="7" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="8" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="9" column="12" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="11" column="10" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="12" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="13" column="14" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="15" column="12" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="16" column="7" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="26" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="41" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="20" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2503,7 +2503,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>state</text>
+        <text>{ '#text': profileData.email }</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2512,111 +2512,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>{ '#text': profileData.email }</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghXy5oYXMocHJvZmlsZURhdGEsICdzdGF0ZScpKSB7CiAgICAgICAgICAgICAgICAgICAgZGVsZXRlIHRvVXBkYXRlWyduczE6c3RhdGUnXTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pcXVlOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghXy5oYXMocHJvZmlsZURhdGEsICdjb3VudHJ5X2NvZGUnKSkgewogICAgICAgICAgICAgICAgICAgIGRlbGV0ZSB0b1VwZGF0ZVsnbnMxOmNvdW50cnknXTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvdXBkYXRlID0ge30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSB0b1VwZGF0ZVsnbnMxOmNvdW50cnknXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWxldGUgdG9VcGRhdGVbJ25zMTplbWFpbCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2ZpbGVNb2RlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZmlsZV9pZDogcHJvZmlsZXMucmVjb3Jkc1swXS5wcm9maWxlX2lkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvVXBkYXRlWyduczE6Y291bnRyeSddID0geyAnI3RleHQnOiBwcm9maWxlRGF0YS5jb3VudHJ5X2NvZGUgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHByb2ZpbGVzID0gXy5jbG9uZURlZXAocmVxdWlyZSgnLi4vZml4dHVyZXMvZGF0YXN0b3Jlcy9wYXltZW50X3Byb2ZpbGVzJykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvVXBkYXRlWyduczE6cG9zdGFsQ29kZSddID0geyAnI3RleHQnOiBwcm9maWxlRGF0YS5wb3N0YWxfY29kZSB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9maWxlX2lkOiAK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-                    'SOAP-ENV:Envelope': {
-                        '@xmlns:SOAP-ENV': 'http://schemas.xmlsoap.org/soap/envelope/',
-                        '@xmlns:ns1': 'urn:schemas-cybersource-com:transaction-data-1.148',
-                        'SOAP-ENV:Header': {
-                            '@xmlns:wsse': 'http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd',
-                            'wsse:Security': {
-                                '@SOAP-ENV:mustUnderstand': '1',
-                                'wsse:UsernameToken': {
-                                    'wsse:Username': {
-                                        '#text': this.config.getProperty('paymentSystems.wfpg.username')
-                                    },
-                                    'wsse:Password': {
-                                        '@Type': 'http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText',
-                                        '#text': this.config.getProperty('paymentSystems.wfpg.apiKey')
-                                    }
-                                }
-                            }
-                        },
-                        'SOAP-ENV:Body': {
-                            'ns1:requestMessage': {
-                                'ns1:merchantID': {
-                                    '#text':
-                                        this.config.getProperty('paymentSystems.wfpg.merchantId')
-                                },
-                                'ns1:merchantReferenceCode': {
-                                    '#text':
-                                        this.config.getProperty('paymentSystems.wfpg.merchantId')
-                                },
-                                'ns1:billTo': toUpdate,
-                                'ns1:item': {
-                                    '@id': '0',
-                                    'ns1:unitPrice': {
-                                        '#text': profileData.amount || 0
-                                    },
-                                },
-                                'ns1:recurringSubscriptionInfo': {
-                                    'ns1:subscriptionID': {
-                                        '#text': profileData.wfpgProfileId
-                                    }
-                                },
-                                'ns1:ccAuthService': {
-                                    '@run': 'true'
-                                },
-                                'ns1:paySubscriptionUpdateService': {
-                                    '@run': 'true'
-                                }
-                            }
-                        }
-                    }
-                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBnZXQgY3VzdG9tZXIgcHJvZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvVXBkYXRlWyduczE6ZW1haWwnXSA9IHsgJyN0ZXh0JzogcHJvZmlsZURhdGEuZW1haWwgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmIGl0IGRvZXNuJ3QgZXhpc3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
-        <entry>refund</entry>
-        <entry>REFUND</entry>
-        <entry>close()</entry>
         <entry>desc</entry>
         <entry>only</entry>
         <entry>valid</entry>
@@ -2633,6 +2579,10 @@
         <entry>paypal</entry>
         <entry>wfpg</entry>
         <entry>email</entry>
+        <entry>buildcharge</entry>
+        <entry>profile_id</entry>
+        <entry>profile</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
