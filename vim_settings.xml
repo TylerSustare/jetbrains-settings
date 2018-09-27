@@ -309,12 +309,12 @@
         <mark key="." line="678" column="6" />
         <mark key="^" line="678" column="6" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1538000097131">
-        <mark key="'" line="117" column="4" />
-        <mark key="[" line="124" column="114" />
-        <mark key="]" line="124" column="117" />
-        <mark key="^" line="124" column="117" />
-        <mark key="." line="124" column="117" />
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" timestamp="1538070995644">
+        <mark key="'" line="126" column="19" />
+        <mark key="[" line="127" column="59" />
+        <mark key="]" line="127" column="59" />
+        <mark key="^" line="121" column="65" />
+        <mark key="." line="127" column="62" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/config/keys.json" timestamp="1525503025076">
         <mark key="[" line="35" column="0" />
@@ -419,7 +419,7 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/datastores/payment_profiles.js" timestamp="1538005229279">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/datastores/payment_profiles.js" timestamp="1538069959347">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="56" />
         <mark key="." line="44" column="56" />
@@ -540,12 +540,12 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1538066450778">
+      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1538071123777">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="45" column="49" />
-        <mark key="]" line="45" column="58" />
-        <mark key="^" line="45" column="58" />
-        <mark key="." line="45" column="58" />
+        <mark key="[" line="47" column="65" />
+        <mark key="]" line="47" column="70" />
+        <mark key="^" line="47" column="70" />
+        <mark key="." line="47" column="70" />
       </file>
       <file name="$USER_HOME$/src/services/service-member/node/config/test.json" timestamp="1525991091714">
         <mark key="[" line="58" column="66" />
@@ -984,7 +984,7 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/provider.js" timestamp="1538066463089">
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/provider.js" timestamp="1538070708561">
         <mark key="[" line="75" column="29" />
         <mark key="]" line="75" column="34" />
         <mark key="." line="75" column="34" />
@@ -1726,11 +1726,12 @@
         <mark key="." line="37" column="6" />
         <mark key="^" line="37" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1537998469342">
+      <file name="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" timestamp="1538071014525">
         <mark key="'" line="22" column="17" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="100" column="39" />
+        <mark key="]" line="100" column="43" />
+        <mark key="." line="100" column="43" />
+        <mark key="^" line="100" column="43" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" timestamp="1538065070957">
         <mark key="'" line="93" column="49" />
@@ -1849,12 +1850,12 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1538066330618">
+      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" timestamp="1538070936614">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="305" column="14" />
-        <mark key="]" line="305" column="18" />
-        <mark key="." line="305" column="18" />
-        <mark key="^" line="305" column="18" />
+        <mark key="[" line="309" column="62" />
+        <mark key="]" line="309" column="62" />
+        <mark key="." line="309" column="62" />
+        <mark key="^" line="309" column="62" />
       </file>
       <file name="$USER_HOME$/src/services/service-feature-flag/node/routes/api.js" timestamp="1507929475437">
         <mark key="[" line="69" column="0" />
@@ -1882,8 +1883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="22" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="114" column="26" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="141" column="5" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="55" column="20" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="89" column="44" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
@@ -1952,7 +1951,6 @@
       <jump line="16" column="7" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="41" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
       <jump line="20" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="310" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="27" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="343" column="87" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
@@ -1982,6 +1980,9 @@
       <jump line="79" column="8" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="37" column="0" filename="$USER_HOME$/src/services/service-payment/node/routes/profile.js" />
       <jump line="26" column="19" filename="$USER_HOME$/src/services/service-payment/node/config/test.json" />
+      <jump line="120" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="121" column="65" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
+      <jump line="126" column="19" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2511,7 +2512,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>L</text>
+        <text>profileData</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2520,58 +2521,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>profileData</text>
       </register>
       <register name="/" type="4">
-        <text>apikey</text>
+        <text>profileData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdXJsID0gcm91dGVzLkFQSV9HRVRfU0hJUFBJTkdfQUREUkVTU19GT1JfUFJPRklMRS5yZXBsYWNlKC86cHJvZmlsZV9pZC8sIHByb2ZpbGVUb0xvb2tGb3IpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+            profile_id: _.get(updatedPaymentProfile, 'profile_id')
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZGJEYXRhQnVpbGRlciA9IHJlcXVpcmVwCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBxdWVyeSA9IHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZGJEYXRhQnVpbGRlciA9IHJlcXVpcmUoJy4uL2xpYi9kYkRhdGFCdWlsZGVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGJEYXRhID0gZGJEYXRhQnVpbGRlci5idWlsZFByb2ZpbGVNb2RlbChyZXEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGJEYXRhID0gZGJEYXRhQnVpbGRlci5idWlsZFByb2ZpbGVNb2RlbChyZXEpOwo=</text>
+        <text encoding="base64">Y29uc3QgZGJEYXRhQnVpbGRlciA9IHJlcXVpcmVwCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Y29uc3QgZGJEYXRhQnVpbGRlciA9IHJlcXVpcmUoJy4uL2xpYi9kYkRhdGFCdWlsZGVyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGJEYXRhID0gZGJEYXRhQnVpbGRlci5idWlsZFByb2ZpbGVNb2RlbChyZXEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobmV3IHBheXBhbFJlc3BvbnNlRXJyb3IoZXJyLCAnUEFZUEFMX0JBRF9HQVRFV0FZJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZGJEYXRhID0gZGJEYXRhQnVpbGRlci5idWlsZFByb2ZpbGVNb2RlbChyZXEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgZGJEYXRhQnVpbGRlciA9IHJlcXVpcmUoJy4uL2xpYi9kYkRhdGFCdWlsZGVyJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>apikey</last-search>
+      <last-search>profileData</last-search>
       <last-offset />
-      <last-pattern>apikey</last-pattern>
+      <last-pattern>profileData</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>wfpgprofileId</entry>
         <entry>update</entry>
         <entry>paypal</entry>
         <entry>wfpg</entry>
@@ -2591,6 +2593,7 @@
         <entry>get</entry>
         <entry>body</entry>
         <entry>apikey</entry>
+        <entry>profileData</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
