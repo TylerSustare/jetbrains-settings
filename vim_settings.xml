@@ -338,12 +338,12 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="11" column="62" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" timestamp="1539190254449">
-        <mark key="'" line="1" column="25" />
-        <mark key="[" line="1" column="82" />
-        <mark key="]" line="1" column="82" />
-        <mark key="^" line="59" column="79" />
-        <mark key="." line="1" column="82" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" timestamp="1539191896528">
+        <mark key="'" line="174" column="33" />
+        <mark key="[" line="110" column="22" />
+        <mark key="]" line="110" column="22" />
+        <mark key="^" line="107" column="44" />
+        <mark key="." line="110" column="22" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1525727289152">
         <mark key="'" line="209" column="70" />
@@ -573,12 +573,11 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1539153611383">
-        <mark key="'" line="39" column="47" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="64" column="17" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1539190946307">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1512759351235">
         <mark key="'" line="214" column="8" />
@@ -699,6 +698,12 @@
         <mark key="]" line="1838" column="20" />
         <mark key="." line="1838" column="20" />
         <mark key="^" line="1838" column="20" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/ExamFailure.js" timestamp="1539191217750">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524785191921">
         <mark key="'" line="183" column="11" />
@@ -840,6 +845,12 @@
         <mark key="." line="58" column="39" />
         <mark key="^" line="58" column="39" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/CollectionFailure.js" timestamp="1539191067427">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/src/services/service-member/node/routes/api.js" timestamp="1525990882302">
         <mark key="'" line="48" column="33" />
         <mark key="[" line="1068" column="0" />
@@ -905,14 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="23" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="252" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="339" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
-      <jump line="372" column="27" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
-      <jump line="160" column="29" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/soap_requests.js" />
-      <jump line="328" column="39" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="340" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="371" column="32" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="332" column="29" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="85" column="81" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
       <jump line="20" column="28" filename="$USER_HOME$/src/services/service-payment/node/package.json" />
@@ -954,7 +957,6 @@
       <jump line="227" column="46" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="23" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="38" column="29" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="41" column="47" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
       <jump line="35" column="17" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="117" column="66" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
@@ -1005,6 +1007,15 @@
       <jump line="280" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="1" column="25" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="60" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Todo.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
+      <jump line="223" column="21" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="209" column="39" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="14" column="51" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="1" column="18" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/ExamFailure.js" />
+      <jump line="3" column="10" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/ExamFailure.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="174" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1534,7 +1545,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>Button</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1543,58 +1554,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Button</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>Collection</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+YXNzb2NpYXRlIGV4YW0gdG8gY291cnNlPC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDxFeGFtRmFpbHVyZSAvPjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+YXNzb2NpYXRlIGV4YW0gdG8gY291cnNlPC9saT4KICAgICAgICAgICAgICAgICAgICA8L29sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b2w+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDYXJkPgogICAgICAgICAgICAgICAgICAgIDxDYXJkQm9keT4KICAgICAgICAgICAgICAgICAgICAgICAgPEFsZXJ0IGNvbG9yPSJkYW5nZXIiPiBGYWlsZWQgdG8gZ2V0IEV4YW0gZGV0YWlsczwvQWxlcnQ+CiAgICAgICAgICAgICAgICAgICAgPC9DYXJkQm9keT4KICAgICAgICAgICAgICAgIDwvQ2FyZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA8QWxlcnQgY29sb3I9ImRhbmdlciI+IEZhaWxlZCB0byBnZXQgRXhhbSA8L0FsZXJ0PjsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBET05FCiAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9DYXJkPgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+PHN0cmlrZT48L3N0cmlrZT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QWxlcnQgY29sb3I9ImRhbmdlciI+IEZhaWxlZCB0byBnZXQgY29sbGVjdGlvbiA8L0FsZXJ0PgogICAgICAgICAgICAgICAgPC9DYXJkQm9keT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQm9keSA8Y29kZT57SlNPTi5zdHJpbmdpZnkoeyBwcmFjdGljZV9leGFtczogWyducm46ZXhhbS1wcm92aWRlcjprYXBsYW46MTkwMWYxMTYtYjBkZi16enp6LWIxODktYjE5OGYyNmRjYjRmJ10gfSl9PC9jb2RlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENhcmQ+CiAgICAgICAgICAgICAgICA8Q2FyZEJvZHk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUE9TVCA8Y29kZT5odHRwOi8vMS52aWRlby1oaXN0b3JpY2FsLnNlcnZpY2UucWEudXMtZWFzdC0xLm51Z2dldHMubG9jYWwvY29sbGVjdGlvbi8obW9uZ28gX2lkKTwvY29kZT4KICAgICAgICAgICAgICAgICAgICAgICAgPGJyIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDYXJkPgogICAgICAgICAgICAgICAgICAgIDxDYXJkQm9keT4KICAgICAgICAgICAgICAgICAgICAgICAgPEFsZXJ0IGNvbG9yPSJkYW5nZXIiPiBGYWlsZWQgdG8gZ2V0IEV4YW0gZGV0YWlsczwvQWxlcnQ+CiAgICAgICAgICAgICAgICAgICAgPC9DYXJkQm9keT4KICAgICAgICAgICAgICAgIDwvQ2FyZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPm1ha2UgYW5vdGhlciBjYXJkIGFza2luZyB1c2VyICJkbyB5b3Ugd2FudCB0byBhZGQgIkVYQU0gTkFNRSIgdG8gIkNPTExFQ1RJT04gVElUTEUiPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPlVwZGF0ZSBjb2xsZWN0aW9uOiBtYWtlIHN1cmUgdG8gQUREIGV4YW0gdG8gPGNvZGU+cHJhY3RpY2VfZXhhbXM8L2NvZGU+IGFycmF5PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uRmFpbHVyZS5qcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPj5nZXQgZXhhbSA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGk+Z2V0IGNvbGxlY3Rpb248L2xpPgo=</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>Collection</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>Collection</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_</entry>
         <entry>associate</entry>
         <entry>FETCH</entry>
         <entry>gete</entry>
@@ -1614,6 +1624,7 @@
         <entry>exams</entry>
         <entry>console</entry>
         <entry>id</entry>
+        <entry>Collection</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
