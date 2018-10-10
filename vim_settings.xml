@@ -185,11 +185,12 @@
         <mark key="^" line="231" column="60" />
         <mark key="." line="231" column="60" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" timestamp="1539145819980">
-        <mark key="'" line="32" column="17" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" timestamp="1539151842343">
+        <mark key="'" line="124" column="118" />
+        <mark key="[" line="124" column="128" />
+        <mark key="]" line="124" column="133" />
+        <mark key="." line="124" column="133" />
+        <mark key="^" line="124" column="133" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
@@ -331,12 +332,12 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="11" column="62" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" timestamp="1539150016265">
-        <mark key="'" line="227" column="46" />
-        <mark key="[" line="41" column="88" />
-        <mark key="]" line="41" column="100" />
-        <mark key="^" line="41" column="100" />
-        <mark key="." line="41" column="100" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" timestamp="1539156829339">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="^" line="242" column="33" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1525727289152">
         <mark key="'" line="209" column="70" />
@@ -387,11 +388,12 @@
         <mark key="^" line="139" column="40" />
         <mark key="." line="153" column="40" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" timestamp="1539147679954">
-        <mark key="'" line="1" column="65" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" timestamp="1539150987046">
+        <mark key="'" line="48" column="19" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="129" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
         <mark key="'" line="40" column="1" />
@@ -558,10 +560,11 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1539100810147">
-        <mark key="[" line="87" column="17" />
-        <mark key="]" line="87" column="17" />
-        <mark key="." line="87" column="17" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" timestamp="1539153611383">
+        <mark key="'" line="39" column="47" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="42" column="0" />
         <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_token_for_email.js" timestamp="1512759351235">
@@ -889,51 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="4" column="18" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="5" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="6" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="7" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="8" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="9" column="12" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="11" column="10" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="12" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="13" column="14" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="15" column="12" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="16" column="7" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="41" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="20" column="11" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="310" column="15" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="343" column="87" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="3" column="66" filename="$USER_HOME$/src/services/service-payment/node/routes/profile.js" />
-      <jump line="39" column="56" filename="$USER_HOME$/src/services/service-payment/node/routes/profile.js" />
-      <jump line="93" column="49" filename="$USER_HOME$/src/services/service-payment/node/lib/validators/profile_validator.js" />
-      <jump line="5" column="31" filename="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" />
-      <jump line="170" column="44" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="408" column="12" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="271" column="31" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="26" column="37" filename="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" />
-      <jump line="22" column="17" filename="$USER_HOME$/src/services/service-payment/node/models/mongodb/payment_profile.js" />
-      <jump line="160" column="42" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
-      <jump line="309" column="84" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="75" column="21" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="88" column="16" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="191" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
-      <jump line="117" column="4" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="370" column="40" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="387" column="35" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="5" column="55" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="17" column="53" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="77" column="32" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="79" column="8" filename="$USER_HOME$/src/services/service-payment/node/lib/provider.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/src/services/service-payment/node/routes/profile.js" />
-      <jump line="26" column="19" filename="$USER_HOME$/src/services/service-payment/node/config/test.json" />
-      <jump line="120" column="0" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="121" column="65" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
-      <jump line="126" column="19" filename="$USER_HOME$/src/services/service-payment/node/lib/soap_request.js" />
       <jump line="383" column="68" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="306" column="23" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="252" column="17" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
@@ -949,16 +907,13 @@
       <jump line="8" column="10" filename="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" />
       <jump line="42" column="5" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="123" column="31" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="55" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="194" column="38" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="61" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="66" column="50" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="68" column="6" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="73" column="72" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="81" column="57" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="45" column="20" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
       <jump line="172" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="1" column="65" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
       <jump line="22" column="19" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
@@ -973,9 +928,7 @@
       <jump line="201" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="16" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="206" column="61" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="51" column="8" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="17" column="23" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="210" column="68" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="208" column="48" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="39" column="13" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
@@ -983,12 +936,62 @@
       <jump line="6" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="216" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="4" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="72" column="39" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="40" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="219" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="38" column="25" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="28" column="20" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="227" column="46" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="38" column="29" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="41" column="47" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
+      <jump line="35" column="17" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="117" column="66" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="128" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="161" column="65" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="114" column="53" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="90" column="19" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="103" column="52" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="5" column="34" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="149" column="43" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="184" column="63" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="79" column="5" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="118" column="97" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="0" column="16" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="8" column="26" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="19" column="64" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
+      <jump line="20" column="66" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
+      <jump line="21" column="66" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
+      <jump line="44" column="8" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="43" column="4" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="72" column="35" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="228" column="47" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="126" column="99" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
+      <jump line="129" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
+      <jump line="130" column="46" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
+      <jump line="48" column="19" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
+      <jump line="6" column="31" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="7" column="24" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="115" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="119" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="116" column="44" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="120" column="44" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="267" column="40" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="27" column="37" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="124" column="118" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="87" column="12" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="70" column="136" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="74" column="60" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="75" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="89" column="39" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="94" column="51" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="229" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="233" column="36" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="234" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="280" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
+      <jump line="1" column="25" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1517,8 +1520,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDb2wgc209ezl9IC8+Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1527,77 +1530,77 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>SUCCESS</text>
+        <text>id</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHJlbmRlckV4YW1zU2VsZWN0KCkgewogICAgICAgIC8vIGV4dF9leGFtX2lkKHBpbik6ICIyMjI1OTUiCiAgICAgICAgLy8gZXh0X2V4YW1fZGV0YWlscy5leHRfZXhhbV9kZXNjcmlwdGlvbihwaW4pOiAiMzEyLTUwIDE4MC1EYXkgRXhhbSBQcmVwYXJhdGlvbiAoT25saW5lICsgRG93bmxvYWQpIgogICAgICAgIC8vIGV4dF9leGFtX2RldGFpbHMuZXh0X2V4YW1fbmFtZShwaW4pOiAiMzEyLTUwIDE4MC1EYXkgRXhhbSBQcmVwYXJhdGlvbiAoT25saW5lICsgRG93bmxvYWQpIgogICAgICAgIC8vIGV4dF9leGFtX2RldGFpbHMuZXh0X2V4YW1fdmVuZG9yKHBpbik6ICJFQ0NPVU5DSUwiCiAgICAgICAgLy8gcHJvdmlkZXIocGluKTogImthcGxhbiIKICAgICAgICAvLyBleGFtX2lkKHBpbik6ICI5OWIzOWVjOS1jOWVlLTQzMmYtYjQzNS0xYzM5MjZkMTQwYTYiCiAgICAgICAgaWYgKHRoaXMucHJvcHMuYWxsRXhhbXNTdGF0dXMgPT09ICdTVUNDRVNTJykgewogICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLmFsbEV4YW1zKTsKICAgICAgICAgICAgY29uc3Qgb3B0aW9ucyA9IHRoaXMucHJvcHMuYWxsRXhhbXMubWFwKGUgPT4gKHsgdmFsdWU6IGUuZXhhbV9pZCwgbGFiZWw6IEpTT04uc3RyaW5naWZ5KGUuZXh0X2V4YW1fZGV0YWlscy5leHRfZXhhbV9uYW1lKSB9KSk7CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8U2VsZWN0CiAgICAgICAgICAgICAgICAgICAgb3B0aW9ucz17b3B0aW9uc30KICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iRXhhbSIKICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVDb2xsZWN0aW9uSWRDaGFuZ2UuYmluZCh0aGlzKX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICk7CiAgICAgICAgfQogICAgfQo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9Gb3JtR3JvdXA+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHRfc3RhdGUocGluKTogImFjdGl2ZSIKICAgICAgICAvLyBleHRfdXBkYXRlX2F0KHBpbik6ICIyMDE4LTA0LTExVDIxOjA2OjI0Ljk0MloiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDb2wgc209ezl9IC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB1cGRhdGVkX2F0KHBpbik6ICIyMDE4LTA5LTE3VDE5OjU5OjAyLjgwN1oiCiAgICAgICAgLy8gZXh0X3VwZGF0ZWRfYXQocGluKTogIjIwMTgtMDktMThUMDA6MDA6MDAuMDAwWiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9Gb3JtR3JvdXA+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgey8qaHR0cHM6Ly9yZWFjdC1zZWxlY3QuY29tL2hvbWUjZ2V0dGluZy1zdGFydGVkKi99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3Qgb3B0aW9ucyA9IHRoaXMucHJvcHMuYWxsRXhhbXMubWFwKGUgPT4gKHsgdmFsdWU6ICdmbHVmZnknLCBsYWJlbDogJ2Jpc2N1aXQnIH0pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDb2wgc209ezl9IC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Q29sIHNtPXsyfT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9Db2w+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBvcHRpb25zPXt0aGlzLm9wdGlvbnN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIDxiciAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJFeGFtc1NlbGVjdCgpfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyQ29sbGVjdGlvbnNTZWxlY3QoKX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SUCCESS</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>SUCCESS</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>salmon</entry>
-        <entry>flow</entry>
-        <entry>conso</entry>
-        <entry>get</entry>
-        <entry>body</entry>
-        <entry>apikey</entry>
-        <entry>profileData</entry>
-        <entry>only</entry>
-        <entry encoding="base64">c2hvdWxkIHVwZGF0ZSBhIA==</entry>
-        <entry>Bend</entry>
-        <entry>sinonsandbox</entry>
-        <entry>console.</entry>
-        <entry>responsemap</entry>
         <entry>_</entry>
         <entry>associate</entry>
         <entry>FETCH</entry>
         <entry>gete</entry>
         <entry>fetchExam</entry>
-        <entry>console</entry>
         <entry>SUCCESS</entry>
+        <entry>options</entry>
+        <entry>succes</entry>
+        <entry>error</entry>
+        <entry>Success</entry>
+        <entry>'Succes'</entry>
+        <entry>success\'</entry>
+        <entry>NOT</entry>
+        <entry>ERROR\'</entry>
+        <entry>component</entry>
+        <entry>EXAMS</entry>
+        <entry>handleCollection</entry>
+        <entry>exams</entry>
+        <entry>console</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
