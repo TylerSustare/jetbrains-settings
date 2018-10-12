@@ -10,12 +10,11 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1539386617503">
-        <mark key="'" line="70" column="34" />
-        <mark key="[" line="70" column="31" />
-        <mark key="]" line="70" column="36" />
-        <mark key="." line="70" column="36" />
-        <mark key="^" line="70" column="36" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1539387827354">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/routes/provider.js" timestamp="1536261380244">
         <mark key="'" line="39" column="44" />
@@ -354,8 +353,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539386569783">
-        <mark key="'" line="32" column="12" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539388088231">
+        <mark key="'" line="34" column="29" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
         <mark key="'" line="39" column="1" />
@@ -966,8 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="20" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
-      <jump line="172" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="1" column="65" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
       <jump line="22" column="19" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="214" column="18" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
@@ -1066,6 +1067,8 @@
       <jump line="40" column="11" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="46" column="45" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="32" column="12" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="68" column="60" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="34" column="29" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1594,8 +1597,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1604,7 +1607,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>console.</text>
@@ -1613,34 +1616,34 @@
         <text encoding="base64">ICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIDxBY3Rpdml0eUluZGljYXRvciBzaXplPSJsYXJnZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2FkaW5nKSByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHByb3BzLnVzZXIsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8TmF2aWdhdG9yIC8+Owo=</text>
+        <text encoding="base64">ICAgIGlmIChsb2FkaW5nKSByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8TG9naW4gLz47Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8TG9naW4gLz47Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA8TmF2aWdhdG9yIC8+Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
