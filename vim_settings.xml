@@ -10,6 +10,13 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1539386617503">
+        <mark key="'" line="70" column="34" />
+        <mark key="[" line="70" column="31" />
+        <mark key="]" line="70" column="36" />
+        <mark key="." line="70" column="36" />
+        <mark key="^" line="70" column="36" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/routes/provider.js" timestamp="1536261380244">
         <mark key="'" line="39" column="44" />
         <mark key="[" line="37" column="132" />
@@ -58,6 +65,12 @@
         <mark key="]" line="33" column="22" />
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/App.js" timestamp="1539386576332">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1525124262117">
         <mark key="'" line="79" column="19" />
@@ -182,6 +195,11 @@
         <mark key="]" line="797" column="49" />
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" timestamp="1539386384818">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="62" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1526547277109">
         <mark key="'" line="40" column="8" />
@@ -336,6 +354,9 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539386569783">
+        <mark key="'" line="32" column="12" />
+      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
         <mark key="'" line="39" column="1" />
         <mark key="[" line="18" column="17" />
@@ -412,6 +433,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="129" column="45" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1539385510339">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
         <mark key="'" line="40" column="1" />
@@ -619,9 +643,10 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" timestamp="1539385446850">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="4" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" timestamp="1539386141067">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="30" />
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="4" />
       </file>
@@ -941,14 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="5" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="123" column="31" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="194" column="38" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="66" column="50" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="73" column="72" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="81" column="57" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="45" column="20" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
       <jump line="172" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="1" column="65" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
@@ -1041,6 +1058,14 @@
       <jump line="34" column="4" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/audit.js" />
       <jump line="33" column="13" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/audit.js" />
       <jump line="21" column="22" filename="$USER_HOME$/src/services/service-exam-provider/node/bin/audit.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
+      <jump line="37" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
+      <jump line="74" column="24" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
+      <jump line="70" column="34" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
+      <jump line="40" column="11" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="46" column="45" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="32" column="12" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1570,7 +1595,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2lnbmluLmRhdGEuc2lnbmluVXNlci50b2tlbik7IC8vIGZyb20gdGhlIHNpZ25pbiB1c2VyIG11dGF0aW9uCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1579,59 +1604,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>Collection</text>
+        <text>console.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbkluKHNpZ25pbi5kYXRhLnNpZ25pblVzZXIudG9rZW4pOyAvLyBmcm9tIHRoZSBzaWduaW4gdXNlciBtdXRhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIDxBY3Rpdml0eUluZGljYXRvciBzaXplPSJsYXJnZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2lnbmluLmRhdGEuc2lnbmluVXNlci50b2tlbik7IC8vIGZyb20gdGhlIHNpZ25pbiB1c2VyIG11dGF0aW9uCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8KCg==</text>
+        <text encoding="base64">ICAgIGlmIChsb2FkaW5nKSByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0KICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAicm95YWx0eSI6IDAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJ0cmFpbmVyIjogIjUzMDc4YWMwMTk5OWRiMzFlMzc4YjJmYyIsCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA8TmF2aWdhdG9yIC8+Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJpZCI6ICI1Njc0ODJlNWY1YWQyNDBiMDAwMDBhYTUiLAogICAgInJveWFsdGllcyI6IFsK</text>
+        <text encoding="base64">ICAgIHJldHVybiA8TG9naW4gLz47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7CiAgICAidGl0bGUiOiAiSVNBQ0EgQ0lTQSAyMDE2IiwK</text>
+        <text encoding="base64">ICAgIHJldHVybiA8TG9naW4gLz47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF0KICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Collection</last-search>
+      <last-search>console.</last-search>
       <last-offset />
-      <last-pattern>Collection</last-pattern>
+      <last-pattern>console.</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>associate</entry>
-        <entry>FETCH</entry>
         <entry>gete</entry>
         <entry>fetchExam</entry>
         <entry>SUCCESS</entry>
@@ -1650,6 +1673,8 @@
         <entry>console</entry>
         <entry>id</entry>
         <entry>Collection</entry>
+        <entry>activity</entry>
+        <entry>console.</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
