@@ -10,11 +10,12 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1539389330843">
-        <mark key="[" line="81" column="17" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="81" column="40" />
-        <mark key="^" line="81" column="40" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1539734645542">
+        <mark key="'" line="65" column="48" />
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="109" />
+        <mark key="." line="36" column="109" />
+        <mark key="^" line="36" column="109" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/routes/provider.js" timestamp="1536261380244">
         <mark key="'" line="39" column="44" />
@@ -65,11 +66,11 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/App.js" timestamp="1539386576332">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/App.js" timestamp="1539732583518">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="10" />
         <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="0" />
+        <mark key="." line="23" column="10" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1525124262117">
         <mark key="'" line="79" column="19" />
@@ -206,6 +207,12 @@
         <mark key="]" line="30" column="43" />
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="43" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/loginUtils.js" timestamp="1539733901183">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="47" />
       </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests-app/App.js" timestamp="1527746106896">
         <mark key="'" line="28" column="0" />
@@ -353,12 +360,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539388088231">
-        <mark key="'" line="34" column="29" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="80" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539734495525">
+        <mark key="'" line="56" column="29" />
+        <mark key="[" line="77" column="26" />
+        <mark key="]" line="77" column="34" />
+        <mark key="^" line="77" column="34" />
+        <mark key="." line="77" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
         <mark key="'" line="39" column="1" />
@@ -437,7 +444,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="129" column="45" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1539728231397">
+      <file name="/GraphQL.result.json" timestamp="1539732818303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
@@ -515,6 +522,13 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" timestamp="1539734499181">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="21" column="49" />
+        <mark key="." line="21" column="49" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1524518699230">
         <mark key="'" line="68" column="47" />
@@ -641,12 +655,12 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" timestamp="1539386141067">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="21" column="4" />
-        <mark key="^" line="21" column="4" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" timestamp="1539734483021">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="81" />
+        <mark key="." line="18" column="80" />
+        <mark key="^" line="18" column="80" />
       </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/common.js" timestamp="1512595032585">
         <mark key="'" line="102" column="52" />
@@ -682,6 +696,11 @@
         <mark key="]" line="46" column="1" />
         <mark key="." line="46" column="1" />
         <mark key="^" line="46" column="1" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/graphql.config.json" timestamp="1539732968521">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1537992117543">
         <mark key="'" line="16" column="9" />
@@ -725,9 +744,11 @@
         <mark key="^" line="108" column="22" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/LoginUser.js" timestamp="1539385373219">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="82" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/LoginUser.js" timestamp="1539734791213">
+        <mark key="[" line="14" column="82" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" timestamp="1513966220993">
         <mark key="'" line="1851" column="20" />
@@ -965,14 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="65" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
-      <jump line="22" column="19" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="214" column="18" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="18" column="31" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="32" column="17" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="60" column="24" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="203" column="81" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="207" column="34" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="199" column="62" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="100" column="7" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="201" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
@@ -1065,6 +1078,14 @@
       <jump line="32" column="12" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="68" column="60" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="34" column="29" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" />
+      <jump line="21" column="49" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" />
+      <jump line="31" column="68" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
+      <jump line="56" column="29" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
+      <jump line="59" column="48" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1594,7 +1615,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIDxBY3Rpdml0eUluZGljYXRvciBzaXplPSJsYXJnZSIgLz47Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aEFwb2xsbyhMb2dpbik7IC8vIG1ha2UgdGhlIGNsaWVudCBwcm9wIGF2YWlsYWJsZQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1603,43 +1624,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ZGVmYXVsdCA=</text>
       </register>
       <register name="/" type="4">
         <text>console.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIDxBY3Rpdml0eUluZGljYXRvciBzaXplPSJsYXJnZSIgLz4K</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aEFwb2xsbyB9IGZyb20gJ3JlYWN0LWFwb2xsbyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIDxBY3Rpdml0eUluZGljYXRvciBzaXplPSJsYXJnZSIgLz47Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aEFwb2xsbyhMb2dpbik7IC8vIG1ha2UgdGhlIGNsaWVudCBwcm9wIGF2YWlsYWJsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGkK</text>
+        <text encoding="base64">ICAgICAgICAiZmlsZSI6ICJncmFwaHFsLnNjaGVtYS5qc29uLmRhdGFkZCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHByb3BzLnVzZXIsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9hZGluZykgcmV0dXJuIDxBY3Rpdml0eUluZGljYXRvciBzaXplPSJsYXJnZSIgLz47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2FkaW5nKSByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHByb3BzLnVzZXIsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
