@@ -196,10 +196,12 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" timestamp="1539386384818">
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" timestamp="1539753209091">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="62" />
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="29" column="48" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1526547277109">
         <mark key="'" line="40" column="8" />
@@ -360,8 +362,11 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539751937298">
-        <mark key="'" line="56" column="29" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" timestamp="1539753218653">
+        <mark key="'" line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539753242162">
+        <mark key="'" line="7" column="6" />
         <mark key="[" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
@@ -983,15 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="62" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="100" column="7" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="201" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="206" column="61" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="51" column="8" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="210" column="68" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="208" column="48" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="39" column="13" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="221" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="6" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="216" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
@@ -1083,6 +1079,15 @@
       <jump line="40" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" />
       <jump line="91" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
       <jump line="59" column="48" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
+      <jump line="11" column="19" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
+      <jump line="41" column="60" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
+      <jump line="69" column="12" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="74" column="23" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="75" column="11" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="79" column="3" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
+      <jump line="7" column="6" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1611,8 +1616,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aEFwb2xsbyhMb2dpbik7IC8vIG1ha2UgdGhlIGNsaWVudCBwcm9wIGF2YWlsYWJsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1621,10 +1626,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmYXVsdCA=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>console.</text>
+        <text>newPost</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgd2l0aEFwb2xsbyB9IGZyb20gJ3JlYWN0LWFwb2xsbyc7Cg==</text>
@@ -1664,17 +1669,14 @@
       </register>
     </registers>
     <search>
-      <last-search>console.</last-search>
+      <last-search>newPost</last-search>
       <last-offset />
-      <last-pattern>console.</last-pattern>
+      <last-pattern>newPost</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gete</entry>
-        <entry>fetchExam</entry>
-        <entry>SUCCESS</entry>
         <entry>options</entry>
         <entry>succes</entry>
         <entry>error</entry>
@@ -1692,6 +1694,9 @@
         <entry>Collection</entry>
         <entry>activity</entry>
         <entry>console.</entry>
+        <entry>onsubmit</entry>
+        <entry>submitform</entry>
+        <entry>newPost</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
