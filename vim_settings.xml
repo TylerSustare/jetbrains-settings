@@ -24,6 +24,7 @@
         <mark key="^" line="37" column="130" />
         <mark key="." line="37" column="132" />
       </file>
+      <file name="$USER_HOME$/src/services/service-search/node/node_modules/elasticsearch/src/lib/host.js" timestamp="1539797874641" />
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="53" column="30" />
@@ -113,6 +114,7 @@
         <mark key="." line="598" column="58" />
         <mark key="^" line="598" column="58" />
       </file>
+      <file name="$USER_HOME$/src/services/service-search/node/config/prod.json" timestamp="1539797916607" />
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530807054472">
         <mark key="'" line="445" column="29" />
         <mark key="[" line="237" column="0" />
@@ -758,12 +760,6 @@
         <mark key="]" line="1838" column="20" />
         <mark key="." line="1838" column="20" />
         <mark key="^" line="1838" column="20" />
-      </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/ExamFailure.js" timestamp="1539191217750">
-        <mark key="'" line="3" column="10" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/lib/todoProcess.js" timestamp="1524785191921">
         <mark key="'" line="183" column="11" />
@@ -1673,7 +1669,7 @@
       <last-offset />
       <last-pattern>updatemu</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
