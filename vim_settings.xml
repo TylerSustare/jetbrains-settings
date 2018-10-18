@@ -499,11 +499,11 @@
         <mark key="^" line="76" column="51" />
         <mark key="." line="76" column="51" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfile/__test__/CreatePaymentProfile.test.js" timestamp="1539903914739">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="30" />
+      <file name="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfile/__test__/CreatePaymentProfile.test.js" timestamp="1539904798557">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile_init_redirect_provider.js" timestamp="1537829856489">
         <mark key="'" line="101" column="16" />
@@ -601,6 +601,12 @@
         <mark key="]" line="19" column="31" />
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/libs/lib-react-payment-components/.gitignore" timestamp="1539904775088">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/src/lambdas/lambda-notification-schedule-internalProcessTodos/config/test.js" timestamp="1523985886019">
         <mark key="'" line="21" column="0" />
@@ -1670,7 +1676,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Rm9ybSA=</text>
+        <text>Form</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1679,7 +1685,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Rm9ybSA=</text>
+        <text>Form</text>
       </register>
       <register name="/" type="4">
         <text>newpost</text>
