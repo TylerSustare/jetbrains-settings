@@ -24,7 +24,6 @@
         <mark key="^" line="37" column="130" />
         <mark key="." line="37" column="132" />
       </file>
-      <file name="$USER_HOME$/src/services/service-search/node/node_modules/elasticsearch/src/lib/host.js" timestamp="1539797874641" />
       <file name="$USER_HOME$/src/workers/worker-leaderboard-reducer/node/config/keys.json" timestamp="1516922169926">
         <mark key="'" line="58" column="1" />
         <mark key="[" line="53" column="30" />
@@ -114,7 +113,6 @@
         <mark key="." line="598" column="58" />
         <mark key="^" line="598" column="58" />
       </file>
-      <file name="$USER_HOME$/src/services/service-search/node/config/prod.json" timestamp="1539797916607" />
       <file name="$USER_HOME$/src/libs/lib-app-core-nodejs/lib/config.js" timestamp="1530807054472">
         <mark key="'" line="445" column="29" />
         <mark key="[" line="237" column="0" />
@@ -198,12 +196,12 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" timestamp="1539757424090">
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" timestamp="1539842130781">
         <mark key="'" line="85" column="38" />
         <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="21" column="40" />
-        <mark key="." line="64" column="5" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/routes/internal.js" timestamp="1526547277109">
         <mark key="'" line="40" column="8" />
@@ -448,7 +446,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="129" column="45" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1539751623788">
+      <file name="/GraphQL.result.json" timestamp="1539841601315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
@@ -1613,7 +1611,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>BWAAAHHH</text>
+        <text>Squirrels Be Nuts</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1622,7 +1620,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BWAAAHHH</text>
+        <text>Squirrels Be Nuts</text>
       </register>
       <register name="/" type="4">
         <text>updatemu</text>
