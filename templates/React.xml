@@ -1,6 +1,10 @@
 <templateSet group="React">
-  <template name="rnc" value="import React, { Component } from 'react'&#10;import { Text, View } from 'react-native'&#10;&#10;export default class $1$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;        &lt;Text&gt; $2$ &lt;/Text&gt;&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="React Native Component" toReformat="false" toShortenFQNames="true">
+  <template name="rnc" value="import React, { Component } from 'react';&#10;import { Text, View } from 'react-native';&#10;&#10;export default class $1$ extends Component {&#10;  render() {&#10;    return (&#10;      &lt;View&gt;&#10;        &lt;Text&gt; $2$ &lt;/Text&gt;&#10;      &lt;/View&gt;&#10;    );&#10;  }&#10;}" description="React Native Component" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
 </templateSet>

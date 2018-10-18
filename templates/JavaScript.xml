@@ -59,4 +59,5 @@
     <variable name="ITEM" expression="jsSuggestImportedEntityName()" defaultValue="Namespace" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="rnc" value="a" description="React Native Component" toReformat="false" toShortenFQNames="true" />
 </templateSet>

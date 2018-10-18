@@ -818,6 +818,13 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/index.js" timestamp="1539899845454">
+        <mark key="'" line="2" column="25" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/UserForm.js" timestamp="1539887765161">
         <mark key="[" line="19" column="5" />
         <mark key="]" line="19" column="5" />
@@ -989,6 +996,12 @@
         <mark key="." line="379" column="0" />
         <mark key="^" line="380" column="57" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-react-payment-components/example/index.html" timestamp="1539900593055">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/node_modules/lib-app-core-nodejs/lib/config.js" timestamp="1530915552014">
         <mark key="'" line="232" column="12" />
         <mark key="[" line="220" column="58" />
@@ -996,11 +1009,14 @@
         <mark key="^" line="221" column="26" />
         <mark key="." line="221" column="26" />
       </file>
+      <file name="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/__test__/CreatePaymentProfileForm.test.js" timestamp="1539900511107">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="7" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="19" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/sampleActions.js" />
-      <jump line="6" column="31" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
       <jump line="114" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
       <jump line="115" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
       <jump line="119" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
@@ -1098,6 +1114,9 @@
       <jump line="86" column="24" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
       <jump line="20" column="32" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
       <jump line="48" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
+      <jump line="0" column="2" filename="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/index.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/index.js" />
+      <jump line="2" column="25" filename="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1626,8 +1645,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>React/Redux Auth Example</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1636,7 +1655,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>userQuery</text>
+        <text>React/Redux Auth Example</text>
       </register>
       <register name="/" type="4">
         <text>newpost</text>
@@ -1645,34 +1664,34 @@
         <text encoding="base64">Ly8gVE9ETzogcmVmYWN0b3IgdGhpcyBxdWVyeSB0byBsaXZlIHNvbWV3aGVyZSBlbHNlIGZvciByZS11c2UgaW4gUG9zdC5qcyBhbmQgVXBkYXRlUG9zdC5qcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0aGlzKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIH0KCg==</text>
+        <text encoding="base64">Y29uc3Qgc3VtID0gcmVxdWlyZSgnLi9zdW0nKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgfQogICAgLy8gICAgIH0pLnRoZW4oKCkgPT4geyB9KS5jYXRjaChlcnJvciA9PiBjb25zb2xlLmxvZyhlcnJvcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24+PC9CdXR0b24+ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgIHRpdGxlLAogICAgLy8gICAgICAgICAgICAgYm9keQo=</text>
+        <text encoding="base64">aW1wb3J0IHtCfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB0aGlzLnByb3BzLnVwZGF0ZVBvc3QoewogICAgLy8gICAgICAgICB2YXJpYWJsZXM6IHsK</text>
+        <text encoding="base64">PGk+ICAgICA8L2k+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHVwZGF0ZVBvc3QgPSAoeyB0aXRsZSwgYm9keSB9KSA9PiB7CiAgICAvLyAgICAgY29uc29sZS5sb2codGl0bGUsIGJvZHkpOwo=</text>
+        <text encoding="base64">ICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1683,7 +1702,7 @@
       <last-offset />
       <last-pattern>newpost</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
