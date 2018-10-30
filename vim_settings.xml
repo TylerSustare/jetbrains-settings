@@ -140,11 +140,11 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" timestamp="1540937075171">
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="32" column="45" />
-        <mark key="^" line="32" column="45" />
-        <mark key="." line="32" column="45" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" timestamp="1540939508401">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="58" />
+        <mark key="^" line="33" column="45" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" timestamp="1518762569940">
         <mark key="'" line="24" column="23" />
@@ -310,11 +310,11 @@
         <mark key="^" line="12" column="85" />
         <mark key="." line="712" column="12" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" timestamp="1540936344856">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" timestamp="1540940451457">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="3" column="66" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525730369743">
         <mark key="'" line="52" column="0" />
@@ -1006,11 +1006,11 @@
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" timestamp="1540937625906">
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-        <mark key="^" line="18" column="47" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" timestamp="1540940000154">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522361535180">
         <mark key="'" line="127" column="41" />
@@ -1696,8 +1696,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'days', -1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZXNvdXJjZVBvc3RzTGlzdCAvPgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1706,43 +1706,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'days', -1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>something</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInN1Y2Nlc3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGF5bG9hZCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmxhaCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZXNvdXJjZVBvc3RzTGlzdCAvPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmxhaCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZldGNoUG9zdHMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGZldGNoQ29sbGVjdGlvbkZvckFzc29jaWF0aW9uLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc29jaWF0ZUV4YW1Ub0NvbGxlY3Rpb24sCiAgICBkaXNhc3NvY2lhdGVFeGFtVG9Db2xsZWN0aW9uLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsZWFuVXBBc3NvY2lhdGlvbiwKICAgIGZldGNoQWxsQ29sbGVjdGlvbnMsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZldGNoRXhhbSwKICAgIGZldGNoQWxsRXhhbXMsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZldGNoUG9zdHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGZldGNoQ29sbGVjdGlvbkZvckFzc29jaWF0aW9uLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFzc29jaWF0ZUV4YW1Ub0NvbGxlY3Rpb24sCiAgICBkaXNhc3NvY2lhdGVFeGFtVG9Db2xsZWN0aW9uLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNsZWFuVXBBc3NvY2lhdGlvbiwKICAgIGZldGNoQWxsQ29sbGVjdGlvbnMsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZldGNoRXhhbSwKICAgIGZldGNoQWxsRXhhbXMsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbm5lY3QgZnJvbSAncmVhY3QtcmVkdXgvZXMvY29ubmVjdC9jb25uZWN0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
