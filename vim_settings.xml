@@ -140,6 +140,12 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" timestamp="1540937075171">
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="45" />
+        <mark key="^" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" timestamp="1518762569940">
         <mark key="'" line="24" column="23" />
         <mark key="[" line="83" column="30" />
@@ -147,9 +153,9 @@
         <mark key="^" line="16" column="316" />
         <mark key="." line="83" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/config/qa.json" timestamp="1539242364668">
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="1" />
+      <file name="$USER_HOME$/src/static/static-dashboard/config/qa.json" timestamp="1540934918429">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="92" />
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
@@ -166,6 +172,12 @@
         <mark key="]" line="57" column="18" />
         <mark key="." line="57" column="18" />
         <mark key="^" line="57" column="18" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/index.js" timestamp="1540935183975">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/schema.json" timestamp="1535412057450">
         <mark key="'" line="78" column="46" />
@@ -298,6 +310,12 @@
         <mark key="^" line="12" column="85" />
         <mark key="." line="712" column="12" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" timestamp="1540936344856">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525730369743">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="72" column="7" />
@@ -375,10 +393,6 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1539756516640">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="5" column="34" />
-      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
         <mark key="'" line="39" column="1" />
         <mark key="[" line="18" column="17" />
@@ -405,6 +419,10 @@
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" timestamp="1540935347103">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/email_auth.js" timestamp="1525727289152">
         <mark key="'" line="209" column="70" />
@@ -461,9 +479,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="129" column="45" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1539882183229">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
         <mark key="'" line="40" column="1" />
@@ -991,6 +1006,12 @@
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" timestamp="1540937625906">
+        <mark key="[" line="18" column="40" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+        <mark key="^" line="18" column="47" />
+      </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522361535180">
         <mark key="'" line="127" column="41" />
         <mark key="[" line="111" column="0" />
@@ -1047,18 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="115" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="119" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="116" column="44" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="120" column="44" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="267" column="40" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="27" column="37" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="124" column="118" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/reducers/examsReducer.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="87" column="12" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="70" column="136" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="74" column="60" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="75" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="89" column="39" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
@@ -1147,6 +1156,18 @@
       <jump line="0" column="2" filename="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/index.js" />
       <jump line="6" column="15" filename="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/index.js" />
       <jump line="2" column="25" filename="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfileForm/index.js" />
+      <jump line="3" column="46" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" />
+      <jump line="4" column="44" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" />
+      <jump line="5" column="46" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" />
+      <jump line="7" column="75" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" />
+      <jump line="21" column="35" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" />
+      <jump line="22" column="36" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
+      <jump line="4" column="14" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
+      <jump line="5" column="14" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
+      <jump line="6" column="14" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
+      <jump line="19" column="23" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
+      <jump line="23" column="23" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1676,7 +1697,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Form</text>
+        <text>'days', -1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1685,16 +1706,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Form</text>
+        <text>'days', -1</text>
       </register>
       <register name="/" type="4">
-        <text>newpost</text>
+        <text>something</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gVE9ETzogcmVmYWN0b3IgdGhpcyBxdWVyeSB0byBsaXZlIHNvbWV3aGVyZSBlbHNlIGZvciByZS11c2UgaW4gUG9zdC5qcyBhbmQgVXBkYXRlUG9zdC5qcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInN1Y2Nlc3MiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmxhaCcpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1703,40 +1724,39 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZldGNoUG9zdHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgIGZldGNoQ29sbGVjdGlvbkZvckFzc29jaWF0aW9uLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc3VtID0gcmVxdWlyZSgnLi9zdW0nKTsKCg==</text>
+        <text encoding="base64">ICAgIGFzc29jaWF0ZUV4YW1Ub0NvbGxlY3Rpb24sCiAgICBkaXNhc3NvY2lhdGVFeGFtVG9Db2xsZWN0aW9uLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24+PC9CdXR0b24+ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNsZWFuVXBBc3NvY2lhdGlvbiwKICAgIGZldGNoQWxsQ29sbGVjdGlvbnMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtCfQo=</text>
+        <text encoding="base64">ICAgIGZldGNoRXhhbSwKICAgIGZldGNoQWxsRXhhbXMsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGk+ICAgICA8L2k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cn0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbm5lY3QgZnJvbSAncmVhY3QtcmVkdXgvZXMvY29ubmVjdC9jb25uZWN0JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>newpost</last-search>
+      <last-search>something</last-search>
       <last-offset />
-      <last-pattern>newpost</last-pattern>
+      <last-pattern>something</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NOT</entry>
         <entry>ERROR\'</entry>
         <entry>component</entry>
         <entry>EXAMS</entry>
@@ -1756,6 +1776,7 @@
         <entry>newPost</entry>
         <entry>new p</entry>
         <entry>newpost</entry>
+        <entry>something</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
