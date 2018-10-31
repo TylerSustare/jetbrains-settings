@@ -112,6 +112,13 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/components/Post.js" timestamp="1540945520505">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="56" column="19" />
+        <mark key="^" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+      </file>
       <file name="$USER_HOME$/src/services/service-promotion/node/test/api/promotion.js" timestamp="1517429644727">
         <mark key="'" line="666" column="0" />
         <mark key="[" line="598" column="58" />
@@ -140,11 +147,10 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" timestamp="1540939508401">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="58" />
-        <mark key="^" line="33" column="45" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" timestamp="1540943847629">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videocollectionsGet" timestamp="1518762569940">
         <mark key="'" line="24" column="23" />
@@ -310,11 +316,12 @@
         <mark key="^" line="12" column="85" />
         <mark key="." line="712" column="12" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" timestamp="1540940451457">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="3" column="66" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" timestamp="1540945449958">
+        <mark key="'" line="46" column="52" />
+        <mark key="[" line="82" column="14" />
+        <mark key="]" line="82" column="14" />
+        <mark key="^" line="81" column="14" />
+        <mark key="." line="82" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/test/api/authentication/logout.js" timestamp="1525730369743">
         <mark key="'" line="52" column="0" />
@@ -707,6 +714,12 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/components/ResourcePostsList.js" timestamp="1540945491008">
+        <mark key="[" line="8" column="57" />
+        <mark key="]" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+      </file>
       <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" timestamp="1539734483021">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="18" column="0" />
@@ -1006,11 +1019,11 @@
         <mark key="." line="60" column="32" />
         <mark key="^" line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" timestamp="1540940000154">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="19" column="44" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/actions/sampleActions.js" timestamp="1540941654606">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/bin/update-courses-with-existing-exams.js" timestamp="1522361535180">
         <mark key="'" line="127" column="41" />
@@ -1068,14 +1081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="60" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="75" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="89" column="39" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="94" column="51" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="229" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="233" column="36" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="234" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
-      <jump line="280" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="1" column="25" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Association.js" />
       <jump line="60" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/components/Todo.js" />
       <jump line="63" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/exams/views/Main/index.js" />
@@ -1168,6 +1173,14 @@
       <jump line="6" column="14" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
       <jump line="19" column="23" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
       <jump line="23" column="23" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/state/reducers/sampleReducer.js" />
+      <jump line="43" column="33" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" />
+      <jump line="44" column="42" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" />
+      <jump line="50" column="54" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" />
+      <jump line="46" column="60" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/components/Post.js" />
+      <jump line="45" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" />
+      <jump line="46" column="52" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/views/Main/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/forumMod/components/Post.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1696,8 +1709,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZXNvdXJjZVBvc3RzTGlzdCAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1706,43 +1719,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>something</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGF5bG9hZCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0LmtleXMocmVzb3VyY2VUb1Bvc3RzTWFwKS5tYXAoKG9iaiwgaSkgPT4gKDxkaXY+IHtKU09OLnN0cmluZ2lmeShyZXNvdXJjZVRvUG9zdHNNYXBbb2JqXSwgbnVsbCwgMil9PC9kaXY+KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZXNvdXJjZVBvc3RzTGlzdCAvPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBvc3RzLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmxhaCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnKTsKICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGF5bG9hZCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZldGNoUG9zdHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BlbmRpbmcnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZldGNoQ29sbGVjdGlvbkZvckFzc29jaWF0aW9uLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc29jaWF0ZUV4YW1Ub0NvbGxlY3Rpb24sCiAgICBkaXNhc3NvY2lhdGVFeGFtVG9Db2xsZWN0aW9uLAo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsZWFuVXBBc3NvY2lhdGlvbiwKICAgIGZldGNoQWxsQ29sbGVjdGlvbnMsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZldGNoRXhhbSwKICAgIGZldGNoQWxsRXhhbXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7b2JqfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
