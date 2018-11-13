@@ -741,6 +741,12 @@
         <mark key="." line="271" column="0" />
         <mark key="^" line="316" column="43" />
       </file>
+      <file name="$USER_HOME$/src/services/service-pricing/node/lib/gsaCalculations.js" timestamp="1542129464810">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/src/projects/requests-app/requests/config/firebase.json" timestamp="1527750854464">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="4" column="31" />
@@ -1710,7 +1716,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1719,7 +1725,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>something</text>
@@ -1766,7 +1772,7 @@
       <last-offset />
       <last-pattern>something</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
