@@ -438,6 +438,12 @@
         <mark key="^" line="558" column="85" />
         <mark key="." line="585" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-qa.json" timestamp="1542131547063">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="13" column="25" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/routes/transactions.js" timestamp="1539297202322">
         <mark key="'" line="29" column="85" />
         <mark key="[" line="200" column="0" />
@@ -500,6 +506,12 @@
         <mark key="]" line="8" column="46" />
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-prod.json" timestamp="1542131280354">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/src/static/static-dashboard/config/prod.json" timestamp="1539242385479">
         <mark key="[" line="19" column="1" />
@@ -1715,8 +1727,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAidXNlcm5hbWUiOiAiJGtleXMubW9uZ28uY2J0bi1seC1xYS51c2VybmFtZSIsCiAgICAgICAgInBhc3N3b3JkIjogIiRrZXlzLm1vbmdvLmNidG4tbHgtcWEucGFzc3dvcmQiCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1725,7 +1737,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1.payment.mongo.us-east-1.cbtn-lx-qa.local</text>
       </register>
       <register name="/" type="4">
         <text>something</text>
@@ -1734,34 +1746,34 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0LmtleXMocmVzb3VyY2VUb1Bvc3RzTWFwKS5tYXAoKG9iaiwgaSkgPT4gKDxkaXY+IHtKU09OLnN0cmluZ2lmeShyZXNvdXJjZVRvUG9zdHNNYXBbb2JqXSwgbnVsbCwgMil9PC9kaXY+KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBvc3RzLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAidXNlcm5hbWUiOiAiJGtleXMubW9uZ28uY2J0bi1seC1xYS51c2VybmFtZSIsCiAgICAgICAgInBhc3N3b3JkIjogIiRrZXlzLm1vbmdvLmNidG4tbHgtcWEucGFzc3dvcmQiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBvc3RzLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnKTsKICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGF5bG9hZCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vycm9yJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BlbmRpbmcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1Y2Nlc3MnKTsKICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGF5bG9hZCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BlbmRpbmcnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7b2JqfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7b2JqfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
