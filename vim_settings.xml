@@ -16,13 +16,6 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1539883826728">
-        <mark key="'" line="8" column="52" />
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="52" />
-        <mark key="^" line="8" column="16" />
-      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/routes/provider.js" timestamp="1536261380244">
         <mark key="'" line="39" column="44" />
         <mark key="[" line="37" column="132" />
@@ -272,7 +265,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/validators/paypal_response_validator.js" timestamp="1542836826259" />
       <file name="$USER_HOME$/src/static/static-dashboard/metadata.yaml" timestamp="1539185990714">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="24" />
@@ -494,6 +486,9 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="129" column="45" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1543096049859">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
         <mark key="'" line="40" column="1" />
         <mark key="[" line="0" column="16" />
@@ -528,11 +523,11 @@
         <mark key="." line="104" column="37" />
       </file>
       <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" timestamp="1539887373288">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="76" column="36" />
-        <mark key="]" line="76" column="51" />
-        <mark key="^" line="76" column="51" />
-        <mark key="." line="76" column="51" />
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="77" column="36" />
+        <mark key="]" line="77" column="51" />
+        <mark key="^" line="77" column="51" />
+        <mark key="." line="77" column="51" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfile/__test__/CreatePaymentProfile.test.js" timestamp="1539904798557">
         <mark key="[" line="7" column="10" />
@@ -588,13 +583,6 @@
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
         <mark key="^" line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" timestamp="1539734499181">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="21" column="49" />
-        <mark key="." line="21" column="49" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/view.js" timestamp="1524518699230">
         <mark key="'" line="68" column="47" />
@@ -788,7 +776,6 @@
         <mark key="." line="46" column="1" />
         <mark key="^" line="46" column="1" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/routes/profile.js" timestamp="1542828700739" />
       <file name="$USER_HOME$/src/services/service-payment/node/test/models/payment_profile.js" timestamp="1537992117543">
         <mark key="'" line="16" column="9" />
         <mark key="[" line="118" column="6" />
@@ -1015,12 +1002,6 @@
         <mark key="]" line="1068" column="40" />
         <mark key="^" line="955" column="39" />
         <mark key="." line="1068" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Posts.js" timestamp="1539389387577">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/default.json" timestamp="1511299470477">
         <mark key="'" line="83" column="20" />
@@ -1783,7 +1764,7 @@
       <last-offset />
       <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
