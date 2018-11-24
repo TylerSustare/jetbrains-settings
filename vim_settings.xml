@@ -16,6 +16,12 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1543098756608">
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="42" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/routes/provider.js" timestamp="1536261380244">
         <mark key="'" line="39" column="44" />
         <mark key="[" line="37" column="132" />
@@ -486,7 +492,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="129" column="45" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1543097506687">
+      <file name="/GraphQL.result.json" timestamp="1543097767885">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
@@ -1712,7 +1718,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9eyJyZWQifQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1721,7 +1727,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>( )</text>
+        <text>green</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1730,34 +1736,34 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IF8uZmluZEluZGV4KG9taXR0ZWQsIChvKSA9PiAhXy5pc0VtcHR5KG8uaGlzdG9yeSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9eyJyZWQifQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdXBkYXRlVXNlciA9IGdxbGAKYDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9IiMyM2VmZmEiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG11dGF0aW9uIHVkcGF0ZVVzZXIoJGVtYWlsOiBTdHJpbmchLCAkcGFzc3dvcmQ6IFN0cmluZyEpewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVPckNyZWF0ZVVzZXIoCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Y29uc3QgdXBkYXRlVXNlciA9IGdxbGAKYDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlOnt9Cg==</text>
+        <text encoding="base64">ICAgIG11dGF0aW9uIHVkcGF0ZVVzZXIoJGVtYWlsOiBTdHJpbmchLCAkcGFzc3dvcmQ6IFN0cmluZyEpewogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVPckNyZWF0ZVVzZXIoCiAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAZXhwby92ZWN0b3ItaWNvbnMiOiAiXjguMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlOnt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGludmFsaWRDaGFyZ2VSZXNwb25zZSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgICJAZXhwby92ZWN0b3ItaWNvbnMiOiAiXjguMC4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
