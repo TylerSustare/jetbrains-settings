@@ -16,11 +16,11 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1543098756608">
-        <mark key="[" line="36" column="37" />
-        <mark key="]" line="36" column="42" />
-        <mark key="^" line="36" column="42" />
-        <mark key="." line="36" column="42" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1543126589398">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/routes/provider.js" timestamp="1536261380244">
         <mark key="'" line="39" column="44" />
@@ -396,12 +396,17 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" timestamp="1539886657254">
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" timestamp="1543126704844">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="37" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="39" />
         <mark key="^" line="11" column="37" />
-        <mark key="." line="11" column="37" />
+        <mark key="." line="45" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1543126607039">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
         <mark key="'" line="39" column="1" />
@@ -492,7 +497,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="129" column="45" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1543097767885">
+      <file name="/GraphQL.result.json" timestamp="1543125991617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/test/fixtures/vqs_videosGet.js" timestamp="1518758799370">
@@ -528,12 +533,12 @@
         <mark key="^" line="104" column="37" />
         <mark key="." line="104" column="37" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" timestamp="1539887373288">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="77" column="36" />
-        <mark key="]" line="77" column="51" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" timestamp="1543126672799">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="26" />
         <mark key="^" line="77" column="51" />
-        <mark key="." line="77" column="51" />
+        <mark key="." line="16" column="26" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-react-payment-components/src/CreatePaymentProfile/__test__/CreatePaymentProfile.test.js" timestamp="1539904798557">
         <mark key="[" line="7" column="10" />
@@ -1089,8 +1094,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="11" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
-      <jump line="46" column="45" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="32" column="12" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="68" column="60" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="34" column="29" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
@@ -1136,7 +1139,6 @@
       <jump line="18" column="35" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="71" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="15" column="14" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
-      <jump line="87" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
       <jump line="21" column="13" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
       <jump line="22" column="25" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
       <jump line="24" column="17" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
@@ -1189,6 +1191,9 @@
       <jump line="260" column="73" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/paypal_requests.js" />
       <jump line="261" column="72" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/paypal_requests.js" />
       <jump line="262" column="21" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/paypal_requests.js" />
+      <jump line="70" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
+      <jump line="87" column="5" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1717,8 +1722,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9eyJyZWQifQo=</text>
+      <register name="&quot;" type="4">
+        <text>Post</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1727,7 +1732,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>green</text>
+        <text>Post</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1736,34 +1741,34 @@
         <text encoding="base64">ICAgICAgICBjb25zdCBpbmRleCA9IF8uZmluZEluZGV4KG9taXR0ZWQsIChvKSA9PiAhXy5pc0VtcHR5KG8uaGlzdG9yeSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9eyJyZWQifQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I9IiMyM2VmZmEiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRleHQ+TmV3IEl0ZW08L1RleHQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxJY29uIG5hbWU9Im1kLWFkZCIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdXBkYXRlVXNlciA9IGdxbGAKYDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWduT3V0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5wcm9wcy5jbGllbnQucmVzZXRTdG9yZSgpOyAvLyByZWFjdCBpcyByZS1yZW5kZXJpbmcgYmVjYXVzZSBvZiBzdGF0ZS9wcm9wcyBjaGFuZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG11dGF0aW9uIHVkcGF0ZVVzZXIoJGVtYWlsOiBTdHJpbmchLCAkcGFzc3dvcmQ6IFN0cmluZyEpewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIGljb25SaWdodCBsaWdodAogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVPckNyZWF0ZVVzZXIoCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlOnt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAZXhwby92ZWN0b3ItaWNvbnMiOiAiXjguMC4wIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
