@@ -278,12 +278,6 @@
         <mark key="." line="109" column="133" />
         <mark key="^" line="109" column="133" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/config/qa.json" timestamp="1543432342502">
-        <mark key="[" line="60" column="68" />
-        <mark key="]" line="60" column="68" />
-        <mark key="^" line="60" column="73" />
-        <mark key="." line="60" column="68" />
-      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/routes/index.js" timestamp="1510868739616">
         <mark key="'" line="46" column="5" />
         <mark key="[" line="0" column="0" />
@@ -1826,7 +1820,7 @@
       <last-offset />
       <last-pattern>payment</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
