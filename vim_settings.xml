@@ -374,6 +374,12 @@
         <mark key="^" line="562" column="54" />
         <mark key="." line="562" column="54" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" timestamp="1543445574911">
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="14" />
+        <mark key="." line="61" column="14" />
+        <mark key="^" line="61" column="14" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1542830387709">
         <mark key="'" line="8" column="10" />
         <mark key="[" line="206" column="81" />
@@ -636,6 +642,12 @@
         <mark key="^" line="42" column="64" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/config/test.json" timestamp="1543445509656">
+        <mark key="[" line="103" column="9" />
+        <mark key="]" line="103" column="9" />
+        <mark key="." line="103" column="9" />
+        <mark key="^" line="100" column="24" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/datastores/payment_profiles.js" timestamp="1542826601688">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="56" />
@@ -832,6 +844,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="14" column="42" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" timestamp="1543445200421">
+        <mark key="'" line="44" column="52" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+      </file>
       <file name="$USER_HOME$/src/services/service-auth/node/static/js/site.js" timestamp="1525122156343">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="31" column="4" />
@@ -852,6 +871,13 @@
         <mark key="]" line="131" column="10" />
         <mark key="." line="131" column="10" />
         <mark key="^" line="132" column="15" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" timestamp="1543445292994">
+        <mark key="'" line="1175" column="9" />
+        <mark key="[" line="1221" column="22" />
+        <mark key="]" line="1222" column="24" />
+        <mark key="." line="1222" column="24" />
+        <mark key="^" line="1222" column="24" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/profiles_for_owner_nrn.js" timestamp="1542836622047">
         <mark key="'" line="100" column="22" />
@@ -1135,16 +1161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="49" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" />
-      <jump line="31" column="68" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
-      <jump line="56" column="29" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
-      <jump line="59" column="48" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
-      <jump line="11" column="19" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
-      <jump line="41" column="60" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/PostForm.js" />
       <jump line="69" column="12" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="74" column="23" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="75" column="11" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
@@ -1235,6 +1251,16 @@
       <jump line="29" column="45" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="31" column="9" filename="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" />
       <jump line="76" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/config/keys.json" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
+      <jump line="11" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
+      <jump line="38" column="49" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
+      <jump line="42" column="47" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
+      <jump line="44" column="52" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
+      <jump line="1165" column="26" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
+      <jump line="1222" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
+      <jump line="1175" column="9" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1763,8 +1789,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1773,58 +1799,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>payment</text>
+        <text>createPay</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInBheW1lbnRTZXJ2aWNlIjp7CiAgICAgICAgInR5cGUiOiJvYmplY3QiLAogICAgICAgICJwcm9wZXJ0aWVzIjp7CiAgICAgICAgICAiYXBpIjogeyJ0eXBlIjogInN0cmluZyJ9CiAgICAgICAgfSwKICAgICAgICAicmVxdWlyZWQiOiBbImFwaSJdCiAgICAgIH0sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAic2VydmljZS1wYXltZW50IjogewogICAgICAgICAgICAiaG9zdCI6ICJsb2NhbGhvc3QiLAogICAgICAgICAgICAicG9ydCI6IDMwMzUKICAgICAgICB9LAog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewoK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJTYWxlc2ZvcmNlUmVzdCI6IHsKICAgICAgICAicHJvZCI6IHsKICAgICAgICAgICAgIlBhc3N3b3JkIjogInZhbHVlIiwKICAgICAgICAgICAgIlRva2VuIjogInZhbHVlIiwKICAgICAgICAgICAgInVzZXJOYW1lIjogInZhbHVlIgogICAgICAgIH0sCiAgICAgICAgInFhIjogewogICAgICAgICAgICAiUGFzc3dvcmQiOiAidmFsdWUiLAogICAgICAgICAgICAiVG9rZW4iOiAidmFsdWUiLAogICAgICAgICAgICAidXNlck5hbWUiOiAidmFsdWUiCiAgICAgICAgfQogICAgfSwKICAgICJzZXJ2aWNlIjogewogICAgICAgICJwcm9kIjogewogICAgICAgICAgICAiY2xpZW50X2lkIjogIjJlYjVmN2Q0M2UwY2FiZTkyMTFjY2M4ZTI3OTFkM2NhNGZhMmI0YTAiLAogICAgICAgICAgICAiY2xpZW50X3NlY3JldCI6ICJ2YWx1ZSIsCiAgICAgICAgICAgICJob3N0IjogImh0dHBzOi8vYWNjb3VudHMuY2J0bnVnZ2V0cy5jb20iCiAgICAgICAgfSwKICAgICAgICAicWEiOiB7CiAgICAgICAgICAgICJjbGllbnRfaWQiOiAiNTAwNDEyYjlmNTNlNTNhZGJmMDk3MTg0NjU1NzUwYjZjZWJmNThhYyIsCiAgICAgICAgICAgICJob3N0IjogImh0dHBzOi8vcWEtYWNjb3VudHMuY2J0bnVnZ2V0cy5jb20iCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ewoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJTYWxlc2ZvcmNlUmVzdCI6IHsK</text>
+        <text encoding="base64">ICAgICJTYWxlc2ZvcmNlUmVzdCI6IHsKICAgICAgICAicHJvZCI6IHsKICAgICAgICAgICAgIlBhc3N3b3JkIjogInZhbHVlIiwKICAgICAgICAgICAgIlRva2VuIjogInZhbHVlIiwKICAgICAgICAgICAgInVzZXJOYW1lIjogInZhbHVlIgogICAgICAgIH0sCiAgICAgICAgInFhIjogewogICAgICAgICAgICAiUGFzc3dvcmQiOiAidmFsdWUiLAogICAgICAgICAgICAiVG9rZW4iOiAidmFsdWUiLAogICAgICAgICAgICAidXNlck5hbWUiOiAidmFsdWUiCiAgICAgICAgfQogICAgfSwKICAgICJzZXJ2aWNlIjogewogICAgICAgICJwcm9kIjogewogICAgICAgICAgICAiY2xpZW50X2lkIjogIjJlYjVmN2Q0M2UwY2FiZTkyMTFjY2M4ZTI3OTFkM2NhNGZhMmI0YTAiLAogICAgICAgICAgICAiY2xpZW50X3NlY3JldCI6ICJ2YWx1ZSIsCiAgICAgICAgICAgICJob3N0IjogImh0dHBzOi8vYWNjb3VudHMuY2J0bnVnZ2V0cy5jb20iCiAgICAgICAgfSwKICAgICAgICAicWEiOiB7CiAgICAgICAgICAgICJjbGllbnRfaWQiOiAiNTAwNDEyYjlmNTNlNTNhZGJmMDk3MTg0NjU1NzUwYjZjZWJmNThhYyIsCiAgICAgICAgICAgICJob3N0IjogImh0dHBzOi8vcWEtYWNjb3VudHMuY2J0bnVnZ2V0cy5jb20iCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICJTYWxlc2ZvcmNlUmVzdCI6IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicWEiOiB7CiAgICAgICAgICAgICJBY2Nlc3NLZXlJZCI6ICJBS0lBSTZXMktWVUU1SlhJVDRSUSIsCiAgICAgICAgICAgICJTZWNyZXRBY2Nlc3NLZXkiOiAidmFsdWUiCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJBV1MiOiB7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAicWEiOiB7CiAgICAgICAgICAgICJBY2Nlc3NLZXlJZCI6ICJBS0lBSTZXMktWVUU1SlhJVDRSUSIsCiAgICAgICAgICAgICJTZWNyZXRBY2Nlc3NLZXkiOiAidmFsdWUiCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAicHJvZCI6IHsKCg==</text>
+        <text encoding="base64">ICAgICJBV1MiOiB7CiAgICAgICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkFjY2Vzc0tleUlkIjogIkFLSUFJRDZKNkYyTlFSUENaT1BBIiwKICAgICAgICAgICAgIlNlY3JldEFjY2Vzc0tleSI6ICJ2YWx1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAicHJvZCI6IHsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>payment</last-search>
+      <last-search>createPay</last-search>
       <last-offset />
-      <last-pattern>payment</last-pattern>
+      <last-pattern>createPay</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>id</entry>
         <entry>Collection</entry>
         <entry>activity</entry>
@@ -1844,6 +1869,7 @@
         <entry>&quot;</entry>
         <entry>requestTracker</entry>
         <entry>payment</entry>
+        <entry>createPay</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
