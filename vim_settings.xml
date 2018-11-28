@@ -16,7 +16,7 @@
         <mark key="^" line="132" column="43" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1543126589398">
+      <file name="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" timestamp="1543362195988">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="^" line="20" column="22" />
@@ -35,6 +35,13 @@
         <mark key="]" line="53" column="30" />
         <mark key="^" line="54" column="33" />
         <mark key="." line="53" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/fish.js" timestamp="1543362514959">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/lib/models/dynamodb/token.js" timestamp="1526511896482">
         <mark key="'" line="37" column="74" />
@@ -77,11 +84,11 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/App.js" timestamp="1539732583518">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="10" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="23" column="10" />
+      <file name="$USER_HOME$/src/projects/journal-app/journal/App.js" timestamp="1543362963277">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+        <mark key="." line="32" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-auth/node/config/routes.js" timestamp="1525124262117">
         <mark key="'" line="79" column="19" />
@@ -218,7 +225,7 @@
         <mark key="." line="797" column="49" />
         <mark key="^" line="797" column="49" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" timestamp="1539884623706">
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" timestamp="1543362647773">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="91" />
@@ -409,7 +416,7 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="45" column="39" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1543126607039">
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1543362318126">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
@@ -846,6 +853,7 @@
         <mark key="^" line="287" column="72" />
         <mark key="." line="215" column="10" />
       </file>
+      <file name="$USER_HOME$/src/projects/journal-app/journal/components/user/LoginUser.js" timestamp="1543362125197" />
       <file name="$USER_HOME$/src/services/service-quiz/node/test/api/question_test.js" timestamp="1513966220993">
         <mark key="'" line="1851" column="20" />
         <mark key="[" line="1838" column="16" />
@@ -1107,7 +1115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="60" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="34" column="29" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="6" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/Login.js" />
       <jump line="22" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/user/CreateUser.js" />
@@ -1207,6 +1214,7 @@
       <jump line="87" column="5" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
       <jump line="31" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" />
       <jump line="305" column="29" filename="$USER_HOME$/src/services/service-pricing/node/test/api/post_price_tax_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/fish.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
