@@ -227,11 +227,6 @@
         <mark key="^" line="58" column="5" />
         <mark key="." line="58" column="5" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/lib/provider.js" timestamp="1542836868301">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/lib/util.js" timestamp="1512756078615">
         <mark key="'" line="791" column="58" />
         <mark key="[" line="797" column="49" />
@@ -403,6 +398,13 @@
         <mark key="." line="36" column="53" />
         <mark key="^" line="43" column="31" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1543533721999">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+      </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512755480837">
         <mark key="'" line="213" column="13" />
         <mark key="[" line="224" column="57" />
@@ -430,11 +432,6 @@
         <mark key="]" line="45" column="39" />
         <mark key="^" line="11" column="37" />
         <mark key="." line="45" column="39" />
-      </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" timestamp="1543362318126">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/fake_exam_provider_response.js" timestamp="1531348301373">
         <mark key="'" line="39" column="1" />
@@ -749,11 +746,6 @@
         <mark key="." line="41" column="13" />
         <mark key="^" line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/src/projects/journal-app/journal/package.json" timestamp="1543096174514">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/salesforce_test.js" timestamp="1543519260561">
         <mark key="'" line="57" column="4" />
         <mark key="[" line="13" column="8" />
@@ -888,17 +880,17 @@
         <mark key="." line="131" column="10" />
         <mark key="^" line="132" column="15" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.js" timestamp="1543531810299">
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.js" timestamp="1543533589312">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+        <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" timestamp="1543531852803">
-        <mark key="'" line="1181" column="42" />
-        <mark key="[" line="1181" column="87" />
-        <mark key="]" line="1181" column="87" />
-        <mark key="^" line="1181" column="46" />
-        <mark key="." line="1181" column="87" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" timestamp="1543533144217">
+        <mark key="'" line="1183" column="42" />
+        <mark key="[" line="1183" column="0" />
+        <mark key="]" line="1183" column="54" />
+        <mark key="." line="1183" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/profiles_for_owner_nrn.js" timestamp="1542836622047">
         <mark key="'" line="100" column="22" />
@@ -1185,8 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="599" column="33" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="1" column="25" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="31" column="29" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
       <jump line="80" column="81" filename="$USER_HOME$/src/services/service-payment/node/test/common.js" />
       <jump line="252" column="0" filename="$USER_HOME$/src/services/service-payment/node/test/fixtures/paypal_requests.js" />
@@ -1285,6 +1275,8 @@
       <jump line="83" column="48" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="34" column="43" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="1180" column="42" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1832,34 +1824,34 @@
         <text encoding="base64">aXRfcHJlbWl1bV9tb250aGx5X29uZV91c2VyX29uZV9tb250aAogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjZW5hcmlvczogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc2NlbmFyaW9fbmFtZTogJ2l0X3ByZW1pdW0gdGVzdCcsCiAgICAgICAgICAgICAgICAgICAgICAgIHB1cmNoYXNlczogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfaWQ6ICdpdF9wcmVtaXVtJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBxdWFudGl0eTogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydF9kYXRlOiAnMjAxOC0xMC0xMlQxNzoyMDowMi4wNjRaJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bml0X2Jhc2VfcHJpY2U6IDg0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VfaXRlbV9wcmljZTogODQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluYWxfaXRlbV9wcmljZTogODQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3ljbGU6ICdtb250aGx5JywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXJtOiAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW1fYWRqdXN0bWVudHM6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0X2FkanVzdG1lbnRzOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvcnM6IFtdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VfdG90YWxfcHJpY2U6IDg0LAogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbF90b3RhbF9wcmljZTogODQsCiAgICAgICAgICAgICAgICAgICAgICAgIHRvdGFsX2FkanVzdG1lbnRzOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgc2NlbmFyaW9fYWRqdXN0bWVudHM6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICBlcnJvcnM6IFtdCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgIHRheF9leGVtcHQ6IHRydWUK</text>
+        <text encoding="base64">ICAgICJpdF9wcmVtaXVtX21vbnRobHlfb25lX3VzZXJfb25lX21vbnRoIjogewogICAgICAgICJzY2VuYXJpb3M6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgc2NlbmFyaW9fbmFtZTogJ2l0X3ByZW1pdW0gdGVzdCcsCiAgICAgICAgICAgICAgICBwdXJjaGFzZXM6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfaWQ6ICdpdF9wcmVtaXVtJywKICAgICAgICAgICAgICAgICAgICAgICAgcXVhbnRpdHk6IDEsCiAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0X2RhdGU6ICcyMDE4LTEwLTEyVDE3OjIwOjAyLjA2NFonLAogICAgICAgICAgICAgICAgICAgICAgICB1bml0X2Jhc2VfcHJpY2U6IDg0LAogICAgICAgICAgICAgICAgICAgICAgICBiYXNlX2l0ZW1fcHJpY2U6IDg0LAogICAgICAgICAgICAgICAgICAgICAgICBmaW5hbF9pdGVtX3ByaWNlOiA4NCwKICAgICAgICAgICAgICAgICAgICAgICAgY3ljbGU6ICdtb250aGx5JywKICAgICAgICAgICAgICAgICAgICAgICAgdGVybTogMSwKICAgICAgICAgICAgICAgICAgICAgICAgaXRlbV9hZGp1c3RtZW50czogW10sCiAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0X2FkanVzdG1lbnRzOiBbXSwKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzOiBbXQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBiYXNlX3RvdGFsX3ByaWNlOiA4NCwKICAgICAgICAgICAgICAgIGZpbmFsX3RvdGFsX3ByaWNlOiA4NCwKICAgICAgICAgICAgICAgIHRvdGFsX2FkanVzdG1lbnRzOiBbXSwKICAgICAgICAgICAgICAgIHNjZW5hcmlvX2FkanVzdG1lbnRzOiBbXSwKICAgICAgICAgICAgICAgIGVycm9yczogW10KICAgICAgICAgICAgfQogICAgICAgIF0sCiAgICAgICAgdGF4X2V4ZW1wdDogdHJ1ZQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoKSA9PiB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ewogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJpdF9wcmVtaXVtX21vbnRobHlfb25lX3VzZXJfb25lX21vbnRoIjogewoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAic2NlbmFyaW9zOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHNjZW5hcmlvX25hbWU6ICdpdF9wcmVtaXVtIHRlc3QnLAogICAgICAgICAgICAgICAgcHVyY2hhc2VzOiBbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBwcm9kdWN0X2lkOiAnaXRfcHJlbWl1bScsCiAgICAgICAgICAgICAgICAgICAgICAgIHF1YW50aXR5OiAxLAogICAgICAgICAgICAgICAgICAgICAgICBzdGFydF9kYXRlOiAnMjAxOC0xMC0xMlQxNzoyMDowMi4wNjRaJywKICAgICAgICAgICAgICAgICAgICAgICAgdW5pdF9iYXNlX3ByaWNlOiA4NCwKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZV9pdGVtX3ByaWNlOiA4NCwKICAgICAgICAgICAgICAgICAgICAgICAgZmluYWxfaXRlbV9wcmljZTogODQsCiAgICAgICAgICAgICAgICAgICAgICAgIGN5Y2xlOiAnbW9udGhseScsCiAgICAgICAgICAgICAgICAgICAgICAgIHRlcm06IDEsCiAgICAgICAgICAgICAgICAgICAgICAgIGl0ZW1fYWRqdXN0bWVudHM6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICBpbnB1dF9hZGp1c3RtZW50czogW10sCiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yczogW10KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgYmFzZV90b3RhbF9wcmljZTogODQsCiAgICAgICAgICAgICAgICBmaW5hbF90b3RhbF9wcmljZTogODQsCiAgICAgICAgICAgICAgICB0b3RhbF9hZGp1c3RtZW50czogW10sCiAgICAgICAgICAgICAgICBzY2VuYXJpb19hZGp1c3RtZW50czogW10sCiAgICAgICAgICAgICAgICBlcnJvcnM6IFtdCiAgICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgIHRheF9leGVtcHQ6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">fSkoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWlmZSAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1870,7 +1862,7 @@
       <last-offset />
       <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
