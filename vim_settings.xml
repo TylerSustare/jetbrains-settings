@@ -63,12 +63,12 @@
         <mark key="." line="33" column="23" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/README.md" timestamp="1543510052496">
-        <mark key="'" line="120" column="12" />
-        <mark key="[" line="121" column="36" />
-        <mark key="]" line="121" column="38" />
-        <mark key="." line="121" column="38" />
-        <mark key="^" line="121" column="38" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/README.md" timestamp="1543510133163">
+        <mark key="'" line="3455" column="0" />
+        <mark key="[" line="121" column="61" />
+        <mark key="]" line="121" column="74" />
+        <mark key="." line="121" column="74" />
+        <mark key="^" line="121" column="74" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1543452618299">
         <mark key="'" line="26" column="29" />
@@ -1143,10 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
-      <jump line="32" column="33" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
-      <jump line="40" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="23" column="35" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="17" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
@@ -1241,8 +1237,12 @@
       <jump line="61" column="10" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="1177" column="11" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="17" column="7" filename="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" />
-      <jump line="117" column="6" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
       <jump line="120" column="12" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
+      <jump line="111" column="18" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
+      <jump line="117" column="6" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
+      <jump line="118" column="76" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
+      <jump line="121" column="74" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
+      <jump line="3455" column="0" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1772,7 +1772,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ost</text>
+        <text>payment_profile_paypal_return</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1781,7 +1781,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ost</text>
+        <text>payment_profile_paypal_return</text>
       </register>
       <register name="/" type="4">
         <text>payment</text>
