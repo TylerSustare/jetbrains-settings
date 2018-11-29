@@ -970,12 +970,12 @@
         <mark key="^" line="100" column="49" />
         <mark key="." line="100" column="49" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1543429701697">
-        <mark key="'" line="28" column="45" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="28" column="46" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1543447798565">
+        <mark key="'" line="28" column="37" />
+        <mark key="[" line="25" column="80" />
+        <mark key="]" line="25" column="80" />
+        <mark key="." line="25" column="80" />
+        <mark key="^" line="25" column="79" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
@@ -1143,10 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="12" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
-      <jump line="74" column="23" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
-      <jump line="75" column="11" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
-      <jump line="79" column="3" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="7" column="6" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/NewPost.js" />
       <jump line="3" column="24" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="48" column="21" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
@@ -1243,6 +1239,10 @@
       <jump line="1165" column="26" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="1222" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="1175" column="9" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
+      <jump line="14" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
+      <jump line="15" column="57" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
+      <jump line="25" column="58" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
+      <jump line="28" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1772,7 +1772,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>PROFILE_PAYPAL_RETURN</text>
+        <text>?${queryString.stringify(req.query)}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1781,10 +1781,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>PROFILE_PAYPAL_RETURN</text>
+        <text>?${queryString.stringify(req.query)}</text>
       </register>
       <register name="/" type="4">
-        <text>createPay</text>
+        <text>payment</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAic2VydmljZS1wYXltZW50IjogewogICAgICAgICAgICAiaG9zdCI6ICJsb2NhbGhvc3QiLAogICAgICAgICAgICAicG9ydCI6IDMwMzUKICAgICAgICB9LAog</text>
@@ -1824,9 +1824,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createPay</last-search>
+      <last-search>payment</last-search>
       <last-offset />
-      <last-pattern>createPay</last-pattern>
+      <last-pattern>payment</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1850,8 +1850,8 @@
         <entry>createPaypalService</entry>
         <entry>&quot;</entry>
         <entry>requestTracker</entry>
-        <entry>payment</entry>
         <entry>createPay</entry>
+        <entry>payment</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
