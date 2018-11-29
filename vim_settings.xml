@@ -63,6 +63,13 @@
         <mark key="." line="33" column="23" />
         <mark key="^" line="33" column="23" />
       </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/README.md" timestamp="1543510052496">
+        <mark key="'" line="120" column="12" />
+        <mark key="[" line="121" column="36" />
+        <mark key="]" line="121" column="38" />
+        <mark key="." line="121" column="38" />
+        <mark key="^" line="121" column="38" />
+      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1543452618299">
         <mark key="'" line="26" column="29" />
         <mark key="[" line="104" column="19" />
@@ -1136,8 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="9" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
-      <jump line="24" column="21" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="45" column="0" filename="$USER_HOME$/src/projects/journal-app/journal/Navigator.js" />
       <jump line="32" column="33" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
       <jump line="25" column="4" filename="$USER_HOME$/src/projects/journal-app/journal/components/posts/Post.js" />
@@ -1236,6 +1241,8 @@
       <jump line="61" column="10" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="1177" column="11" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="17" column="7" filename="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" />
+      <jump line="117" column="6" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
+      <jump line="120" column="12" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1765,7 +1772,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>ost</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1774,13 +1781,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ost</text>
       </register>
       <register name="/" type="4">
-        <text>pricing_service</text>
+        <text>payment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInBheW1lbnRTZXJ2aWNlIjp7CiAgICAgICAgInR5cGUiOiJvYmplY3QiLAogICAgICAgICJwcm9wZXJ0aWVzIjp7CiAgICAgICAgICAiYXBpIjogeyJ0eXBlIjogInN0cmluZyJ9CiAgICAgICAgfSwKICAgICAgICAicmVxdWlyZWQiOiBbImFwaSJdCiAgICAgIH0sCg==</text>
+        <text encoding="base64">IyMjIyMgUGF5bWVudCBSb3V0ZXMKKiAhW0RvbmVdKHN0YXRpY3MvZG9uZV9zbWFsbC5wbmcpIFtHRVQgL3BheW1lbnQvcHJvZmlsZS9wYXlwYWwvcmV0dXJuXSgjZ2V0X3BheW1lbnRfcHJvZmlsZV9wYXlwYWxfcmV0dXJuKQotLS0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBjbGllbnRJZCwgY2xpZW50U2VjcmV0IH0gPSBjb25maWcuZ2V0UHJvcGVydHkoJ2NidG5BdXRoJyk7Cg==</text>
@@ -1817,11 +1824,11 @@
       </register>
     </registers>
     <search>
-      <last-search>pricing_service</last-search>
+      <last-search>payment</last-search>
       <last-offset />
-      <last-pattern>pricing_service</last-pattern>
+      <last-pattern>payment</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1841,10 +1848,10 @@
         <entry>&quot;</entry>
         <entry>requestTracker</entry>
         <entry>createPay</entry>
-        <entry>payment</entry>
         <entry>only</entry>
         <entry>pricing</entry>
         <entry>pricing_service</entry>
+        <entry>payment</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
