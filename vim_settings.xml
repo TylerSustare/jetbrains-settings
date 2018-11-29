@@ -65,10 +65,10 @@
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1543452618299">
         <mark key="'" line="26" column="29" />
-        <mark key="[" line="107" column="19" />
-        <mark key="]" line="107" column="18" />
-        <mark key="." line="107" column="18" />
-        <mark key="^" line="107" column="18" />
+        <mark key="[" line="104" column="19" />
+        <mark key="]" line="104" column="18" />
+        <mark key="." line="104" column="18" />
+        <mark key="^" line="104" column="18" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1538089129892">
         <mark key="'" line="26" column="37" />
@@ -634,12 +634,6 @@
         <mark key="^" line="42" column="64" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/config/test.json" timestamp="1543452232777">
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="48" />
-        <mark key="^" line="21" column="48" />
-      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/fixtures/datastores/payment_profiles.js" timestamp="1542826601688">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="56" />
@@ -857,13 +851,6 @@
         <mark key="]" line="131" column="10" />
         <mark key="." line="131" column="10" />
         <mark key="^" line="132" column="15" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" timestamp="1543452834074">
-        <mark key="'" line="1180" column="11" />
-        <mark key="[" line="1163" column="0" />
-        <mark key="]" line="1163" column="0" />
-        <mark key="." line="1163" column="0" />
-        <mark key="^" line="1164" column="25" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/profiles_for_owner_nrn.js" timestamp="1542836622047">
         <mark key="'" line="100" column="22" />
@@ -1834,7 +1821,7 @@
       <last-offset />
       <last-pattern>pricing_service</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
