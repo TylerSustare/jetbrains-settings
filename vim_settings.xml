@@ -63,19 +63,19 @@
         <mark key="." line="33" column="23" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/README.md" timestamp="1543510472000">
-        <mark key="'" line="3495" column="0" />
-        <mark key="[" line="3469" column="48" />
-        <mark key="]" line="3469" column="71" />
-        <mark key="^" line="3469" column="71" />
-        <mark key="." line="3469" column="71" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/README.md" timestamp="1543600801584">
+        <mark key="'" line="3465" column="0" />
+        <mark key="[" line="121" column="77" />
+        <mark key="]" line="121" column="56" />
+        <mark key="^" line="121" column="56" />
+        <mark key="." line="121" column="56" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1543520719588">
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/config/routes.js" timestamp="1543600653583">
         <mark key="'" line="26" column="29" />
-        <mark key="[" line="107" column="29" />
-        <mark key="]" line="107" column="37" />
-        <mark key="." line="107" column="37" />
-        <mark key="^" line="107" column="37" />
+        <mark key="[" line="107" column="12" />
+        <mark key="]" line="107" column="20" />
+        <mark key="." line="107" column="20" />
+        <mark key="^" line="107" column="20" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/lib/soap_requests.js" timestamp="1538089129892">
         <mark key="'" line="26" column="37" />
@@ -376,12 +376,12 @@
         <mark key="^" line="562" column="54" />
         <mark key="." line="562" column="54" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" timestamp="1543538413476">
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" timestamp="1543600675262">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="146" column="26" />
+        <mark key="[" line="123" column="29" />
+        <mark key="]" line="123" column="50" />
+        <mark key="." line="123" column="50" />
+        <mark key="^" line="123" column="50" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1542830387709">
         <mark key="'" line="8" column="10" />
@@ -1011,12 +1011,12 @@
         <mark key="^" line="100" column="49" />
         <mark key="." line="100" column="49" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1543538539212">
-        <mark key="'" line="32" column="38" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="22" column="49" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1543600782785">
+        <mark key="'" line="40" column="44" />
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
@@ -1187,7 +1187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="19" column="12" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
       <jump line="63" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
       <jump line="32" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
@@ -1265,7 +1264,6 @@
       <jump line="88" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="1" column="32" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
       <jump line="24" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="41" column="51" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="115" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="131" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
@@ -1287,6 +1285,8 @@
       <jump line="25" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="53" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="13" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
+      <jump line="3463" column="0" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
+      <jump line="41" column="44" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1815,8 +1815,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgbm90ZXMgPSBzdG9yYWdlLnJlZigpLmNoaWxkKCdub3RlcycpOwogICAgICAgIC8vIGxldCBmaXJlYmFzZU5vdGUgPSBub3Rlcy5jaGlsZCgnZmlyZWJhc2UudHh0JykK</text>
+      <register name="&quot;" type="4">
+        <text>PRICING_PRICE</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1825,54 +1825,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>floor</text>
+        <text>PRICING_PRICE</text>
       </register>
       <register name="/" type="4">
-        <text>firebase</text>
+        <text>pricing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGVycm9yIGZ1bmN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgbm90ZXMgPSBzdG9yYWdlLnJlZigpLmNoaWxkKCdub3RlcycpOwogICAgICAgIC8vIGxldCBmaXJlYmFzZU5vdGUgPSBub3Rlcy5jaGlsZCgnZmlyZWJhc2UudHh0JykK</text>
+        <text encoding="base64">Y29uc3QgZXJyb3JSZXNwb25zZSA9IHJlcXVpcmUoJy4uL2xpYi9yZXNwb25zZScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBmcm9tIHRoZSBib29rICovCiAgICAgICAgLy8gY3JlYXRpbmcgYSByZWZlcmVuY2UgZm9yIHRoZSBub3RlcyBkaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgbm90ZXMgPSBzdG9yYWdlLnJlZigpLmNoaWxkKCdub3RlcycpOwogICAgICAgIC8vIGxldCBmaXJlYmFzZU5vdGUgPSBub3Rlcy5jaGlsZCgnZmlyZWJhc2UudHh0JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBmcm9tIHRoZSBib29rICovCiAgICAgICAgLy8gY3JlYXRpbmcgYSByZWZlcmVuY2UgZm9yIHRoZSBub3RlcyBkaXJlY3RvcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmhhbmRsZUNoYW5nZSA9IHRoaXMuaGFuZGxlQ2hhbmdlLmJpbmQodGhpcyk7CiAgICAgICAgLy8gdGhpcy5oYW5kbGVVcGxvYWQgPSB0aGlzLmhhbmRsZVVwbG9hZCgpLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmhhbmRsZUNoYW5nZSA9IHRoaXMuaGFuZGxlQ2hhbmdlLmJpbmQodGhpcyk7CiAgICAgICAgLy8gdGhpcy5oYW5kbGVVcGxvYWQgPSB0aGlzLmhhbmRsZVVwbG9hZCgpLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>firebase</last-search>
+      <last-search>pricing</last-search>
       <last-offset />
-      <last-pattern>firebase</last-pattern>
+      <last-pattern>pricing</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1892,10 +1892,10 @@
         <entry>after</entry>
         <entry>&quot;</entry>
         <entry>payment</entry>
-        <entry>pricing</entry>
         <entry>body</entry>
         <entry>access</entry>
         <entry>firebase</entry>
+        <entry>pricing</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
