@@ -186,6 +186,12 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/App.js" timestamp="1543553917060">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/dev/wells-fargo/response.xml" timestamp="1535740515747">
         <mark key="'" line="0" column="1896" />
         <mark key="[" line="20" column="43" />
@@ -571,12 +577,12 @@
         <mark key="^" line="104" column="37" />
         <mark key="." line="104" column="37" />
       </file>
-      <file name="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" timestamp="1543552433558">
-        <mark key="'" line="72" column="5" />
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="39" />
+      <file name="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" timestamp="1543554600159">
+        <mark key="'" line="57" column="5" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/journal-app/journal/components/posts/UpdatePost.js" timestamp="1543126672799">
         <mark key="'" line="31" column="0" />
@@ -1185,12 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="47" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
-      <jump line="44" column="52" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1165" column="26" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1222" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="15" column="57" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="25" column="58" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="28" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="19" column="12" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
@@ -1285,6 +1285,12 @@
       <jump line="102" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="37" column="25" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="72" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
+      <jump line="41" column="40" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
+      <jump line="1" column="13" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
+      <jump line="30" column="65" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
+      <jump line="25" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
+      <jump line="53" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1814,7 +1820,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlcnJvciwgbnVsbCwgMikpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1823,58 +1829,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>access</text>
+        <text>firebase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHByaWNpbmcuaXRfcHJlbWl1bV9tb250aGx5X3RocmVlX3VzZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmhhbmRsZUNoYW5nZSA9IHRoaXMuaGFuZGxlQ2hhbmdlLmJpbmQodGhpcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlcnJvciwgbnVsbCwgMikpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYWZ0ZXIgcHJpY2luZ1Jlc3BvbnNlIHJlcXVlc3QnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSAnMTIzNDU2NzhhYmNkZWYxMjM0NTY3JzsKICAgICAgICAgICAgYmFzZS5jcmVhdGVWYWxpZFRva2VuKGFjY2Vzc1Rva2VuLCB7IHVzZXJfaWQ6IDEyMzQ1Njc4IH0pOwo=</text>
+        <text encoding="base64">ICAgIHVwbG9hZEZpbGUoZXZlbnQpIHsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSAnMTIzNDU2NzhhYmNkZWYxMjM0NTY3JzsKICAgICAgICAgICAgYmFzZS5jcmVhdGVWYWxpZFRva2VuKGFjY2Vzc1Rva2VuLCB7IHVzZXJfaWQ6IDEyMzQ1Njc4IH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSAnMTIzNDU2NzhhYmNkZWYxMjM0NTY3JzsKICAgICAgICAgICAgYmFzZS5jcmVhdGVWYWxpZFRva2VuKGFjY2Vzc1Rva2VuLCB7IHVzZXJfaWQ6IDEyMzQ1Njc4IH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSAnMTIzNDU2NzhhYmNkZWYxMjM0NTY3JzsKICAgICAgICAgICAgYmFzZS5jcmVhdGVWYWxpZFRva2VuKGFjY2Vzc1Rva2VuLCB7IHVzZXJfaWQ6IDEyMzQ1Njc4IH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkKICAgICAgICBsZXQgZmlsZVJlZiA9IGZpcmViYXNlLnN0b3JhZ2UoKS5yZWYoKTsgLy8gcmVmZXJlbmNlIHRvIHRoZSByb290IGRpcmVjdG9yeQogICAgICAgIC8vIGNyZWF0aW5nIGEgcmVmZXJlbmNlIGZvciB0aGUgbm90ZXMgZGlyZWN0b3J5CiAgICAgICAgbGV0IG5vdGVzID0gZmlsZVJlZi5jaGlsZCgnbm90ZXMnKTsKICAgICAgICBsZXQgZmlyZWJhc2VOb3RlID0gbm90ZXMuY2hpbGQoJ2ZpcmViYXNlLnR4dCcpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZG9uZShlKTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZG9uZShlKTsKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gewogICAgICAgIGxvYWRlZDogZmFsc2UsCiAgICAgICAgZGF0YToge30KICAgIH07Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZG9uZShlKTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQga2V5PXtgdXBsb2FkYH0gaWQ9IiIgb25DaGFuZ2U9e3RoaXMudXBsb2FkRmlsZX0gdHlwZT0iZmlsZSIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>access</last-search>
+      <last-search>firebase</last-search>
       <last-offset />
-      <last-pattern>access</last-pattern>
+      <last-pattern>firebase</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updatemu</entry>
         <entry>fab</entry>
         <entry>goToNe</entry>
         <entry>updatePost</entry>
@@ -1894,6 +1899,7 @@
         <entry>pricing</entry>
         <entry>body</entry>
         <entry>access</entry>
+        <entry>firebase</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
