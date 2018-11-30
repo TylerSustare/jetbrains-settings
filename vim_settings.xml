@@ -900,11 +900,7 @@
         <mark key="^" line="0" column="43" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" timestamp="1543538000857">
-        <mark key="'" line="1180" column="0" />
-        <mark key="[" line="1189" column="0" />
-        <mark key="]" line="1189" column="0" />
-        <mark key="." line="1189" column="0" />
-        <mark key="^" line="1231" column="12" />
+        <mark key="^" line="1256" column="12" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/profiles_for_owner_nrn.js" timestamp="1542836622047">
         <mark key="'" line="100" column="22" />
@@ -1876,7 +1872,7 @@
       <last-offset />
       <last-pattern>firebase</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
