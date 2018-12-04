@@ -293,11 +293,11 @@
         <mark key="." line="197" column="16" />
         <mark key="^" line="197" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" timestamp="1543907707824">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-        <mark key="^" line="35" column="40" />
+      <file name="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" timestamp="1543912114289">
+        <mark key="'" line="102" column="17" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/src/static/static-dashboard/metadata.yaml" timestamp="1539185990714">
         <mark key="[" line="0" column="23" />
@@ -1193,32 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="61" column="10" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="17" column="7" filename="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" />
-      <jump line="120" column="12" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
-      <jump line="111" column="18" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
-      <jump line="117" column="6" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
-      <jump line="118" column="76" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
-      <jump line="121" column="74" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
-      <jump line="3455" column="0" filename="$USER_HOME$/src/services/service-site-gateway/README.md" />
-      <jump line="21" column="44" filename="$USER_HOME$/src/services/service-site-gateway/node/config/test.json" />
-      <jump line="99" column="23" filename="$USER_HOME$/src/services/service-site-gateway/node/config/test.json" />
-      <jump line="95" column="17" filename="$USER_HOME$/src/services/service-site-gateway/node/config/test.json" />
-      <jump line="17" column="5" filename="$USER_HOME$/src/services/service-site-gateway/node/config/test.json" />
-      <jump line="18" column="38" filename="$USER_HOME$/src/services/service-site-gateway/node/config/test.json" />
-      <jump line="1175" column="21" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
-      <jump line="22" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/salesforce_test.js" />
-      <jump line="53" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/salesforce_test.js" />
-      <jump line="57" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/salesforce_test.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="69" column="18" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="52" column="6" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/payment_test.js" />
       <jump line="1011" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="56" column="33" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="1179" column="21" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
@@ -1293,6 +1267,32 @@
       <jump line="41" column="44" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="158" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
       <jump line="142" column="24" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
+      <jump line="29" column="16" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="45" column="51" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="91" column="16" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="98" column="40" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="150" column="7" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="182" column="52" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="218" column="24" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="311" column="17" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="1" column="25" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="30" column="55" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="31" column="39" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="32" column="28" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="41" column="18" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="43" column="15" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="74" column="19" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="96" column="29" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="105" column="29" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="111" column="19" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="113" column="16" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="139" column="19" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="155" column="53" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="270" column="20" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="33" column="11" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="93" column="17" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="102" column="17" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1821,8 +1821,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>urrent.num + accumulator;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1831,61 +1831,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>urrent.num + accumulator;</text>
+        <text>ALL</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>toArray</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGVycm9yIGZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIEFMTCcpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGF0YSwgbnVsbCwgMikpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZCA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gZAogICAgICAgICAgICAgICAgICAgICwgMAogICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWxsID0gZGF0YS5yZWR1Y2UoZCA9PiBkLm51bSwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYGluIGNhdGVnb3JpZXMgJHtjYXRlZ29yeX1gKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIEFMTCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShpdGVtc1BlclBhZ2UsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZXJyb3JSZXNwb25zZSA9IHJlcXVpcmUoJy4uL2xpYi9yZXNwb25zZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRlZ29yeSwgbnVsbCwgMikpOwogICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBhZ2UsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgbm90ZXMgPSBzdG9yYWdlLnJlZigpLmNoaWxkKCdub3RlcycpOwogICAgICAgIC8vIGxldCBmaXJlYmFzZU5vdGUgPSBub3Rlcy5jaGlsZCgnZmlyZWJhc2UudHh0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBmcm9tIHRoZSBib29rICovCiAgICAgICAgLy8gY3JlYXRpbmcgYSByZWZlcmVuY2UgZm9yIHRoZSBub3RlcyBkaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>toArray</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>toArray</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>goToNe</entry>
-        <entry>updatePost</entry>
-        <entry>newPost</entry>
-        <entry>new p</entry>
         <entry>newpost</entry>
         <entry>something</entry>
         <entry>createPaypalService</entry>
@@ -1902,6 +1898,10 @@
         <entry>firebase</entry>
         <entry>pricing</entry>
         <entry>company</entry>
+        <entry>collection</entry>
+        <entry>1</entry>
+        <entry>console.l</entry>
+        <entry>toArray</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
