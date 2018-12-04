@@ -293,6 +293,12 @@
         <mark key="." line="197" column="16" />
         <mark key="^" line="197" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" timestamp="1543907707824">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="35" column="40" />
+        <mark key="." line="35" column="40" />
+        <mark key="^" line="35" column="40" />
+      </file>
       <file name="$USER_HOME$/src/static/static-dashboard/metadata.yaml" timestamp="1539185990714">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="24" />
@@ -1039,7 +1045,7 @@
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543451816516">
+      <file name="/JavaScript Console" timestamp="1543907711578">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/README.md" timestamp="1525718965975">
@@ -1816,7 +1822,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>company</text>
+        <text>urrent.num + accumulator;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1825,7 +1831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>company</text>
+        <text>urrent.num + accumulator;</text>
       </register>
       <register name="/" type="4">
         <text>company</text>
@@ -1833,35 +1839,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGVycm9yIGZ1bmN0aW9uCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZXJyb3JSZXNwb25zZSA9IHJlcXVpcmUoJy4uL2xpYi9yZXNwb25zZScpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZCA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gZAogICAgICAgICAgICAgICAgICAgICwgMAogICAgICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsZXQgbm90ZXMgPSBzdG9yYWdlLnJlZigpLmNoaWxkKCdub3RlcycpOwogICAgICAgIC8vIGxldCBmaXJlYmFzZU5vdGUgPSBub3Rlcy5jaGlsZCgnZmlyZWJhc2UudHh0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWxsID0gZGF0YS5yZWR1Y2UoZCA9PiBkLm51bSwgMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBmcm9tIHRoZSBib29rICovCiAgICAgICAgLy8gY3JlYXRpbmcgYSByZWZlcmVuY2UgZm9yIHRoZSBub3RlcyBkaXJlY3RvcnkK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLmhhbmRsZUNoYW5nZSA9IHRoaXMuaGFuZGxlQ2hhbmdlLmJpbmQodGhpcyk7CiAgICAgICAgLy8gdGhpcy5oYW5kbGVVcGxvYWQgPSB0aGlzLmhhbmRsZVVwbG9hZCgpLmJpbmQodGhpcyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgZXJyb3JSZXNwb25zZSA9IHJlcXVpcmUoJy4uL2xpYi9yZXNwb25zZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsZXQgbm90ZXMgPSBzdG9yYWdlLnJlZigpLmNoaWxkKCdub3RlcycpOwogICAgICAgIC8vIGxldCBmaXJlYmFzZU5vdGUgPSBub3Rlcy5jaGlsZCgnZmlyZWJhc2UudHh0JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvKiBmcm9tIHRoZSBib29rICovCiAgICAgICAgLy8gY3JlYXRpbmcgYSByZWZlcmVuY2UgZm9yIHRoZSBub3RlcyBkaXJlY3RvcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1872,7 +1878,7 @@
       <last-offset />
       <last-pattern>company</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
