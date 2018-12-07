@@ -382,12 +382,12 @@
         <mark key="^" line="562" column="54" />
         <mark key="." line="562" column="54" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" timestamp="1543600675262">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="123" column="29" />
-        <mark key="]" line="123" column="50" />
-        <mark key="." line="123" column="50" />
-        <mark key="^" line="123" column="50" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" timestamp="1544222833530">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="194" column="52" />
+        <mark key="]" line="194" column="77" />
+        <mark key="." line="194" column="77" />
+        <mark key="^" line="194" column="77" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/refund.js" timestamp="1542830387709">
         <mark key="'" line="8" column="10" />
@@ -410,12 +410,11 @@
         <mark key="." line="36" column="53" />
         <mark key="^" line="43" column="31" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1543602883474">
-        <mark key="'" line="142" column="24" />
-        <mark key="[" line="142" column="24" />
-        <mark key="]" line="142" column="27" />
-        <mark key="^" line="142" column="27" />
-        <mark key="." line="142" column="27" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1544222726961">
+        <mark key="[" line="109" column="35" />
+        <mark key="]" line="136" column="64" />
+        <mark key="^" line="136" column="64" />
+        <mark key="." line="136" column="64" />
       </file>
       <file name="$USER_HOME$/src/command-line-interfaces/cli-cbt/commands/auth/get_user_for_email.js" timestamp="1512755480837">
         <mark key="'" line="213" column="13" />
@@ -905,8 +904,12 @@
         <mark key="." line="0" column="43" />
         <mark key="^" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" timestamp="1543538000857">
-        <mark key="^" line="1256" column="12" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" timestamp="1544222823727">
+        <mark key="'" line="30" column="37" />
+        <mark key="[" line="1281" column="59" />
+        <mark key="]" line="1281" column="73" />
+        <mark key="^" line="1281" column="73" />
+        <mark key="." line="1281" column="73" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/profiles_for_owner_nrn.js" timestamp="1542836622047">
         <mark key="'" line="100" column="22" />
@@ -1017,12 +1020,10 @@
         <mark key="^" line="100" column="49" />
         <mark key="." line="100" column="49" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1543600782785">
-        <mark key="'" line="40" column="44" />
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="11" column="36" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1544222084734">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/node/lib/todo_factory.js" timestamp="1526549877438">
         <mark key="'" line="21" column="26" />
@@ -1193,30 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1011" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="56" column="33" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="1179" column="21" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1185" column="36" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1187" column="43" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1188" column="43" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1189" column="44" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1191" column="32" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1192" column="44" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1193" column="45" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1194" column="34" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1197" column="36" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1198" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1199" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1200" column="40" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1201" column="26" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1204" column="22" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1031" column="22" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1177" column="43" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1181" column="51" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1184" column="51" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1190" column="35" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="70" column="17" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="73" column="30" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="74" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="82" column="40" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="75" column="24" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
@@ -1232,7 +1209,6 @@
       <jump line="56" column="53" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="72" column="33" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="1182" column="8" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="30" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="1176" column="15" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="1178" column="15" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="1186" column="40" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
@@ -1247,10 +1223,8 @@
       <jump line="131" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="67" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="77" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="32" column="38" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="106" column="17" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="64" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="83" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="102" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
@@ -1293,6 +1267,33 @@
       <jump line="33" column="11" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
       <jump line="93" column="17" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
       <jump line="102" column="17" filename="$USER_HOME$/Documents/mongodbUniversity/mongomart/items.js" />
+      <jump line="256" column="22" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="94" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="95" column="63" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="114" column="63" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="52" column="25" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
+      <jump line="117" column="24" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
+      <jump line="284" column="52" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="290" column="38" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="274" column="34" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="282" column="27" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="170" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="189" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="212" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="235" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="259" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="298" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="86" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="90" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="109" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="147" column="28" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="162" column="53" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
+      <jump line="30" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
+      <jump line="18" column="9" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1821,8 +1822,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>it_premium_yearly_3_users</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1831,64 +1832,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ALL</text>
+        <text>it_premium_yearly_3_users</text>
       </register>
       <register name="/" type="4">
-        <text>toArray</text>
+        <text>only</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIEFMTCcpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGF0YSwgbnVsbCwgMikpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3ljbGUgPT09ICcxMl9tb250aCcgJiYgcXVhbnRpdHkgPT09IDMgJiYgdGVybSA9PT0gMSAmJiBwcm9kdWN0X2lkID09PSAnaXRfcHJlbWl1bScpIHsKICAgICAgICAgICAgcmV0dXJuIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHByaWNpbmcuaXRfcHJlbWl1bV95ZWFybHlfM191c2Vycyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">e30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coYGluIGNhdGVnb3JpZXMgJHtjYXRlZ29yeX1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsKCiAgICAgICAgICAgIHJldHVybiByZXF1ZXN0KGFwcCkKICAgICAgICAgICAgICAgIC5wb3N0KHJvdXRlcy5QUklDSU5HX0NVU1RPTUVSX1BSSUNFKQogICAgICAgICAgICAgICAgLnNlbmQoewogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfaWQ6ICdpdF9wcmVtaXVtJywKICAgICAgICAgICAgICAgICAgICBxdWFudGl0eTogMywKICAgICAgICAgICAgICAgICAgICBjeWNsZTogJzEyX21vbnRoJywKICAgICAgICAgICAgICAgICAgICB0ZXJtOiAxCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLmV4cGVjdCgyMDApCiAgICAgICAgICAgICAgICAudGhlbihyZXMgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uZXFsKHByaWNpbmcuaXRfcHJlbWl1bV95ZWFybHlfM191c2Vycyk7CiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5jYXRjaChkb25lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGRhdGEsIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIEFMTCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShpdGVtc1BlclBhZ2UsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShjYXRlZ29yeSwgbnVsbCwgMikpOwogICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBhZ2UsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KCwgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsKCiAgICAgICAgICAgIHJldHVybiByZXF1ZXN0KGFwcCkKICAgICAgICAgICAgICAgIC5wb3N0KHJvdXRlcy5QUklDSU5HX0NVU1RPTUVSX1BSSUNFKQogICAgICAgICAgICAgICAgLnNlbmQoewogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfaWQ6ICdpdF9wcmVtaXVtJywKICAgICAgICAgICAgICAgICAgICBxdWFudGl0eTogMywKICAgICAgICAgICAgICAgICAgICBjeWNsZTogJzEyX21vbnRoJywKICAgICAgICAgICAgICAgICAgICB0ZXJtOiAxCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLmV4cGVjdCgyMDApCiAgICAgICAgICAgICAgICAudGhlbihyZXMgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChyZXMuYm9keSkudG8uZXFsKHByaWNpbmcuaXRfcHJlbWl1bV95ZWFybHlfM191c2Vycyk7CiAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC5jYXRjaChkb25lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>toArray</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern>toArray</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>newpost</entry>
-        <entry>something</entry>
-        <entry>createPaypalService</entry>
-        <entry>requestTracker</entry>
-        <entry>createPay</entry>
-        <entry>only</entry>
-        <entry>pricing_service</entry>
         <entry>3037</entry>
         <entry>after</entry>
         <entry>&quot;</entry>
@@ -1896,12 +1890,19 @@
         <entry>body</entry>
         <entry>access</entry>
         <entry>firebase</entry>
-        <entry>pricing</entry>
         <entry>company</entry>
         <entry>collection</entry>
         <entry>1</entry>
         <entry>console.l</entry>
         <entry>toArray</entry>
+        <entry>yearly</entry>
+        <entry>invalid value</entry>
+        <entry>cycle</entry>
+        <entry>invalid</entry>
+        <entry>monthly</entry>
+        <entry>12_month</entry>
+        <entry>pricing</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
