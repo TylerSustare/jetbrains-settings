@@ -60,4 +60,10 @@
     <context />
   </template>
   <template name="rnc" value="a" description="React Native Component" toReformat="false" toShortenFQNames="true" />
+  <template name="clgohere" value="console.log('********************\n\n\n');&#10;console.log(JSON.stringify($HERE$, null, 2));&#10;console.log('\n\n\n********************');" description="console log an object with an inhere message" toReformat="false" toShortenFQNames="true">
+    <variable name="HERE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
