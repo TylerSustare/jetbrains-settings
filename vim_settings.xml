@@ -573,7 +573,12 @@
         <mark key="." line="8" column="46" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" timestamp="1544560218054" />
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" timestamp="1544561620374">
+        <mark key="'" line="148" column="8" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/cbtn-lx-prod.json" timestamp="1542131280354">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="25" />
@@ -1122,12 +1127,11 @@
         <mark key="." line="58" column="39" />
         <mark key="^" line="58" column="39" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544558188606">
-        <mark key="'" line="76" column="17" />
-        <mark key="[" line="120" column="14" />
-        <mark key="]" line="120" column="18" />
-        <mark key="." line="120" column="18" />
-        <mark key="^" line="120" column="18" />
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544561833070">
+        <mark key="'" line="136" column="28" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" timestamp="1543510836231">
         <mark key="'" line="17" column="7" />
@@ -1225,33 +1229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
-      <jump line="3" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
-      <jump line="58" column="41" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="14" column="56" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="54" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="56" column="53" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="72" column="33" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1182" column="8" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1176" column="15" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1178" column="15" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="1186" column="40" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="80" column="44" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="1180" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
-      <jump line="89" column="25" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="1" column="32" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
-      <jump line="24" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="131" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="77" column="31" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="32" column="38" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
-      <jump line="106" column="17" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="37" column="25" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="72" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="41" column="40" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
@@ -1325,6 +1302,33 @@
       <jump line="156" column="118" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/apple/index.js" />
       <jump line="28" column="10" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
       <jump line="76" column="17" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="93" column="24" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="94" column="24" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="77" column="44" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="40" column="35" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="88" column="4" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="31" column="42" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="65" column="4" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="149" column="47" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="126" column="4" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="128" column="47" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="12" column="12" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="159" column="8" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="327" column="27" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="362" column="40" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="363" column="35" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="364" column="35" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="148" column="8" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/renewal_test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="134" column="34" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="202" column="0" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="136" column="28" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1853,8 +1857,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>CANCELLATION</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1866,60 +1870,54 @@
         <text>CANCELLATION</text>
       </register>
       <register name="/" type="4">
-        <text>it</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5UWVBFX0NBTkNFTExBVElPTiA9ICdjYW5jZWxsYXRpb24nOwo=</text>
+        <text encoding="base64">ICAgICAgICBWZXJpZmljYXRpb25Nb2RlbC5maW5kUmVjb3JkRm9ySW50ZXJuYWxSZWNlaXB0LnJlc3RvcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChldmVudFByb2Nlc3Nvci50eXBlKS50by5lcXVhbChDYnRFdmVudEFwcC5UWVBFX0NBTkNFTExBVElPTik7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xnbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb3AK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucHVibGlzaEtpbmVzaXNNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc3QgZXZlbnRQcm9jZXNzb3IgPSBFdmVudFByb2Nlc3Nvci5mYWN0b3J5KHByb3ZpZGVyUmVjb3JkLCBjYW5jZWxsYXRpb25FdmVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>it</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>it</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>payment</entry>
-        <entry>body</entry>
-        <entry>access</entry>
-        <entry>firebase</entry>
-        <entry>company</entry>
-        <entry>collection</entry>
         <entry>1</entry>
         <entry>console.l</entry>
         <entry>toArray</entry>
@@ -1934,6 +1932,12 @@
         <entry>type</entry>
         <entry>providerrecord</entry>
         <entry>it</entry>
+        <entry>before</entry>
+        <entry>recurrenceRecordV</entry>
+        <entry>sinonSand</entry>
+        <entry>********************</entry>
+        <entry>'***'</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
