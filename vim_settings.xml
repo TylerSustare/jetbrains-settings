@@ -1069,7 +1069,7 @@
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1543907711578">
+      <file name="/JavaScript Console" timestamp="1544558317785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/README.md" timestamp="1525718965975">
@@ -1125,7 +1125,13 @@
         <mark key="." line="58" column="39" />
         <mark key="^" line="58" column="39" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544552514524" />
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544558188606">
+        <mark key="'" line="76" column="17" />
+        <mark key="[" line="120" column="14" />
+        <mark key="]" line="120" column="18" />
+        <mark key="." line="120" column="18" />
+        <mark key="^" line="120" column="18" />
+      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" timestamp="1543510836231">
         <mark key="'" line="17" column="7" />
         <mark key="[" line="131" column="8" />
@@ -1222,8 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="51" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
-      <jump line="34" column="43" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
       <jump line="23" column="4" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
       <jump line="3" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
       <jump line="58" column="41" filename="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" />
@@ -1322,6 +1326,8 @@
       <jump line="12" column="39" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" />
       <jump line="22" column="0" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/apple/index.js" />
       <jump line="156" column="118" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/apple/index.js" />
+      <jump line="28" column="10" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="76" column="17" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1851,7 +1857,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXNzdW1pbmcg</text>
+        <text>CANCELLATION</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1860,58 +1866,57 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXNzdW1pbmcg</text>
+        <text>CANCELLATION</text>
       </register>
       <register name="/" type="4">
-        <text>providerrecord</text>
+        <text>it</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5UWVBFX0NBTkNFTExBVElPTiA9ICdjYW5jZWxsYXRpb24nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwb3AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChldmVudFByb2Nlc3Nvci50eXBlKS50by5lcXVhbChDYnRFdmVudEFwcC5UWVBFX0NBTkNFTExBVElPTik7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucHVibGlzaEtpbmVzaXNNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogVGhlbiBwdWJsaXNoIGEgUmVjdXJyZW5jZSByZWNvcmQuCiAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJucyB7UHJvbWlzZS48VD58UHJvbWlzZT59Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIFRoZW4gcHVibGlzaCBhIFJlY3VycmVuY2UgcmVjb3JkLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucHVibGlzaEtpbmVzaXNNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>providerrecord</last-search>
+      <last-search>it</last-search>
       <last-offset />
-      <last-pattern>providerrecord</last-pattern>
+      <last-pattern>it</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>payment</entry>
         <entry>body</entry>
         <entry>access</entry>
@@ -1931,6 +1936,7 @@
         <entry>only</entry>
         <entry>type</entry>
         <entry>providerrecord</entry>
+        <entry>it</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
@@ -1950,8 +1956,8 @@
         <entry>144</entry>
         <entry>wq</entry>
         <entry>bp|bd #</entry>
-        <entry>noh</entry>
         <entry>vs</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
