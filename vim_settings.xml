@@ -939,11 +939,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" timestamp="1544488741225">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" timestamp="1544490145791">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517252550248">
         <mark key="'" line="48" column="19" />
@@ -1062,6 +1063,10 @@
         <mark key="]" line="431" column="2" />
         <mark key="." line="431" column="2" />
         <mark key="^" line="431" column="2" />
+      </file>
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/modification.js" timestamp="1544490041734">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="62" />
       </file>
       <file name="$USER_HOME$/src/services/service-exam-provider/node/models/dynamodb/catalog.js" timestamp="1536965387644">
         <mark key="'" line="353" column="0" />
@@ -1201,7 +1206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="29" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="82" column="40" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="75" column="24" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
       <jump line="76" column="59" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
@@ -1301,6 +1305,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="30" column="37" filename="$USER_HOME$/src/services/service-site-gateway/node/test/utils/base.js" />
       <jump line="18" column="9" filename="$USER_HOME$/src/services/service-site-gateway/node/test/api/pricing_test.js" />
+      <jump line="28" column="26" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1829,8 +1834,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhseVRlcm0gfHwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1844,8 +1849,8 @@
       <register name="/" type="4">
         <text>only</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGlmIChjeWNsZSA9PT0gJzEyX21vbnRoJyAmJiB0ZXJtID4gMSkgewogICAgICAgICAgICAgICAgLy8gb3Bwb3J0dW5pdHkgaW4gcHJpY2luZyBzZXJ2aWNlIHdpbGwgbm90IGdldCB2b2x1bWUgZGlzY291bnQgZm9yIDEyX21vbnRoIHR5cGUKICAgICAgICAgICAgICAgIG1vbnRobHlDeWNsZSA9ICdtb250aGx5JzsKICAgICAgICAgICAgICAgIG1vbnRobHlUZXJtID0gdGVybSAqIDEyOwogICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgQ3VzdG9tRXJyb3IgPSByZXF1aXJlKCcuLi8uLi9lcnJvcnMvaW5kZXgnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1854,28 +1859,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN5Y2xlID09PSAnMTJfbW9udGgnICYmIHRlcm0gPiAxKSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgKiAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wcG9ydHVuaXR5IGluIHByaWNpbmcgc2VydmljZSB3aWxsIG5vdCBnZXQgc3Vic2NyaXB0aW9uX2FncmVlbWVudF9kaXNjb3VudCBmb3IgMTJfbW9udGggdHlwZQogICAgICAgICAgICAgICAgbW9udGhseUN5Y2xlID0gJ21vbnRobHknOwogICAgICAgICAgICAgICAgbW9udGhseVRlcm0gPSB0ZXJtICogMTI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN5Y2xlID09PSAnMTJfbW9udGgnICYmIHRlcm0gPiAxKSB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vbnRobHlDeWNsZTsKICAgICAgICAgICAgbGV0IG1vbnRobHlUZXJtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vbnRobHlDeWNsZTsKICAgICAgICAgICAgbGV0IG1vbnRobHlUZXJtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG9wcG9ydHVuaXR5IGluIHByaWNpbmcgc2VydmljZSB3aWxsIG5vdCBnZXQgc3Vic2NyaXB0aW9uX2FncmVlbWVudF9kaXNjb3VudCBmb3IgMTJfbW9udGggdHlwZQogICAgICAgICAgICAgICAgbW9udGhseUN5Y2xlID0gJ21vbnRobHknOwogICAgICAgICAgICAgICAgbW9udGhseVRlcm0gPSB0ZXJtICogMTI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHksIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vbnRobHlDeWNsZTsKICAgICAgICAgICAgbGV0IG1vbnRobHlUZXJtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG1vbnRobHlDeWNsZTsKICAgICAgICAgICAgbGV0IG1vbnRobHlUZXJtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbmNlbGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHksIG51bGwsIDIpKTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
