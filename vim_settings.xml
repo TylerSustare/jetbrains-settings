@@ -945,12 +945,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" timestamp="1544552834254">
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" timestamp="1544553636217">
         <mark key="'" line="28" column="26" />
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-        <mark key="." line="7" column="56" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517252550248">
         <mark key="'" line="48" column="19" />
@@ -1842,7 +1842,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1860,34 +1860,34 @@
         <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJucyB7UHJvbWlzZS48VD58UHJvbWlzZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucHVibGlzaEtpbmVzaXNNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogVGhlbiBwdWJsaXNoIGEgUmVjdXJyZW5jZSByZWNvcmQuCiAgICAgICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMucHVibGlzaEtpbmVzaXNNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJucyB7UHJvbWlzZS48VD58UHJvbWlzZT59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogVGhlbiBwdWJsaXNoIGEgUmVjdXJyZW5jZSByZWNvcmQuCiAgICAgICAgICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8qKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIFRoZW4gcHVibGlzaCBhIFJlY3VycmVuY2UgcmVjb3JkLgo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJucyB7UHJvbWlzZS48VD58UHJvbWlzZT59Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZXJyID09PSB0aGlzLklOVkFMSURfRVZFTlRfT1JERVIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oYEVuY291bnRlcmVkIGFuIG91dCBvZiBvcmRlciBDQlRfSW52b2ljZSBldmVudCAtIFxuRXZlbnQ6JHtKU09OLnN0cmluZ2lmeSh0aGlzLmV2ZW50KX1gICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBcblByb3ZpZGVyUmVjb3JkOiR7SlNPTi5zdHJpbmdpZnkodGhpcy5wcm92aWRlclJlY29yZCl9YCwgTE9HX0NBVEVHT1JZKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFEoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFEucmVqZWN0KGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIFRoZW4gcHVibGlzaCBhIFJlY3VycmVuY2UgcmVjb3JkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
