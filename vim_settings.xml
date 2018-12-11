@@ -1127,8 +1127,12 @@
         <mark key="." line="58" column="39" />
         <mark key="^" line="58" column="39" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544568823254">
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544569041418">
         <mark key="'" line="85" column="33" />
+        <mark key="[" line="238" column="53" />
+        <mark key="]" line="238" column="101" />
+        <mark key="." line="238" column="101" />
+        <mark key="^" line="238" column="101" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" timestamp="1543510836231">
         <mark key="'" line="17" column="7" />
@@ -1855,7 +1859,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>_.head(kinesisMessages);</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1864,7 +1868,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>_.head(kinesisMessages);</text>
       </register>
       <register name="/" type="4">
         <text>done</text>
