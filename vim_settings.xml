@@ -956,12 +956,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" timestamp="1544567425338">
-        <mark key="'" line="12" column="39" />
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="19" />
-        <mark key="^" line="40" column="16" />
-        <mark key="." line="40" column="19" />
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" timestamp="1544572868878">
+        <mark key="'" line="30" column="19" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="11" column="92" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/src/workers/worker-auth-export-user/node/lib/message_handler.js" timestamp="1517252550248">
         <mark key="'" line="48" column="19" />
@@ -1071,7 +1071,7 @@
         <mark key="." line="25" column="22" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544568862823">
+      <file name="/JavaScript Console" timestamp="1544572644164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-notification-schedule/README.md" timestamp="1525718965975">
@@ -1127,12 +1127,12 @@
         <mark key="." line="58" column="39" />
         <mark key="^" line="58" column="39" />
       </file>
-      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544569041418">
-        <mark key="'" line="85" column="33" />
-        <mark key="[" line="238" column="53" />
-        <mark key="]" line="238" column="101" />
-        <mark key="." line="238" column="101" />
-        <mark key="^" line="238" column="101" />
+      <file name="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" timestamp="1544572826929">
+        <mark key="'" line="227" column="14" />
+        <mark key="[" line="227" column="14" />
+        <mark key="]" line="227" column="14" />
+        <mark key="." line="227" column="14" />
+        <mark key="^" line="238" column="82" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/config/schema.json" timestamp="1543510836231">
         <mark key="'" line="17" column="7" />
@@ -1230,9 +1230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="40" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
-      <jump line="1" column="13" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="30" column="65" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="25" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
       <jump line="53" column="5" filename="$USER_HOME$/src/projects/cloud-dev-class/firebase-todo/notes/src/components/List.js" />
@@ -1330,6 +1327,9 @@
       <jump line="136" column="28" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
       <jump line="139" column="24" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
       <jump line="85" column="33" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="26" column="42" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="227" column="14" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/test/event_processor/cbt_invoice/cancellation_test.js" />
+      <jump line="30" column="19" filename="$USER_HOME$/src/libs/lib-payment-provider-event-processor-nodejs/lib/event_processor/cbt_invoice/cancellation.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1858,8 +1858,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_.head(kinesisMessages);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdlIGRvbid0IG5lZWQgdG8gY3JlYXRlIGFuIGludm9pY2UgZm9yIGEgcmVmdW5kIHNpbmNlICB3ZSdyZSBnZXR0aW5nIHRoaXMgZXZlbnQgZnJvbSAuTkVUCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1868,28 +1868,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_.head(kinesisMessages);</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>done</text>
+        <text>only</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3llcCcpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdlIGRvbid0IG5lZWQgdG8gY3JlYXRlIGFuIGludm9pY2UgZm9yIGEgcmVmdW5kIHNpbmNlICB3ZSdyZSBnZXR0aW5nIHRoaXMgZXZlbnQgZnJvbSAuTkVUCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGZ1bmN0aW9uYWxpdHkgbWlycm9yZWQgZnJvbSBjYnRfaW52b2ljZS9yZW5ld2FsLmpzIGFuZCBhcHBsZS9yZWZ1bmQuanMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3llcCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
@@ -1898,22 +1898,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3llcCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vbmdvZGIgPSByZXN1bHRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3llcCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbW9uZ29kYiA9IHJlc3VsdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>done</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern>done</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1937,8 +1937,8 @@
         <entry>********************</entry>
         <entry>'***'</entry>
         <entry>console</entry>
-        <entry>only</entry>
         <entry>done</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>bp</entry>
