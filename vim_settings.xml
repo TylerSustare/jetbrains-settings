@@ -2,11 +2,24 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/src/cloud-dev-class/aws/ec2/basic-ec2-cft.json" timestamp="1544941502757">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="7" column="28" />
+      </file>
+    </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="4">
+        <text>AWSBootcampSecurityGroup</text>
+      </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>AWSBootcampSecurityGroup</text>
       </register>
     </registers>
     <search>
@@ -17,6 +30,7 @@
       <history-search />
       <history-cmd>
         <entry>vs</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
