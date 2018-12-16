@@ -3,17 +3,28 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/cloud-dev-class/aws/ec2/basic-ec2-cft.json" timestamp="1544941502757">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="7" column="28" />
+      <file name="$USER_HOME$/src/cloud-dev-class/aws/ec2/basic-ec2-cft.json" timestamp="1544942546674">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>AWSBootcampSecurityGroup</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJLZXlOYW1lIjogImF3cy1ib290Y2FtcCIsCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJLZXlOYW1lIjogImF3cy1ib290Y2FtcCIsCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJLZXlOYW1lIjogImF3cy1ib290Y2FtcCIsCiAgICAgICAgICAgICAgICAiSW1hZ2VJZCI6ICJhbWktYzk5OGI2YjIiLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH1dLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJTZWN1cml0eUdyb3VwcyI6IFt7CiAgICAgICAgICAgICAgICAgICAgIlJlZiI6ICJzZy1kMjFhNWVhZGsiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
