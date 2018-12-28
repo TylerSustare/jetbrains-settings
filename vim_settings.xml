@@ -3,23 +3,46 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1545955102593">
-        <mark key="[" line="88" column="58" />
-        <mark key="]" line="88" column="58" />
-        <mark key="." line="88" column="58" />
-        <mark key="^" line="88" column="58" />
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1545956156605">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="69" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvZHkuc2NlbmFyaW9zWzBdLnB1cmNoYXNlc1swXS52ZXJzaW9uID0gMTsK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvZHkuc2NlbmFyaW9zWzBdLnB1cmNoYXNlc1swXS52ZXJzaW9uID0gMTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9keS5zY2VuYXJpb3NbMF0ucHVyY2hhc2VzWzBdLnZlcnNpb24gPSAxOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAic2NlbmFyaW9zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAic2NlbmFyaW9fbmFtZSI6ICJpdF9wcmVtaXVtIHRlc3QiLAogICAgICAgICAgICAgICAgInB1cmNoYXNlcyI6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJwcm9kdWN0X2lkIjogIml0X3ByZW1pdW0iLAogICAgICAgICAgICAgICAgICAgICAgICAicXVhbnRpdHkiOiAzLAogICAgICAgICAgICAgICAgICAgICAgICAic3RhcnRfZGF0ZSI6ICIyMDE4LTEwLTEyVDE3OjIwOjAyLjA2NFoiLAogICAgICAgICAgICAgICAgICAgICAgICAidW5pdF9iYXNlX3ByaWNlIjogODQsCiAgICAgICAgICAgICAgICAgICAgICAgICJiYXNlX2l0ZW1fcHJpY2UiOiAyNTIsCiAgICAgICAgICAgICAgICAgICAgICAgICJmaW5hbF9pdGVtX3ByaWNlIjogMjUxLjI5LAogICAgICAgICAgICAgICAgICAgICAgICAiY3ljbGUiOiAibW9udGhseSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXJtIjogMSwKICAgICAgICAgICAgICAgICAgICAgICAgIml0ZW1fYWRqdXN0bWVudHMiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImFtb3VudCI6IC0wLjcxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJyZWFzb24iOiAiVm9sdW1lIERpc2NvdW50IEFkanVzdG1lbnQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogInZvbHVtZV9kaXNjb3VudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgImlucHV0X2FkanVzdG1lbnRzIjogW10sCiAgICAgICAgICAgICAgICAgICAgICAgICJlcnJvcnMiOiBbXQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAiYmFzZV90b3RhbF9wcmljZSI6IDI1MiwKICAgICAgICAgICAgICAgICJmaW5hbF90b3RhbF9wcmljZSI6IDI1MS4yOSwKICAgICAgICAgICAgICAgICJ0b3RhbF9hZGp1c3RtZW50cyI6IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJjb2RlIjogInZvbHVtZV9kaXNjb3VudCIsCiAgICAgICAgICAgICAgICAgICAgICAgICJhbW91bnQiOiAtMC43MSwKICAgICAgICAgICAgICAgICAgICAgICAgInJlYXNvbiI6ICJWb2x1bWUgRGlzY291bnQgQWRqdXN0bWVudCIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgInNjZW5hcmlvX2FkanVzdG1lbnRzIjogW10sCiAgICAgICAgICAgICAgICAiZXJyb3JzIjogW10KICAgICAgICAgICAgfQogICAgICAgIF0sCiAgICAgICAgInRheF9leGVtcHQiOiB0cnVlCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>else {</text>
       </register>
     </registers>
     <search>
