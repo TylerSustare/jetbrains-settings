@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1545957722315">
+        <mark key="[" line="78" column="20" />
+        <mark key="]" line="78" column="20" />
+        <mark key="." line="78" column="20" />
+      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1545956156605">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="30" column="0" />
@@ -14,11 +19,14 @@
       <jump line="69" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJvZHkuc2NlbmFyaW9zWzBdLnB1cmNoYXNlc1swXS52ZXJzaW9uID0gMTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvZHkuc2NlbmFyaW9zWzBdLnB1cmNoYXNlc1swXS52ZXJzaW9uID0gMTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGgnICYmIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm9keS5zY2VuYXJpb3NbMF0ucHVyY2hhc2VzWzBdLnZlcnNpb24gPSAxOwo=</text>
@@ -42,7 +50,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text encoding="base64">dGgnICYmIA==</text>
       </register>
     </registers>
     <search>
