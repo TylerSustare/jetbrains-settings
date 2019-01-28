@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" timestamp="1548718057046">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
         <mark key="[" line="78" column="16" />
         <mark key="]" line="78" column="16" />
@@ -18,11 +25,12 @@
         <mark key="." line="136" column="39" />
         <mark key="^" line="136" column="39" />
       </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1548716428280">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-        <mark key="^" line="8" column="20" />
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1548718318524">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/App.js" timestamp="1548195056956">
         <mark key="[" line="8" column="27" />
@@ -59,63 +67,66 @@
       <jump line="128" column="50" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
       <jump line="1" column="0" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
       <jump line="134" column="38" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" />
+      <jump line="15" column="13" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmljZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>Main</text>
       </register>
       <register name="/" type="4">
-        <text>backgroundImage</text>
+        <text>Main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2VzOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICBwcmljZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybTogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFByaWNlOiAwLAo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
+        <text encoding="base64">CiAgICAgICAgZXhwZWN0KGhhbmRsZUNoYW5nZS5jYWxsQ291bnQpLnRvQmUoY2hpbGRJbnB1dHMubGVuZ3RoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybTogbnVsbCwKICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQuc2ltdWxhdGUoJ2NoYW5nZScsIGV2ZW50KTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFByaWNlOiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZXZlbnQgPSB7CiAgICAgICAgICAgICAgICB0YXJnZXQ6IGlucHV0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNsb2NrQmFjayBmcm9tICcuLi9hc3NldHMvY2xvY2tCYWNrLnBuZyc7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgY2hpbGRJbnB1dHMuZm9yRWFjaChpbnB1dCA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>backgroundImage</last-search>
+      <last-search>Main</last-search>
       <last-offset />
-      <last-pattern>backgroundImage</last-pattern>
+      <last-pattern>Main</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>60</entry>
         <entry>red</entry>
         <entry>backgroundImage</entry>
+        <entry>Main</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
