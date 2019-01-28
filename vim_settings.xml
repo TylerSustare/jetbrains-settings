@@ -18,11 +18,11 @@
         <mark key="." line="136" column="39" />
         <mark key="^" line="136" column="39" />
       </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1548716373501">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1548716428280">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/App.js" timestamp="1548195056956">
         <mark key="[" line="8" column="27" />
@@ -61,11 +61,11 @@
       <jump line="134" column="38" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybTogbnVsbCwK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>require(AnalogClock.defaultProps.backgroundImage)</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>backgroundImage</text>
@@ -74,31 +74,31 @@
         <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybTogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2VzOiBbXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVybTogbnVsbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFByaWNlOiAwLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybTogbnVsbCwKICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFByaWNlOiAwLAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVybTogbnVsbCwKICAgICAgICAgICAgY3ljbGU6IG51bGwsCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFByaWNlOiAwLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNsb2NrQmFjayBmcm9tICcuLi9hc3NldHMvY2xvY2tCYWNrLnBuZyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAqL30K</text>
+        <text encoding="base64">aW1wb3J0IGNsb2NrQmFjayBmcm9tICcuLi9hc3NldHMvY2xvY2tCYWNrLnBuZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
