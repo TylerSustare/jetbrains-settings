@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/AccountSetup/index.js" timestamp="1549045294784" />
       <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" timestamp="1548718057046">
         <mark key="'" line="6" column="12" />
         <mark key="[" line="12" column="7" />
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-www/config/stage.json" timestamp="1549046513965">
+        <mark key="'" line="30" column="45" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
         <mark key="[" line="78" column="16" />
@@ -25,12 +29,12 @@
         <mark key="." line="136" column="39" />
         <mark key="^" line="136" column="39" />
       </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1549044317058">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1549049292223">
+        <mark key="'" line="35" column="15" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/App.js" timestamp="1548195056956">
         <mark key="[" line="8" column="27" />
@@ -38,11 +42,28 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="8" column="49" />
       </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Main/index.js" timestamp="1549045403621">
+        <mark key="[" line="30" column="81" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1545956156605">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.scss" timestamp="1549047817709">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" timestamp="1549048545349">
+        <mark key="'" line="78" column="34" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="86" />
       </file>
     </filemarks>
     <jumps>
@@ -69,57 +90,63 @@
       <jump line="134" column="38" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
       <jump line="6" column="12" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" />
       <jump line="15" column="13" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" />
+      <jump line="23" column="14" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" />
+      <jump line="21" column="47" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
+      <jump line="28" column="59" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
+      <jump line="30" column="45" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
+      <jump line="78" column="34" filename="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" />
+      <jump line="30" column="15" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInllcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIioqKioqKioqKioqKioqKioqKioqXG5cblxuIik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCd5ZWVlcCcpOwogICAgICAgICAgICBjb25zb2xlLmxvZygiXG5cblxuKioqKioqKioqKioqKioqKioqKioiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>Main</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>Main</text>
+        <text>site</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBMb2FkaW5nQnViYmxlcywgTm90aWNlIH0gZnJvbSAnQGNidG51Z2dldHMvbGliLXJlYWN0LWNidC1jb21wb25lbnRzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInllcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coIioqKioqKioqKioqKioqKioqKioqXG5cblxuIik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCd5ZWVlcCcpOwogICAgICAgICAgICBjb25zb2xlLmxvZygiXG5cblxuKioqKioqKioqKioqKioqKioqKioiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoX2lzRW1wdHkocHJpY2VzKSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh0aGlzLnN0YXRlLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInllcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXhpb3MuZ2V0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3llcCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgZXhwZWN0KGhhbmRsZUNoYW5nZS5jYWxsQ291bnQpLnRvQmUoY2hpbGRJbnB1dHMubGVuZ3RoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQuc2ltdWxhdGUoJ2NoYW5nZScsIGV2ZW50KTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Main</last-search>
+      <last-search>site</last-search>
       <last-offset />
-      <last-pattern>Main</last-pattern>
+      <last-pattern>site</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -127,6 +154,7 @@
         <entry>red</entry>
         <entry>backgroundImage</entry>
         <entry>Main</entry>
+        <entry>site</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
