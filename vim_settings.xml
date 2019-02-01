@@ -14,11 +14,6 @@
       <file name="$USER_HOME$/src/static/static-www/config/stage.json" timestamp="1549046513965">
         <mark key="'" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="16" />
-        <mark key="." line="78" column="16" />
-      </file>
       <file name="/GraphQL.result.json" timestamp="1548975908666">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,24 +24,12 @@
         <mark key="." line="136" column="39" />
         <mark key="^" line="136" column="39" />
       </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1549051429335">
-        <mark key="'" line="36" column="15" />
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="15" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="31" column="15" />
-      </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/SecurityAwareness/state/actions/courseActions.js" timestamp="1549052792158" />
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/App.js" timestamp="1548195056956">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="27" />
         <mark key="^" line="16" column="15" />
         <mark key="." line="8" column="49" />
-      </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Main/index.js" timestamp="1549045403621">
-        <mark key="[" line="30" column="81" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="23" />
-        <mark key="^" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1545956156605">
         <mark key="'" line="68" column="0" />
@@ -54,16 +37,34 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" timestamp="1549048545349">
+        <mark key="'" line="78" column="34" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="86" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="16" />
+        <mark key="." line="78" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" timestamp="1549052916459">
+        <mark key="'" line="36" column="15" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Main/index.js" timestamp="1549045403621">
+        <mark key="[" line="30" column="81" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+      </file>
       <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.scss" timestamp="1549047817709">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" timestamp="1549048545349">
-        <mark key="'" line="78" column="34" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="86" />
       </file>
     </filemarks>
     <jumps>
@@ -99,10 +100,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
