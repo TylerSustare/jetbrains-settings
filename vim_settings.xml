@@ -26,7 +26,6 @@
       <file name="$USER_HOME$/src/static/static-www/config/stage.json" timestamp="1549046513965">
         <mark key="'" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/node_modules/lib-payment-provider-provider-nodejs/lib/apple/index.js" timestamp="1549385347314" />
       <file name="/GraphQL.result.json" timestamp="1548975908666">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,6 +88,7 @@
         <mark key="." line="3" column="25" />
         <mark key="^" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/src/workers/worker-payment-provider-recurring-payment-auditor/node/lib/process.js" timestamp="1549659116682" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
