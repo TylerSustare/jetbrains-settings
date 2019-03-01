@@ -62,6 +62,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="86" />
       </file>
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551464928629">
+        <mark key="'" line="59" column="36" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/base.js" timestamp="1549315209791">
         <mark key="[" line="262" column="13" />
         <mark key="]" line="262" column="17" />
@@ -128,10 +134,11 @@
       <jump line="960" column="44" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="998" column="36" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="26" column="1" filename="$USER_HOME$/src/workers/worker-payment-provider-recurring-payment-auditor/node/config/keys.json" />
+      <jump line="59" column="36" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>84.00</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGEgPSByZXF1aXJlCg==</text>
       </register>
       <register name="-" type="4">
         <text>84.00</text>
@@ -143,31 +150,31 @@
         <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBMb2FkaW5nQnViYmxlcywgTm90aWNlIH0gZnJvbSAnQGNidG51Z2dldHMvbGliLXJlYWN0LWNidC1jb21wb25lbnRzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGEgPSByZXF1aXJlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBheGlvcy5nZXQoKTsKICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vY2J0bnVnZ2V0cy9zZXJ2aWNlLXNpdGUtZ2F0ZXdheS9ibG9iL2RldmVsb3Avbm9kZS9yb3V0ZXMvYXBpX3ByaWNpbmcuanMK</text>
+        <text encoding="base64">Y29uc3QgYSA9IHJlcXVpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGF4aW9zLmdldCgpOwogICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL2NidG51Z2dldHMvc2VydmljZS1zaXRlLWdhdGV3YXkvYmxvYi9kZXZlbG9wL25vZGUvcm91dGVzL2FwaV9wcmljaW5nLmpzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBheGlvcy5nZXQoKTsKICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vY2J0bnVnZ2V0cy9zZXJ2aWNlLXNpdGUtZ2F0ZXdheS9ibG9iL2RldmVsb3Avbm9kZS9yb3V0ZXMvYXBpX3ByaWNpbmcuanMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIGF4aW9zLmdldCgpOwogICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL2NidG51Z2dldHMvc2VydmljZS1zaXRlLWdhdGV3YXkvYmxvYi9kZXZlbG9wL25vZGUvcm91dGVzL2FwaV9wcmljaW5nLmpzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGF4aW9zLmdldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJcblxuXG4qKioqKioqKioqKioqKioqKioqKiIpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGF4aW9zLmdldCgpOwogICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL2NidG51Z2dldHMvc2VydmljZS1zaXRlLWdhdGV3YXkvYmxvYi9kZXZlbG9wL25vZGUvcm91dGVzL2FwaV9wcmljaW5nLmpzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ5ZWVlcCIpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGF4aW9zLmdldCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCIqKioqKioqKioqKioqKioqKioqKlxuXG5cbiIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJcblxuXG4qKioqKioqKioqKioqKioqKioqKiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -178,7 +185,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -192,6 +199,7 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
