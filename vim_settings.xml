@@ -44,10 +44,10 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" timestamp="1549315806671">
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" timestamp="1551468574786">
         <mark key="'" line="738" column="52" />
-        <mark key="[" line="815" column="48" />
-        <mark key="]" line="815" column="48" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="." line="815" column="52" />
         <mark key="^" line="243" column="52" />
       </file>
@@ -62,12 +62,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="86" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551466689643">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="8" />
-        <mark key="]" line="95" column="88" />
-        <mark key="." line="95" column="88" />
-        <mark key="^" line="95" column="88" />
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551468772788">
+        <mark key="'" line="746" column="11" />
+        <mark key="[" line="746" column="10" />
+        <mark key="]" line="746" column="14" />
+        <mark key="." line="746" column="14" />
+        <mark key="^" line="746" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/base.js" timestamp="1549315209791">
         <mark key="[" line="262" column="13" />
@@ -139,55 +139,65 @@
       <jump line="96" column="0" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="107" column="8" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="110" column="8" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="42" column="16" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="84" column="64" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="148" column="34" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="159" column="56" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="204" column="34" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="217" column="56" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="235" column="109" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
+      <jump line="746" column="11" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>kip</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>sandbox</text>
+        <text>valid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBMb2FkaW5nQnViYmxlcywgTm90aWNlIH0gZnJvbSAnQGNidG51Z2dldHMvbGliLXJlYWN0LWNidC1jb21wb25lbnRzJzsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CmNsYXNzIFN0dWJiZWRTdXBlckFnZW50UmVxdWVzdE9iamVjdCB7CiAgICBjb25zdHJ1Y3RvcihyZXN1bHRFcnJvciA9IG51bGwsIHJlc3VsdFJlc3BvbnNlID0gbnVsbCkgewogICAgICAgIHRoaXMudHlwZSA9ICgpID0+IHRoaXM7CiAgICAgICAgdGhpcy5hY2NlcHQgPSAoKSA9PiB0aGlzOwogICAgICAgIHRoaXMuc2VuZCA9ICgpID0+IHRoaXM7CiAgICAgICAgdGhpcy5lbmQgPSAoY2FsbGJhY2spID0+IGNhbGxiYWNrKHJlc3VsdEVycm9yLCByZXN1bHRSZXNwb25zZSk7CiAgICB9Cn0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYW5kYm94ID0gc2lub24uc2FuZGJveC5jcmVhdGUoKTsKCg==</text>
+        <text encoding="base64">Y2xhc3MgUwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2UgPSByZXF1aXJlKCcuL2Jhc2UnKTsKCiAgICAgICAgICAgICAgICBjb25zdCB0ZXN0U2VydmVyc1RvQ3JlYXRlID0gWwogICAgICAgICAgICAgICAgICAgIFEubmludm9rZShiYXNlLCAnY3JlYXRlQXV0aFNlcnZpY2UnKSwKICAgICAgICAgICAgICAgICAgICBRLm5pbnZva2UoYmFzZSwgJ2NyZWF0ZUludGVybmFsUmVjZWlwdFNlcnZpY2UnKSwKICAgICAgICAgICAgICAgICAgICBRLm5pbnZva2UoYmFzZSwgJ2NyZWF0ZU1lbWJlclNlcnZpY2UnKQogICAgICAgICAgICAgICAgXTsKCiAgICAgICAgICAgICAgICByZXR1cm4gUS5hbGwodGVzdFNlcnZlcnNUb0NyZWF0ZSkKICAgICAgICAgICAgICAgICAgICAuc3ByZWFkKChhdXRoLCBpbnRlcm5hbFJlY2VpcHQsIG1lbWJlcikgPT4gewogICAgICAgICAgICAgICAgICAgICAgICB0ZXN0U2VydmVycy5hdXRoID0gYXV0aDsKICAgICAgICAgICAgICAgICAgICAgICAgdGVzdFNlcnZlcnMuaW50ZXJuYWxSZWNlaXB0ID0gaW50ZXJuYWxSZWNlaXB0OwogICAgICAgICAgICAgICAgICAgICAgICB0ZXN0U2VydmVycy5tZW1iZXIgPSBtZW1iZXI7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGEgPSByZXF1aXJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IHJlcXVpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBheGlvcy5nZXQoKTsKICAgICAgICAvLyBodHRwczovL2dpdGh1Yi5jb20vY2J0bnVnZ2V0cy9zZXJ2aWNlLXNpdGUtZ2F0ZXdheS9ibG9iL2RldmVsb3Avbm9kZS9yb3V0ZXMvYXBpX3ByaWNpbmcuanMK</text>
+        <text encoding="base64">ICAgICAgICBjb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sandbox</last-search>
+      <last-search>valid</last-search>
       <last-offset />
-      <last-pattern>sandbox</last-pattern>
+      <last-pattern>valid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -201,6 +211,7 @@
         <entry>8[1-9]\.</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry>sandbox</entry>
+        <entry>valid</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
