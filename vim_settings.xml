@@ -137,7 +137,7 @@
         <text>84.00</text>
       </register>
       <register name="/" type="4">
-        <text>8[1-9]\.</text>
+        <text encoding="base64">XDwoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBMb2FkaW5nQnViYmxlcywgTm90aWNlIH0gZnJvbSAnQGNidG51Z2dldHMvbGliLXJlYWN0LWNidC1jb21wb25lbnRzJzsK</text>
@@ -174,11 +174,11 @@
       </register>
     </registers>
     <search>
-      <last-search>8[1-9]\.</last-search>
+      <last-search encoding="base64">XDwoXD4=</last-search>
       <last-offset />
-      <last-pattern>8[1-9]\.</last-pattern>
+      <last-pattern encoding="base64">XDwoXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -188,6 +188,7 @@
         <entry>Main</entry>
         <entry>site</entry>
         <entry>8[1-9]\.</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
