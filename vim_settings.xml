@@ -62,11 +62,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="86" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551468772788">
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551469541538">
         <mark key="'" line="746" column="11" />
         <mark key="[" line="746" column="10" />
-        <mark key="]" line="746" column="14" />
-        <mark key="." line="746" column="14" />
+        <mark key="]" line="746" column="10" />
+        <mark key="." line="746" column="10" />
         <mark key="^" line="746" column="14" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/base.js" timestamp="1549315209791">
@@ -151,8 +151,8 @@
       <jump line="746" column="11" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
