@@ -56,7 +56,6 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/testConfigs/reenable_disabled_recurrence.js" timestamp="1551476018768" />
       <file name="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" timestamp="1545956156605">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="30" column="0" />
@@ -67,6 +66,12 @@
         <mark key="'" line="78" column="34" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="86" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment/node/lib/paypal.js" timestamp="1551722242837">
+        <mark key="[" line="291" column="17" />
+        <mark key="]" line="291" column="18" />
+        <mark key="^" line="291" column="25" />
+        <mark key="." line="291" column="18" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
         <mark key="'" line="746" column="11" />
@@ -86,7 +91,6 @@
         <mark key="]" line="78" column="16" />
         <mark key="." line="78" column="16" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/testConfigs/apple_verification.js" timestamp="1551481224657" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
@@ -162,7 +166,7 @@
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
@@ -206,7 +210,7 @@
       <last-offset />
       <last-pattern>valid</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
