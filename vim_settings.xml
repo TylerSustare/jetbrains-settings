@@ -12,11 +12,11 @@
       <file name="$USER_HOME$/src/workers/worker-payment-provider-recurring-payment-auditor/node/config/keys.json" timestamp="1549666363456">
         <mark key="'" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1551987181420">
-        <mark key="[" line="58" column="34" />
-        <mark key="]" line="58" column="53" />
-        <mark key="." line="58" column="53" />
-        <mark key="^" line="58" column="53" />
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1551987831569">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/testConfigs/audit/single_valid_activation.js" timestamp="1551482764531">
         <mark key="[" line="58" column="29" />
@@ -43,11 +43,11 @@
         <mark key="." line="136" column="39" />
         <mark key="^" line="136" column="39" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/config/routes.js" timestamp="1551986606403">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/config/routes.js" timestamp="1551987963068">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/App.js" timestamp="1548195056956">
         <mark key="[" line="8" column="27" />
@@ -74,17 +74,23 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1551987246989">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1551987765259">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="^" line="242" column="18" />
+        <mark key="]" line="239" column="62" />
         <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" timestamp="1549048545349">
         <mark key="'" line="78" column="34" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="86" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_batchReceipts.js" timestamp="1551988160352">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
         <mark key="'" line="746" column="11" />
@@ -174,46 +180,47 @@
       <jump line="235" column="109" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="746" column="11" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="17" column="0" filename="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_batchReceipts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuY29sbGVjdCgnZW5kcG9pbnQuZ2V0LnJlY2VpcHQnLCB7CiAgICAgICAgICAgIHN0YXR1czogdHJ1ZSwKICAgICAgICAgICAgdGltaW5nOiB0cnVlCiAgICAgICAgfSksCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBhdXRoLmF1dGhlbnRpY2F0ZUNsaWVudCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jYXRjaChlID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QodHJ1ZSkudG8uZXFsKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuIGRvbmUoZXJyKTsKICAgICAgICAgICAgICAgIC8vICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIC5lbmQoKGVyciwgcmVzKSA9PiB7CiAgICAgICAgICAgICAgICAvLyAgICAgaWYgKGVycikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2JlYXJlcicsIHsgYXNzaWduUHJvcGVydHk6ICd0b2tlbicsIHNlc3Npb246IGZhbHNlLCBmYWlsV2l0aEVycm9yOiB0cnVlIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2dnaW5nIGl0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoLmF1dGhlbnRpY2F0ZUNsaWVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
