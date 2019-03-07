@@ -73,6 +73,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1551984234603">
+        <mark key="[" line="233" column="12" />
+        <mark key="]" line="233" column="11" />
+        <mark key="^" line="233" column="11" />
+        <mark key="." line="233" column="11" />
+      </file>
       <file name="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" timestamp="1549048545349">
         <mark key="'" line="78" column="34" />
         <mark key="[" line="3" column="0" />
@@ -207,7 +213,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -234,6 +240,8 @@
         <entry>w</entry>
         <entry>vs</entry>
         <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
