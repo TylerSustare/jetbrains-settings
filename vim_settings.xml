@@ -12,6 +12,11 @@
       <file name="$USER_HOME$/src/workers/worker-payment-provider-recurring-payment-auditor/node/config/keys.json" timestamp="1549666363456">
         <mark key="'" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1551983727036">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/testConfigs/audit/single_valid_activation.js" timestamp="1551482764531">
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="30" />
@@ -36,6 +41,12 @@
         <mark key="]" line="136" column="39" />
         <mark key="." line="136" column="39" />
         <mark key="^" line="136" column="39" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/config/routes.js" timestamp="1551983711475">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/App.js" timestamp="1548195056956">
         <mark key="[" line="8" column="27" />
@@ -169,34 +180,34 @@
         <text encoding="base64">CmNsYXNzIFN0dWJiZWRTdXBlckFnZW50UmVxdWVzdE9iamVjdCB7CiAgICBjb25zdHJ1Y3RvcihyZXN1bHRFcnJvciA9IG51bGwsIHJlc3VsdFJlc3BvbnNlID0gbnVsbCkgewogICAgICAgIHRoaXMudHlwZSA9ICgpID0+IHRoaXM7CiAgICAgICAgdGhpcy5hY2NlcHQgPSAoKSA9PiB0aGlzOwogICAgICAgIHRoaXMuc2VuZCA9ICgpID0+IHRoaXM7CiAgICAgICAgdGhpcy5lbmQgPSAoY2FsbGJhY2spID0+IGNhbGxiYWNrKHJlc3VsdEVycm9yLCByZXN1bHRSZXNwb25zZSk7CiAgICB9Cn0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUwo=</text>
+        <text encoding="base64">ICAgIGFwcC5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -220,12 +231,17 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
+        <entry>bn</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
