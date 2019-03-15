@@ -22,25 +22,8 @@
         <mark key="]" line="58" column="30" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" timestamp="1548718057046">
-        <mark key="'" line="6" column="12" />
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-      </file>
       <file name="$USER_HOME$/src/static/static-www/config/stage.json" timestamp="1549046513965">
         <mark key="'" line="30" column="45" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1548975908666">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" timestamp="1548195873208">
-        <mark key="'" line="136" column="38" />
-        <mark key="[" line="136" column="28" />
-        <mark key="]" line="136" column="39" />
-        <mark key="." line="136" column="39" />
-        <mark key="^" line="136" column="39" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/config/routes.js" timestamp="1551998277417">
         <mark key="[" line="12" column="38" />
@@ -66,6 +49,56 @@
         <mark key="]" line="13" column="30" />
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
+        <mark key="'" line="746" column="11" />
+        <mark key="[" line="746" column="10" />
+        <mark key="]" line="746" column="10" />
+        <mark key="." line="746" column="10" />
+        <mark key="^" line="746" column="14" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/base.js" timestamp="1549315209791">
+        <mark key="[" line="262" column="13" />
+        <mark key="]" line="262" column="17" />
+        <mark key="." line="262" column="17" />
+        <mark key="^" line="262" column="17" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="16" />
+        <mark key="." line="78" column="16" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1551999150311">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" timestamp="1552001535782">
+        <mark key="[" line="130" column="10" />
+        <mark key="]" line="132" column="38" />
+        <mark key="^" line="132" column="38" />
+        <mark key="." line="132" column="38" />
+      </file>
+      <file name="$USER_HOME$/src/projects/url-shortener-vue/url-shortener/src/App.vue" timestamp="1552690029960">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="67" />
+        <mark key="^" line="4" column="67" />
+        <mark key="." line="4" column="67" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" timestamp="1548718057046">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1548975908666">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" timestamp="1548195873208">
+        <mark key="'" line="136" column="38" />
+        <mark key="[" line="136" column="28" />
+        <mark key="]" line="136" column="39" />
+        <mark key="." line="136" column="39" />
+        <mark key="^" line="136" column="39" />
       </file>
       <file name="$USER_HOME$/src/libs/lib-internal-receipt-service-client-nodejs/api.js" timestamp="1552514998580">
         <mark key="[" line="66" column="0" />
@@ -97,33 +130,6 @@
         <mark key="]" line="8" column="14" />
         <mark key="." line="8" column="14" />
         <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
-        <mark key="'" line="746" column="11" />
-        <mark key="[" line="746" column="10" />
-        <mark key="]" line="746" column="10" />
-        <mark key="." line="746" column="10" />
-        <mark key="^" line="746" column="14" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/base.js" timestamp="1549315209791">
-        <mark key="[" line="262" column="13" />
-        <mark key="]" line="262" column="17" />
-        <mark key="." line="262" column="17" />
-        <mark key="^" line="262" column="17" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="16" />
-        <mark key="." line="78" column="16" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1551999150311">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" timestamp="1552001535782">
-        <mark key="[" line="130" column="10" />
-        <mark key="]" line="132" column="38" />
-        <mark key="^" line="132" column="38" />
-        <mark key="." line="132" column="38" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -279,11 +285,15 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>vs</entry>
         <entry>bn</entry>
         <entry>bp</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry>s</entry>
+        <entry>vs</entry>
+        <entry>hsp</entry>
+        <entry>hs</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
