@@ -63,6 +63,9 @@
         <mark key="." line="262" column="17" />
         <mark key="^" line="262" column="17" />
       </file>
+      <file name="$USER_HOME$/src/services/service-pricing/node/routes/api.js" timestamp="1553033228261">
+        <mark key="'" line="141" column="75" />
+      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
         <mark key="[" line="78" column="16" />
         <mark key="]" line="78" column="16" />
@@ -247,6 +250,7 @@
       <jump line="15" column="55" filename="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" />
       <jump line="13" column="4" filename="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" />
       <jump line="30" column="54" filename="$USER_HOME$/src/services/service-pricing/node/test/api/post_price_lms_legacy_test.js" />
+      <jump line="141" column="75" filename="$USER_HOME$/src/services/service-pricing/node/routes/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
