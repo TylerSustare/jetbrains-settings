@@ -83,6 +83,12 @@
         <mark key="^" line="4" column="67" />
         <mark key="." line="4" column="67" />
       </file>
+      <file name="$USER_HOME$/src/services/service-pricing/node/lib/agreementCalculations.js" timestamp="1553017778715">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
       <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" timestamp="1548718057046">
         <mark key="'" line="6" column="12" />
         <mark key="[" line="12" column="7" />
@@ -111,6 +117,9 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/services/service-pricing/node/test/api/post_price_lms_legacy_test.js" timestamp="1553017719945">
+        <mark key="'" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1552005968506">
         <mark key="'" line="264" column="0" />
@@ -237,13 +246,14 @@
       <jump line="14" column="51" filename="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" />
       <jump line="15" column="55" filename="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" />
       <jump line="13" column="4" filename="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" />
+      <jump line="30" column="54" filename="$USER_HOME$/src/services/service-pricing/node/test/api/post_price_lms_legacy_test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>2019-04-19</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
