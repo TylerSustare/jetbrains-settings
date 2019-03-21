@@ -137,6 +137,12 @@
         <mark key="." line="401" column="75" />
         <mark key="^" line="401" column="75" />
       </file>
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553211000340">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="13" column="115" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_batchReceipts.js" timestamp="1552000876093">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="12" column="112" />
@@ -156,17 +162,23 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/App.vue" timestamp="1553211560920">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553212050798">
+        <mark key="'" line="46" column="16" />
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="34" column="51" />
+      </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/src/services/service-site-gateway/node/test/fixtures/pricing.json" />
-      <jump line="45" column="34" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="48" column="35" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="50" column="36" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="52" column="37" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="53" column="39" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
       <jump line="54" column="40" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
       <jump line="55" column="43" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
       <jump line="20" column="22" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
@@ -257,55 +269,65 @@
       <jump line="13" column="4" filename="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" />
       <jump line="30" column="54" filename="$USER_HOME$/src/services/service-pricing/node/test/api/post_price_lms_legacy_test.js" />
       <jump line="141" column="75" filename="$USER_HOME$/src/services/service-pricing/node/routes/api.js" />
+      <jump line="16" column="9" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="20" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="22" column="37" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="23" column="51" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="24" column="62" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="25" column="64" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="27" column="139" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="28" column="45" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="34" column="41" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="46" column="16" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>priceDate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRhdGVWZXJzaW9u</text>
+        <text>) {</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text>priceDate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFsZXJ0aWZ5LmFsZXJ0KCdFcnJvciBDcmVhdGluZyBTaG9ydCBVUkwnLCAnVVJMIE11c3QgU3RhcnQgV2l0aCA8L2JyPiA8c3Ryb25nPmh0dHA6Ly88L3N0cm9uZz4gb3IgPHN0cm9uZz5odHRwczovLzwvc3Ryb25nPicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsvKjxmb3JtIG1ldGhvZD0iUE9TVCIgYWN0aW9uPSIiIGlkPSJmb3JtIj4qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsvKjwvZm9ybT4qL30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFsZXJ0aWZ5LmFsZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsvKjxpbnB1dCB0eXBlPSJzdWJtaXQiIHZhbHVlPSJTaG9ydGVuIGl0ISIgY2xhc3NOYW1lPSJtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbi0tcmFpc2VkIG1kbC1qcy1yaXBwbGUtZWZmZWN0IG1kbC1idXR0b24tLWNvbG9yZWQiIC8+Ki99Cg==</text>
+        <text encoding="base64">ICAgIDxpbWcgYWx0PSJWdWUgbG9nbyIgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb3JtIG1ldGhvZD0iUE9TVCIgYWN0aW9uPSIiIGlkPSJmb3JtIj4K</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImhlbGxvIj48L2Rpdj4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzTmFtZT17J21kbC1idXR0b24gbWRsLWpzLWJ1dHRvbiBtZGwtYnV0dG9uLS1yYWlzZWQgbWRsLWpzLXJpcHBsZS1lZmZlY3QgbWRsLWJ1dHRvbi0tY29sb3JlZCd9IG9uQ2xpY2s9e3RoaXMuY2hlY2tJbnB1dH0+U2hvcnRlbiBJdCE8L2J1dHRvbj4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICA8aDE+e3sgbXNnIH19PC9oMT4KICAgIDxwPgogICAgICBGb3IgYSBndWlkZSBhbmQgcmVjaXBlcyBvbiBob3cgdG8gY29uZmlndXJlIC8gY3VzdG9taXplIHRoaXMgcHJvamVjdCw8YnI+CiAgICAgIGNoZWNrIG91dCB0aGUKICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9jbGkudnVlanMub3JnIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+dnVlLWNsaSBkb2N1bWVudGF0aW9uPC9hPi4KICAgIDwvcD4KICAgIDxoMz5JbnN0YWxsZWQgQ0xJIFBsdWdpbnM8L2gzPgogICAgPHVsPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL3Z1ZS1jbGkvdHJlZS9kZXYvcGFja2FnZXMvJTQwdnVlL2NsaS1wbHVnaW4tYmFiZWwiIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5iYWJlbDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL3Z1ZS1jbGkvdHJlZS9kZXYvcGFja2FnZXMvJTQwdnVlL2NsaS1wbHVnaW4tZXNsaW50IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+ZXNsaW50PC9hPjwvbGk+CiAgICA8L3VsPgogICAgPGgzPkVzc2VudGlhbCBMaW5rczwvaDM+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5Gb3J1bTwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9jaGF0LnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPkNvbW11bml0eSBDaGF0PC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL3Z1ZWpzIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+VHdpdHRlcjwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9uZXdzLnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPk5ld3M8L2E+PC9saT4KICAgIDwvdWw+CiAgICA8aDM+RWNvc3lzdGVtPC9oMz4KICAgIDx1bD4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vcm91dGVyLnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPnZ1ZS1yb3V0ZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdnVleC52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj52dWV4PC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdnVlanMvdnVlLWRldnRvb2xzI3Z1ZS1kZXZ0b29scyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPnZ1ZS1kZXZ0b29sczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly92dWUtbG9hZGVyLnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPnZ1ZS1sb2FkZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVqcy9hd2Vzb21lLXZ1ZSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPmF3ZXNvbWUtdnVlPC9hPjwvbGk+CiAgICA8L3VsPgogIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24+dGVzdDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -325,18 +347,19 @@
         <entry>uuid</entry>
         <entry>input</entry>
         <entry>class</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
         <entry>bn</entry>
         <entry>bp</entry>
-        <entry>noh</entry>
         <entry>s</entry>
         <entry>vs</entry>
         <entry>hsp</entry>
         <entry>hs</entry>
         <entry>sp</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
