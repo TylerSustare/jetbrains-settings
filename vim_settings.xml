@@ -137,11 +137,11 @@
         <mark key="." line="401" column="75" />
         <mark key="^" line="401" column="75" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553211000340">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="13" column="115" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553291400081">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="18" column="37" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_batchReceipts.js" timestamp="1552000876093">
         <mark key="'" line="20" column="0" />
@@ -168,12 +168,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553288816672">
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553292165687">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="102" column="73" />
-        <mark key="]" line="102" column="73" />
-        <mark key="." line="102" column="73" />
-        <mark key="^" line="43" column="11" />
+        <mark key="[" line="92" column="22" />
+        <mark key="]" line="92" column="22" />
+        <mark key="^" line="92" column="22" />
+        <mark key="." line="92" column="22" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553233080565">
         <mark key="[" line="6" column="24" />
@@ -289,10 +289,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?link=${this.longUrl}</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>?link=${this.longUrl}</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>dev-url</text>
@@ -301,31 +301,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCB0aGlzLmF4aW9zLnBvc3QoYGh0dHBzOi8vZGV2LXVybC5zdXN0YXJlLmNvbT9saW5rPSR7dGhpcy5sb25nVXJsfWAsIHsgbGluazogdGhpcy5sb25nVXJsIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2IHYtZWxzZSA+Cg==</text>
+        <text encoding="base64">PCEtLWh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL3N3ZWV0YWxlcnQtLT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGZvcm0gbWV0aG9kPSJQT1NUIiAgYWN0aW9uPSJodHRwczovL2Rldi11cmwuc3VzdGFyZS5jb20iIGlkPSJmb3JtIj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDpjbGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0ibWRsLXRleHRmaWVsZF9faW5wdXQiIHYtbW9kZWw9InVybCIgOnBsYWNlaG9sZGVyPSJwbGFjZWhvbGRlciIgdHlwZT0idGV4dCIgaWQ9ImxpbmsiIG5hbWU9ImxpbmsiPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47IC8vIHRoaXMgaXMgZmluZS4uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGJ1dHRvbiB2LW9uOmNsaWNrPSJzZW5kIiB2YWx1ZT0iU2hvcnRlbiBpdCEiIGNsYXNzPSJtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbiYjNDU7JiM0NTtyYWlzZWQgbWRsLWpzLXJpcHBsZS1lZmZlY3QgbWRsLWJ1dHRvbiYjNDU7JiM0NTtjb2xvcmVkIj5TSE9SVEVOIElUISA8L2J1dHRvbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBWdWUuc2V0KHRoaXMuc2hvcnRVcmwsIHJlc3VsdC5kYXRhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgeyBzaG9ydFVybCB9ID0gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiBhd2FpdCB0aGlzLmF4aW9zLnBvc3QoYGh0dHBzOi8vZGV2LXVybC5zdXN0YXJlLmNvbT9saW5rPSR7dGhpcy5sb25nVXJsfWApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LQo=</text>
+        <text encoding="base64">ICA8ZGl2IHYtZWxzZSA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0LmRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGZvcm0gbWV0aG9kPSJQT1NUIiAgYWN0aW9uPSJodHRwczovL2Rldi11cmwuc3VzdGFyZS5jb20iIGlkPSJmb3JtIj4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGEpOwogICAgICAgICAgICAgICAgcmV0dXJuIGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0ibWRsLXRleHRmaWVsZF9faW5wdXQiIHYtbW9kZWw9InVybCIgOnBsYWNlaG9sZGVyPSJwbGFjZWhvbGRlciIgdHlwZT0idGV4dCIgaWQ9ImxpbmsiIG5hbWU9ImxpbmsiPi0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXN1bHQuZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGJ1dHRvbiB2LW9uOmNsaWNrPSJzZW5kIiB2YWx1ZT0iU2hvcnRlbiBpdCEiIGNsYXNzPSJtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbiYjNDU7JiM0NTtyYWlzZWQgbWRsLWpzLXJpcHBsZS1lZmZlY3QgbWRsLWJ1dHRvbiYjNDU7JiM0NTtjb2xvcmVkIj5TSE9SVEVOIElUISA8L2J1dHRvbj4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
