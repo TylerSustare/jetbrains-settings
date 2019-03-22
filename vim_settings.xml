@@ -168,12 +168,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553233162855">
-        <mark key="'" line="69" column="16" />
-        <mark key="[" line="60" column="43" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="60" column="43" />
-        <mark key="^" line="60" column="43" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553234859893">
+        <mark key="'" line="72" column="16" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="15" column="166" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553233080565">
         <mark key="[" line="6" column="24" />
@@ -288,44 +287,44 @@
       <jump line="46" column="16" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJtZGwtdGV4dGZpZWxkX19pbnB1dCIgdi1tb2RlbD0idXJsIiA6cGxhY2Vob2xkZXI9InBsYWNlaG9sZGVyIiB0eXBlPSJ0ZXh0IiBpZD0ibGluayIgbmFtZT0ibGluayI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08Zm9ybSBtZXRob2Q9IlBPU1QiIEBzdWJtaXQucHJldmVudD0icHJvY2Vzc0Zvcm0iIGFjdGlvbj0iaHR0cHM6Ly9kZXYtdXJsLnN1c3RhcmUuY29tIiBpZD0iZm9ybSI+LS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVBeGlvcywgYXhpb3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtIG1ldGhvZD0iUE9TVCIgYWN0aW9uPSJodHRwczovL2Rldi11cmwuc3VzdGFyZS5jb20iIGlkPSJmb3JtIj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VnVlLnVzZShWdWVBeGlvcywgYXhpb3MpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">VnVlLnVzZShWdWVBeGlvcywgYXhpb3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VnVlLnVzZShheGlvcyk7Cg==</text>
+        <text encoding="base64">VnVlLnVzZShWdWVBeGlvcywgYXhpb3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
+        <text encoding="base64">VnVlLnVzZShheGlvcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF4aW9zLnBvc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHRoaXMuaXNIdHRwKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
