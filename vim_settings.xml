@@ -162,16 +162,20 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env" timestamp="1553297629743">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/App.vue" timestamp="1553215070366">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="28" />
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553297260544">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553297666305">
+        <mark key="[" line="105" column="50" />
+        <mark key="]" line="105" column="69" />
+        <mark key="." line="105" column="69" />
+        <mark key="^" line="105" column="69" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553293267424">
         <mark key="[" line="7" column="21" />
@@ -286,11 +290,11 @@
       <jump line="134" column="12" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYXdVcmxzID8gdXJscyA9IFtdIDogdXJscyA9IEpTT04ucGFyc2UocmF3VXJscyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>urls = JSON.parse(rawUrls);</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>dev-url</text>
@@ -334,7 +338,7 @@
       <last-offset />
       <last-pattern>dev-url</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
