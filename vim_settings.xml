@@ -168,18 +168,17 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553292165687">
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553293894434">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="92" column="22" />
-        <mark key="]" line="92" column="22" />
-        <mark key="^" line="92" column="22" />
-        <mark key="." line="92" column="22" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="60" />
+        <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553233080565">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="0" column="21" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553293267424">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -288,11 +287,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydGlmeS5zdWNjZXNzKCJDb3BpZWQgdG8gQ2xpcGJvYXJkIik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text>dev-url</text>
@@ -301,31 +300,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCB0aGlzLmF4aW9zLnBvc3QoYGh0dHBzOi8vZGV2LXVybC5zdXN0YXJlLmNvbT9saW5rPSR7dGhpcy5sb25nVXJsfWAsIHsgbGluazogdGhpcy5sb25nVXJsIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLWh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL3N3ZWV0YWxlcnQtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydGlmeS5zdWNjZXNzKCJDb3BpZWQgdG8gQ2xpcGJvYXJkIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDpjbGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47IC8vIHRoaXMgaXMgZmluZS4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBWdWUuc2V0KHRoaXMuc2hvcnRVcmwsIHJlc3VsdC5kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiBhd2FpdCB0aGlzLmF4aW9zLnBvc3QoYGh0dHBzOi8vZGV2LXVybC5zdXN0YXJlLmNvbT9saW5rPSR7dGhpcy5sb25nVXJsfWApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IHYtZWxzZSA+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGEgaHJlZj0ie3tzaG9ydFVybH19Ij57eyBzaG9ydFVybCB9fTwvYT4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGZvcm0gbWV0aG9kPSJQT1NUIiAgYWN0aW9uPSJodHRwczovL2Rldi11cmwuc3VzdGFyZS5jb20iIGlkPSJmb3JtIj4tLT4K</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZUNsaXBib2FyZCBmcm9tICd2dWUtY2xpcGJvYXJkMicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0ibWRsLXRleHRmaWVsZF9faW5wdXQiIHYtbW9kZWw9InVybCIgOnBsYWNlaG9sZGVyPSJwbGFjZWhvbGRlciIgdHlwZT0idGV4dCIgaWQ9ImxpbmsiIG5hbWU9ImxpbmsiPi0tPgo=</text>
+        <text encoding="base64">PCEtLWh0dHBzOi8vd3d3Lm5wbWpzLmNvbS9wYWNrYWdlL3N3ZWV0YWxlcnQtLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGJ1dHRvbiB2LW9uOmNsaWNrPSJzZW5kIiB2YWx1ZT0iU2hvcnRlbiBpdCEiIGNsYXNzPSJtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbiYjNDU7JiM0NTtyYWlzZWQgbWRsLWpzLXJpcHBsZS1lZmZlY3QgbWRsLWJ1dHRvbiYjNDU7JiM0NTtjb2xvcmVkIj5TSE9SVEVOIElUISA8L2J1dHRvbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDpjbGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
