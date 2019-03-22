@@ -168,17 +168,18 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553228095633">
-        <mark key="'" line="68" column="16" />
-        <mark key="[" line="61" column="55" />
-        <mark key="]" line="61" column="71" />
-        <mark key="." line="61" column="71" />
-        <mark key="^" line="61" column="71" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553233162855">
+        <mark key="'" line="69" column="16" />
+        <mark key="[" line="60" column="43" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553228136645">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553233080565">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -287,11 +288,11 @@
       <jump line="46" column="16" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>.coindesk.com/v1/bpi/currentprice.json</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -300,31 +301,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJtZGwtdGV4dGZpZWxkX19pbnB1dCIgdi1tb2RlbD0idXJsIiA6cGxhY2Vob2xkZXI9InBsYWNlaG9sZGVyIiB0eXBlPSJ0ZXh0IiBpZD0ibGluayIgbmFtZT0ibGluayI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VnVlLnVzZShheGlvcyk7Cg==</text>
+        <text encoding="base64">VnVlLnVzZShWdWVBeGlvcywgYXhpb3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">VnVlLnVzZShWdWVBeGlvcywgYXhpb3MpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF4aW9zLnBvc3QoKQo=</text>
+        <text encoding="base64">VnVlLnVzZShheGlvcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHRoaXMuaXNIdHRwKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IlNob3J0ZW4gaXQhIiBjbGFzcz0ibWRsLWJ1dHRvbiBtZGwtanMtYnV0dG9uIG1kbC1idXR0b24mIzQ1OyYjNDU7cmFpc2VkIG1kbC1qcy1yaXBwbGUtZWZmZWN0IG1kbC1idXR0b24mIzQ1OyYjNDU7Y29sb3JlZCIgLz4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF4aW9zLnBvc3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHRoaXMudXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHRoaXMuaXNIdHRwKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
