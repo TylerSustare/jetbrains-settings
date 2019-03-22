@@ -162,17 +162,23 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/App.vue" timestamp="1553211560920">
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/App.vue" timestamp="1553215070366">
         <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553212050798">
-        <mark key="'" line="46" column="16" />
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="34" column="51" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553228095633">
+        <mark key="'" line="68" column="16" />
+        <mark key="[" line="61" column="55" />
+        <mark key="]" line="61" column="71" />
+        <mark key="." line="61" column="71" />
+        <mark key="^" line="61" column="71" />
+      </file>
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553228136645">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -282,43 +288,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>) {</text>
+        <text>.coindesk.com/v1/bpi/currentprice.json</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>priceDate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJtZGwtdGV4dGZpZWxkX19pbnB1dCIgdi1tb2RlbD0idXJsIiA6cGxhY2Vob2xkZXI9InBsYWNlaG9sZGVyIiB0eXBlPSJ0ZXh0IiBpZD0ibGluayIgbmFtZT0ibGluayI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGF4aW9zIGZyb20gJ2F4aW9zJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFsZXJ0aWZ5LmFsZXJ0KCdFcnJvciBDcmVhdGluZyBTaG9ydCBVUkwnLCAnVVJMIE11c3QgU3RhcnQgV2l0aCA8L2JyPiA8c3Ryb25nPmh0dHA6Ly88L3N0cm9uZz4gb3IgPHN0cm9uZz5odHRwczovLzwvc3Ryb25nPicpOwo=</text>
+        <text encoding="base64">VnVlLnVzZShheGlvcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGFsZXJ0aWZ5LmFsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpbWcgYWx0PSJWdWUgbG9nbyIgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF4aW9zLnBvc3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHRoaXMuaXNIdHRwKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImhlbGxvIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGlucHV0IHR5cGU9InN1Ym1pdCIgdmFsdWU9IlNob3J0ZW4gaXQhIiBjbGFzcz0ibWRsLWJ1dHRvbiBtZGwtanMtYnV0dG9uIG1kbC1idXR0b24mIzQ1OyYjNDU7cmFpc2VkIG1kbC1qcy1yaXBwbGUtZWZmZWN0IG1kbC1idXR0b24mIzQ1OyYjNDU7Y29sb3JlZCIgLz4tLT4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICA8aDE+e3sgbXNnIH19PC9oMT4KICAgIDxwPgogICAgICBGb3IgYSBndWlkZSBhbmQgcmVjaXBlcyBvbiBob3cgdG8gY29uZmlndXJlIC8gY3VzdG9taXplIHRoaXMgcHJvamVjdCw8YnI+CiAgICAgIGNoZWNrIG91dCB0aGUKICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9jbGkudnVlanMub3JnIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+dnVlLWNsaSBkb2N1bWVudGF0aW9uPC9hPi4KICAgIDwvcD4KICAgIDxoMz5JbnN0YWxsZWQgQ0xJIFBsdWdpbnM8L2gzPgogICAgPHVsPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL3Z1ZS1jbGkvdHJlZS9kZXYvcGFja2FnZXMvJTQwdnVlL2NsaS1wbHVnaW4tYmFiZWwiIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5iYWJlbDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL3Z1ZWpzL3Z1ZS1jbGkvdHJlZS9kZXYvcGFja2FnZXMvJTQwdnVlL2NsaS1wbHVnaW4tZXNsaW50IiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+ZXNsaW50PC9hPjwvbGk+CiAgICA8L3VsPgogICAgPGgzPkVzc2VudGlhbCBMaW5rczwvaDM+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj5Gb3J1bTwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9jaGF0LnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPkNvbW11bml0eSBDaGF0PC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL3Z1ZWpzIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciI+VHdpdHRlcjwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9uZXdzLnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPk5ld3M8L2E+PC9saT4KICAgIDwvdWw+CiAgICA8aDM+RWNvc3lzdGVtPC9oMz4KICAgIDx1bD4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vcm91dGVyLnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPnZ1ZS1yb3V0ZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdnVleC52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIj52dWV4PC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdnVlanMvdnVlLWRldnRvb2xzI3Z1ZS1kZXZ0b29scyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPnZ1ZS1kZXZ0b29sczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly92dWUtbG9hZGVyLnZ1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPnZ1ZS1sb2FkZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVqcy9hd2Vzb21lLXZ1ZSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPmF3ZXNvbWUtdnVlPC9hPjwvbGk+CiAgICA8L3VsPgogIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KHRoaXMudXJsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
