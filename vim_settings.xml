@@ -168,12 +168,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553281262661">
-        <mark key="'" line="88" column="16" />
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="79" column="35" />
-        <mark key="." line="79" column="35" />
-        <mark key="^" line="79" column="35" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553285661503">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="11" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553233080565">
         <mark key="[" line="6" column="24" />
@@ -186,22 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="40" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="55" column="43" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="20" column="22" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="47" column="30" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="58" column="27" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="184" column="1" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="2" column="47" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="169" column="30" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="181" column="4" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="128" column="50" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="134" column="38" filename="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" />
-      <jump line="6" column="12" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" />
       <jump line="15" column="13" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" />
       <jump line="23" column="14" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" />
       <jump line="21" column="47" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
@@ -286,57 +270,73 @@
       <jump line="28" column="45" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="34" column="41" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="46" column="16" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="75" column="24" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="4" column="61" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="10" column="32" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="12" column="73" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="15" column="43" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="57" column="20" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="63" column="34" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="64" column="41" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="65" column="42" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="67" column="68" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="69" column="63" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="78" column="116" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="36" column="12" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="102" column="97" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="1" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>dev-url</text>
       </register>
-      <register name="0" type="4">
-        <text>f</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCB0aGlzLmF4aW9zLnBvc3QoYGh0dHBzOi8vZGV2LXVybC5zdXN0YXJlLmNvbT9saW5rPSR7dGhpcy5sb25nVXJsfWAsIHsgbGluazogdGhpcy5sb25nVXJsIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGl2IHYtZWxzZSA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHRoaXMuaXNIdHRwKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGZvcm0gbWV0aG9kPSJQT1NUIiAgYWN0aW9uPSJodHRwczovL2Rldi11cmwuc3VzdGFyZS5jb20iIGlkPSJmb3JtIj4tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxpbnB1dCBjbGFzcz0ibWRsLXRleHRmaWVsZF9faW5wdXQiIHYtbW9kZWw9InVybCIgOnBsYWNlaG9sZGVyPSJwbGFjZWhvbGRlciIgdHlwZT0idGV4dCIgaWQ9ImxpbmsiIG5hbWU9ImxpbmsiPi0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGJ1dHRvbiB2LW9uOmNsaWNrPSJzZW5kIiB2YWx1ZT0iU2hvcnRlbiBpdCEiIGNsYXNzPSJtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbiYjNDU7JiM0NTtyYWlzZWQgbWRsLWpzLXJpcHBsZS1lZmZlY3QgbWRsLWJ1dHRvbiYjNDU7JiM0NTtjb2xvcmVkIj5TSE9SVEVOIElUISA8L2J1dHRvbj4tLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihyZXNwb25zZSA9PiAoYWxlcnQoSlNPTi5zdHJpbmdpZnkocmVzcG9uc2UpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgeyBzaG9ydFVybCB9ID0gdGhpczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzLCByZWopID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0LmRhdGE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnZm9ybScpLm9uc3VibWl0ID0gZnVuY3Rpb24gKCkgewogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGEpOwogICAgICAgICAgICAgICAgcmV0dXJuIGE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfQogICAgICAgICAgICAvLyByZXR1cm4gaXNIdHRwIHx8IGlzSHR0cHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXN1bHQuZGF0YSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>dev-url</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>dev-url</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -355,6 +355,8 @@
         <entry>input</entry>
         <entry>class</entry>
         <entry>&quot;</entry>
+        <entry>url</entry>
+        <entry>dev-url</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
