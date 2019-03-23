@@ -188,11 +188,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553315831220">
-        <mark key="[" line="112" column="86" />
-        <mark key="]" line="112" column="88" />
-        <mark key="." line="112" column="88" />
-        <mark key="^" line="112" column="88" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553382123167">
+        <mark key="[" line="175" column="37" />
+        <mark key="]" line="175" column="37" />
+        <mark key="." line="175" column="37" />
+        <mark key="^" line="175" column="37" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
@@ -209,22 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="59" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
-      <jump line="30" column="45" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
-      <jump line="78" column="34" filename="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" />
-      <jump line="30" column="15" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="235" column="42" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="243" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="312" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="403" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="479" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="558" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="646" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="738" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" />
-      <jump line="199" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
-      <jump line="250" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="271" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="319" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="447" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
@@ -297,10 +281,6 @@
       <jump line="12" column="73" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="15" column="43" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="57" column="20" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="63" column="34" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="64" column="41" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="65" column="42" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="67" column="68" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="69" column="63" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="78" column="116" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="36" column="12" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
@@ -309,57 +289,77 @@
       <jump line="74" column="44" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="134" column="12" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="15" column="19" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="2" column="4" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="201" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="65" column="7" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="211" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="64" column="73" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="67" column="30" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="76" column="30" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="83" column="30" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="35" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="63" column="8" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="111" column="19" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="112" column="26" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="113" column="27" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="114" column="54" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="157" column="25" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="160" column="57" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="162" column="62" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="184" column="16" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="3" column="11" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9UeWxlclN1c3RhcmUvc2VydmVybGVzcy1kZW1vL3RyZWUvbWFzdGVyL3Nob3J0LXVybCI+Q3VycmVudCBvbmU8L2E+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text>com</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
-        <text>dev-url</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJy4vY29tcG9uZW50cy9IZWxsb1dvcmxkJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1cmxzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9UeWxlclN1c3RhcmUvc2VydmVybGVzcy1kZW1vL3RyZWUvbWFzdGVyL3Nob3J0LXVybCI+Q3VycmVudCBvbmU8L2E+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3d3dy5nc3RhdGljLmNvbS9maXJlYmFzZWpzLzUuOS4xL2ZpcmViYXNlLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQ+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgIC8vIEluaXRpYWxpemUgRmlyZWJhc2UKICAgICAgdmFyIGNvbmZpZyA9IHsKICAgICAgICBhcGlLZXk6ICJBSXphU3lBZnBNVE1IcnpZSXpxZ0NPOWxwMms4Vk9fR1plNnVqVlUiLAogICAgICAgIGF1dGhEb21haW46ICJ1cmxzLTUwM2EzLmZpcmViYXNlYXBwLmNvbSIsCiAgICAgICAgZGF0YWJhc2VVUkw6ICJodHRwczovL3VybHMtNTAzYTMuZmlyZWJhc2Vpby5jb20iLAogICAgICAgIHByb2plY3RJZDogInVybHMtNTAzYTMiLAogICAgICAgIHN0b3JhZ2VCdWNrZXQ6ICJ1cmxzLTUwM2EzLmFwcHNwb3QuY29tIiwKICAgICAgICBtZXNzYWdpbmdTZW5kZXJJZDogIjMxMTUwMjQ0OTc4NSIKICAgICAgfTsKICAgICAgZmlyZWJhc2UuaW5pdGlhbGl6ZUFwcChjb25maWcpOwogICAg</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJpbmRleGVzIjogImZpcmVzdG9yZS5pbmRleGVzLmpzb24iCiAgfSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAiZmlyZXN0b3JlIjogewogICAgInJ1bGVzIjogImZpcmVzdG9yZS5ydWxlcyIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5vbmxvYWQgPSBmdW5jdGlvbiAoKSB7CiAgICB9Owo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdsaW5rJykuZm9jdXMoKTsKICAgICAgICB9LCAxNTAwKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgdXJsczsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgdXJsczsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjEwPC90ZD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjUwPC90ZD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRkPjI1PC90ZD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHRoPlF1YW50aXR5PC90aD4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxkaXYgPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dev-url</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>dev-url</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -377,9 +377,10 @@
         <entry>uuid</entry>
         <entry>input</entry>
         <entry>class</entry>
-        <entry>&quot;</entry>
         <entry>url</entry>
         <entry>dev-url</entry>
+        <entry>table</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
