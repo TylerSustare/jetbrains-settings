@@ -137,11 +137,10 @@
         <mark key="." line="401" column="75" />
         <mark key="^" line="401" column="75" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553291400081">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553311240428">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_batchReceipts.js" timestamp="1552000876093">
         <mark key="'" line="20" column="0" />
@@ -172,11 +171,11 @@
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/App.vue" timestamp="1553215070366">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/App.vue" timestamp="1553311198348">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+        <mark key="^" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553299284762">
         <mark key="[" line="105" column="80" />
@@ -187,12 +186,12 @@
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553310259686">
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553311288561">
         <mark key="'" line="18" column="19" />
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -301,11 +300,11 @@
       <jump line="15" column="19" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHsgcGF0aDogJy86c2x1ZycsIGNvbXBvbmVudDogQXBwIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>App</text>
       </register>
       <register name="/" type="4">
         <text>dev-url</text>
@@ -314,31 +313,31 @@
         <text encoding="base64">ICAgIHsgcGF0aDogJy86c2x1ZycsIGNvbXBvbmVudDogQXBwIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHsgcGF0aDogJy86c2x1ZycsIGNvbXBvbmVudDogQXBwIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmNvbnN0IHJvdXRlcyA9IFsKICAgIHsgcGF0aDogJy86c2x1ZycsIGNvbXBvbmVudDogQXBwIH0KXTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CmNvbnN0IHJvdXRlcyA9IFsKICAgIHsgcGF0aDogJy86c2x1ZycsIGNvbXBvbmVudDogQXBwIH0KXTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Rk9PPWJhcmRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rk9PPWJhcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQocHJvY2Vzcy5lbnYuVlVFX0FQUF9TVUJET01BSU4pCiAgICAgIGFsZXJ0KHByb2Nlc3MuZW52LkZPTykK</text>
+        <text encoding="base64">Rk9PPWJhcmRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYXdVcmxzID8gdXJscyA9IFtdIDogdXJscyA9IEpTT04ucGFyc2UocmF3VXJscyk7Cg==</text>
+        <text encoding="base64">Rk9PPWJhcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
