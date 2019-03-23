@@ -187,18 +187,18 @@
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553293267424">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553308983809">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="47" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
       <jump line="28" column="59" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
       <jump line="30" column="45" filename="$USER_HOME$/src/static/static-www/config/stage.json" />
       <jump line="78" column="34" filename="$USER_HOME$/src/static/static-www/src/apps/Unsubscribe/components/PreferencesPhase2/index.js" />
@@ -298,10 +298,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="74" column="44" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="134" column="12" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="15" column="19" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -313,31 +314,31 @@
         <text encoding="base64">ICAgICAgYWxlcnQocHJvY2Vzcy5lbnYuVlVFX1NVQkRPTUFJTikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Rk9PPWJhcmRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Rk9PPWJhcgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQocHJvY2Vzcy5lbnYuVlVFX0FQUF9TVUJET01BSU4pCiAgICAgIGFsZXJ0KHByb2Nlc3MuZW52LkZPTykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmNvbnN0IHJvdXRlcyA9IFsKICAgIHsgcGF0aDogJy86c2x1ZycsIGNvbXBvbmVudDogQXBwIH0KXTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYXdVcmxzID8gdXJscyA9IFtdIDogdXJscyA9IEpTT04ucGFyc2UocmF3VXJscyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgCg==</text>
+        <text encoding="base64">Rk9PPWJhcmRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1cmxzLnB1c2godGhpcy5zaG9ydFVybCk7CiAgICAgICAgICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3VybHMnLCBKU09OLnN0cmluZ2lmeSh1cmxzKSk7Cg==</text>
+        <text encoding="base64">Rk9PPWJhcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYWxlcnQocHJvY2Vzcy5lbnYuVlVFX0FQUF9TVUJET01BSU4pCiAgICAgIGFsZXJ0KHByb2Nlc3MuZW52LkZPTykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYXdVcmxzID8gdXJscyA9IFtdIDogdXJscyA9IEpTT04ucGFyc2UocmF3VXJscyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
