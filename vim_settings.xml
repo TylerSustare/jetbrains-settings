@@ -187,12 +187,12 @@
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553308983809">
-        <mark key="'" line="16" column="19" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553310259686">
+        <mark key="'" line="18" column="19" />
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -301,17 +301,17 @@
       <jump line="15" column="19" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>dev-url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYWxlcnQocHJvY2Vzcy5lbnYuVlVFX1NVQkRPTUFJTikK</text>
+        <text encoding="base64">ICAgIHsgcGF0aDogJy86c2x1ZycsIGNvbXBvbmVudDogQXBwIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
