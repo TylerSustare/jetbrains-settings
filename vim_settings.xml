@@ -12,11 +12,10 @@
       <file name="$USER_HOME$/src/workers/worker-payment-provider-recurring-payment-auditor/node/config/keys.json" timestamp="1549666363456">
         <mark key="'" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/package.json" timestamp="1553408548924">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="8" column="19" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/package.json" timestamp="1553411048108">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1552005258624">
         <mark key="[" line="67" column="0" />
@@ -194,12 +193,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553408392825">
-        <mark key="'" line="190" column="13" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="63" column="25" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553410802196">
+        <mark key="'" line="202" column="13" />
+        <mark key="[" line="129" column="47" />
+        <mark key="]" line="129" column="47" />
+        <mark key="^" line="129" column="47" />
+        <mark key="." line="129" column="47" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
@@ -318,44 +317,44 @@
       <jump line="190" column="13" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dnVlLWNsaS1zZXJ2aWNlIGJ1aWxkOyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiYjpkIjogIm5wbSBydW4gYnVpbGQ6ZGVwbG95IiwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dnVlLWNsaS1zZXJ2aWNlIGJ1aWxkOyA=</text>
+        <text>vue-cli-service build; firebase deploy</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiZGVwbG95IjogInZ1ZS1jbGktc2VydmljZSBidWlsZDsgZmlyZWJhc2UgZGVwbG95IiwK</text>
+        <text encoding="base64">ICAgICAgICAiYnVpbGQ6ZGVwbG95IjogInZ1ZS1jbGktc2VydmljZSBidWlsZDsgZmlyZWJhc2UgZGVwbG95IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTx0cj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAiYjpkIjogIm5wbSBydW4gYnVpbGQ6ZGVwbG95IiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYnVpbGQ6ZGVwbG95IjogInZ1ZS1jbGktc2VydmljZSBidWlsZDsgZmlyZWJhc2UgZGVwbG95IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHRoaXMuJGNvcHlUZXh0KHRoaXMuc2hvcnRVcmwpOwogICAgICAgICAgICAgICAgYWxlcnRpZnkuc3VjY2VzcygnQ29waWVkIHRvIENsaXBib2FyZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAiYnVpbGQ6ZGVwbG95IjogInZ1ZS1jbGktc2VydmljZSBidWlsZDsgZmlyZWJhc2UgZGVwbG95IiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgdXJsLnNob3J0IH19PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgndXJscycpCiAgICAgICAgICAgICAgICAgICAgbG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQWNyeWxpYyAoVHJhbnNwYXJlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+JDIuMzU8L3RkPgogICAgICAgICAgICAgICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuY29tcG9uZW50S2V5ICs9IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTGFtaW5hdGUgKEdvbGQgb24gQmx1ZSkKICAgICAgICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCdsYicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
