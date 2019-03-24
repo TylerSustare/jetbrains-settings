@@ -188,7 +188,8 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553382123167">
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553398147686">
+        <mark key="'" line="181" column="8" />
         <mark key="[" line="175" column="37" />
         <mark key="]" line="175" column="37" />
         <mark key="." line="175" column="37" />
@@ -209,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="319" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="447" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="489" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
@@ -309,6 +309,7 @@
       <jump line="162" column="62" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="184" column="16" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="3" column="11" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="181" column="8" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,7 +360,7 @@
       <last-offset />
       <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
