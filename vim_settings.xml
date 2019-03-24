@@ -203,12 +203,12 @@
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553315447473">
-        <mark key="'" line="15" column="19" />
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="19" column="43" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553463797348">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -317,11 +317,11 @@
       <jump line="190" column="13" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiYjpkIjogIm5wbSBydW4gYnVpbGQ6ZGVwbG95IiwK</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>vue-cli-service build; firebase deploy</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -365,7 +365,7 @@
       <last-offset />
       <last-pattern>table</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
