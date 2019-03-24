@@ -188,12 +188,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553398147686">
-        <mark key="'" line="181" column="8" />
-        <mark key="[" line="175" column="37" />
-        <mark key="]" line="175" column="37" />
-        <mark key="." line="175" column="37" />
-        <mark key="^" line="175" column="37" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553399374387">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="166" column="76" />
+        <mark key="]" line="166" column="80" />
+        <mark key="." line="166" column="80" />
+        <mark key="^" line="166" column="80" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
@@ -210,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
-      <jump line="447" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
-      <jump line="489" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="528" column="48" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="639" column="52" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
       <jump line="749" column="44" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
@@ -310,57 +307,60 @@
       <jump line="184" column="16" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="3" column="11" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="181" column="8" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="148" column="43" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="167" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
+      <jump line="168" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>log</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgdXJscyA9IEpTT04ucGFyc2UodGhpcy51cmxzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1cmxzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgdXJscyA9IEpTT04ucGFyc2UodGhpcy51cmxzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXN1bHQuZGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgdXJsczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1cmxzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgdXJsczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgICAgdXJscyA9IEpTT04ucGFyc2UocmF3VXJscyk7CiAgICAgICAgICAgICAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjEwPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgICAgdXJscyA9IFtdOwogICAgICAgICAgICAgICAgICAgIC8vIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjUwPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zdCByYXdVcmxzID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3VybHMnKTsKICAgICAgICAgICAgICAgICAgICAvLyBpZiAoIXJhd1VybHMpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRkPjI1PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh1cmxzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoPlF1YW50aXR5PC90aD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -374,7 +374,6 @@
         <entry>sandbox</entry>
         <entry>valid</entry>
         <entry>only</entry>
-        <entry>console.log</entry>
         <entry>uuid</entry>
         <entry>input</entry>
         <entry>class</entry>
@@ -382,6 +381,7 @@
         <entry>dev-url</entry>
         <entry>table</entry>
         <entry>&quot;</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
