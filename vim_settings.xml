@@ -177,15 +177,17 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.production" timestamp="1553299223231">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.production" timestamp="1553463917054">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env" timestamp="1553299206583">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env" timestamp="1553463910327">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/App.vue" timestamp="1553312824648">
         <mark key="[" line="1" column="16" />
@@ -203,12 +205,12 @@
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553463797348">
+      <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553463897663">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+        <mark key="." line="14" column="50" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
         <mark key="'" line="55" column="0" />
@@ -327,7 +329,7 @@
         <text>table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiYnVpbGQ6ZGVwbG95IjogInZ1ZS1jbGktc2VydmljZSBidWlsZDsgZmlyZWJhc2UgZGVwbG95IiwK</text>
+        <text encoding="base64">VlVFX0FQUF9ERVZUT09MUz10cnVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiYjpkIjogIm5wbSBydW4gYnVpbGQ6ZGVwbG95IiwK</text>
