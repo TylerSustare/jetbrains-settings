@@ -9,28 +9,25 @@
         <mark key="." line="111" column="16" />
         <mark key="^" line="111" column="16" />
       </file>
-      <file name="$USER_HOME$/src/workers/worker-payment-provider-recurring-payment-auditor/node/config/keys.json" timestamp="1549666363456">
-        <mark key="'" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/package.json" timestamp="1553411048108">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1553722254963">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1553730441126">
         <mark key="'" line="57" column="24" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="114" column="24" />
-        <mark key="." line="114" column="0" />
+        <mark key="[" line="117" column="29" />
+        <mark key="]" line="117" column="30" />
+        <mark key="." line="117" column="30" />
+        <mark key="^" line="119" column="39" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/testConfigs/audit/single_valid_activation.js" timestamp="1551482764531">
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="30" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-www/config/stage.json" timestamp="1549046513965">
-        <mark key="'" line="30" column="45" />
+      <file name="/fragment.js" timestamp="1553727612709">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/config/routes.js" timestamp="1553720156473">
         <mark key="[" line="16" column="52" />
@@ -50,11 +47,11 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_receiptForUser.js" timestamp="1553719389407">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_receiptForUser.js" timestamp="1553729770402">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/audit_test.js" timestamp="1551475752491">
         <mark key="'" line="738" column="52" />
@@ -87,9 +84,6 @@
         <mark key="." line="262" column="17" />
         <mark key="^" line="262" column="17" />
       </file>
-      <file name="$USER_HOME$/src/services/service-pricing/node/routes/api.js" timestamp="1553033228261">
-        <mark key="'" line="140" column="75" />
-      </file>
       <file name="$USER_HOME$/src/services/service-site-gateway/node/routes/api_pricing.js" timestamp="1546560087139">
         <mark key="[" line="78" column="16" />
         <mark key="]" line="78" column="16" />
@@ -98,11 +92,12 @@
       <file name="/JavaScript Console" timestamp="1551999150311">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" timestamp="1552001535782">
-        <mark key="[" line="130" column="10" />
-        <mark key="]" line="132" column="38" />
-        <mark key="^" line="132" column="38" />
-        <mark key="." line="132" column="38" />
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" timestamp="1553730487234">
+        <mark key="'" line="165" column="5" />
+        <mark key="[" line="159" column="12" />
+        <mark key="]" line="159" column="18" />
+        <mark key="^" line="159" column="18" />
+        <mark key="." line="159" column="18" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener-vue/url-shortener/src/App.vue" timestamp="1552690029960">
         <mark key="[" line="4" column="44" />
@@ -151,11 +146,11 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/auth_middleware.js" timestamp="1553722984901">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="73" />
-        <mark key="." line="21" column="73" />
-        <mark key="^" line="21" column="73" />
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/auth_middleware.js" timestamp="1553729535236">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="22" column="40" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/vue.config.js" timestamp="1553209151625">
         <mark key="[" line="5" column="1" />
@@ -167,9 +162,6 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-pricing/node/test/api/post_price_lms_legacy_test.js" timestamp="1553017719945">
-        <mark key="'" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553720282098">
         <mark key="'" line="264" column="0" />
@@ -237,12 +229,8 @@
         <mark key="^" line="14" column="50" />
         <mark key="." line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/package.json" timestamp="1552002620960">
-        <mark key="'" line="55" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="1" filename="$USER_HOME$/src/workers/worker-payment-provider-recurring-payment-auditor/node/config/keys.json" />
       <jump line="59" column="36" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="96" column="0" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="107" column="8" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
@@ -342,13 +330,14 @@
       <jump line="12" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="190" column="13" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="57" column="24" filename="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" />
+      <jump line="161" column="5" filename="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>client token is not from whitelisted service</text>
+        <text>methods</text>
       </register>
       <register name="-" type="4">
-        <text>client token is not from whitelisted service</text>
+        <text>methods</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -357,31 +346,31 @@
         <text encoding="base64">ICAgICAgICBhdXRoLmF1dGhlbnRpY2F0ZUNsaWVudCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoLmF1dGhlbnRpY2F0ZUNsaWVudCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVjZWlwdHMgPSBbXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5kZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihfaW5jKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVjZWlwdE1vZGVsLmZpbmQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Fsa3NkamZsYWtzZGpmbGFrc2pkZmxha3NqZGZsYWtqc2RmbGFramxzZGZramFsc2RrZmphbGtzZGpmbGFramZkbGFramYnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsKICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSBnZXRBY2Nlc3NUb2tlbigpOwogICAgICAgICAgICBiYXNlLmNyZWF0ZVZhbGlkVG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogbWVtYmVySWQgfSk7CgogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAuZ2V0KGAke3JvdXRlcy5BUElfUkVDRUlQVF9CQVRDSH1gKQogICAgICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsIGBCZWFyZXIgJHthY2Nlc3NUb2tlbn1gKQogICAgICAgICAgICAgICAgLmV4cGVjdCg0MDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsKICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSBnZXRBY2Nlc3NUb2tlbigpOwogICAgICAgICAgICBiYXNlLmNyZWF0ZVZhbGlkVG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogbWVtYmVySWQgfSk7CgogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAvLyAuZ2V0KGAke3JvdXRlcy5BUElfUkVDRUlQVFNfRk9SX1VTRVJ9YC5yZXBsYWNlKCc6dXNlcl9pZCcsIG1lbWJlcklkKSkKICAgICAgICAgICAgICAgIC5nZXQocm91dGVzLkFQSV9SRUNFSVBUU19GT1JfVVNFUi5yZXBsYWNlKCc6dXNlcl9pZCcsIDEwMDAxKSkKICAgICAgICAgICAgICAgIC5zZXQoJ0F1dGhvcml6YXRpb24nLCBgQmVhcmVyICR7YWNjZXNzVG9rZW59YCkKICAgICAgICAgICAgICAgIC5leHBlY3QoNDAwKQogICAgICAgICAgICAgICAgLnRoZW4oZCA9PiB7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGQpLnRvLmJlLnRydWU7CiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVzZXIsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb25lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXQoYCR7cm91dGVzLkFQSV9SRUNFSVBUU19GT1JfVVNFUn1gLnJlcGxhY2UoJzp1c2VyX2lkJywgbWVtYmVySWQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
