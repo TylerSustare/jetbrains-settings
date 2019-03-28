@@ -14,12 +14,12 @@
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1553730441126">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" timestamp="1553798915767">
         <mark key="'" line="57" column="24" />
-        <mark key="[" line="117" column="29" />
-        <mark key="]" line="117" column="30" />
-        <mark key="." line="117" column="30" />
-        <mark key="^" line="119" column="39" />
+        <mark key="[" line="116" column="29" />
+        <mark key="]" line="117" column="61" />
+        <mark key="." line="117" column="61" />
+        <mark key="^" line="117" column="61" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/testConfigs/audit/single_valid_activation.js" timestamp="1551482764531">
         <mark key="[" line="58" column="29" />
@@ -163,12 +163,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553720282098">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553798874152">
         <mark key="'" line="264" column="0" />
-        <mark key="[" line="547" column="24" />
-        <mark key="]" line="547" column="26" />
-        <mark key="." line="547" column="26" />
-        <mark key="^" line="547" column="26" />
+        <mark key="[" line="540" column="10" />
+        <mark key="]" line="540" column="14" />
+        <mark key="." line="540" column="14" />
+        <mark key="^" line="540" column="14" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553408013586">
         <mark key="[" line="6" column="0" />
@@ -182,7 +182,7 @@
         <mark key="." line="12" column="113" />
         <mark key="^" line="12" column="113" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/fixtures/receipts.js" timestamp="1552005371212">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/fixtures/receipts.js" timestamp="1553798701864">
         <mark key="'" line="12" column="27" />
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="14" />
@@ -334,10 +334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>methods</text>
+        <text>123</text>
       </register>
       <register name="-" type="4">
-        <text>methods</text>
+        <text>123</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -410,12 +410,12 @@
         <entry>bn</entry>
         <entry>bp</entry>
         <entry>s</entry>
-        <entry>vs</entry>
         <entry>hsp</entry>
         <entry>hs</entry>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>noh</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
