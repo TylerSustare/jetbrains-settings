@@ -163,12 +163,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553798874152">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553800249895">
         <mark key="'" line="264" column="0" />
-        <mark key="[" line="540" column="10" />
-        <mark key="]" line="540" column="14" />
-        <mark key="." line="540" column="14" />
-        <mark key="^" line="540" column="14" />
+        <mark key="[" line="558" column="26" />
+        <mark key="]" line="558" column="27" />
+        <mark key="." line="558" column="27" />
+        <mark key="^" line="546" column="79" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553408013586">
         <mark key="[" line="6" column="0" />
@@ -334,16 +334,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123</text>
+        <text>1179132</text>
       </register>
       <register name="-" type="4">
-        <text>123</text>
+        <text>1179132</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoLmF1dGhlbnRpY2F0ZUNsaWVudCwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGl0KCdzaG91bGQgZmluZCB0aGUgcm91dGUgYW5kIGZhaWwgdmFsaWRhdGlvbicsICgpID0+IHsKICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsKICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSBnZXRBY2Nlc3NUb2tlbigpOwogICAgICAgICAgICBiYXNlLmNyZWF0ZVZhbGlkVG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogbWVtYmVySWQgfSk7CgogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAuZ2V0KGAke3JvdXRlcy5BUElfUkVDRUlQVFNfRk9SX1VTRVIucmVwbGFjZSgnOnVzZXJfaWQnLCAnMTE3OTEzMicpfWApCiAgICAgICAgICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgYEJlYXJlciAke2FjY2Vzc1Rva2VufWApCiAgICAgICAgICAgICAgICAuZXhwZWN0KDQwMCk7CiAgICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVjZWlwdHMgPSBbXTsK</text>
