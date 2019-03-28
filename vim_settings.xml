@@ -59,11 +59,11 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/base.js" timestamp="1553802069365">
-        <mark key="[" line="61" column="11" />
-        <mark key="]" line="23" column="69" />
-        <mark key="^" line="23" column="69" />
-        <mark key="." line="23" column="69" />
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/base.js" timestamp="1553804052890">
+        <mark key="[" line="83" column="18" />
+        <mark key="]" line="83" column="18" />
+        <mark key="^" line="83" column="18" />
+        <mark key="." line="83" column="18" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
         <mark key="'" line="746" column="11" />
@@ -145,7 +145,7 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/auth_middleware.js" timestamp="1553729535236">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/auth_middleware.js" timestamp="1553802822534">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -162,11 +162,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553801984207">
+      <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553804390097">
         <mark key="'" line="264" column="0" />
-        <mark key="[" line="553" column="0" />
-        <mark key="]" line="553" column="0" />
-        <mark key="." line="553" column="0" />
+        <mark key="[" line="571" column="56" />
+        <mark key="]" line="571" column="56" />
+        <mark key="." line="571" column="56" />
+        <mark key="^" line="571" column="56" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/public/index.html" timestamp="1553408013586">
         <mark key="[" line="6" column="0" />
@@ -331,11 +332,11 @@
       <jump line="161" column="5" filename="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qge2FwfQo=</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>1179132</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -344,31 +345,43 @@
         <text encoding="base64">IGl0KCdzaG91bGQgZmluZCB0aGUgcm91dGUgYW5kIGZhaWwgdmFsaWRhdGlvbicsICgpID0+IHsKICAgICAgICAgICAgY29uc3QgeyBhcHAsIHJvdXRlcyB9ID0gZ2V0VGVzdENvbnRleHQoKTsKICAgICAgICAgICAgY29uc3QgYWNjZXNzVG9rZW4gPSBnZXRBY2Nlc3NUb2tlbigpOwogICAgICAgICAgICBiYXNlLmNyZWF0ZVZhbGlkVG9rZW4oYWNjZXNzVG9rZW4sIHsgdXNlcl9pZDogbWVtYmVySWQgfSk7CgogICAgICAgICAgICByZXR1cm4gcmVxdWVzdChhcHApCiAgICAgICAgICAgICAgICAuZ2V0KGAke3JvdXRlcy5BUElfUkVDRUlQVFNfRk9SX1VTRVIucmVwbGFjZSgnOnVzZXJfaWQnLCAnMTE3OTEzMicpfWApCiAgICAgICAgICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgYEJlYXJlciAke2FjY2Vzc1Rva2VufWApCiAgICAgICAgICAgICAgICAuZXhwZWN0KDQwMCk7CiAgICAgICAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qge2FwfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2FkbWluJywK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSgnZm9yIHdoYXQgaXMgdGhlcmUgd2FzIG9uY2UnLCBudWxsLCAyKSk7Cg==</text>
+      <register name="2" type="4">
+        <text>{
+                    id: '2238917',
+                    name: {
+                        last: 'John',
+                        first: 'Doe'
+                    },
+                    roles: [
+                        'admin',
+                        'developer'
+                    ],
+                    username: 'john@cbtnuggets.com',
+                    email: 'john@cbtnuggets.com'
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmVjZWlwdHMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZDogJzIyMzg5MTcnLAogICAgICAgICAgICAgICAgICAgIG5hbWU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgbGFzdDogJ0pvaG4nLAogICAgICAgICAgICAgICAgICAgICAgICBmaXJzdDogJ0RvZScKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHJvbGVzOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICdhZG1pbicsCiAgICAgICAgICAgICAgICAgICAgICAgICdkZXZlbG9wZXInCiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICB1c2VybmFtZTogJ2pvaG5AY2J0bnVnZ2V0cy5jb20nLAogICAgICAgICAgICAgICAgICAgIGVtYWlsOiAnam9obkBjYnRudWdnZXRzLmNvbScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVjZWlwdE1vZGVsLmZpbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG9rZW4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Fsa3NkamZsYWtzZGpmbGFrc2pkZmxha3NqZGZsYWtqc2RmbGFramxzZGZramFsc2RrZmphbGtzZGpmbGFramZkbGFramYnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVxKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcqKioqKioqKioqKioqKioqKioqKlxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHVzZXIsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocmVxZGQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
