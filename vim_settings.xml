@@ -115,12 +115,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554245707310">
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554248335907">
         <mark key="'" line="1444" column="0" />
-        <mark key="[" line="1545" column="58" />
-        <mark key="]" line="1545" column="58" />
-        <mark key="^" line="1545" column="58" />
-        <mark key="." line="1545" column="58" />
+        <mark key="[" line="1538" column="33" />
+        <mark key="]" line="1538" column="37" />
+        <mark key="^" line="1538" column="37" />
+        <mark key="." line="1538" column="37" />
       </file>
       <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Price/index.test.js" timestamp="1548718057046">
         <mark key="'" line="6" column="12" />
@@ -349,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>verifications</text>
