@@ -218,8 +218,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/routes/audit.js" timestamp="1554236309531">
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/routes/audit.js" timestamp="1554324585815">
         <mark key="'" line="102" column="23" />
+        <mark key="[" line="418" column="60" />
+        <mark key="]" line="418" column="80" />
+        <mark key="^" line="418" column="80" />
+        <mark key="." line="418" column="80" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" timestamp="1553410802196">
         <mark key="'" line="202" column="13" />
@@ -231,11 +235,12 @@
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/routes/receipt.js" timestamp="1554245916840">
-        <mark key="[" line="437" column="93" />
-        <mark key="]" line="438" column="41" />
-        <mark key="^" line="438" column="41" />
-        <mark key="." line="438" column="41" />
+      <file name="$USER_HOME$/src/services/service-payment-provider/node/routes/receipt.js" timestamp="1554325001712">
+        <mark key="'" line="435" column="74" />
+        <mark key="[" line="424" column="46" />
+        <mark key="]" line="424" column="66" />
+        <mark key="^" line="424" column="66" />
+        <mark key="." line="424" column="66" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" timestamp="1553463897663">
         <mark key="'" line="16" column="19" />
@@ -246,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="64" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="148" column="34" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="159" column="56" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
       <jump line="204" column="34" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" />
@@ -346,55 +350,56 @@
       <jump line="94" column="74" filename="$USER_HOME$/src/services/service-payment-provider/node/routes/audit.js" />
       <jump line="102" column="23" filename="$USER_HOME$/src/services/service-payment-provider/node/routes/audit.js" />
       <jump line="1444" column="0" filename="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" />
+      <jump line="435" column="74" filename="$USER_HOME$/src/services/service-payment-provider/node/routes/receipt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAyOiBuYW1lLmZvckVhY2gK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>verifications</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZm9yUHJpdmF0ZSA9IF8uZ2V0KHJlcS5xdWVyeSwgJ3ByaXZhdGUnLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAyOiBuYW1lLmZvckVhY2gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9yUHJpdmF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShpdGVtcywgbnVsbCwgMikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JQcml2YXRlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlbXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh2ZXJpZmljYXRpb25SZWNvcmRzLm1hcChlID0+IGUuaWQpLCBudWxsLCAyKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuc3RhdHVzKDIwMCkuc2VuZCh7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG4qKioqKioqKioqKioqKioqKioqKicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBpdGVtcyA9IGZvclByaXZhdGUgPyB2ZXJpZmljYXRpb25SZWNvcmRzIDogXy5tYXAodmVyaWZpY2F0aW9uUmVjb3JkcywgKHYpID0+IHYuZm9yUHVibGljKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm9yUHJpdmF0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeSh2ZXJpZmljYXRpb25SZWNvcmRzLm1hcChlID0+IGUuaWR3ICksIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShpZHMsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXRlbXMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3NudCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMuc3RhdHVzKDIwMCkuc2VuZCh7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>419</text>
       </register>
     </registers>
     <search>
-      <last-search>verifications</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>verifications</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -416,10 +421,10 @@
         <entry>url</entry>
         <entry>dev-url</entry>
         <entry>&quot;</entry>
-        <entry>console.log</entry>
         <entry>uniq</entry>
         <entry>table</entry>
         <entry>verifications</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -433,6 +438,9 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>491</entry>
+        <entry>419</entry>
+        <entry>wwww</entry>
       </history-cmd>
       <history-expr />
       <history-input />
