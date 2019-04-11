@@ -208,12 +208,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555019651998">
-        <mark key="'" line="141" column="24" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="43" column="11" />
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555020914537">
+        <mark key="'" line="43" column="43" />
+        <mark key="[" line="41" column="49" />
+        <mark key="]" line="90" column="34" />
+        <mark key="." line="90" column="34" />
+        <mark key="^" line="90" column="34" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554249432812">
         <mark key="'" line="1444" column="0" />
@@ -315,10 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="13" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="12" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="190" column="13" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="57" column="24" filename="$USER_HOME$/src/services/service-internal-receipt/node/routes/api.js" />
       <jump line="161" column="5" filename="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" />
       <jump line="9" column="36" filename="$USER_HOME$/src/services/service-payment-provider/node/routes/audit.js" />
       <jump line="68" column="6" filename="$USER_HOME$/src/services/service-payment-provider/node/routes/audit.js" />
@@ -355,7 +351,6 @@
       <jump line="61" column="11" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="14" column="20" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="4" column="56" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="27" column="12" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="156" column="28" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="171" column="15" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
@@ -388,14 +383,12 @@
       <jump line="57" column="20" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
       <jump line="47" column="12" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="231" column="85" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
-      <jump line="46" column="50" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="234" column="76" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="214" column="21" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="235" column="76" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="27" column="44" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="238" column="101" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="239" column="86" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="14" column="10" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="29" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="118" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
@@ -410,67 +403,72 @@
       <jump line="112" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="50" column="8" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="173" column="8" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
-      <jump line="43" column="8" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="45" column="12" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="137" column="24" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="138" column="24" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="141" column="24" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="40" column="33" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="46" column="45" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="93" column="28" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="29" column="20" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="43" column="43" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhiaWxsaW5nQWdyZWVtZW50U3RhdHVzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCBjaGVja0JpbGxpbmdBZ3JlZW1lbnQg</text>
       </register>
       <register name="-" type="4">
-        <text>SUCCESS</text>
+        <text encoding="base64">LCBjaGVja0JpbGxpbmdBZ3JlZW1lbnQg</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>cookies</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2JpbGxpbmdBZ3JlZW1lbnRTdGF0dXMnLCAnU1VDQ0VTUycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhiaWxsaW5nQWdyZWVtZW50U3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyBORUVEU19CSUxMSU5HQUdSRUVNRU5UX1BPU1RfUEVORElORycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ05FRURTX0JJTExJTkdBR1JFRU1FTlRfUE9TVF9SRVNPTFZFRCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ05FRURTX0JJTExJTkdBR1JFRU1FTlRfUE9TVF9SRUpFQ1RFRCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYmlsbGluZ0FncmVlbWVudENvbXBsZXRlID0gY29va2llcy5nZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29va2llcy5zZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScsIHRydWUsIHsgcGF0aDogJy8nLCBtYXggfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYmlsbGluZ0FncmVlbWVudENvbXBsZXRlID0gY29va2llcy5nZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29va2llcy5zZXQoJ2ludm9pY2VfaWQnLCBiaWxsaW5nQWdyZWVtZW50UmVzLkludm9pY2VJZCwgeyBwYXRoOiAnLycsIG1heEFnZTogMTAgfSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgY29va2llcyA9IG5ldyBDb29raWVzKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAndW5pdmVyc2FsLWNvb2tpZSc7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhiaWxsaW5nQWdyZWVtZW50U3RhdHVzKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNob3VsZENoZWNrQmlsbGluZ0FncmVlbWVudFN0YXR1czogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyBORUVEU19CSUxMSU5HQUdSRUVNRU5UX1BPU1RfUEVORElORycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>cookies</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>cookies</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uniq</entry>
-        <entry>table</entry>
         <entry>verifications</entry>
         <entry>console.log</entry>
         <entry>return</entry>
@@ -489,6 +487,8 @@
         <entry>billingagreement</entry>
         <entry>cookie</entry>
         <entry>console</entry>
+        <entry>cook</entry>
+        <entry>cookies</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
