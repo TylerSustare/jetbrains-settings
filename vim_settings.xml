@@ -31,12 +31,11 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" timestamp="1555019636005">
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" timestamp="1555022161974">
         <mark key="'" line="112" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="126" column="101" />
+        <mark key="[" line="118" column="59" />
+        <mark key="]" line="118" column="98" />
+        <mark key="." line="118" column="59" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
         <mark key="'" line="746" column="11" />
@@ -208,12 +207,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555020914537">
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555021636502">
         <mark key="'" line="43" column="43" />
-        <mark key="[" line="41" column="49" />
-        <mark key="]" line="90" column="34" />
-        <mark key="." line="90" column="34" />
-        <mark key="^" line="90" column="34" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="46" column="48" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554249432812">
         <mark key="'" line="1444" column="0" />
@@ -418,10 +417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBjaGVja0JpbGxpbmdBZ3JlZW1lbnQg</text>
+        <text>// This is dotnet endpoint so no router</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBjaGVja0JpbGxpbmdBZ3JlZW1lbnQg</text>
+        <text>// This is dotnet endpoint so no router</text>
       </register>
       <register name="/" type="4">
         <text>cookies</text>
@@ -430,31 +429,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2JpbGxpbmdBZ3JlZW1lbnRTdGF0dXMnLCAnU1VDQ0VTUycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYmlsbGluZ0FncmVlbWVudENvbXBsZXRlID0gY29va2llcy5nZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0lOIFRIRSBESUQgTU9VTlQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYmlsbGluZ0FncmVlbWVudENvbXBsZXRlID0gY29va2llcy5nZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYmlsbGluZ0FncmVlbWVudENvbXBsZXRlID0gY29va2llcy5nZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY29va2llcyA9IG5ldyBDb29raWVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAndW5pdmVyc2FsLWNvb2tpZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYmlsbGluZ0FncmVlbWVudENvbXBsZXRlID0gY29va2llcy5nZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhiaWxsaW5nQWdyZWVtZW50U3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYmlsbGluZ0FncmVlbWVudENvbXBsZXRlID0gY29va2llcy5nZXQoJ2JpbGxpbmdBZ3JlZW1lbnRDb21wbGV0ZScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyBORUVEU19CSUxMSU5HQUdSRUVNRU5UX1BPU1RfUEVORElORycpOwo=</text>
+        <text encoding="base64">Y29uc3QgY29va2llcyA9IG5ldyBDb29raWVzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
