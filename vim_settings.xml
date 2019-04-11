@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/index.js" timestamp="1555013090860" />
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/testConfigs/audit/single_valid_activation.js" timestamp="1551482764531">
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="30" />
@@ -30,12 +31,11 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" timestamp="1555009069126">
-        <mark key="'" line="27" column="35" />
-        <mark key="[" line="130" column="56" />
-        <mark key="]" line="130" column="60" />
-        <mark key="." line="130" column="60" />
-        <mark key="^" line="130" column="60" />
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" timestamp="1555013452895">
+        <mark key="'" line="95" column="40" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="9" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
         <mark key="'" line="746" column="11" />
@@ -68,6 +68,7 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/index.js" timestamp="1555013180319" />
       <file name="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" timestamp="1552694050563">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="6" column="22" />
@@ -121,11 +122,12 @@
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/.env.development.local" timestamp="1553298892460">
         <mark key="[" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" timestamp="1555009524825">
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="37" column="97" />
-        <mark key="." line="37" column="97" />
-        <mark key="^" line="37" column="97" />
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" timestamp="1555013147221">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="2" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment/node/test/api/charge.js" timestamp="1554763240590">
         <mark key="[" line="279" column="0" />
@@ -200,6 +202,13 @@
         <mark key="]" line="18" column="31" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555013046164">
+        <mark key="'" line="43" column="60" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="30" />
+        <mark key="." line="218" column="0" />
+        <mark key="^" line="174" column="11" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554249432812">
         <mark key="'" line="1444" column="0" />
@@ -301,22 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="97" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="1" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="74" column="44" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="134" column="12" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="15" column="19" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/main.js" />
-      <jump line="96" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="2" column="4" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="201" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="65" column="7" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="211" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="64" column="73" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="67" column="30" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="76" column="30" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="83" column="30" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="35" column="0" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
-      <jump line="63" column="8" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="111" column="19" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="112" column="26" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
       <jump line="113" column="27" filename="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/HelloWorld.vue" />
@@ -382,65 +375,81 @@
       <jump line="19" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
       <jump line="32" column="28" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
       <jump line="15" column="10" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
-      <jump line="16" column="10" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
       <jump line="17" column="10" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
-      <jump line="20" column="25" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
-      <jump line="21" column="27" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
       <jump line="23" column="46" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
       <jump line="26" column="28" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
       <jump line="9" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="109" column="31" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
-      <jump line="120" column="31" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="123" column="31" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
-      <jump line="114" column="62" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="2" column="0" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
-      <jump line="27" column="35" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
       <jump line="161" column="57" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
-      <jump line="234" column="85" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
-      <jump line="43" column="51" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
-      <jump line="47" column="50" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
       <jump line="172" column="43" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="27" column="34" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="112" column="41" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="114" column="61" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="120" column="51" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="126" column="61" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="130" column="59" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="5" column="16" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="8" column="17" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="11" column="28" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="15" column="32" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="35" column="25" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="66" column="26" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="94" column="37" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="95" column="40" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" />
+      <jump line="16" column="40" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
+      <jump line="20" column="18" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
+      <jump line="21" column="52" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
+      <jump line="42" column="53" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
+      <jump line="57" column="20" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/actions/myTrainingActions.js" />
+      <jump line="47" column="12" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="231" column="85" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="45" column="43" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="46" column="50" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="234" column="76" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
+      <jump line="43" column="60" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pending</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pending</text>
+        <text>LOADING</text>
       </register>
       <register name="/" type="4">
         <text>pending</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IE5FRURTX0JJTExJTkdBR1JFRU1FTlRfUE9TVF9SRUpFQ1RFRA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoLCBudWxsLCAyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkaXNwYXRjaCA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyBORUVEU19CSUxMSU5HQUdSRUVNRU5UX1BPU1RfUEVORElORycpOwogICAgICAgICAgICByZXR1cm4geyAuLi5zdGF0ZSwgYmlsbGluZ0FncmVlbWVudFN0YXR1czogTE9BRElORyB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgV0lER0VUU19HRVRfUkVKRUNURUQgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgV0lER0VUU19HRVRfUEVORElORywKICAgICAgICAgICAgICAgICAgICAgV0lER0VUU19HRVRfUkVTT0xWRUQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHBlbmRpbmc6IFdJREdFVFNfR0VUX1BFTkRJTkcsCiAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZWQ6IFdJREdFVFNfR0VUX1JFU09MVkVELAogICAgICAgICAgICAgICAgICAgIHJlamVjdGVkOiBXSURHRVRTX0dFVF9SRUpFQ1RFRA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ05FRURTX0JJTExJTkdBR1JFRU1FTlRfUE9TVF9SRVNPTFZFRCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExvYWRpbmdCdWJibGVzIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBiaWxsaW5nQWdyZWVtZW50U3RhdHVzID09PSAncGVuZGluZycgPyByZXR1cm4gPExvYWRpbmdCdWJibGVzPjwvTG9hZGluZ0J1YmJsZXM+IDogbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im15LXRyYWluaW5nLW12cCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icGFnZS1jb250ZW50Ij4KICAgICAgICAgICAgICAgICAgICA8TGVhcm5lckxheW91dCBjbGFzc05hbWU9e2BsZWFybmVyLWxheW91dCR7aXNGdWxsR3JpZCA/ICcgZnVsbC1ncmlkJyA6ICcnfWB9PgogICAgICAgICAgICAgICAgICAgICAgICA8TGVhcm5lckxheW91dE1haW4gY2xhc3NOYW1lPSJsZWFybmVyLWxheW91dC1tYWluIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSZWNlbnRseVdhdGNoZWRWaWRlbyBkYXRhPXt0aGlzLnByb3BzLnJlY2VudFZpZGVvc30gaGlzdG9yeT17dGhpcy5wcm9wcy5oaXN0b3J5fSAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFN0YXRzV2lkZ2V0IHN0YXRzZGF0YT17dGhpcy5wcm9wcy5jdXJyZW50U3RhdHN9IHZhbGlkYXRlZG1pbnV0ZXM9e3RoaXMucHJvcHMubGVhZGVyYm9hcmQudmFsaWRhdGVkTWludXRlc30gLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxQbGF5bGlzdFdpZGdldCBkYXRhPXt0aGlzLnByb3BzLnBsYXlsaXN0fSBsaW1pdD0iNiIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUb3BMZWFybmVyc1dpZGdldAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvcExlYXJuZXJzPXt0aGlzLnByb3BzLnRvcExlYXJuZXJzRGF0YX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0b3BMZWFybmVyQWN0aW9ucz17dGhpcy5wcm9wcy50b3BMZWFybmVyc0FjdGlvbnN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVtYmVyR3JvdXBJZD17dGhpcy5wcm9wcy5tZW1iZXJHcm91cElkfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lbWJlcklkPXt0aGlzLnByb3BzLm1lbWJlcklkfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNob3dnYW1lbGluaz17YWN0aXZlUHJvbW90aW9ufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9MZWFybmVyTGF5b3V0TWFpbj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDxMZWFybmVyTGF5b3V0TGVmdCBjbGFzc05hbWU9ImxlZnQtYXJlYSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8RGlzbWlzc2libGVDb250YWluZXIgd2lkZ2V0S2V5cz17bnVnZ2V0R2FtZXNGbGFnfSB3aWRnZXRzVW5kaXNtaXNzZWQ9e3RoaXMucHJvcHMud2lkZ2V0c1VuZGlzbWlzc2VkfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TnVnZ2V0R2FtZXNXaWRnZXQgZGlzbWlzcz17KCkgPT4gdGhpcy5kaXNtaXNzV2lkZ2V0KGRpc21pc3NhYmxlV2lkZ2V0cy5udWdnZXRnYW1lcyl9IC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Rpc21pc3NpYmxlQ29udGFpbmVyPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxEaXNtaXNzaWJsZUNvbnRhaW5lciB3aWRnZXRLZXlzPXtyZXBvcnRzRmxhZ30gd2lkZ2V0c1VuZGlzbWlzc2VkPXt0aGlzLnByb3BzLndpZGdldHNVbmRpc21pc3NlZH0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJlcG9ydFdpZGdldCAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9EaXNtaXNzaWJsZUNvbnRhaW5lcj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8RGlzbWlzc2libGVDb250YWluZXIgY3VzdG9tQ29uZGl0aW9uPXtmYWxzZX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEVtYWlsU2lnbnVwV2lkZ2V0IC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0Rpc21pc3NpYmxlQ29udGFpbmVyPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxEaXNtaXNzaWJsZUNvbnRhaW5lciB3aWRnZXRLZXlzPXtkaXNtaXNzYWJsZVdpZGdldHMudHJhaW5pbmdBbnl0aW1lfSB3aWRnZXRzVW5kaXNtaXNzZWQ9e3RoaXMucHJvcHMud2lkZ2V0c1VuZGlzbWlzc2VkfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VHJhaW5pbmdBbnl0aW1lV2lkZ2V0IGRpc21pc3M9eygpID0+IHRoaXMuZGlzbWlzc1dpZGdldChkaXNtaXNzYWJsZVdpZGdldHMudHJhaW5pbmdBbnl0aW1lKX0gLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvRGlzbWlzc2libGVDb250YWluZXI+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPERpc21pc3NpYmxlQ29udGFpbmVyIHdpZGdldEtleXM9e2Rpc21pc3NhYmxlV2lkZ2V0cy5sZWFybmluZ1Rvb2xzfSB3aWRnZXRzVW5kaXNtaXNzZWQ9e3RoaXMucHJvcHMud2lkZ2V0c1VuZGlzbWlzc2VkfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGVhcm5pbmdUb29sc1dpZGdldCBkaXNtaXNzPXsoKSA9PiB0aGlzLmRpc21pc3NXaWRnZXQoZGlzbWlzc2FibGVXaWRnZXRzLmxlYXJuaW5nVG9vbHMpfSAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9EaXNtaXNzaWJsZUNvbnRhaW5lcj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8UmVjZW50VmlkZW9XaWRnZXQgdmlkZW9kYXRhPXt0aGlzLnByb3BzLnJlY2VudFZpZGVvc30gLz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9MZWFybmVyTGF5b3V0TGVmdD4KICAgICAgICAgICAgICAgICAgICA8L0xlYXJuZXJMYXlvdXQ+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -455,7 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry>url</entry>
         <entry>dev-url</entry>
         <entry>&quot;</entry>
@@ -474,6 +482,7 @@
         <entry>lib-react-cbt</entry>
         <entry>billing</entry>
         <entry>billingAgreementStatus</entry>
+        <entry>PENDING</entry>
         <entry>pending</entry>
       </history-search>
       <history-cmd>
