@@ -382,7 +382,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>API_GET_OWNERS</text>
+        <text>PayPal</text>
       </register>
       <register name="0" type="4">
         <text>API_GET_OWNERS</text>
@@ -419,16 +419,14 @@
       </register>
     </registers>
     <search>
-      <last-search>API_GET_OWNERS</last-search>
+      <last-search>PayPal</last-search>
       <last-offset />
-      <last-pattern>API_GET_OWNERS</last-pattern>
+      <last-pattern>PayPal</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>8[1-9]\.</entry>
-        <entry encoding="base64">XDwoXD4=</entry>
         <entry>sandbox</entry>
         <entry>valid</entry>
         <entry>only</entry>
@@ -447,6 +445,8 @@
         <entry>delete</entry>
         <entry>getowners</entry>
         <entry>API_GET_OWNERS</entry>
+        <entry>paypal</entry>
+        <entry>PayPal</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
