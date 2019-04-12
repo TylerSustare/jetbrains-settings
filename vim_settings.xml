@@ -214,12 +214,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555021636502">
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555045443780">
         <mark key="'" line="43" column="43" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="46" column="48" />
+        <mark key="[" line="172" column="51" />
+        <mark key="]" line="172" column="50" />
+        <mark key="." line="172" column="50" />
+        <mark key="^" line="172" column="50" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554249432812">
         <mark key="'" line="1444" column="0" />
@@ -261,6 +261,12 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/YourAccount/views/ManageLearners/views/Components/PlaylistDetails/styles.scss" timestamp="1555045027849">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/test/api/receipt_test.js" timestamp="1553804390097">
         <mark key="'" line="264" column="0" />
@@ -433,13 +439,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Apps/MyTraining/state/reducers/statusTypes</text>
+        <text encoding="base64">IGNlbnRlcg==</text>
       </register>
       <register name="-" type="4">
-        <text>Apps/MyTraining/state/reducers/statusTypes</text>
+        <text encoding="base64">IGNlbnRlcg==</text>
       </register>
       <register name="/" type="4">
-        <text>actions</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzaG91bGRDaGVja0JpbGxpbmdBZ3JlZW1lbnRTdGF0dXM6IHRydWUK</text>
@@ -476,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>actions</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>actions</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -499,11 +505,11 @@
         <entry>pending</entry>
         <entry>billingagreement</entry>
         <entry>cookie</entry>
-        <entry>console</entry>
         <entry>cook</entry>
         <entry>cookies</entry>
         <entry>BILLINGAGREEMENT_POST</entry>
         <entry>actions</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
