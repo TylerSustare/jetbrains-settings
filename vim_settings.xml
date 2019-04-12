@@ -214,12 +214,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555045639521">
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/views/Main/index.js" timestamp="1555045802219">
         <mark key="'" line="43" column="43" />
         <mark key="[" line="172" column="51" />
-        <mark key="]" line="172" column="58" />
-        <mark key="." line="172" column="58" />
-        <mark key="^" line="172" column="58" />
+        <mark key="]" line="172" column="55" />
+        <mark key="." line="172" column="55" />
+        <mark key="^" line="172" column="55" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554249432812">
         <mark key="'" line="1444" column="0" />
@@ -241,7 +241,7 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1555040686307">
+      <file name="/GraphQL.result.json" timestamp="1555045687107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" timestamp="1548195873208">
@@ -439,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNlbnRlcg==</text>
+        <text encoding="base64">IGtqamtqa2tqa2pqa2tqa2pramtqa2pramtq</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNlbnRlcg==</text>
+        <text encoding="base64">IGtqamtqa2tqa2pqa2tqa2pramtqa2pramtq</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -478,7 +478,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICBjb25zb2xlLmxvZygnRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkYnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -486,7 +486,7 @@
       <last-offset />
       <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -526,8 +526,8 @@
         <entry>noh</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
