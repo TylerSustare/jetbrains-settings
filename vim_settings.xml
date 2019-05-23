@@ -52,6 +52,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/config/local.json" timestamp="1558643682280" />
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" timestamp="1553730487234">
         <mark key="'" line="165" column="5" />
         <mark key="[" line="159" column="12" />
@@ -82,6 +83,13 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" timestamp="1558643703442">
+        <mark key="'" line="47" column="37" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="38" column="34" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/Redirect.vue" timestamp="1553315383453">
         <mark key="[" line="7" column="19" />
@@ -325,20 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="435" column="74" filename="$USER_HOME$/src/services/service-payment-provider/node/routes/receipt.js" />
-      <jump line="28" column="13" filename="$USER_HOME$/src/services/service-payment/node/config/routes.js" />
-      <jump line="29" column="24" filename="$USER_HOME$/src/services/service-payment/node/config/routes.js" />
-      <jump line="30" column="28" filename="$USER_HOME$/src/services/service-payment/node/config/routes.js" />
-      <jump line="20" column="52" filename="$USER_HOME$/src/services/service-payment/node/config/routes.js" />
-      <jump line="21" column="46" filename="$USER_HOME$/src/services/service-payment/node/config/routes.js" />
-      <jump line="359" column="31" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_paypal_return.js" />
-      <jump line="70" column="16" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_paypal_return.js" />
-      <jump line="83" column="30" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile_paypal_return.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/src/services/service-payment/node/config/routes.js" />
-      <jump line="25" column="45" filename="$USER_HOME$/src/services/service-payment/node/config/routes.js" />
-      <jump line="44" column="4" filename="$USER_HOME$/src/services/service-payment/node/test/api/profile.js" />
-      <jump line="92" column="12" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Main/index.js" />
-      <jump line="22" column="17" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/PaymentInfo/index.js" />
       <jump line="429" column="36" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/PaymentInfo/index.js" />
       <jump line="402" column="23" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/PaymentInfo/index.js" />
       <jump line="95" column="0" filename="$USER_HOME$/src/static/static-www/src/apps/Signup/views/PaymentInfo/index.js" />
@@ -425,62 +419,74 @@
       <jump line="23" column="22" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.test.js" />
       <jump line="39" column="22" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.test.js" />
       <jump line="62" column="12" filename="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.test.js" />
+      <jump line="24" column="19" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="3" column="43" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="4" column="41" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="5" column="43" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="6" column="48" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="7" column="46" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="8" column="48" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="25" column="31" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="26" column="32" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="27" column="32" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="45" column="36" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="46" column="37" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="47" column="37" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGtqamtqa2tqa2pqa2tqa2pramtqa2pramtq</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2U6IDAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGtqamtqa2tqa2pqa2tqa2pramtqa2pramtq</text>
+        <text>deploy/${deployId}</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>DEPLOY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaG91bGRDaGVja0JpbGxpbmdBZ3JlZW1lbnRTdGF0dXM6IHRydWUK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZFVENIX0RFUExPWV9QRU5ESU5HID0gJ0ZFVENIX0RFUExPWV9QRU5ESU5HJzsKZXhwb3J0IGNvbnN0IEZFVENIX0RFUExPWV9FUlJPUiA9ICdGRVRDSF9ERVBMT1lfRVJST1InOwpleHBvcnQgY29uc3QgRkVUQ0hfREVQTE9ZX1NVQ0NFU1MgPSAnRkVUQ0hfREVQTE9ZX1NVQ0NFU1MnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2U6IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZFVENIX0RFUExPWV9TVUNDRVNTID0gJ0ZFVENIX0RFUExPWV9TVUNDRVNTJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcjogbnVsbCwKICAgICAgICBzdGF0dXM6ICcnLAogICAgICAgIGNvbnRhY3Q6IHsKICAgICAgICAgICAgc3RhZ2U6IDAKICAgICAgICB9LAogICAgICAgIGxhc3RXaWRnZXQ6ICcnLAogICAgICAgIGJpbGxpbmdBZ3JlZW1lbnRTdGF0dXM6IE5PVF9TVEFSVEVELAogICAgICAgIHNob3VsZENoZWNrQmlsbGluZ0FncmVlbWVudFN0YXR1czogdHJ1ZQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEZFVENIX0RFUExPWV9QRU5ESU5HID0gJ0ZFVENIX0RFUExPWV9QRU5ESU5HJzsKZXhwb3J0IGNvbnN0IEZFVENIX0RFUExPWV9FUlJPUiA9ICdGRVRDSF9ERVBMT1lfRVJST1InOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlcGxveVRoaXNCdWlsZCA9ICgpID0+IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdGRkZGRkZGRkZGRkZGRkZGRkZGVVVVVVVVVVVVVVVVVVVVVVVVVVVVVScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvdWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgYWN0aW9ucyBmcm9tICcuLi9hY3Rpb25zL3BsYXlsaXN0QWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcjogbnVsbCwKICAgICAgICBzdGF0dXM6ICcnLAogICAgICAgIGNvbnRhY3Q6IHsKICAgICAgICAgICAgc3RhZ2U6IDAKICAgICAgICB9LAogICAgICAgIGxhc3RXaWRnZXQ6ICcnLAogICAgICAgIGJpbGxpbmdBZ3JlZW1lbnRTdGF0dXM6IE5PVF9TVEFSVEVELAogICAgICAgIHNob3VsZENoZWNrQmlsbGluZ0FncmVlbWVudFN0YXR1czogdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnXG5cblxuKioqKioqKioqKioqKioqKioqKionKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuXG5cbioqKioqKioqKioqKioqKioqKioqJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnKioqKioqKioqKioqKioqKioqKipcblxuXG4nKTsKICAgICAgICBjb25zb2xlLmxvZygnRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkZGRkYnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJyoqKioqKioqKioqKioqKioqKioqXG5cblxuJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdGRkZGRkZGRkZGRkZGRkZGRkZGVVVVVVVVVVVVVVVVVVVVVVVVVVVVVScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>DEPLOY</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>DEPLOY</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>profile</entry>
         <entry>delete</entry>
         <entry>getowners</entry>
         <entry>API_GET_OWNERS</entry>
@@ -499,6 +505,8 @@
         <entry>BILLINGAGREEMENT_POST</entry>
         <entry>actions</entry>
         <entry>console</entry>
+        <entry>FETCH</entry>
+        <entry>DEPLOY</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -512,10 +520,10 @@
         <entry>491</entry>
         <entry>419</entry>
         <entry>wwww</entry>
-        <entry>noh</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
