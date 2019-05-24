@@ -38,9 +38,6 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" timestamp="1555043170281">
-        <mark key="^" line="31" column="25" />
-      </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/components/DeployButton/index.js" timestamp="1558715527687">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="45" />
@@ -54,7 +51,11 @@
         <mark key="." line="746" column="10" />
         <mark key="^" line="746" column="14" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/config/local.json" timestamp="1558644920741" />
+      <file name="$USER_HOME$/src/static/static-dashboard/config/local.json" timestamp="1558717202449">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/models/mongodb/receipts.js" timestamp="1553730487234">
         <mark key="'" line="165" column="5" />
         <mark key="[" line="159" column="12" />
@@ -79,6 +80,12 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/config/qa.json" timestamp="1558717284732">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="68" />
+        <mark key="." line="10" column="68" />
+        <mark key="^" line="10" column="68" />
+      </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-react/src/App.js" timestamp="1552694050563">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="6" column="22" />
@@ -86,12 +93,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" timestamp="1558715587350">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" timestamp="1558717314599">
         <mark key="'" line="29" column="9" />
-        <mark key="[" line="59" column="75" />
-        <mark key="]" line="59" column="84" />
-        <mark key="^" line="59" column="84" />
-        <mark key="." line="59" column="84" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/Redirect.vue" timestamp="1553315383453">
         <mark key="[" line="7" column="19" />
@@ -105,12 +112,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" timestamp="1558651192419">
-        <mark key="'" line="46" column="28" />
-        <mark key="[" line="63" column="23" />
-        <mark key="]" line="63" column="23" />
-        <mark key="." line="63" column="23" />
-        <mark key="^" line="63" column="53" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" timestamp="1558717136838">
+        <mark key="[" line="46" column="48" />
+        <mark key="]" line="46" column="49" />
+        <mark key="." line="46" column="49" />
+        <mark key="^" line="46" column="23" />
       </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/reducers/deployReducer.js" timestamp="1558650615560">
         <mark key="[" line="15" column="4" />
@@ -212,12 +218,6 @@
         <mark key="^" line="4" column="67" />
         <mark key="." line="4" column="67" />
       </file>
-      <file name="$USER_HOME$/src/services/service-payment/node/test/api/profile_paypal_return.js" timestamp="1554762164423">
-        <mark key="'" line="83" column="30" />
-      </file>
-      <file name="$USER_HOME$/src/static/static-www/src/apps/Signup/views/Main/index.js" timestamp="1555001924313">
-        <mark key="'" line="92" column="12" />
-      </file>
       <file name="$USER_HOME$/src/services/service-payment/node/config/routes.js" timestamp="1554763220667">
         <mark key="'" line="25" column="45" />
         <mark key="[" line="18" column="0" />
@@ -275,6 +275,10 @@
         <mark key="." line="571" column="56" />
         <mark key="^" line="571" column="56" />
       </file>
+      <file name="$USER_HOME$/src/static/static-learner/src/apps/Login/components/ForgotPassword/index.js" timestamp="1555007299157">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="82" />
+      </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/lib/validation_middleware/schemas/GET_batchReceipts.js" timestamp="1552000876093">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="12" column="112" />
@@ -294,6 +298,10 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/config/prod.json" timestamp="1558717247142">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="89" />
+      </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/routes/audit.js" timestamp="1554324585815">
         <mark key="'" line="102" column="23" />
         <mark key="[" line="418" column="60" />
@@ -307,9 +315,6 @@
         <mark key="]" line="1429" column="3" />
         <mark key="^" line="1429" column="3" />
         <mark key="." line="1429" column="3" />
-      </file>
-      <file name="$USER_HOME$/src/static/static-learner/package.json" timestamp="1555041553245">
-        <mark key="'" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/routes/receipt.js" timestamp="1554325001712">
         <mark key="'" line="435" column="74" />
@@ -431,48 +436,59 @@
       <jump line="46" column="37" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
       <jump line="47" column="37" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
       <jump line="45" column="28" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" />
-      <jump line="46" column="28" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" />
       <jump line="29" column="9" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
+      <jump line="46" column="45" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hash</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGRlcGxveUJ1aWxkID0gKHJlcG8sIHZlcnNpb24sIGhhc2gsIGVudmlyb25tZW50LCBfaWQpID0+IChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsK</text>
       </register>
       <register name="-" type="4">
-        <text>hash</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>DEPLOY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAyNSU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYm9va2tlZXBpbmdBcGlCYXNlVXJsIjogImh0dHA6Ly8xLm1pbHRvbi5zZXJ2aWNlLmNidG4tb3BzLXByb2QubG9jYWwvbWlsdG9uL3YxIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGRlcGxveUJ1aWxkID0gKHJlcG8sIHZlcnNpb24sIGhhc2gsIGVudmlyb25tZW50LCBfaWQpID0+IChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJhc2VVcmwgPSBnZXRCYXNlVXJsKGdldFN0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKAogICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmZXRjaFdpdGhBdXRoKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbmFsRW52aXJvbm1lbnQpOwo=</text>
+      <register name="6" type="4">
+        <text>{
+            url: `${baseUrl}/health`,
+            method: 'get',
+            params: {
+                limit: 10000,
+            },
+            types: {
+                pending: DEPLOY_BUILD_PENDING,
+                rejected: DEPLOY_BUILD_ERROR,
+                resolved: DEPLOY_BUILD_SUCCESS
+            }
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJEYW5nZXIoKX0K</text>
+        <text encoding="base64">ICAgICJib29ra2VlcGluZ0FwaUJhc2VVcmwiOiAiaHR0cDovLzEubWlsdG9uLnNlcnZpY2UuY2J0bi1vcHMtcHJvZC5sb2NhbC9taWx0b24vdjEiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKDxwIC8+KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyRGFuZ2VyfQo=</text>
+        <text encoding="base64">ICAgIGlkOiBfZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
