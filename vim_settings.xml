@@ -41,11 +41,11 @@
       <file name="$USER_HOME$/src/static/static-learner/src/apps/MyTraining/state/reducers/myTrainingReducer.js" timestamp="1555043170281">
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/components/DeployButton/index.js" timestamp="1558653311212">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="9" column="31" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/components/DeployButton/index.js" timestamp="1558715527687">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="45" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
         <mark key="'" line="746" column="11" />
@@ -86,12 +86,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" timestamp="1558653538049">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" timestamp="1558715587350">
         <mark key="'" line="29" column="9" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="6" />
-        <mark key="^" line="34" column="72" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="59" column="75" />
+        <mark key="]" line="59" column="84" />
+        <mark key="^" line="59" column="84" />
+        <mark key="." line="59" column="84" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/Redirect.vue" timestamp="1553315383453">
         <mark key="[" line="7" column="19" />
@@ -159,6 +159,12 @@
         <mark key="]" line="111" column="16" />
         <mark key="." line="111" column="16" />
         <mark key="^" line="111" column="16" />
+      </file>
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/Project.scss" timestamp="1558714675891">
+        <mark key="[" line="54" column="10" />
+        <mark key="]" line="54" column="13" />
+        <mark key="^" line="54" column="13" />
+        <mark key="." line="54" column="13" />
       </file>
       <file name="$USER_HOME$/src/services/service-internal-receipt/node/config/routes.js" timestamp="1553720156473">
         <mark key="[" line="16" column="52" />
@@ -429,44 +435,44 @@
       <jump line="29" column="9" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>hash</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyIC8+IExYLVFB</text>
+        <text>hash</text>
       </register>
       <register name="/" type="4">
         <text>DEPLOY</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciI+U3RhdHVzPC90aD4K</text>
+        <text encoding="base64">ICBwYWRkaW5nLXJpZ2h0OiAyNSU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHZhbHVlPXt0aGlzLnN0YXRlLmVudmlyb25tZW50fSBvbkNoYW5nZT17dGhpcy5zYXZlVG9TdGF0ZX0gbmFtZT0iZW52aXJvbm1lbnQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZUNoYW5nZSA9IChlKSA9PiB7CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbmFsRW52aXJvbm1lbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJEYW5nZXIoKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKDxwIC8+KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhbmRsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMucmVuZGVyRGFuZ2VyfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
