@@ -38,11 +38,11 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/components/DeployButton/index.js" timestamp="1558740432192">
-        <mark key="[" line="79" column="15" />
-        <mark key="]" line="80" column="26" />
-        <mark key="^" line="80" column="26" />
-        <mark key="." line="80" column="26" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/components/DeployButton/index.js" timestamp="1558755951747">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="55" column="16" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/internal_test.js" timestamp="1551475556095">
         <mark key="'" line="746" column="11" />
@@ -95,12 +95,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" timestamp="1558740526664">
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/actions/deployActions.js" timestamp="1558756080493">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="56" column="24" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="37" column="3" />
       </file>
       <file name="$USER_HOME$/src/projects/url-shortener/short-vue/src/components/Redirect.vue" timestamp="1553315383453">
         <mark key="[" line="7" column="19" />
@@ -114,11 +114,10 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" timestamp="1558740778136">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" timestamp="1558755718363">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/reducers/deployReducer.js" timestamp="1558740575721">
         <mark key="'" line="41" column="48" />
@@ -443,11 +442,11 @@
       <jump line="41" column="48" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/reducers/deployReducer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>kkk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>kkk</text>
+        <text encoding="base64">QWxlcnQsIA==</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -456,31 +455,31 @@
         <text encoding="base64">ICAgIG1lbWJlcklkOiBfLmdldChzdGF0ZSwgJ3Byb2ZpbGUuZGF0YS5tZW1iZXJfaWQnLCAnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkocGF5bG9hZCwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">Y29uc3QgZ2V0QnVpbGRCb29ra2VlcGVyQmFzZVVybCA9IChnZXRTdGF0ZSkgPT4gXy5nZXQoZ2V0U3RhdGUoKSwgJ2NvbmZpZ3VyYXRpb24uc2VydmljZXMuYm9va2tlZXBpbmdBcGlCYXNlVXJsJywgJycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICBsaW1pdDogMTAwMDAsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiBgJHtzZXJ2aWNlfS9kZXBsb3kvcmVwby8ke3JlcG99L3ZlcnNpb24vJHt2ZXJzaW9ufS9oYXNoLyR7Y29tbWl0SGFzaH0vZW52aXJvbm1lbnQvJHtmaW5hbEVudmlyb25tZW50fWAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlcnZpY2UgPSBnZXRCdWlsZEJvb2trZWVwZXJCYXNlVXJsKGdldFN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCgKICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGRlcGxveUJ1aWxkID0gKHJlcG8sIHZlcnNpb24sIGhhc2gsIGVudmlyb25tZW50LCBfaWQpID0+IChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBNb2RhbCwgTW9kYWxIZWFkZXIsIE1vZGFsQm9keSwgTW9kYWxGb290ZXIgfSBmcm9tICdyZWFjdHN0cmFwJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hXaXRoQXV0aCh7CiAgICAgICAgICAgICAgICB1cmwsCiAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgICAgIHR5cGVzOiB7CiAgICAgICAgICAgICAgICAgICAgcGVuZGluZzogREVQTE9ZX0JVSUxEX1BFTkRJTkcsCiAgICAgICAgICAgICAgICAgICAgcmVqZWN0ZWQ6IERFUExPWV9CVUlMRF9FUlJPUiwKICAgICAgICAgICAgICAgICAgICByZXNvbHZlZDogREVQTE9ZX0JVSUxEX1NVQ0NFU1MKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
