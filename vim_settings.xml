@@ -114,10 +114,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" timestamp="1558755718363">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/views/Project/ProjectBuilds.js" timestamp="1559074008647">
+        <mark key="[" line="57" column="74" />
+        <mark key="]" line="57" column="79" />
+        <mark key="." line="57" column="79" />
+        <mark key="^" line="57" column="79" />
       </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/reducers/deployReducer.js" timestamp="1558740575721">
         <mark key="'" line="41" column="48" />
@@ -212,7 +213,6 @@
         <mark key="." line="379" column="40" />
         <mark key="^" line="379" column="40" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/exams/state/actions/examActions.js" timestamp="1558648931821" />
       <file name="$USER_HOME$/src/projects/url-shortener-vue/url-shortener/src/App.vue" timestamp="1552690029960">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="4" column="67" />
@@ -226,7 +226,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="6" />
       </file>
-      <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/reducers/index.js" timestamp="1558648216528" />
       <file name="$USER_HOME$/src/services/service-payment-provider/node/test/api/receipt_test.js" timestamp="1554249432812">
         <mark key="'" line="1444" column="0" />
         <mark key="[" line="1517" column="10" />
@@ -247,7 +246,7 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1558633283381">
+      <file name="/GraphQL.result.json" timestamp="1559073607119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" timestamp="1548195873208">
@@ -442,11 +441,11 @@
       <jump line="41" column="48" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/reducers/deployReducer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>build</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWxlcnQsIA==</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
