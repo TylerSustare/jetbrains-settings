@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" timestamp="1562909727320">
+      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" timestamp="1562973510782">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
@@ -16,13 +17,22 @@
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="8" column="0" filename="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="&quot;" type="4">
         <text>getHelloWorld()</text>
+      </register>
+      <register name="-" type="4">
+        <text>getHelloWorld()</text>
+      </register>
+      <register name="/" type="4">
+        <text>v</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">fQo=</text>
@@ -49,20 +59,24 @@
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>getHelloWorld()</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>v</last-search>
+      <last-offset />
+      <last-pattern>v</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>s</entry>
+        <entry>v</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
