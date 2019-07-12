@@ -13,6 +13,12 @@
       <file name="/fragment.js" timestamp="1553727612709">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/src/projects/sick-fits/frontend/__tests__/SingleItem.test.js" timestamp="1562973016034">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="51" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+      </file>
       <file name="$USER_HOME$/src/static/static-dashboard/src/apps/milton/components/BuildButton/index.js" timestamp="1558648491968">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="54" />
@@ -246,7 +252,7 @@
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1559073607119">
+      <file name="/GraphQL.result.json" timestamp="1562972600504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/src/projects/visual-schedule-clock-rn-app/app/components/ClockFace.js" timestamp="1548195873208">
@@ -441,11 +447,11 @@
       <jump line="41" column="48" filename="$USER_HOME$/src/static/static-dashboard/src/apps/milton/state/reducers/deployReducer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>build</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3QodHJ1ZSkudG9CZSh0cnVlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -454,31 +460,31 @@
         <text encoding="base64">ICAgIG1lbWJlcklkOiBfLmdldChzdGF0ZSwgJ3Byb2ZpbGUuZGF0YS5tZW1iZXJfaWQnLCAnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodHJ1ZSkudG9CZSh0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0QnVpbGRCb29ra2VlcGVyQmFzZVVybCA9IChnZXRTdGF0ZSkgPT4gXy5nZXQoZ2V0U3RhdGUoKSwgJ2NvbmZpZ3VyYXRpb24uc2VydmljZXMuYm9va2tlZXBpbmdBcGlCYXNlVXJsJywgJycpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgZ2V0QnVpbGRCb29ra2VlcGVyQmFzZVVybCA9IChnZXRTdGF0ZSkgPT4gXy5nZXQoZ2V0U3RhdGUoKSwgJ2NvbmZpZ3VyYXRpb24uc2VydmljZXMuYm9va2tlZXBpbmdBcGlCYXNlVXJsJywgJycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCgKICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCgKICAgICAgICApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hXaXRoQXV0aCh7CiAgICAgICAgICAgICAgICB1cmwsCiAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgICAgIHR5cGVzOiB7CiAgICAgICAgICAgICAgICAgICAgcGVuZGluZzogREVQTE9ZX0JVSUxEX1BFTkRJTkcsCiAgICAgICAgICAgICAgICAgICAgcmVqZWN0ZWQ6IERFUExPWV9CVUlMRF9FUlJPUiwKICAgICAgICAgICAgICAgICAgICByZXNvbHZlZDogREVQTE9ZX0JVSUxEX1NVQ0NFU1MKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hXaXRoQXV0aCh7CiAgICAgICAgICAgICAgICB1cmwsCiAgICAgICAgICAgICAgICBtZXRob2Q6ICdwb3N0JywKICAgICAgICAgICAgICAgIHR5cGVzOiB7CiAgICAgICAgICAgICAgICAgICAgcGVuZGluZzogREVQTE9ZX0JVSUxEX1BFTkRJTkcsCiAgICAgICAgICAgICAgICAgICAgcmVqZWN0ZWQ6IERFUExPWV9CVUlMRF9FUlJPUiwKICAgICAgICAgICAgICAgICAgICByZXNvbHZlZDogREVQTE9ZX0JVSUxEX1NVQ0NFU1MKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
