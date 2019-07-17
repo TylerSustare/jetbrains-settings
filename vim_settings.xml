@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" timestamp="1563319461408">
+      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" timestamp="1563397560300">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="40" />
-        <mark key="." line="9" column="40" />
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/test/widget_test.dart" timestamp="1562908174358">
         <mark key="[" line="0" column="0" />
@@ -22,40 +23,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
+        <text encoding="base64">ICAgICAgYm9keTogVGV4dChkYXRhKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>getHelloWorld()</text>
+        <text>Text('Ya')</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
+        <text encoding="base64">ICAgICAgYm9keTogVGV4dChkYXRhKSwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENlbnRlcigKICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGQ6IFRleHQoJ0hlbGxvIFdvcmxkJyksCg==</text>
+        <text encoding="base64">ICAgIENlbnRlcigKICAgICksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hpbGQ6IFRleHQoJ0hlbGxvIFdvcmxkJyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U3RyaW5nIGdldEhlbGxvV29ybGQoKXsKICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
+        <text encoding="base64">U3RyaW5nIGdldEhlbGxvV29ybGQoKXsKICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
