@@ -3,15 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GraphQL.result.json" timestamp="1563396661162">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/src/services/service-payment-provider/node/routes/receipt.js" timestamp="1563397073377" />
-      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" timestamp="1562909727320">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" timestamp="1563319461408">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
       </file>
       <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/test/widget_test.dart" timestamp="1562908174358">
         <mark key="[" line="0" column="0" />
@@ -20,55 +16,66 @@
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="8" column="0" filename="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" />
+      <jump line="2" column="0" filename="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="-" type="4">
         <text>getHelloWorld()</text>
       </register>
+      <register name="/" type="4">
+        <text>v</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U3RyaW5nIGdldEhlbGxvV29ybGQoKXsKICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
+        <text encoding="base64">ICAgIENlbnRlcigKICAgICksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
+        <text encoding="base64">ICAgICAgY2hpbGQ6IFRleHQoJ0hlbGxvIFdvcmxkJyksCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZ2VzdHVyZXMuIFlvdSBjYW4gYWxzbyB1c2UgV2lkZ2V0VGVzdGVyIHRvIGZpbmQgY2hpbGQgd2lkZ2V0cyBpbiB0aGUgd2lkZ2V0Ci8vIHRyZWUsIHJlYWQgdGV4dCwgYW5kIHZlcmlmeSB0aGF0IHRoZSB2YWx1ZXMgb2Ygd2lkZ2V0IHByb3BlcnRpZXMgYXJlIGNvcnJlY3QuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVG8gcGVyZm9ybSBhbiBpbnRlcmFjdGlvbiB3aXRoIGEgd2lkZ2V0IGluIHlvdXIgdGVzdCwgdXNlIHRoZSBXaWRnZXRUZXN0ZXIKLy8gdXRpbGl0eSB0aGF0IEZsdXR0ZXIgcHJvdmlkZXMuIEZvciBleGFtcGxlLCB5b3UgY2FuIHNlbmQgdGFwIGFuZCBzY3JvbGwK</text>
+        <text encoding="base64">U3RyaW5nIGdldEhlbGxvV29ybGQoKXsKICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyBhIGJhc2ljIEZsdXR0ZXIgd2lkZ2V0IHRlc3QuCi8vCg==</text>
+        <text encoding="base64">ICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
-      </register>
-      <register name="-" type="4">
-        <text>getHelloWorld()</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>v</last-search>
+      <last-offset />
+      <last-pattern>v</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>s</entry>
+        <entry>v</entry>
+      </history-search>
       <history-cmd>
-        <entry>vs</entry>
         <entry>w</entry>
-        <entry>q</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
