@@ -1,86 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" timestamp="1563397560300">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/src/projects/hello-flutter/i_am_rich/test/widget_test.dart" timestamp="1562908174358">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" />
-      <jump line="2" column="0" filename="$USER_HOME$/src/projects/hello-flutter/i_am_rich/lib/main.dart" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogVGV4dChkYXRhKSwK</text>
-      </register>
-      <register name="-" type="4">
-        <text>Text('Ya')</text>
-      </register>
-      <register name="/" type="4">
-        <text>v</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogVGV4dChkYXRhKSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9keTogVGV4dCgnSGVsbG8nKSwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIENlbnRlcigKICAgICksCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGQ6IFRleHQoJ0hlbGxvIFdvcmxkJyksCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">U3RyaW5nIGdldEhlbGxvV29ybGQoKXsKICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gJ0hlbGxvIFdvcmxkJzsK</text>
-      </register>
-      <register name=":" type="4">
-        <text>noh</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>v</last-search>
-      <last-offset />
-      <last-pattern>v</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>s</entry>
-        <entry>v</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-        <entry>noh</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts />
+    <state version="5" enabled="true" />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
