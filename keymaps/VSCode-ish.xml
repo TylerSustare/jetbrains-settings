@@ -206,6 +206,9 @@
     <keyboard-shortcut first-keystroke="f5" />
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
